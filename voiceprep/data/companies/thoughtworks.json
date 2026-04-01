@@ -1,0 +1,330 @@
+{
+  "profile": {
+    "name": "ThoughtWorks",
+    "slug": "thoughtworks",
+    "total_problems": 8,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.38,
+      "medium": 0.25,
+      "hard": 0.38
+    },
+    "top_topics": [
+      {
+        "topic": "String",
+        "count": 4
+      },
+      {
+        "topic": "Array",
+        "count": 3
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 3
+      },
+      {
+        "topic": "Bit Manipulation",
+        "count": 2
+      },
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "Binary Search",
+        "count": 1
+      },
+      {
+        "topic": "Number Theory",
+        "count": 1
+      },
+      {
+        "topic": "Bitmask",
+        "count": 1
+      },
+      {
+        "topic": "Rolling Hash",
+        "count": 1
+      },
+      {
+        "topic": "String Matching",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Number of Bit Changes to Make Two Integers Equal",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "number-of-bit-changes-to-make-two-integers-equal"
+      },
+      {
+        "title": "Maximum GCD-Sum of a Subarray",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "maximum-gcd-sum-of-a-subarray"
+      },
+      {
+        "title": "Maximize the Number of Partitions After Operations",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "maximize-the-number-of-partitions-after-operations"
+      },
+      {
+        "title": "Number of Subarrays That Match a Pattern II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "number-of-subarrays-that-match-a-pattern-ii"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 73.0,
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 63.9,
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 63.9,
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 63.9,
+        "slug": "longest-palindromic-substring"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Maximize the Number of Partitions After Operations",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 27.5,
+        "link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Bitmask"
+        ],
+        "slug": "maximize-the-number-of-partitions-after-operations"
+      },
+      {
+        "title": "Maximum GCD-Sum of a Subarray",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray",
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Search",
+          "Number Theory"
+        ],
+        "slug": "maximum-gcd-sum-of-a-subarray"
+      },
+      {
+        "title": "Number of Subarrays That Match a Pattern II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 32.2,
+        "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+        "topics": [
+          "Array",
+          "Rolling Hash",
+          "String Matching",
+          "Hash Function"
+        ],
+        "slug": "number-of-subarrays-that-match-a-pattern-ii"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 73.4,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 64.4,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 64.4,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 64.4,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Number of Bit Changes to Make Two Integers Equal",
+        "difficulty": "EASY",
+        "frequency": 64.4,
+        "acceptance_rate": 62.6,
+        "link": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal",
+        "topics": [
+          "Bit Manipulation"
+        ],
+        "slug": "number-of-bit-changes-to-make-two-integers-equal"
+      }
+    ],
+    "all": [
+      {
+        "title": "Number of Bit Changes to Make Two Integers Equal",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 62.6,
+        "link": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal",
+        "topics": [
+          "Bit Manipulation"
+        ],
+        "slug": "number-of-bit-changes-to-make-two-integers-equal"
+      },
+      {
+        "title": "Maximum GCD-Sum of a Subarray",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray",
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Search",
+          "Number Theory"
+        ],
+        "slug": "maximum-gcd-sum-of-a-subarray"
+      },
+      {
+        "title": "Maximize the Number of Partitions After Operations",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 27.5,
+        "link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Bitmask"
+        ],
+        "slug": "maximize-the-number-of-partitions-after-operations"
+      },
+      {
+        "title": "Number of Subarrays That Match a Pattern II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 32.2,
+        "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+        "topics": [
+          "Array",
+          "Rolling Hash",
+          "String Matching",
+          "Hash Function"
+        ],
+        "slug": "number-of-subarrays-that-match-a-pattern-ii"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 73.0,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 63.9,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 63.9,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 63.9,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      }
+    ]
+  }
+}

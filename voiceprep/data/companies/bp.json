@@ -1,0 +1,202 @@
+{
+  "profile": {
+    "name": "BP",
+    "slug": "bp",
+    "total_problems": 4,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 1.0,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 2
+      },
+      {
+        "topic": "Hash Table",
+        "count": 2
+      },
+      {
+        "topic": "String",
+        "count": 2
+      },
+      {
+        "topic": "Sorting",
+        "count": 2
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 1
+      },
+      {
+        "topic": "Linked List",
+        "count": 1
+      },
+      {
+        "topic": "Design",
+        "count": 1
+      },
+      {
+        "topic": "Doubly-Linked List",
+        "count": 1
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "group-anagrams"
+      },
+      {
+        "title": "Longest Common Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 92.9,
+        "slug": "longest-common-subsequence"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 82.8,
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Diagonal Traverse II",
+        "difficulty": "MEDIUM",
+        "frequency": 82.8,
+        "slug": "diagonal-traverse-ii"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 70.9,
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "group-anagrams"
+      },
+      {
+        "title": "Longest Common Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 93.0,
+        "acceptance_rate": 58.3,
+        "link": "https://leetcode.com/problems/longest-common-subsequence",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-common-subsequence"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 83.2,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Diagonal Traverse II",
+        "difficulty": "MEDIUM",
+        "frequency": 83.2,
+        "acceptance_rate": 58.0,
+        "link": "https://leetcode.com/problems/diagonal-traverse-ii",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "diagonal-traverse-ii"
+      }
+    ],
+    "all": [
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 70.9,
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "group-anagrams"
+      },
+      {
+        "title": "Longest Common Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 92.9,
+        "acceptance_rate": 58.3,
+        "link": "https://leetcode.com/problems/longest-common-subsequence",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-common-subsequence"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 82.8,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Diagonal Traverse II",
+        "difficulty": "MEDIUM",
+        "frequency": 82.8,
+        "acceptance_rate": 58.0,
+        "link": "https://leetcode.com/problems/diagonal-traverse-ii",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "diagonal-traverse-ii"
+      }
+    ]
+  }
+}

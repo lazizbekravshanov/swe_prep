@@ -1,0 +1,320 @@
+{
+  "profile": {
+    "name": "Dunzo",
+    "slug": "dunzo",
+    "total_problems": 8,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.12,
+      "medium": 0.38,
+      "hard": 0.5
+    },
+    "top_topics": [
+      {
+        "topic": "Dynamic Programming",
+        "count": 5
+      },
+      {
+        "topic": "Array",
+        "count": 4
+      },
+      {
+        "topic": "String",
+        "count": 3
+      },
+      {
+        "topic": "Prefix Sum",
+        "count": 2
+      },
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "Game Theory",
+        "count": 1
+      },
+      {
+        "topic": "Trie",
+        "count": 1
+      },
+      {
+        "topic": "Rolling Hash",
+        "count": 1
+      },
+      {
+        "topic": "Suffix Array",
+        "count": 1
+      },
+      {
+        "topic": "Hash Function",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Stone Game VII",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "stone-game-vii"
+      },
+      {
+        "title": "Build Array Where You Can Find The Maximum Exactly K Comparisons",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "build-array-where-you-can-find-the-maximum-exactly-k-comparisons"
+      },
+      {
+        "title": "Number of Distinct Substrings in a String",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "number-of-distinct-substrings-in-a-string"
+      },
+      {
+        "title": "Number of Ways to Form a Target String Given a Dictionary",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "number-of-ways-to-form-a-target-string-given-a-dictionary"
+      },
+      {
+        "title": "Find All Good Strings",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "find-all-good-strings"
+      },
+      {
+        "title": "Ways to Make a Fair Array",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "ways-to-make-a-fair-array"
+      },
+      {
+        "title": "Arithmetic Slices II - Subsequence",
+        "difficulty": "HARD",
+        "frequency": 63.4,
+        "slug": "arithmetic-slices-ii-subsequence"
+      },
+      {
+        "title": "Count Complete Tree Nodes",
+        "difficulty": "EASY",
+        "frequency": 63.4,
+        "slug": "count-complete-tree-nodes"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Arithmetic Slices II - Subsequence",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 54.5,
+        "link": "https://leetcode.com/problems/arithmetic-slices-ii-subsequence",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "arithmetic-slices-ii-subsequence"
+      },
+      {
+        "title": "Find All Good Strings",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 43.7,
+        "link": "https://leetcode.com/problems/find-all-good-strings",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "String Matching"
+        ],
+        "slug": "find-all-good-strings"
+      },
+      {
+        "title": "Number of Distinct Substrings in a String",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 64.5,
+        "link": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string",
+        "topics": [
+          "String",
+          "Trie",
+          "Rolling Hash",
+          "Suffix Array",
+          "Hash Function"
+        ],
+        "slug": "number-of-distinct-substrings-in-a-string"
+      },
+      {
+        "title": "Number of Ways to Form a Target String Given a Dictionary",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 57.1,
+        "link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary",
+        "topics": [
+          "Array",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "number-of-ways-to-form-a-target-string-given-a-dictionary"
+      },
+      {
+        "title": "Stone Game VII",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 58.3,
+        "link": "https://leetcode.com/problems/stone-game-vii",
+        "topics": [
+          "Array",
+          "Math",
+          "Dynamic Programming",
+          "Game Theory"
+        ],
+        "slug": "stone-game-vii"
+      },
+      {
+        "title": "Ways to Make a Fair Array",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 64.5,
+        "link": "https://leetcode.com/problems/ways-to-make-a-fair-array",
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "slug": "ways-to-make-a-fair-array"
+      },
+      {
+        "title": "Build Array Where You Can Find The Maximum Exactly K Comparisons",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 66.8,
+        "link": "https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons",
+        "topics": [
+          "Dynamic Programming",
+          "Prefix Sum"
+        ],
+        "slug": "build-array-where-you-can-find-the-maximum-exactly-k-comparisons"
+      }
+    ],
+    "all": [
+      {
+        "title": "Stone Game VII",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 58.3,
+        "link": "https://leetcode.com/problems/stone-game-vii",
+        "topics": [
+          "Array",
+          "Math",
+          "Dynamic Programming",
+          "Game Theory"
+        ],
+        "slug": "stone-game-vii"
+      },
+      {
+        "title": "Build Array Where You Can Find The Maximum Exactly K Comparisons",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 66.8,
+        "link": "https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons",
+        "topics": [
+          "Dynamic Programming",
+          "Prefix Sum"
+        ],
+        "slug": "build-array-where-you-can-find-the-maximum-exactly-k-comparisons"
+      },
+      {
+        "title": "Number of Distinct Substrings in a String",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 64.5,
+        "link": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string",
+        "topics": [
+          "String",
+          "Trie",
+          "Rolling Hash",
+          "Suffix Array",
+          "Hash Function"
+        ],
+        "slug": "number-of-distinct-substrings-in-a-string"
+      },
+      {
+        "title": "Number of Ways to Form a Target String Given a Dictionary",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 57.1,
+        "link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary",
+        "topics": [
+          "Array",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "number-of-ways-to-form-a-target-string-given-a-dictionary"
+      },
+      {
+        "title": "Find All Good Strings",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 43.7,
+        "link": "https://leetcode.com/problems/find-all-good-strings",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "String Matching"
+        ],
+        "slug": "find-all-good-strings"
+      },
+      {
+        "title": "Ways to Make a Fair Array",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 64.5,
+        "link": "https://leetcode.com/problems/ways-to-make-a-fair-array",
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "slug": "ways-to-make-a-fair-array"
+      },
+      {
+        "title": "Arithmetic Slices II - Subsequence",
+        "difficulty": "HARD",
+        "frequency": 63.4,
+        "acceptance_rate": 54.5,
+        "link": "https://leetcode.com/problems/arithmetic-slices-ii-subsequence",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "arithmetic-slices-ii-subsequence"
+      },
+      {
+        "title": "Count Complete Tree Nodes",
+        "difficulty": "EASY",
+        "frequency": 63.4,
+        "acceptance_rate": 70.0,
+        "link": "https://leetcode.com/problems/count-complete-tree-nodes",
+        "topics": [
+          "Binary Search",
+          "Bit Manipulation",
+          "Tree",
+          "Binary Tree"
+        ],
+        "slug": "count-complete-tree-nodes"
+      }
+    ]
+  }
+}

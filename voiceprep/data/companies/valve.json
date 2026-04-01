@@ -1,0 +1,177 @@
+{
+  "profile": {
+    "name": "Valve",
+    "slug": "valve",
+    "total_problems": 4,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.25,
+      "medium": 0.75,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "String",
+        "count": 2
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      },
+      {
+        "topic": "Queue",
+        "count": 1
+      },
+      {
+        "topic": "Design",
+        "count": 1
+      },
+      {
+        "topic": "Simulation",
+        "count": 1
+      },
+      {
+        "topic": "Counting",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Dota2 Senate",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "dota2-senate"
+      },
+      {
+        "title": "String to Integer (atoi)",
+        "difficulty": "MEDIUM",
+        "frequency": 88.0,
+        "slug": "string-to-integer-atoi"
+      },
+      {
+        "title": "Deep Merge of Two Objects",
+        "difficulty": "MEDIUM",
+        "frequency": 66.2,
+        "slug": "deep-merge-of-two-objects"
+      },
+      {
+        "title": "Design Parking System",
+        "difficulty": "EASY",
+        "frequency": 66.2,
+        "slug": "design-parking-system"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa",
+        "system_design"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "String to Integer (atoi)",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 19.2,
+        "link": "https://leetcode.com/problems/string-to-integer-atoi",
+        "topics": [
+          "String"
+        ],
+        "slug": "string-to-integer-atoi"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Dota2 Senate",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 48.9,
+        "link": "https://leetcode.com/problems/dota2-senate",
+        "topics": [
+          "String",
+          "Greedy",
+          "Queue"
+        ],
+        "slug": "dota2-senate"
+      },
+      {
+        "title": "Deep Merge of Two Objects",
+        "difficulty": "MEDIUM",
+        "frequency": 90.3,
+        "acceptance_rate": 64.2,
+        "link": "https://leetcode.com/problems/deep-merge-of-two-objects",
+        "topics": [],
+        "slug": "deep-merge-of-two-objects"
+      },
+      {
+        "title": "Design Parking System",
+        "difficulty": "EASY",
+        "frequency": 90.3,
+        "acceptance_rate": 87.1,
+        "link": "https://leetcode.com/problems/design-parking-system",
+        "topics": [
+          "Design",
+          "Simulation",
+          "Counting"
+        ],
+        "slug": "design-parking-system"
+      }
+    ],
+    "all": [
+      {
+        "title": "Dota2 Senate",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 48.9,
+        "link": "https://leetcode.com/problems/dota2-senate",
+        "topics": [
+          "String",
+          "Greedy",
+          "Queue"
+        ],
+        "slug": "dota2-senate"
+      },
+      {
+        "title": "String to Integer (atoi)",
+        "difficulty": "MEDIUM",
+        "frequency": 88.0,
+        "acceptance_rate": 19.2,
+        "link": "https://leetcode.com/problems/string-to-integer-atoi",
+        "topics": [
+          "String"
+        ],
+        "slug": "string-to-integer-atoi"
+      },
+      {
+        "title": "Deep Merge of Two Objects",
+        "difficulty": "MEDIUM",
+        "frequency": 66.2,
+        "acceptance_rate": 64.2,
+        "link": "https://leetcode.com/problems/deep-merge-of-two-objects",
+        "topics": [],
+        "slug": "deep-merge-of-two-objects"
+      },
+      {
+        "title": "Design Parking System",
+        "difficulty": "EASY",
+        "frequency": 66.2,
+        "acceptance_rate": 87.1,
+        "link": "https://leetcode.com/problems/design-parking-system",
+        "topics": [
+          "Design",
+          "Simulation",
+          "Counting"
+        ],
+        "slug": "design-parking-system"
+      }
+    ]
+  }
+}

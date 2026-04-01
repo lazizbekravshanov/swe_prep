@@ -1,0 +1,172 @@
+{
+  "profile": {
+    "name": "Honeywell",
+    "slug": "honeywell",
+    "total_problems": 4,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.5,
+      "medium": 0.5,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 4
+      },
+      {
+        "topic": "Hash Table",
+        "count": 2
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      },
+      {
+        "topic": "Matrix",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Minimum Distance to the Target Element",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "minimum-distance-to-the-target-element"
+      },
+      {
+        "title": "Count Zero Request Servers",
+        "difficulty": "MEDIUM",
+        "frequency": 75.5,
+        "slug": "count-zero-request-servers"
+      },
+      {
+        "title": "Maximum Matrix Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 67.3,
+        "slug": "maximum-matrix-sum"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 67.3,
+        "slug": "two-sum"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Mix of easy-medium \u2014 focuses on clean code and communication",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Count Zero Request Servers",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 34.1,
+        "link": "https://leetcode.com/problems/count-zero-request-servers",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "slug": "count-zero-request-servers"
+      },
+      {
+        "title": "Minimum Distance to the Target Element",
+        "difficulty": "EASY",
+        "frequency": 89.6,
+        "acceptance_rate": 54.2,
+        "link": "https://leetcode.com/problems/minimum-distance-to-the-target-element",
+        "topics": [
+          "Array"
+        ],
+        "slug": "minimum-distance-to-the-target-element"
+      },
+      {
+        "title": "Maximum Matrix Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 89.6,
+        "acceptance_rate": 65.9,
+        "link": "https://leetcode.com/problems/maximum-matrix-sum",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Matrix"
+        ],
+        "slug": "maximum-matrix-sum"
+      }
+    ],
+    "all": [
+      {
+        "title": "Minimum Distance to the Target Element",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 54.2,
+        "link": "https://leetcode.com/problems/minimum-distance-to-the-target-element",
+        "topics": [
+          "Array"
+        ],
+        "slug": "minimum-distance-to-the-target-element"
+      },
+      {
+        "title": "Count Zero Request Servers",
+        "difficulty": "MEDIUM",
+        "frequency": 75.5,
+        "acceptance_rate": 34.1,
+        "link": "https://leetcode.com/problems/count-zero-request-servers",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "slug": "count-zero-request-servers"
+      },
+      {
+        "title": "Maximum Matrix Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 67.3,
+        "acceptance_rate": 65.9,
+        "link": "https://leetcode.com/problems/maximum-matrix-sum",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Matrix"
+        ],
+        "slug": "maximum-matrix-sum"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 67.3,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      }
+    ]
+  }
+}

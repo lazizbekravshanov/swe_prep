@@ -1,0 +1,452 @@
+{
+  "profile": {
+    "name": "Coursera",
+    "slug": "coursera",
+    "total_problems": 11,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.09,
+      "medium": 0.45,
+      "hard": 0.45
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 5
+      },
+      {
+        "topic": "String",
+        "count": 5
+      },
+      {
+        "topic": "Math",
+        "count": 4
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 3
+      },
+      {
+        "topic": "Sorting",
+        "count": 3
+      },
+      {
+        "topic": "Greedy",
+        "count": 2
+      },
+      {
+        "topic": "Counting",
+        "count": 2
+      },
+      {
+        "topic": "Recursion",
+        "count": 2
+      },
+      {
+        "topic": "Simulation",
+        "count": 1
+      },
+      {
+        "topic": "Memoization",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Text Justification",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "text-justification"
+      },
+      {
+        "title": "N-th Tribonacci Number",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "n-th-tribonacci-number"
+      },
+      {
+        "title": "Reaching Points",
+        "difficulty": "HARD",
+        "frequency": 97.8,
+        "slug": "reaching-points"
+      },
+      {
+        "title": "Number of Music Playlists",
+        "difficulty": "HARD",
+        "frequency": 97.8,
+        "slug": "number-of-music-playlists"
+      },
+      {
+        "title": "Highest Grade For Each Student",
+        "difficulty": "MEDIUM",
+        "frequency": 97.8,
+        "slug": "highest-grade-for-each-student"
+      },
+      {
+        "title": "Minimum Moves to Equal Array Elements",
+        "difficulty": "MEDIUM",
+        "frequency": 97.8,
+        "slug": "minimum-moves-to-equal-array-elements"
+      },
+      {
+        "title": "Minimum Increment to Make Array Unique",
+        "difficulty": "MEDIUM",
+        "frequency": 97.8,
+        "slug": "minimum-increment-to-make-array-unique"
+      },
+      {
+        "title": "Special Binary String",
+        "difficulty": "HARD",
+        "frequency": 97.8,
+        "slug": "special-binary-string"
+      },
+      {
+        "title": "Rank Teams by Votes",
+        "difficulty": "MEDIUM",
+        "frequency": 89.6,
+        "slug": "rank-teams-by-votes"
+      },
+      {
+        "title": "Search Suggestions System",
+        "difficulty": "MEDIUM",
+        "frequency": 70.0,
+        "slug": "search-suggestions-system"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [
+      {
+        "title": "Text Justification",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/text-justification",
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "slug": "text-justification"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Text Justification",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/text-justification",
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "slug": "text-justification"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Text Justification",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/text-justification",
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "slug": "text-justification"
+      },
+      {
+        "title": "Rank Teams by Votes",
+        "difficulty": "MEDIUM",
+        "frequency": 91.2,
+        "acceptance_rate": 59.4,
+        "link": "https://leetcode.com/problems/rank-teams-by-votes",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting",
+          "Counting"
+        ],
+        "slug": "rank-teams-by-votes"
+      },
+      {
+        "title": "Search Suggestions System",
+        "difficulty": "MEDIUM",
+        "frequency": 76.1,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/search-suggestions-system",
+        "topics": [
+          "Array",
+          "String",
+          "Binary Search",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "search-suggestions-system"
+      },
+      {
+        "title": "Wildcard Matching",
+        "difficulty": "HARD",
+        "frequency": 67.3,
+        "acceptance_rate": 29.9,
+        "link": "https://leetcode.com/problems/wildcard-matching",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Greedy",
+          "Recursion"
+        ],
+        "slug": "wildcard-matching"
+      },
+      {
+        "title": "Minimum Moves to Equal Array Elements",
+        "difficulty": "MEDIUM",
+        "frequency": 67.3,
+        "acceptance_rate": 57.7,
+        "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements",
+        "topics": [
+          "Array",
+          "Math"
+        ],
+        "slug": "minimum-moves-to-equal-array-elements"
+      },
+      {
+        "title": "Reaching Points",
+        "difficulty": "HARD",
+        "frequency": 67.3,
+        "acceptance_rate": 33.6,
+        "link": "https://leetcode.com/problems/reaching-points",
+        "topics": [
+          "Math"
+        ],
+        "slug": "reaching-points"
+      },
+      {
+        "title": "N-th Tribonacci Number",
+        "difficulty": "EASY",
+        "frequency": 67.3,
+        "acceptance_rate": 63.6,
+        "link": "https://leetcode.com/problems/n-th-tribonacci-number",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "slug": "n-th-tribonacci-number"
+      },
+      {
+        "title": "Minimum Increment to Make Array Unique",
+        "difficulty": "MEDIUM",
+        "frequency": 67.3,
+        "acceptance_rate": 60.3,
+        "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Counting"
+        ],
+        "slug": "minimum-increment-to-make-array-unique"
+      },
+      {
+        "title": "Special Binary String",
+        "difficulty": "HARD",
+        "frequency": 67.3,
+        "acceptance_rate": 63.5,
+        "link": "https://leetcode.com/problems/special-binary-string",
+        "topics": [
+          "String",
+          "Recursion"
+        ],
+        "slug": "special-binary-string"
+      },
+      {
+        "title": "Number of Music Playlists",
+        "difficulty": "HARD",
+        "frequency": 67.3,
+        "acceptance_rate": 60.0,
+        "link": "https://leetcode.com/problems/number-of-music-playlists",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Combinatorics"
+        ],
+        "slug": "number-of-music-playlists"
+      },
+      {
+        "title": "Highest Grade For Each Student",
+        "difficulty": "MEDIUM",
+        "frequency": 67.3,
+        "acceptance_rate": 71.1,
+        "link": "https://leetcode.com/problems/highest-grade-for-each-student",
+        "topics": [
+          "Database"
+        ],
+        "slug": "highest-grade-for-each-student"
+      }
+    ],
+    "all": [
+      {
+        "title": "Text Justification",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/text-justification",
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "slug": "text-justification"
+      },
+      {
+        "title": "N-th Tribonacci Number",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 63.6,
+        "link": "https://leetcode.com/problems/n-th-tribonacci-number",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "slug": "n-th-tribonacci-number"
+      },
+      {
+        "title": "Reaching Points",
+        "difficulty": "HARD",
+        "frequency": 97.8,
+        "acceptance_rate": 33.6,
+        "link": "https://leetcode.com/problems/reaching-points",
+        "topics": [
+          "Math"
+        ],
+        "slug": "reaching-points"
+      },
+      {
+        "title": "Number of Music Playlists",
+        "difficulty": "HARD",
+        "frequency": 97.8,
+        "acceptance_rate": 60.0,
+        "link": "https://leetcode.com/problems/number-of-music-playlists",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Combinatorics"
+        ],
+        "slug": "number-of-music-playlists"
+      },
+      {
+        "title": "Highest Grade For Each Student",
+        "difficulty": "MEDIUM",
+        "frequency": 97.8,
+        "acceptance_rate": 71.1,
+        "link": "https://leetcode.com/problems/highest-grade-for-each-student",
+        "topics": [
+          "Database"
+        ],
+        "slug": "highest-grade-for-each-student"
+      },
+      {
+        "title": "Minimum Moves to Equal Array Elements",
+        "difficulty": "MEDIUM",
+        "frequency": 97.8,
+        "acceptance_rate": 57.7,
+        "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements",
+        "topics": [
+          "Array",
+          "Math"
+        ],
+        "slug": "minimum-moves-to-equal-array-elements"
+      },
+      {
+        "title": "Minimum Increment to Make Array Unique",
+        "difficulty": "MEDIUM",
+        "frequency": 97.8,
+        "acceptance_rate": 60.3,
+        "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Counting"
+        ],
+        "slug": "minimum-increment-to-make-array-unique"
+      },
+      {
+        "title": "Special Binary String",
+        "difficulty": "HARD",
+        "frequency": 97.8,
+        "acceptance_rate": 63.5,
+        "link": "https://leetcode.com/problems/special-binary-string",
+        "topics": [
+          "String",
+          "Recursion"
+        ],
+        "slug": "special-binary-string"
+      },
+      {
+        "title": "Rank Teams by Votes",
+        "difficulty": "MEDIUM",
+        "frequency": 89.6,
+        "acceptance_rate": 59.4,
+        "link": "https://leetcode.com/problems/rank-teams-by-votes",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting",
+          "Counting"
+        ],
+        "slug": "rank-teams-by-votes"
+      },
+      {
+        "title": "Search Suggestions System",
+        "difficulty": "MEDIUM",
+        "frequency": 70.0,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/search-suggestions-system",
+        "topics": [
+          "Array",
+          "String",
+          "Binary Search",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "search-suggestions-system"
+      },
+      {
+        "title": "Wildcard Matching",
+        "difficulty": "HARD",
+        "frequency": 60.7,
+        "acceptance_rate": 29.9,
+        "link": "https://leetcode.com/problems/wildcard-matching",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Greedy",
+          "Recursion"
+        ],
+        "slug": "wildcard-matching"
+      }
+    ]
+  }
+}

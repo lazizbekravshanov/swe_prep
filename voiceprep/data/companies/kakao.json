@@ -1,0 +1,125 @@
+{
+  "profile": {
+    "name": "Kakao",
+    "slug": "kakao",
+    "total_problems": 2,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.5,
+      "hard": 0.5
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 2
+      },
+      {
+        "topic": "Backtracking",
+        "count": 1
+      },
+      {
+        "topic": "Bit Manipulation",
+        "count": 1
+      },
+      {
+        "topic": "Enumeration",
+        "count": 1
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 1
+      },
+      {
+        "topic": "Matrix",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Maximum Points in an Archery Competition",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "maximum-points-in-an-archery-competition"
+      },
+      {
+        "title": "Minimum Moves to Reach Target with Rotations",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "minimum-moves-to-reach-target-with-rotations"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Minimum Moves to Reach Target with Rotations",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 50.6,
+        "link": "https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations",
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "slug": "minimum-moves-to-reach-target-with-rotations"
+      },
+      {
+        "title": "Maximum Points in an Archery Competition",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 50.4,
+        "link": "https://leetcode.com/problems/maximum-points-in-an-archery-competition",
+        "topics": [
+          "Array",
+          "Backtracking",
+          "Bit Manipulation",
+          "Enumeration"
+        ],
+        "slug": "maximum-points-in-an-archery-competition"
+      }
+    ],
+    "all": [
+      {
+        "title": "Maximum Points in an Archery Competition",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 50.4,
+        "link": "https://leetcode.com/problems/maximum-points-in-an-archery-competition",
+        "topics": [
+          "Array",
+          "Backtracking",
+          "Bit Manipulation",
+          "Enumeration"
+        ],
+        "slug": "maximum-points-in-an-archery-competition"
+      },
+      {
+        "title": "Minimum Moves to Reach Target with Rotations",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 50.6,
+        "link": "https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations",
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "slug": "minimum-moves-to-reach-target-with-rotations"
+      }
+    ]
+  }
+}

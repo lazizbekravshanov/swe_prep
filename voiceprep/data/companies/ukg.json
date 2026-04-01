@@ -1,0 +1,512 @@
+{
+  "profile": {
+    "name": "UKG",
+    "slug": "ukg",
+    "total_problems": 11,
+    "recent_problems_30d": 1,
+    "difficulty_distribution": {
+      "easy": 0.27,
+      "medium": 0.55,
+      "hard": 0.18
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 6
+      },
+      {
+        "topic": "Math",
+        "count": 4
+      },
+      {
+        "topic": "String",
+        "count": 4
+      },
+      {
+        "topic": "Hash Table",
+        "count": 4
+      },
+      {
+        "topic": "Binary Indexed Tree",
+        "count": 2
+      },
+      {
+        "topic": "Segment Tree",
+        "count": 2
+      },
+      {
+        "topic": "Geometry",
+        "count": 2
+      },
+      {
+        "topic": "Sorting",
+        "count": 2
+      },
+      {
+        "topic": "Counting",
+        "count": 2
+      },
+      {
+        "topic": "Enumeration",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Recursion",
+        "count": 1
+      }
+    ],
+    "highest_frequency_problems": [
+      {
+        "title": "Maximum Area Rectangle With Point Constraints I",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "maximum-area-rectangle-with-point-constraints-i"
+      },
+      {
+        "title": "Maximum Area Rectangle With Point Constraints II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "maximum-area-rectangle-with-point-constraints-ii"
+      },
+      {
+        "title": "Special Binary String",
+        "difficulty": "HARD",
+        "frequency": 84.2,
+        "slug": "special-binary-string"
+      },
+      {
+        "title": "Minimum Length of Anagram Concatenation",
+        "difficulty": "MEDIUM",
+        "frequency": 79.1,
+        "slug": "minimum-length-of-anagram-concatenation"
+      },
+      {
+        "title": "Count the Number of Good Subsequences",
+        "difficulty": "MEDIUM",
+        "frequency": 79.1,
+        "slug": "count-the-number-of-good-subsequences"
+      },
+      {
+        "title": "Longest Consecutive Sequence",
+        "difficulty": "MEDIUM",
+        "frequency": 72.5,
+        "slug": "longest-consecutive-sequence"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 72.5,
+        "slug": "two-sum"
+      },
+      {
+        "title": "Valid Word",
+        "difficulty": "EASY",
+        "frequency": 72.5,
+        "slug": "valid-word"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 63.3,
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Angle Between Hands of a Clock",
+        "difficulty": "MEDIUM",
+        "frequency": 63.3,
+        "slug": "angle-between-hands-of-a-clock"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [
+      {
+        "title": "Special Binary String",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 63.5,
+        "link": "https://leetcode.com/problems/special-binary-string",
+        "topics": [
+          "String",
+          "Recursion"
+        ],
+        "slug": "special-binary-string"
+      }
+    ],
+    "90d": [
+      {
+        "title": "Make a Positive Array",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 38.1,
+        "link": "https://leetcode.com/problems/make-a-positive-array",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Prefix Sum"
+        ],
+        "slug": "make-a-positive-array"
+      },
+      {
+        "title": "Minimum Length of Anagram Concatenation",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 39.7,
+        "link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "minimum-length-of-anagram-concatenation"
+      },
+      {
+        "title": "Special Binary String",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 63.5,
+        "link": "https://leetcode.com/problems/special-binary-string",
+        "topics": [
+          "String",
+          "Recursion"
+        ],
+        "slug": "special-binary-string"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Count the Number of Good Subsequences",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 50.6,
+        "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String",
+          "Combinatorics",
+          "Counting"
+        ],
+        "slug": "count-the-number-of-good-subsequences"
+      },
+      {
+        "title": "Valid Word",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 38.7,
+        "link": "https://leetcode.com/problems/valid-word",
+        "topics": [
+          "String"
+        ],
+        "slug": "valid-word"
+      },
+      {
+        "title": "Make a Positive Array",
+        "difficulty": "MEDIUM",
+        "frequency": 89.2,
+        "acceptance_rate": 38.1,
+        "link": "https://leetcode.com/problems/make-a-positive-array",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Prefix Sum"
+        ],
+        "slug": "make-a-positive-array"
+      },
+      {
+        "title": "Minimum Length of Anagram Concatenation",
+        "difficulty": "MEDIUM",
+        "frequency": 89.2,
+        "acceptance_rate": 39.7,
+        "link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "minimum-length-of-anagram-concatenation"
+      },
+      {
+        "title": "Special Binary String",
+        "difficulty": "HARD",
+        "frequency": 89.2,
+        "acceptance_rate": 63.5,
+        "link": "https://leetcode.com/problems/special-binary-string",
+        "topics": [
+          "String",
+          "Recursion"
+        ],
+        "slug": "special-binary-string"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Maximum Area Rectangle With Point Constraints II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 20.6,
+        "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii",
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Geometry",
+          "Sorting"
+        ],
+        "slug": "maximum-area-rectangle-with-point-constraints-ii"
+      },
+      {
+        "title": "Maximum Area Rectangle With Point Constraints I",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 49.7,
+        "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i",
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Geometry",
+          "Sorting",
+          "Enumeration"
+        ],
+        "slug": "maximum-area-rectangle-with-point-constraints-i"
+      },
+      {
+        "title": "Longest Consecutive Sequence",
+        "difficulty": "MEDIUM",
+        "frequency": 73.6,
+        "acceptance_rate": 47.0,
+        "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union Find"
+        ],
+        "slug": "longest-consecutive-sequence"
+      },
+      {
+        "title": "Special Binary String",
+        "difficulty": "HARD",
+        "frequency": 73.6,
+        "acceptance_rate": 63.5,
+        "link": "https://leetcode.com/problems/special-binary-string",
+        "topics": [
+          "String",
+          "Recursion"
+        ],
+        "slug": "special-binary-string"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 73.6,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 64.8,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Angle Between Hands of a Clock",
+        "difficulty": "MEDIUM",
+        "frequency": 64.8,
+        "acceptance_rate": 64.2,
+        "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+        "topics": [
+          "Math"
+        ],
+        "slug": "angle-between-hands-of-a-clock"
+      },
+      {
+        "title": "Minimum Length of Anagram Concatenation",
+        "difficulty": "MEDIUM",
+        "frequency": 64.8,
+        "acceptance_rate": 39.7,
+        "link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "minimum-length-of-anagram-concatenation"
+      }
+    ],
+    "all": [
+      {
+        "title": "Maximum Area Rectangle With Point Constraints I",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 49.7,
+        "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i",
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Geometry",
+          "Sorting",
+          "Enumeration"
+        ],
+        "slug": "maximum-area-rectangle-with-point-constraints-i"
+      },
+      {
+        "title": "Maximum Area Rectangle With Point Constraints II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 20.6,
+        "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii",
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Geometry",
+          "Sorting"
+        ],
+        "slug": "maximum-area-rectangle-with-point-constraints-ii"
+      },
+      {
+        "title": "Special Binary String",
+        "difficulty": "HARD",
+        "frequency": 84.2,
+        "acceptance_rate": 63.5,
+        "link": "https://leetcode.com/problems/special-binary-string",
+        "topics": [
+          "String",
+          "Recursion"
+        ],
+        "slug": "special-binary-string"
+      },
+      {
+        "title": "Minimum Length of Anagram Concatenation",
+        "difficulty": "MEDIUM",
+        "frequency": 79.1,
+        "acceptance_rate": 39.7,
+        "link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "minimum-length-of-anagram-concatenation"
+      },
+      {
+        "title": "Count the Number of Good Subsequences",
+        "difficulty": "MEDIUM",
+        "frequency": 79.1,
+        "acceptance_rate": 50.6,
+        "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String",
+          "Combinatorics",
+          "Counting"
+        ],
+        "slug": "count-the-number-of-good-subsequences"
+      },
+      {
+        "title": "Longest Consecutive Sequence",
+        "difficulty": "MEDIUM",
+        "frequency": 72.5,
+        "acceptance_rate": 47.0,
+        "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union Find"
+        ],
+        "slug": "longest-consecutive-sequence"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 72.5,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Valid Word",
+        "difficulty": "EASY",
+        "frequency": 72.5,
+        "acceptance_rate": 38.7,
+        "link": "https://leetcode.com/problems/valid-word",
+        "topics": [
+          "String"
+        ],
+        "slug": "valid-word"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 63.3,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Angle Between Hands of a Clock",
+        "difficulty": "MEDIUM",
+        "frequency": 63.3,
+        "acceptance_rate": 64.2,
+        "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+        "topics": [
+          "Math"
+        ],
+        "slug": "angle-between-hands-of-a-clock"
+      },
+      {
+        "title": "Make a Positive Array",
+        "difficulty": "MEDIUM",
+        "frequency": 63.3,
+        "acceptance_rate": 38.1,
+        "link": "https://leetcode.com/problems/make-a-positive-array",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Prefix Sum"
+        ],
+        "slug": "make-a-positive-array"
+      }
+    ]
+  }
+}

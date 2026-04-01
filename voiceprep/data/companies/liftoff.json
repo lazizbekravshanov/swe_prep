@@ -1,0 +1,255 @@
+{
+  "profile": {
+    "name": "Liftoff",
+    "slug": "liftoff",
+    "total_problems": 4,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.75,
+      "hard": 0.25
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 3
+      },
+      {
+        "topic": "Matrix",
+        "count": 1
+      },
+      {
+        "topic": "Simulation",
+        "count": 1
+      },
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "Binary Search",
+        "count": 1
+      },
+      {
+        "topic": "Prefix Sum",
+        "count": 1
+      },
+      {
+        "topic": "Randomized",
+        "count": 1
+      },
+      {
+        "topic": "Backtracking",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Diagonal Traverse",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "diagonal-traverse"
+      },
+      {
+        "title": "Random Pick with Weight",
+        "difficulty": "MEDIUM",
+        "frequency": 89.7,
+        "slug": "random-pick-with-weight"
+      },
+      {
+        "title": "N-Queens II",
+        "difficulty": "HARD",
+        "frequency": 86.0,
+        "slug": "n-queens-ii"
+      },
+      {
+        "title": "Diagonal Traverse II",
+        "difficulty": "MEDIUM",
+        "frequency": 75.7,
+        "slug": "diagonal-traverse-ii"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [
+      {
+        "title": "N-Queens II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 76.7,
+        "link": "https://leetcode.com/problems/n-queens-ii",
+        "topics": [
+          "Backtracking"
+        ],
+        "slug": "n-queens-ii"
+      },
+      {
+        "title": "Diagonal Traverse",
+        "difficulty": "MEDIUM",
+        "frequency": 95.2,
+        "acceptance_rate": 63.2,
+        "link": "https://leetcode.com/problems/diagonal-traverse",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "slug": "diagonal-traverse"
+      },
+      {
+        "title": "Diagonal Traverse II",
+        "difficulty": "MEDIUM",
+        "frequency": 80.2,
+        "acceptance_rate": 58.0,
+        "link": "https://leetcode.com/problems/diagonal-traverse-ii",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "diagonal-traverse-ii"
+      }
+    ],
+    "180d": [
+      {
+        "title": "N-Queens II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 76.7,
+        "link": "https://leetcode.com/problems/n-queens-ii",
+        "topics": [
+          "Backtracking"
+        ],
+        "slug": "n-queens-ii"
+      },
+      {
+        "title": "Diagonal Traverse",
+        "difficulty": "MEDIUM",
+        "frequency": 95.2,
+        "acceptance_rate": 63.2,
+        "link": "https://leetcode.com/problems/diagonal-traverse",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "slug": "diagonal-traverse"
+      },
+      {
+        "title": "Diagonal Traverse II",
+        "difficulty": "MEDIUM",
+        "frequency": 80.2,
+        "acceptance_rate": 58.0,
+        "link": "https://leetcode.com/problems/diagonal-traverse-ii",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "diagonal-traverse-ii"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Diagonal Traverse",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 63.2,
+        "link": "https://leetcode.com/problems/diagonal-traverse",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "slug": "diagonal-traverse"
+      },
+      {
+        "title": "Random Pick with Weight",
+        "difficulty": "MEDIUM",
+        "frequency": 96.2,
+        "acceptance_rate": 48.3,
+        "link": "https://leetcode.com/problems/random-pick-with-weight",
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Search",
+          "Prefix Sum",
+          "Randomized"
+        ],
+        "slug": "random-pick-with-weight"
+      }
+    ],
+    "all": [
+      {
+        "title": "Diagonal Traverse",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 63.2,
+        "link": "https://leetcode.com/problems/diagonal-traverse",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "slug": "diagonal-traverse"
+      },
+      {
+        "title": "Random Pick with Weight",
+        "difficulty": "MEDIUM",
+        "frequency": 89.7,
+        "acceptance_rate": 48.3,
+        "link": "https://leetcode.com/problems/random-pick-with-weight",
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Search",
+          "Prefix Sum",
+          "Randomized"
+        ],
+        "slug": "random-pick-with-weight"
+      },
+      {
+        "title": "N-Queens II",
+        "difficulty": "HARD",
+        "frequency": 86.0,
+        "acceptance_rate": 76.7,
+        "link": "https://leetcode.com/problems/n-queens-ii",
+        "topics": [
+          "Backtracking"
+        ],
+        "slug": "n-queens-ii"
+      },
+      {
+        "title": "Diagonal Traverse II",
+        "difficulty": "MEDIUM",
+        "frequency": 75.7,
+        "acceptance_rate": 58.0,
+        "link": "https://leetcode.com/problems/diagonal-traverse-ii",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "diagonal-traverse-ii"
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "profile": {
+    "name": "Optum",
+    "slug": "optum",
+    "total_problems": 6,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.17,
+      "medium": 0.83,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "String",
+        "count": 3
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 2
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 2
+      },
+      {
+        "topic": "Array",
+        "count": 2
+      },
+      {
+        "topic": "Stack",
+        "count": 1
+      },
+      {
+        "topic": "Database",
+        "count": 1
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      },
+      {
+        "topic": "Divide and Conquer",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Reverse Prefix of Word",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "reverse-prefix-of-word"
+      },
+      {
+        "title": "Bank Account Summary",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "bank-account-summary"
+      },
+      {
+        "title": "Longest Common Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 73.3,
+        "slug": "longest-common-subsequence"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 64.3,
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Sort Colors",
+        "difficulty": "MEDIUM",
+        "frequency": 64.3,
+        "slug": "sort-colors"
+      },
+      {
+        "title": "Maximum Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 64.3,
+        "slug": "maximum-subarray"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Reverse Prefix of Word",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 86.4,
+        "link": "https://leetcode.com/problems/reverse-prefix-of-word",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Stack"
+        ],
+        "slug": "reverse-prefix-of-word"
+      },
+      {
+        "title": "Bank Account Summary",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 52.0,
+        "link": "https://leetcode.com/problems/bank-account-summary",
+        "topics": [
+          "Database"
+        ],
+        "slug": "bank-account-summary"
+      },
+      {
+        "title": "Longest Common Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 58.2,
+        "link": "https://leetcode.com/problems/longest-common-subsequence",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-common-subsequence"
+      }
+    ],
+    "all": [
+      {
+        "title": "Reverse Prefix of Word",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 86.4,
+        "link": "https://leetcode.com/problems/reverse-prefix-of-word",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Stack"
+        ],
+        "slug": "reverse-prefix-of-word"
+      },
+      {
+        "title": "Bank Account Summary",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 52.0,
+        "link": "https://leetcode.com/problems/bank-account-summary",
+        "topics": [
+          "Database"
+        ],
+        "slug": "bank-account-summary"
+      },
+      {
+        "title": "Longest Common Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 73.3,
+        "acceptance_rate": 58.2,
+        "link": "https://leetcode.com/problems/longest-common-subsequence",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-common-subsequence"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 64.3,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Sort Colors",
+        "difficulty": "MEDIUM",
+        "frequency": 64.3,
+        "acceptance_rate": 67.6,
+        "link": "https://leetcode.com/problems/sort-colors",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "sort-colors"
+      },
+      {
+        "title": "Maximum Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 64.3,
+        "acceptance_rate": 52.1,
+        "link": "https://leetcode.com/problems/maximum-subarray",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "slug": "maximum-subarray"
+      }
+    ]
+  }
+}

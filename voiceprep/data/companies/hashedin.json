@@ -1,0 +1,674 @@
+{
+  "profile": {
+    "name": "HashedIn",
+    "slug": "hashedin",
+    "total_problems": 23,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.13,
+      "medium": 0.65,
+      "hard": 0.22
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 18
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 9
+      },
+      {
+        "topic": "String",
+        "count": 5
+      },
+      {
+        "topic": "Greedy",
+        "count": 5
+      },
+      {
+        "topic": "Binary Search",
+        "count": 4
+      },
+      {
+        "topic": "Sorting",
+        "count": 4
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 4
+      },
+      {
+        "topic": "Hash Table",
+        "count": 3
+      },
+      {
+        "topic": "Math",
+        "count": 3
+      },
+      {
+        "topic": "Database",
+        "count": 2
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Find Candidates for Data Scientist Position",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "find-candidates-for-data-scientist-position"
+      },
+      {
+        "title": "Maximize Items",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "maximize-items"
+      },
+      {
+        "title": "Maximum Points Inside the Square",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "maximum-points-inside-the-square"
+      },
+      {
+        "title": "Count the Number of Powerful Integers",
+        "difficulty": "HARD",
+        "frequency": 83.0,
+        "slug": "count-the-number-of-powerful-integers"
+      },
+      {
+        "title": "Minimize Length of Array Using Operations",
+        "difficulty": "MEDIUM",
+        "frequency": 83.0,
+        "slug": "minimize-length-of-array-using-operations"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 70.5,
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 70.5,
+        "slug": "trapping-rain-water"
+      },
+      {
+        "title": "Maximum Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 70.5,
+        "slug": "maximum-subarray"
+      },
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 60.6,
+        "slug": "3sum"
+      },
+      {
+        "title": "Minimum Time to Repair Cars",
+        "difficulty": "MEDIUM",
+        "frequency": 60.6,
+        "slug": "minimum-time-to-repair-cars"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [
+      {
+        "title": "Container With Most Water",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/container-with-most-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "slug": "container-with-most-water"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Minimum Cost to Make Array Equal",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 46.3,
+        "link": "https://leetcode.com/problems/minimum-cost-to-make-array-equal",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy",
+          "Sorting",
+          "Prefix Sum"
+        ],
+        "slug": "minimum-cost-to-make-array-equal"
+      },
+      {
+        "title": "Next Permutation",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 43.1,
+        "link": "https://leetcode.com/problems/next-permutation",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "next-permutation"
+      },
+      {
+        "title": "Chalkboard XOR Game",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 63.0,
+        "link": "https://leetcode.com/problems/chalkboard-xor-game",
+        "topics": [
+          "Array",
+          "Math",
+          "Bit Manipulation",
+          "Brainteaser",
+          "Game Theory"
+        ],
+        "slug": "chalkboard-xor-game"
+      },
+      {
+        "title": "Jump Game II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 41.5,
+        "link": "https://leetcode.com/problems/jump-game-ii",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "slug": "jump-game-ii"
+      },
+      {
+        "title": "Edit Distance",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 58.8,
+        "link": "https://leetcode.com/problems/edit-distance",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "edit-distance"
+      },
+      {
+        "title": "Container With Most Water",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/container-with-most-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "slug": "container-with-most-water"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Find Candidates for Data Scientist Position",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 76.1,
+        "link": "https://leetcode.com/problems/find-candidates-for-data-scientist-position",
+        "topics": [
+          "Database"
+        ],
+        "slug": "find-candidates-for-data-scientist-position"
+      },
+      {
+        "title": "Maximize Items",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 75.2,
+        "link": "https://leetcode.com/problems/maximize-items",
+        "topics": [
+          "Database"
+        ],
+        "slug": "maximize-items"
+      },
+      {
+        "title": "Count the Number of Powerful Integers",
+        "difficulty": "HARD",
+        "frequency": 83.9,
+        "acceptance_rate": 46.5,
+        "link": "https://leetcode.com/problems/count-the-number-of-powerful-integers",
+        "topics": [
+          "Math",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "count-the-number-of-powerful-integers"
+      },
+      {
+        "title": "Minimize Length of Array Using Operations",
+        "difficulty": "MEDIUM",
+        "frequency": 83.9,
+        "acceptance_rate": 34.9,
+        "link": "https://leetcode.com/problems/minimize-length-of-array-using-operations",
+        "topics": [
+          "Array",
+          "Math",
+          "Greedy",
+          "Number Theory"
+        ],
+        "slug": "minimize-length-of-array-using-operations"
+      },
+      {
+        "title": "Maximum Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 72.1,
+        "acceptance_rate": 52.1,
+        "link": "https://leetcode.com/problems/maximum-subarray",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "slug": "maximum-subarray"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 62.7,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 62.7,
+        "acceptance_rate": 37.1,
+        "link": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "3sum"
+      },
+      {
+        "title": "Maximum Points Inside the Square",
+        "difficulty": "MEDIUM",
+        "frequency": 62.7,
+        "acceptance_rate": 38.2,
+        "link": "https://leetcode.com/problems/maximum-points-inside-the-square",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Sorting"
+        ],
+        "slug": "maximum-points-inside-the-square"
+      },
+      {
+        "title": "Maximum Product Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 62.7,
+        "acceptance_rate": 34.9,
+        "link": "https://leetcode.com/problems/maximum-product-subarray",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "maximum-product-subarray"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 62.7,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "trapping-rain-water"
+      },
+      {
+        "title": "Minimum Time to Repair Cars",
+        "difficulty": "MEDIUM",
+        "frequency": 62.7,
+        "acceptance_rate": 59.9,
+        "link": "https://leetcode.com/problems/minimum-time-to-repair-cars",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "minimum-time-to-repair-cars"
+      }
+    ],
+    "all": [
+      {
+        "title": "Find Candidates for Data Scientist Position",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 76.1,
+        "link": "https://leetcode.com/problems/find-candidates-for-data-scientist-position",
+        "topics": [
+          "Database"
+        ],
+        "slug": "find-candidates-for-data-scientist-position"
+      },
+      {
+        "title": "Maximize Items",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 75.2,
+        "link": "https://leetcode.com/problems/maximize-items",
+        "topics": [
+          "Database"
+        ],
+        "slug": "maximize-items"
+      },
+      {
+        "title": "Maximum Points Inside the Square",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 38.2,
+        "link": "https://leetcode.com/problems/maximum-points-inside-the-square",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Sorting"
+        ],
+        "slug": "maximum-points-inside-the-square"
+      },
+      {
+        "title": "Count the Number of Powerful Integers",
+        "difficulty": "HARD",
+        "frequency": 83.0,
+        "acceptance_rate": 46.5,
+        "link": "https://leetcode.com/problems/count-the-number-of-powerful-integers",
+        "topics": [
+          "Math",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "count-the-number-of-powerful-integers"
+      },
+      {
+        "title": "Minimize Length of Array Using Operations",
+        "difficulty": "MEDIUM",
+        "frequency": 83.0,
+        "acceptance_rate": 34.9,
+        "link": "https://leetcode.com/problems/minimize-length-of-array-using-operations",
+        "topics": [
+          "Array",
+          "Math",
+          "Greedy",
+          "Number Theory"
+        ],
+        "slug": "minimize-length-of-array-using-operations"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 70.5,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 70.5,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "trapping-rain-water"
+      },
+      {
+        "title": "Maximum Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 70.5,
+        "acceptance_rate": 52.1,
+        "link": "https://leetcode.com/problems/maximum-subarray",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "slug": "maximum-subarray"
+      },
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 60.6,
+        "acceptance_rate": 37.1,
+        "link": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "3sum"
+      },
+      {
+        "title": "Minimum Time to Repair Cars",
+        "difficulty": "MEDIUM",
+        "frequency": 60.6,
+        "acceptance_rate": 59.9,
+        "link": "https://leetcode.com/problems/minimum-time-to-repair-cars",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "minimum-time-to-repair-cars"
+      },
+      {
+        "title": "Container With Most Water",
+        "difficulty": "MEDIUM",
+        "frequency": 60.6,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/container-with-most-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "slug": "container-with-most-water"
+      },
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 60.6,
+        "acceptance_rate": 70.9,
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "group-anagrams"
+      },
+      {
+        "title": "Isomorphic Strings",
+        "difficulty": "EASY",
+        "frequency": 60.6,
+        "acceptance_rate": 46.9,
+        "link": "https://leetcode.com/problems/isomorphic-strings",
+        "topics": [
+          "Hash Table",
+          "String"
+        ],
+        "slug": "isomorphic-strings"
+      },
+      {
+        "title": "Edit Distance",
+        "difficulty": "MEDIUM",
+        "frequency": 60.6,
+        "acceptance_rate": 58.8,
+        "link": "https://leetcode.com/problems/edit-distance",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "edit-distance"
+      },
+      {
+        "title": "Maximum Product Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 60.6,
+        "acceptance_rate": 34.9,
+        "link": "https://leetcode.com/problems/maximum-product-subarray",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "maximum-product-subarray"
+      },
+      {
+        "title": "Chalkboard XOR Game",
+        "difficulty": "HARD",
+        "frequency": 60.6,
+        "acceptance_rate": 63.0,
+        "link": "https://leetcode.com/problems/chalkboard-xor-game",
+        "topics": [
+          "Array",
+          "Math",
+          "Bit Manipulation",
+          "Brainteaser",
+          "Game Theory"
+        ],
+        "slug": "chalkboard-xor-game"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 60.6,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Beautiful Arrangement",
+        "difficulty": "MEDIUM",
+        "frequency": 60.6,
+        "acceptance_rate": 64.5,
+        "link": "https://leetcode.com/problems/beautiful-arrangement",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ],
+        "slug": "beautiful-arrangement"
+      },
+      {
+        "title": "Jump Game",
+        "difficulty": "MEDIUM",
+        "frequency": 60.6,
+        "acceptance_rate": 39.5,
+        "link": "https://leetcode.com/problems/jump-game",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "slug": "jump-game"
+      },
+      {
+        "title": "Jump Game II",
+        "difficulty": "MEDIUM",
+        "frequency": 60.6,
+        "acceptance_rate": 41.5,
+        "link": "https://leetcode.com/problems/jump-game-ii",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "slug": "jump-game-ii"
+      },
+      {
+        "title": "Next Permutation",
+        "difficulty": "MEDIUM",
+        "frequency": 60.6,
+        "acceptance_rate": 43.1,
+        "link": "https://leetcode.com/problems/next-permutation",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "next-permutation"
+      },
+      {
+        "title": "Minimum Cost to Make Array Equal",
+        "difficulty": "HARD",
+        "frequency": 60.6,
+        "acceptance_rate": 46.3,
+        "link": "https://leetcode.com/problems/minimum-cost-to-make-array-equal",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy",
+          "Sorting",
+          "Prefix Sum"
+        ],
+        "slug": "minimum-cost-to-make-array-equal"
+      },
+      {
+        "title": "Koko Eating Bananas",
+        "difficulty": "MEDIUM",
+        "frequency": 60.6,
+        "acceptance_rate": 49.1,
+        "link": "https://leetcode.com/problems/koko-eating-bananas",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "koko-eating-bananas"
+      }
+    ]
+  }
+}

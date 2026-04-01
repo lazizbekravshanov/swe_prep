@@ -1,0 +1,214 @@
+{
+  "profile": {
+    "name": "LTI",
+    "slug": "lti",
+    "total_problems": 4,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.75,
+      "hard": 0.25
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 3
+      },
+      {
+        "topic": "Sorting",
+        "count": 3
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 2
+      },
+      {
+        "topic": "Binary Search",
+        "count": 1
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      },
+      {
+        "topic": "Prefix Sum",
+        "count": 1
+      },
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 1
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 1
+      },
+      {
+        "topic": "Bit Manipulation",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Maximum White Tiles Covered by a Carpet",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "maximum-white-tiles-covered-by-a-carpet"
+      },
+      {
+        "title": "Reverse Integer",
+        "difficulty": "MEDIUM",
+        "frequency": 88.8,
+        "slug": "reverse-integer"
+      },
+      {
+        "title": "Closest Subsequence Sum",
+        "difficulty": "HARD",
+        "frequency": 88.8,
+        "slug": "closest-subsequence-sum"
+      },
+      {
+        "title": "Count Zero Request Servers",
+        "difficulty": "MEDIUM",
+        "frequency": 88.8,
+        "slug": "count-zero-request-servers"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Maximum White Tiles Covered by a Carpet",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 35.0,
+        "link": "https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy",
+          "Sliding Window",
+          "Sorting",
+          "Prefix Sum"
+        ],
+        "slug": "maximum-white-tiles-covered-by-a-carpet"
+      },
+      {
+        "title": "Reverse Integer",
+        "difficulty": "MEDIUM",
+        "frequency": 89.0,
+        "acceptance_rate": 30.3,
+        "link": "https://leetcode.com/problems/reverse-integer",
+        "topics": [
+          "Math"
+        ],
+        "slug": "reverse-integer"
+      },
+      {
+        "title": "Closest Subsequence Sum",
+        "difficulty": "HARD",
+        "frequency": 89.0,
+        "acceptance_rate": 41.6,
+        "link": "https://leetcode.com/problems/closest-subsequence-sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Sorting",
+          "Bitmask"
+        ],
+        "slug": "closest-subsequence-sum"
+      },
+      {
+        "title": "Count Zero Request Servers",
+        "difficulty": "MEDIUM",
+        "frequency": 89.0,
+        "acceptance_rate": 34.1,
+        "link": "https://leetcode.com/problems/count-zero-request-servers",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "slug": "count-zero-request-servers"
+      }
+    ],
+    "all": [
+      {
+        "title": "Maximum White Tiles Covered by a Carpet",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 35.0,
+        "link": "https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy",
+          "Sliding Window",
+          "Sorting",
+          "Prefix Sum"
+        ],
+        "slug": "maximum-white-tiles-covered-by-a-carpet"
+      },
+      {
+        "title": "Reverse Integer",
+        "difficulty": "MEDIUM",
+        "frequency": 88.8,
+        "acceptance_rate": 30.3,
+        "link": "https://leetcode.com/problems/reverse-integer",
+        "topics": [
+          "Math"
+        ],
+        "slug": "reverse-integer"
+      },
+      {
+        "title": "Closest Subsequence Sum",
+        "difficulty": "HARD",
+        "frequency": 88.8,
+        "acceptance_rate": 41.6,
+        "link": "https://leetcode.com/problems/closest-subsequence-sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Sorting",
+          "Bitmask"
+        ],
+        "slug": "closest-subsequence-sum"
+      },
+      {
+        "title": "Count Zero Request Servers",
+        "difficulty": "MEDIUM",
+        "frequency": 88.8,
+        "acceptance_rate": 34.1,
+        "link": "https://leetcode.com/problems/count-zero-request-servers",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "slug": "count-zero-request-servers"
+      }
+    ]
+  }
+}

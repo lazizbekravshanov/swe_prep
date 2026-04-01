@@ -1,0 +1,312 @@
+{
+  "profile": {
+    "name": "SIG",
+    "slug": "sig",
+    "total_problems": 7,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.14,
+      "medium": 0.57,
+      "hard": 0.29
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 5
+      },
+      {
+        "topic": "Simulation",
+        "count": 3
+      },
+      {
+        "topic": "String",
+        "count": 2
+      },
+      {
+        "topic": "Tree",
+        "count": 1
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 1
+      },
+      {
+        "topic": "Binary Search Tree",
+        "count": 1
+      },
+      {
+        "topic": "Binary Tree",
+        "count": 1
+      },
+      {
+        "topic": "Divide and Conquer",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Validate Binary Search Tree",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "validate-binary-search-tree"
+      },
+      {
+        "title": "Text Justification",
+        "difficulty": "HARD",
+        "frequency": 92.2,
+        "slug": "text-justification"
+      },
+      {
+        "title": "Kth Largest Element in an Array",
+        "difficulty": "MEDIUM",
+        "frequency": 71.1,
+        "slug": "kth-largest-element-in-an-array"
+      },
+      {
+        "title": "Add Binary",
+        "difficulty": "EASY",
+        "frequency": 71.1,
+        "slug": "add-binary"
+      },
+      {
+        "title": "Spiral Matrix",
+        "difficulty": "MEDIUM",
+        "frequency": 71.1,
+        "slug": "spiral-matrix"
+      },
+      {
+        "title": "Block Placement Queries",
+        "difficulty": "HARD",
+        "frequency": 71.1,
+        "slug": "block-placement-queries"
+      },
+      {
+        "title": "Number of Black Blocks",
+        "difficulty": "MEDIUM",
+        "frequency": 71.1,
+        "slug": "number-of-black-blocks"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Tree traversal problems are frequently asked"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [
+      {
+        "title": "Number of Black Blocks",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 38.6,
+        "link": "https://leetcode.com/problems/number-of-black-blocks",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Enumeration"
+        ],
+        "slug": "number-of-black-blocks"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Block Placement Queries",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 16.9,
+        "link": "https://leetcode.com/problems/block-placement-queries",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Binary Indexed Tree",
+          "Segment Tree"
+        ],
+        "slug": "block-placement-queries"
+      },
+      {
+        "title": "Number of Black Blocks",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 38.6,
+        "link": "https://leetcode.com/problems/number-of-black-blocks",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Enumeration"
+        ],
+        "slug": "number-of-black-blocks"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Validate Binary Search Tree",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 34.4,
+        "link": "https://leetcode.com/problems/validate-binary-search-tree",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Search Tree",
+          "Binary Tree"
+        ],
+        "slug": "validate-binary-search-tree"
+      },
+      {
+        "title": "Text Justification",
+        "difficulty": "HARD",
+        "frequency": 92.5,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/text-justification",
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "slug": "text-justification"
+      },
+      {
+        "title": "Kth Largest Element in an Array",
+        "difficulty": "MEDIUM",
+        "frequency": 71.9,
+        "acceptance_rate": 68.0,
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect"
+        ],
+        "slug": "kth-largest-element-in-an-array"
+      },
+      {
+        "title": "Add Binary",
+        "difficulty": "EASY",
+        "frequency": 71.9,
+        "acceptance_rate": 55.7,
+        "link": "https://leetcode.com/problems/add-binary",
+        "topics": [
+          "Math",
+          "String",
+          "Bit Manipulation",
+          "Simulation"
+        ],
+        "slug": "add-binary"
+      }
+    ],
+    "all": [
+      {
+        "title": "Validate Binary Search Tree",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 34.4,
+        "link": "https://leetcode.com/problems/validate-binary-search-tree",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Search Tree",
+          "Binary Tree"
+        ],
+        "slug": "validate-binary-search-tree"
+      },
+      {
+        "title": "Text Justification",
+        "difficulty": "HARD",
+        "frequency": 92.2,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/text-justification",
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "slug": "text-justification"
+      },
+      {
+        "title": "Kth Largest Element in an Array",
+        "difficulty": "MEDIUM",
+        "frequency": 71.1,
+        "acceptance_rate": 68.0,
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect"
+        ],
+        "slug": "kth-largest-element-in-an-array"
+      },
+      {
+        "title": "Add Binary",
+        "difficulty": "EASY",
+        "frequency": 71.1,
+        "acceptance_rate": 55.7,
+        "link": "https://leetcode.com/problems/add-binary",
+        "topics": [
+          "Math",
+          "String",
+          "Bit Manipulation",
+          "Simulation"
+        ],
+        "slug": "add-binary"
+      },
+      {
+        "title": "Spiral Matrix",
+        "difficulty": "MEDIUM",
+        "frequency": 71.1,
+        "acceptance_rate": 53.9,
+        "link": "https://leetcode.com/problems/spiral-matrix",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "slug": "spiral-matrix"
+      },
+      {
+        "title": "Block Placement Queries",
+        "difficulty": "HARD",
+        "frequency": 71.1,
+        "acceptance_rate": 16.9,
+        "link": "https://leetcode.com/problems/block-placement-queries",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Binary Indexed Tree",
+          "Segment Tree"
+        ],
+        "slug": "block-placement-queries"
+      },
+      {
+        "title": "Number of Black Blocks",
+        "difficulty": "MEDIUM",
+        "frequency": 71.1,
+        "acceptance_rate": 38.6,
+        "link": "https://leetcode.com/problems/number-of-black-blocks",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Enumeration"
+        ],
+        "slug": "number-of-black-blocks"
+      }
+    ]
+  }
+}

@@ -1,0 +1,599 @@
+{
+  "profile": {
+    "name": "MongoDB",
+    "slug": "mongodb",
+    "total_problems": 14,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.14,
+      "medium": 0.64,
+      "hard": 0.21
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 8
+      },
+      {
+        "topic": "Hash Table",
+        "count": 5
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 3
+      },
+      {
+        "topic": "Binary Search",
+        "count": 3
+      },
+      {
+        "topic": "Design",
+        "count": 3
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "count": 3
+      },
+      {
+        "topic": "String",
+        "count": 2
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 2
+      },
+      {
+        "topic": "Tree",
+        "count": 2
+      },
+      {
+        "topic": "Binary Tree",
+        "count": 2
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Word Break",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "word-break"
+      },
+      {
+        "title": "Web Crawler Multithreaded",
+        "difficulty": "MEDIUM",
+        "frequency": 95.2,
+        "slug": "web-crawler-multithreaded"
+      },
+      {
+        "title": "Intersection of Two Arrays",
+        "difficulty": "EASY",
+        "frequency": 95.2,
+        "slug": "intersection-of-two-arrays"
+      },
+      {
+        "title": "Insert Interval",
+        "difficulty": "MEDIUM",
+        "frequency": 89.3,
+        "slug": "insert-interval"
+      },
+      {
+        "title": "Merge Two Binary Trees",
+        "difficulty": "EASY",
+        "frequency": 89.3,
+        "slug": "merge-two-binary-trees"
+      },
+      {
+        "title": "Stock Price Fluctuation",
+        "difficulty": "MEDIUM",
+        "frequency": 89.3,
+        "slug": "stock-price-fluctuation"
+      },
+      {
+        "title": "Text Justification",
+        "difficulty": "HARD",
+        "frequency": 89.3,
+        "slug": "text-justification"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 81.7,
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Merge k Sorted Lists",
+        "difficulty": "HARD",
+        "frequency": 81.7,
+        "slug": "merge-k-sorted-lists"
+      },
+      {
+        "title": "Valid Sudoku",
+        "difficulty": "MEDIUM",
+        "frequency": 71.1,
+        "slug": "valid-sudoku"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa",
+        "system_design"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [
+      {
+        "title": "Word Break",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 48.3,
+        "link": "https://leetcode.com/problems/word-break",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Trie",
+          "Memoization"
+        ],
+        "slug": "word-break"
+      },
+      {
+        "title": "Intersection of Two Arrays",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 76.5,
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
+        ],
+        "slug": "intersection-of-two-arrays"
+      },
+      {
+        "title": "Web Crawler Multithreaded",
+        "difficulty": "MEDIUM",
+        "frequency": 89.5,
+        "acceptance_rate": 50.1,
+        "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Concurrency"
+        ],
+        "slug": "web-crawler-multithreaded"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Word Break",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 48.3,
+        "link": "https://leetcode.com/problems/word-break",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Trie",
+          "Memoization"
+        ],
+        "slug": "word-break"
+      },
+      {
+        "title": "Intersection of Two Arrays",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 76.5,
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
+        ],
+        "slug": "intersection-of-two-arrays"
+      },
+      {
+        "title": "Stock Price Fluctuation",
+        "difficulty": "MEDIUM",
+        "frequency": 82.6,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/stock-price-fluctuation",
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Heap (Priority Queue)",
+          "Data Stream",
+          "Ordered Set"
+        ],
+        "slug": "stock-price-fluctuation"
+      },
+      {
+        "title": "Web Crawler Multithreaded",
+        "difficulty": "MEDIUM",
+        "frequency": 82.6,
+        "acceptance_rate": 50.1,
+        "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Concurrency"
+        ],
+        "slug": "web-crawler-multithreaded"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Insert Interval",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 43.5,
+        "link": "https://leetcode.com/problems/insert-interval",
+        "topics": [
+          "Array"
+        ],
+        "slug": "insert-interval"
+      },
+      {
+        "title": "Merge Two Binary Trees",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 78.7,
+        "link": "https://leetcode.com/problems/merge-two-binary-trees",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "merge-two-binary-trees"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 91.9,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Web Crawler Multithreaded",
+        "difficulty": "MEDIUM",
+        "frequency": 91.9,
+        "acceptance_rate": 50.1,
+        "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Concurrency"
+        ],
+        "slug": "web-crawler-multithreaded"
+      },
+      {
+        "title": "Merge k Sorted Lists",
+        "difficulty": "HARD",
+        "frequency": 91.9,
+        "acceptance_rate": 56.8,
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort"
+        ],
+        "slug": "merge-k-sorted-lists"
+      },
+      {
+        "title": "Text Justification",
+        "difficulty": "HARD",
+        "frequency": 91.9,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/text-justification",
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "slug": "text-justification"
+      },
+      {
+        "title": "Valid Sudoku",
+        "difficulty": "MEDIUM",
+        "frequency": 80.6,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/valid-sudoku",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "slug": "valid-sudoku"
+      },
+      {
+        "title": "Word Break",
+        "difficulty": "MEDIUM",
+        "frequency": 80.6,
+        "acceptance_rate": 48.3,
+        "link": "https://leetcode.com/problems/word-break",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Trie",
+          "Memoization"
+        ],
+        "slug": "word-break"
+      },
+      {
+        "title": "Search in Rotated Sorted Array",
+        "difficulty": "MEDIUM",
+        "frequency": 80.6,
+        "acceptance_rate": 42.8,
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "search-in-rotated-sorted-array"
+      },
+      {
+        "title": "Stock Price Fluctuation",
+        "difficulty": "MEDIUM",
+        "frequency": 80.6,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/stock-price-fluctuation",
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Heap (Priority Queue)",
+          "Data Stream",
+          "Ordered Set"
+        ],
+        "slug": "stock-price-fluctuation"
+      },
+      {
+        "title": "Design Hit Counter",
+        "difficulty": "MEDIUM",
+        "frequency": 80.6,
+        "acceptance_rate": 69.2,
+        "link": "https://leetcode.com/problems/design-hit-counter",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Design",
+          "Queue",
+          "Data Stream"
+        ],
+        "slug": "design-hit-counter"
+      },
+      {
+        "title": "Sliding Window Maximum",
+        "difficulty": "HARD",
+        "frequency": 80.6,
+        "acceptance_rate": 47.6,
+        "link": "https://leetcode.com/problems/sliding-window-maximum",
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue"
+        ],
+        "slug": "sliding-window-maximum"
+      }
+    ],
+    "all": [
+      {
+        "title": "Word Break",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 48.3,
+        "link": "https://leetcode.com/problems/word-break",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Trie",
+          "Memoization"
+        ],
+        "slug": "word-break"
+      },
+      {
+        "title": "Web Crawler Multithreaded",
+        "difficulty": "MEDIUM",
+        "frequency": 95.2,
+        "acceptance_rate": 50.1,
+        "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Concurrency"
+        ],
+        "slug": "web-crawler-multithreaded"
+      },
+      {
+        "title": "Intersection of Two Arrays",
+        "difficulty": "EASY",
+        "frequency": 95.2,
+        "acceptance_rate": 76.5,
+        "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
+        ],
+        "slug": "intersection-of-two-arrays"
+      },
+      {
+        "title": "Insert Interval",
+        "difficulty": "MEDIUM",
+        "frequency": 89.3,
+        "acceptance_rate": 43.5,
+        "link": "https://leetcode.com/problems/insert-interval",
+        "topics": [
+          "Array"
+        ],
+        "slug": "insert-interval"
+      },
+      {
+        "title": "Merge Two Binary Trees",
+        "difficulty": "EASY",
+        "frequency": 89.3,
+        "acceptance_rate": 78.7,
+        "link": "https://leetcode.com/problems/merge-two-binary-trees",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "merge-two-binary-trees"
+      },
+      {
+        "title": "Stock Price Fluctuation",
+        "difficulty": "MEDIUM",
+        "frequency": 89.3,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/stock-price-fluctuation",
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Heap (Priority Queue)",
+          "Data Stream",
+          "Ordered Set"
+        ],
+        "slug": "stock-price-fluctuation"
+      },
+      {
+        "title": "Text Justification",
+        "difficulty": "HARD",
+        "frequency": 89.3,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/text-justification",
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "slug": "text-justification"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 81.7,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Merge k Sorted Lists",
+        "difficulty": "HARD",
+        "frequency": 81.7,
+        "acceptance_rate": 56.8,
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort"
+        ],
+        "slug": "merge-k-sorted-lists"
+      },
+      {
+        "title": "Valid Sudoku",
+        "difficulty": "MEDIUM",
+        "frequency": 71.1,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/valid-sudoku",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "slug": "valid-sudoku"
+      },
+      {
+        "title": "Search in Rotated Sorted Array",
+        "difficulty": "MEDIUM",
+        "frequency": 71.1,
+        "acceptance_rate": 42.8,
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "search-in-rotated-sorted-array"
+      },
+      {
+        "title": "Design Hit Counter",
+        "difficulty": "MEDIUM",
+        "frequency": 71.1,
+        "acceptance_rate": 69.2,
+        "link": "https://leetcode.com/problems/design-hit-counter",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Design",
+          "Queue",
+          "Data Stream"
+        ],
+        "slug": "design-hit-counter"
+      },
+      {
+        "title": "Sliding Window Maximum",
+        "difficulty": "HARD",
+        "frequency": 71.1,
+        "acceptance_rate": 47.6,
+        "link": "https://leetcode.com/problems/sliding-window-maximum",
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue"
+        ],
+        "slug": "sliding-window-maximum"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "difficulty": "MEDIUM",
+        "frequency": 71.1,
+        "acceptance_rate": 66.8,
+        "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "lowest-common-ancestor-of-a-binary-tree"
+      }
+    ]
+  }
+}

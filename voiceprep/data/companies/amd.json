@@ -1,0 +1,381 @@
+{
+  "profile": {
+    "name": "AMD",
+    "slug": "amd",
+    "total_problems": 11,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.36,
+      "medium": 0.64,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 7
+      },
+      {
+        "topic": "Hash Table",
+        "count": 4
+      },
+      {
+        "topic": "Math",
+        "count": 3
+      },
+      {
+        "topic": "Sorting",
+        "count": 3
+      },
+      {
+        "topic": "Matrix",
+        "count": 2
+      },
+      {
+        "topic": "Divide and Conquer",
+        "count": 2
+      },
+      {
+        "topic": "String",
+        "count": 2
+      },
+      {
+        "topic": "Simulation",
+        "count": 1
+      },
+      {
+        "topic": "Bit Manipulation",
+        "count": 1
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Rotate Image",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "rotate-image"
+      },
+      {
+        "title": "Spiral Matrix",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "spiral-matrix"
+      },
+      {
+        "title": "Number of 1 Bits",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "number-of-1-bits"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "two-sum"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 87.5,
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Climbing Stairs",
+        "difficulty": "EASY",
+        "frequency": 87.5,
+        "slug": "climbing-stairs"
+      },
+      {
+        "title": "Kth Largest Element in an Array",
+        "difficulty": "MEDIUM",
+        "frequency": 87.5,
+        "slug": "kth-largest-element-in-an-array"
+      },
+      {
+        "title": "Subarray Sum Equals K",
+        "difficulty": "MEDIUM",
+        "frequency": 87.5,
+        "slug": "subarray-sum-equals-k"
+      },
+      {
+        "title": "Roman to Integer",
+        "difficulty": "EASY",
+        "frequency": 87.5,
+        "slug": "roman-to-integer"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 87.5,
+        "slug": "merge-intervals"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Spiral Matrix",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 53.9,
+        "link": "https://leetcode.com/problems/spiral-matrix",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "slug": "spiral-matrix"
+      },
+      {
+        "title": "Rotate Image",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 77.9,
+        "link": "https://leetcode.com/problems/rotate-image",
+        "topics": [
+          "Array",
+          "Math",
+          "Matrix"
+        ],
+        "slug": "rotate-image"
+      },
+      {
+        "title": "Number of 1 Bits",
+        "difficulty": "EASY",
+        "frequency": 88.0,
+        "acceptance_rate": 74.5,
+        "link": "https://leetcode.com/problems/number-of-1-bits",
+        "topics": [
+          "Divide and Conquer",
+          "Bit Manipulation"
+        ],
+        "slug": "number-of-1-bits"
+      },
+      {
+        "title": "Climbing Stairs",
+        "difficulty": "EASY",
+        "frequency": 88.0,
+        "acceptance_rate": 53.5,
+        "link": "https://leetcode.com/problems/climbing-stairs",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "slug": "climbing-stairs"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 88.0,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 88.0,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 88.0,
+        "acceptance_rate": 37.1,
+        "link": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "3sum"
+      },
+      {
+        "title": "Kth Largest Element in an Array",
+        "difficulty": "MEDIUM",
+        "frequency": 88.0,
+        "acceptance_rate": 68.0,
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect"
+        ],
+        "slug": "kth-largest-element-in-an-array"
+      }
+    ],
+    "all": [
+      {
+        "title": "Rotate Image",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 77.9,
+        "link": "https://leetcode.com/problems/rotate-image",
+        "topics": [
+          "Array",
+          "Math",
+          "Matrix"
+        ],
+        "slug": "rotate-image"
+      },
+      {
+        "title": "Spiral Matrix",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 53.9,
+        "link": "https://leetcode.com/problems/spiral-matrix",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "slug": "spiral-matrix"
+      },
+      {
+        "title": "Number of 1 Bits",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 74.5,
+        "link": "https://leetcode.com/problems/number-of-1-bits",
+        "topics": [
+          "Divide and Conquer",
+          "Bit Manipulation"
+        ],
+        "slug": "number-of-1-bits"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 87.5,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Climbing Stairs",
+        "difficulty": "EASY",
+        "frequency": 87.5,
+        "acceptance_rate": 53.5,
+        "link": "https://leetcode.com/problems/climbing-stairs",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "slug": "climbing-stairs"
+      },
+      {
+        "title": "Kth Largest Element in an Array",
+        "difficulty": "MEDIUM",
+        "frequency": 87.5,
+        "acceptance_rate": 68.0,
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect"
+        ],
+        "slug": "kth-largest-element-in-an-array"
+      },
+      {
+        "title": "Subarray Sum Equals K",
+        "difficulty": "MEDIUM",
+        "frequency": 87.5,
+        "acceptance_rate": 45.5,
+        "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "slug": "subarray-sum-equals-k"
+      },
+      {
+        "title": "Roman to Integer",
+        "difficulty": "EASY",
+        "frequency": 87.5,
+        "acceptance_rate": 64.9,
+        "link": "https://leetcode.com/problems/roman-to-integer",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "slug": "roman-to-integer"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 87.5,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 87.5,
+        "acceptance_rate": 37.1,
+        "link": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "3sum"
+      }
+    ]
+  }
+}

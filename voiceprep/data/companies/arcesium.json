@@ -1,0 +1,657 @@
+{
+  "profile": {
+    "name": "Arcesium",
+    "slug": "arcesium",
+    "total_problems": 20,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.7,
+      "hard": 0.3
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 12
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 10
+      },
+      {
+        "topic": "String",
+        "count": 4
+      },
+      {
+        "topic": "Binary Search",
+        "count": 3
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 3
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 3
+      },
+      {
+        "topic": "Math",
+        "count": 3
+      },
+      {
+        "topic": "Greedy",
+        "count": 2
+      },
+      {
+        "topic": "Tree",
+        "count": 2
+      },
+      {
+        "topic": "Binary Tree",
+        "count": 2
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Maximum Length of Subarray With Positive Product",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "maximum-length-of-subarray-with-positive-product"
+      },
+      {
+        "title": "Cycle Length Queries in a Tree",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "cycle-length-queries-in-a-tree"
+      },
+      {
+        "title": "Count Collisions on a Road",
+        "difficulty": "MEDIUM",
+        "frequency": 97.6,
+        "slug": "count-collisions-on-a-road"
+      },
+      {
+        "title": "Maximize the Confusion of an Exam",
+        "difficulty": "MEDIUM",
+        "frequency": 97.6,
+        "slug": "maximize-the-confusion-of-an-exam"
+      },
+      {
+        "title": "Number of People Aware of a Secret",
+        "difficulty": "MEDIUM",
+        "frequency": 97.6,
+        "slug": "number-of-people-aware-of-a-secret"
+      },
+      {
+        "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+        "difficulty": "HARD",
+        "frequency": 95.0,
+        "slug": "partition-array-into-two-arrays-to-minimize-sum-difference"
+      },
+      {
+        "title": "House Robber",
+        "difficulty": "MEDIUM",
+        "frequency": 80.5,
+        "slug": "house-robber"
+      },
+      {
+        "title": "Search in Rotated Sorted Array",
+        "difficulty": "MEDIUM",
+        "frequency": 74.9,
+        "slug": "search-in-rotated-sorted-array"
+      },
+      {
+        "title": "Possible Bipartition",
+        "difficulty": "MEDIUM",
+        "frequency": 74.9,
+        "slug": "possible-bipartition"
+      },
+      {
+        "title": "Stone Game VI",
+        "difficulty": "MEDIUM",
+        "frequency": 74.9,
+        "slug": "stone-game-vi"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Emphasizes DP and graph problems",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 21.8,
+        "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Ordered Set",
+          "Bitmask"
+        ],
+        "slug": "partition-array-into-two-arrays-to-minimize-sum-difference"
+      },
+      {
+        "title": "House Robber",
+        "difficulty": "MEDIUM",
+        "frequency": 87.8,
+        "acceptance_rate": 52.3,
+        "link": "https://leetcode.com/problems/house-robber",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "house-robber"
+      },
+      {
+        "title": "Search in Rotated Sorted Array",
+        "difficulty": "MEDIUM",
+        "frequency": 82.0,
+        "acceptance_rate": 42.8,
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "search-in-rotated-sorted-array"
+      },
+      {
+        "title": "Stone Game VI",
+        "difficulty": "MEDIUM",
+        "frequency": 82.0,
+        "acceptance_rate": 59.1,
+        "link": "https://leetcode.com/problems/stone-game-vi",
+        "topics": [
+          "Array",
+          "Math",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Game Theory"
+        ],
+        "slug": "stone-game-vi"
+      },
+      {
+        "title": "Possible Bipartition",
+        "difficulty": "MEDIUM",
+        "frequency": 82.0,
+        "acceptance_rate": 51.5,
+        "link": "https://leetcode.com/problems/possible-bipartition",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Graph"
+        ],
+        "slug": "possible-bipartition"
+      },
+      {
+        "title": "Next Permutation",
+        "difficulty": "MEDIUM",
+        "frequency": 74.6,
+        "acceptance_rate": 43.1,
+        "link": "https://leetcode.com/problems/next-permutation",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "next-permutation"
+      },
+      {
+        "title": "Cycle Length Queries in a Tree",
+        "difficulty": "HARD",
+        "frequency": 74.6,
+        "acceptance_rate": 58.3,
+        "link": "https://leetcode.com/problems/cycle-length-queries-in-a-tree",
+        "topics": [
+          "Array",
+          "Tree",
+          "Binary Tree"
+        ],
+        "slug": "cycle-length-queries-in-a-tree"
+      },
+      {
+        "title": "Binary Tree Maximum Path Sum",
+        "difficulty": "HARD",
+        "frequency": 74.6,
+        "acceptance_rate": 41.2,
+        "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+        "topics": [
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "binary-tree-maximum-path-sum"
+      },
+      {
+        "title": "Find the Count of Monotonic Pairs I",
+        "difficulty": "HARD",
+        "frequency": 74.6,
+        "acceptance_rate": 46.4,
+        "link": "https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i",
+        "topics": [
+          "Array",
+          "Math",
+          "Dynamic Programming",
+          "Combinatorics",
+          "Prefix Sum"
+        ],
+        "slug": "find-the-count-of-monotonic-pairs-i"
+      },
+      {
+        "title": "Maximum Length of Subarray With Positive Product",
+        "difficulty": "MEDIUM",
+        "frequency": 74.6,
+        "acceptance_rate": 44.4,
+        "link": "https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "slug": "maximum-length-of-subarray-with-positive-product"
+      },
+      {
+        "title": "Surrounded Regions",
+        "difficulty": "MEDIUM",
+        "frequency": 64.1,
+        "acceptance_rate": 42.9,
+        "link": "https://leetcode.com/problems/surrounded-regions",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "surrounded-regions"
+      },
+      {
+        "title": "Maximum Product Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 64.1,
+        "acceptance_rate": 34.9,
+        "link": "https://leetcode.com/problems/maximum-product-subarray",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "maximum-product-subarray"
+      },
+      {
+        "title": "Edit Distance",
+        "difficulty": "MEDIUM",
+        "frequency": 64.1,
+        "acceptance_rate": 58.8,
+        "link": "https://leetcode.com/problems/edit-distance",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "edit-distance"
+      },
+      {
+        "title": "Number of People Aware of a Secret",
+        "difficulty": "MEDIUM",
+        "frequency": 64.1,
+        "acceptance_rate": 46.4,
+        "link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+        "topics": [
+          "Dynamic Programming",
+          "Queue",
+          "Simulation"
+        ],
+        "slug": "number-of-people-aware-of-a-secret"
+      },
+      {
+        "title": "Maximize the Confusion of an Exam",
+        "difficulty": "MEDIUM",
+        "frequency": 64.1,
+        "acceptance_rate": 68.6,
+        "link": "https://leetcode.com/problems/maximize-the-confusion-of-an-exam",
+        "topics": [
+          "String",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "slug": "maximize-the-confusion-of-an-exam"
+      },
+      {
+        "title": "Count Collisions on a Road",
+        "difficulty": "MEDIUM",
+        "frequency": 64.1,
+        "acceptance_rate": 44.4,
+        "link": "https://leetcode.com/problems/count-collisions-on-a-road",
+        "topics": [
+          "String",
+          "Stack",
+          "Simulation"
+        ],
+        "slug": "count-collisions-on-a-road"
+      },
+      {
+        "title": "Minimum Insertion Steps to Make a String Palindrome",
+        "difficulty": "HARD",
+        "frequency": 64.1,
+        "acceptance_rate": 72.4,
+        "link": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "minimum-insertion-steps-to-make-a-string-palindrome"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock IV",
+        "difficulty": "HARD",
+        "frequency": 64.1,
+        "acceptance_rate": 47.1,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock-iv"
+      },
+      {
+        "title": "Sort Colors",
+        "difficulty": "MEDIUM",
+        "frequency": 64.1,
+        "acceptance_rate": 67.6,
+        "link": "https://leetcode.com/problems/sort-colors",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "sort-colors"
+      }
+    ],
+    "all": [
+      {
+        "title": "Maximum Length of Subarray With Positive Product",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 44.4,
+        "link": "https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "slug": "maximum-length-of-subarray-with-positive-product"
+      },
+      {
+        "title": "Cycle Length Queries in a Tree",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 58.3,
+        "link": "https://leetcode.com/problems/cycle-length-queries-in-a-tree",
+        "topics": [
+          "Array",
+          "Tree",
+          "Binary Tree"
+        ],
+        "slug": "cycle-length-queries-in-a-tree"
+      },
+      {
+        "title": "Count Collisions on a Road",
+        "difficulty": "MEDIUM",
+        "frequency": 97.6,
+        "acceptance_rate": 44.4,
+        "link": "https://leetcode.com/problems/count-collisions-on-a-road",
+        "topics": [
+          "String",
+          "Stack",
+          "Simulation"
+        ],
+        "slug": "count-collisions-on-a-road"
+      },
+      {
+        "title": "Maximize the Confusion of an Exam",
+        "difficulty": "MEDIUM",
+        "frequency": 97.6,
+        "acceptance_rate": 68.6,
+        "link": "https://leetcode.com/problems/maximize-the-confusion-of-an-exam",
+        "topics": [
+          "String",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "slug": "maximize-the-confusion-of-an-exam"
+      },
+      {
+        "title": "Number of People Aware of a Secret",
+        "difficulty": "MEDIUM",
+        "frequency": 97.6,
+        "acceptance_rate": 46.4,
+        "link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+        "topics": [
+          "Dynamic Programming",
+          "Queue",
+          "Simulation"
+        ],
+        "slug": "number-of-people-aware-of-a-secret"
+      },
+      {
+        "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+        "difficulty": "HARD",
+        "frequency": 95.0,
+        "acceptance_rate": 21.8,
+        "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Ordered Set",
+          "Bitmask"
+        ],
+        "slug": "partition-array-into-two-arrays-to-minimize-sum-difference"
+      },
+      {
+        "title": "House Robber",
+        "difficulty": "MEDIUM",
+        "frequency": 80.5,
+        "acceptance_rate": 52.3,
+        "link": "https://leetcode.com/problems/house-robber",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "house-robber"
+      },
+      {
+        "title": "Search in Rotated Sorted Array",
+        "difficulty": "MEDIUM",
+        "frequency": 74.9,
+        "acceptance_rate": 42.8,
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "search-in-rotated-sorted-array"
+      },
+      {
+        "title": "Possible Bipartition",
+        "difficulty": "MEDIUM",
+        "frequency": 74.9,
+        "acceptance_rate": 51.5,
+        "link": "https://leetcode.com/problems/possible-bipartition",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Graph"
+        ],
+        "slug": "possible-bipartition"
+      },
+      {
+        "title": "Stone Game VI",
+        "difficulty": "MEDIUM",
+        "frequency": 74.9,
+        "acceptance_rate": 59.1,
+        "link": "https://leetcode.com/problems/stone-game-vi",
+        "topics": [
+          "Array",
+          "Math",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Game Theory"
+        ],
+        "slug": "stone-game-vi"
+      },
+      {
+        "title": "Binary Tree Maximum Path Sum",
+        "difficulty": "HARD",
+        "frequency": 67.8,
+        "acceptance_rate": 41.2,
+        "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+        "topics": [
+          "Dynamic Programming",
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "binary-tree-maximum-path-sum"
+      },
+      {
+        "title": "Find the Count of Monotonic Pairs I",
+        "difficulty": "HARD",
+        "frequency": 67.8,
+        "acceptance_rate": 46.4,
+        "link": "https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i",
+        "topics": [
+          "Array",
+          "Math",
+          "Dynamic Programming",
+          "Combinatorics",
+          "Prefix Sum"
+        ],
+        "slug": "find-the-count-of-monotonic-pairs-i"
+      },
+      {
+        "title": "Next Permutation",
+        "difficulty": "MEDIUM",
+        "frequency": 67.8,
+        "acceptance_rate": 43.1,
+        "link": "https://leetcode.com/problems/next-permutation",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "next-permutation"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock IV",
+        "difficulty": "HARD",
+        "frequency": 57.8,
+        "acceptance_rate": 47.1,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock-iv"
+      },
+      {
+        "title": "Minimum Insertion Steps to Make a String Palindrome",
+        "difficulty": "HARD",
+        "frequency": 57.8,
+        "acceptance_rate": 72.4,
+        "link": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "minimum-insertion-steps-to-make-a-string-palindrome"
+      },
+      {
+        "title": "Edit Distance",
+        "difficulty": "MEDIUM",
+        "frequency": 57.8,
+        "acceptance_rate": 58.8,
+        "link": "https://leetcode.com/problems/edit-distance",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "edit-distance"
+      },
+      {
+        "title": "Maximum Product Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 57.8,
+        "acceptance_rate": 34.9,
+        "link": "https://leetcode.com/problems/maximum-product-subarray",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "maximum-product-subarray"
+      },
+      {
+        "title": "Surrounded Regions",
+        "difficulty": "MEDIUM",
+        "frequency": 57.8,
+        "acceptance_rate": 42.9,
+        "link": "https://leetcode.com/problems/surrounded-regions",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "surrounded-regions"
+      },
+      {
+        "title": "Sort Colors",
+        "difficulty": "MEDIUM",
+        "frequency": 57.8,
+        "acceptance_rate": 67.6,
+        "link": "https://leetcode.com/problems/sort-colors",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "sort-colors"
+      },
+      {
+        "title": "Pow(x, n)",
+        "difficulty": "MEDIUM",
+        "frequency": 57.8,
+        "acceptance_rate": 37.0,
+        "link": "https://leetcode.com/problems/powx-n",
+        "topics": [
+          "Math",
+          "Recursion"
+        ],
+        "slug": "powx-n"
+      }
+    ]
+  }
+}

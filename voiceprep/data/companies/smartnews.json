@@ -1,0 +1,237 @@
+{
+  "profile": {
+    "name": "smartnews",
+    "slug": "smartnews",
+    "total_problems": 5,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 1.0,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Hash Table",
+        "count": 3
+      },
+      {
+        "topic": "String",
+        "count": 2
+      },
+      {
+        "topic": "Greedy",
+        "count": 2
+      },
+      {
+        "topic": "Sorting",
+        "count": 2
+      },
+      {
+        "topic": "Counting",
+        "count": 1
+      },
+      {
+        "topic": "Graph",
+        "count": 1
+      },
+      {
+        "topic": "Linked List",
+        "count": 1
+      },
+      {
+        "topic": "Design",
+        "count": 1
+      },
+      {
+        "topic": "Doubly-Linked List",
+        "count": 1
+      },
+      {
+        "topic": "Array",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Largest Palindromic Number",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "largest-palindromic-number"
+      },
+      {
+        "title": "Maximal Network Rank",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "maximal-network-rank"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 94.8,
+        "slug": "lru-cache"
+      },
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 78.7,
+        "slug": "3sum"
+      },
+      {
+        "title": "Minimum Deletions to Make Character Frequencies Unique",
+        "difficulty": "MEDIUM",
+        "frequency": 78.7,
+        "slug": "minimum-deletions-to-make-character-frequencies-unique"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Maximal Network Rank",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 65.5,
+        "link": "https://leetcode.com/problems/maximal-network-rank",
+        "topics": [
+          "Graph"
+        ],
+        "slug": "maximal-network-rank"
+      },
+      {
+        "title": "Largest Palindromic Number",
+        "difficulty": "MEDIUM",
+        "frequency": 94.8,
+        "acceptance_rate": 36.5,
+        "link": "https://leetcode.com/problems/largest-palindromic-number",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy",
+          "Counting"
+        ],
+        "slug": "largest-palindromic-number"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 94.8,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 78.8,
+        "acceptance_rate": 37.1,
+        "link": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "3sum"
+      },
+      {
+        "title": "Minimum Deletions to Make Character Frequencies Unique",
+        "difficulty": "MEDIUM",
+        "frequency": 78.8,
+        "acceptance_rate": 61.3,
+        "link": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "minimum-deletions-to-make-character-frequencies-unique"
+      }
+    ],
+    "all": [
+      {
+        "title": "Largest Palindromic Number",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 36.5,
+        "link": "https://leetcode.com/problems/largest-palindromic-number",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy",
+          "Counting"
+        ],
+        "slug": "largest-palindromic-number"
+      },
+      {
+        "title": "Maximal Network Rank",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 65.5,
+        "link": "https://leetcode.com/problems/maximal-network-rank",
+        "topics": [
+          "Graph"
+        ],
+        "slug": "maximal-network-rank"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 94.8,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 78.7,
+        "acceptance_rate": 37.1,
+        "link": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "3sum"
+      },
+      {
+        "title": "Minimum Deletions to Make Character Frequencies Unique",
+        "difficulty": "MEDIUM",
+        "frequency": 78.7,
+        "acceptance_rate": 61.3,
+        "link": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "minimum-deletions-to-make-character-frequencies-unique"
+      }
+    ]
+  }
+}

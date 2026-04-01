@@ -1,0 +1,222 @@
+{
+  "profile": {
+    "name": "RBC",
+    "slug": "rbc",
+    "total_problems": 5,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.4,
+      "medium": 0.6,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Two Pointers",
+        "count": 3
+      },
+      {
+        "topic": "Array",
+        "count": 3
+      },
+      {
+        "topic": "String",
+        "count": 2
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 2
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      },
+      {
+        "topic": "Matrix",
+        "count": 1
+      },
+      {
+        "topic": "Simulation",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Container With Most Water",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "container-with-most-water"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Valid Palindrome",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "valid-palindrome"
+      },
+      {
+        "title": "Spiral Matrix",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "spiral-matrix"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Mix of easy-medium \u2014 focuses on clean code and communication",
+        "Emphasizes DP and graph problems",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Spiral Matrix",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 53.9,
+        "link": "https://leetcode.com/problems/spiral-matrix",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "slug": "spiral-matrix"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Container With Most Water",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/container-with-most-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "slug": "container-with-most-water"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Valid Palindrome",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 51.0,
+        "link": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "valid-palindrome"
+      }
+    ],
+    "all": [
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Container With Most Water",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/container-with-most-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "slug": "container-with-most-water"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Valid Palindrome",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 51.0,
+        "link": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "valid-palindrome"
+      },
+      {
+        "title": "Spiral Matrix",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 53.9,
+        "link": "https://leetcode.com/problems/spiral-matrix",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "slug": "spiral-matrix"
+      }
+    ]
+  }
+}

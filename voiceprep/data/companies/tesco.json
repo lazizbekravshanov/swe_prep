@@ -1,0 +1,184 @@
+{
+  "profile": {
+    "name": "Tesco",
+    "slug": "tesco",
+    "total_problems": 4,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 1.0,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 3
+      },
+      {
+        "topic": "Sorting",
+        "count": 2
+      },
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Stack",
+        "count": 1
+      },
+      {
+        "topic": "Recursion",
+        "count": 1
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 1
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "count": 1
+      },
+      {
+        "topic": "Prefix Sum",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Decode String",
+        "difficulty": "MEDIUM",
+        "frequency": 58.6,
+        "slug": "decode-string"
+      },
+      {
+        "title": "Insert Interval",
+        "difficulty": "MEDIUM",
+        "frequency": 58.6,
+        "slug": "insert-interval"
+      },
+      {
+        "title": "Meeting Rooms II",
+        "difficulty": "MEDIUM",
+        "frequency": 58.6,
+        "slug": "meeting-rooms-ii"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Insert Interval",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 43.5,
+        "link": "https://leetcode.com/problems/insert-interval",
+        "topics": [
+          "Array"
+        ],
+        "slug": "insert-interval"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Decode String",
+        "difficulty": "MEDIUM",
+        "frequency": 59.9,
+        "acceptance_rate": 61.2,
+        "link": "https://leetcode.com/problems/decode-string",
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "decode-string"
+      }
+    ],
+    "all": [
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Decode String",
+        "difficulty": "MEDIUM",
+        "frequency": 58.6,
+        "acceptance_rate": 61.2,
+        "link": "https://leetcode.com/problems/decode-string",
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "decode-string"
+      },
+      {
+        "title": "Insert Interval",
+        "difficulty": "MEDIUM",
+        "frequency": 58.6,
+        "acceptance_rate": 43.5,
+        "link": "https://leetcode.com/problems/insert-interval",
+        "topics": [
+          "Array"
+        ],
+        "slug": "insert-interval"
+      },
+      {
+        "title": "Meeting Rooms II",
+        "difficulty": "MEDIUM",
+        "frequency": 58.6,
+        "acceptance_rate": 52.1,
+        "link": "https://leetcode.com/problems/meeting-rooms-ii",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "slug": "meeting-rooms-ii"
+      }
+    ]
+  }
+}

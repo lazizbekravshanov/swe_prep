@@ -1,0 +1,121 @@
+{
+  "profile": {
+    "name": "Mapbox",
+    "slug": "mapbox",
+    "total_problems": 2,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.5,
+      "medium": 0.5,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Bit Manipulation",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      },
+      {
+        "topic": "Counting",
+        "count": 1
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      },
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Design",
+        "count": 1
+      },
+      {
+        "topic": "Trie",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Sort Integers by The Number of 1 Bits",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "sort-integers-by-the-number-of-1-bits"
+      },
+      {
+        "title": "Implement Trie (Prefix Tree)",
+        "difficulty": "MEDIUM",
+        "frequency": 72.2,
+        "slug": "implement-trie-prefix-tree"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Mix of easy-medium \u2014 focuses on clean code and communication"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Implement Trie (Prefix Tree)",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 67.9,
+        "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "slug": "implement-trie-prefix-tree"
+      }
+    ],
+    "all": [
+      {
+        "title": "Sort Integers by The Number of 1 Bits",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 78.7,
+        "link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits",
+        "topics": [
+          "Array",
+          "Bit Manipulation",
+          "Sorting",
+          "Counting"
+        ],
+        "slug": "sort-integers-by-the-number-of-1-bits"
+      },
+      {
+        "title": "Implement Trie (Prefix Tree)",
+        "difficulty": "MEDIUM",
+        "frequency": 72.2,
+        "acceptance_rate": 67.9,
+        "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "slug": "implement-trie-prefix-tree"
+      }
+    ]
+  }
+}

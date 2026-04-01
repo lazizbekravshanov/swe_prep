@@ -1,0 +1,172 @@
+{
+  "profile": {
+    "name": "Aon",
+    "slug": "aon",
+    "total_problems": 4,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.5,
+      "medium": 0.25,
+      "hard": 0.25
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 3
+      },
+      {
+        "topic": "Bit Manipulation",
+        "count": 3
+      },
+      {
+        "topic": "Database",
+        "count": 1
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Construct the Minimum Bitwise Array II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "construct-the-minimum-bitwise-array-ii"
+      },
+      {
+        "title": "Construct the Minimum Bitwise Array I",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "construct-the-minimum-bitwise-array-i"
+      },
+      {
+        "title": "Classifying Triangles by Lengths",
+        "difficulty": "EASY",
+        "frequency": 88.5,
+        "slug": "classifying-triangles-by-lengths"
+      },
+      {
+        "title": "Minimize OR of Remaining Elements Using Operations",
+        "difficulty": "HARD",
+        "frequency": 88.5,
+        "slug": "minimize-or-of-remaining-elements-using-operations"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa",
+        "database"
+      ],
+      "style_notes": [
+        "Mix of easy-medium \u2014 focuses on clean code and communication"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Classifying Triangles by Lengths",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 50.8,
+        "link": "https://leetcode.com/problems/classifying-triangles-by-lengths",
+        "topics": [
+          "Database"
+        ],
+        "slug": "classifying-triangles-by-lengths"
+      },
+      {
+        "title": "Minimize OR of Remaining Elements Using Operations",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 29.0,
+        "link": "https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Bit Manipulation"
+        ],
+        "slug": "minimize-or-of-remaining-elements-using-operations"
+      },
+      {
+        "title": "Construct the Minimum Bitwise Array II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 34.9,
+        "link": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii",
+        "topics": [
+          "Array",
+          "Bit Manipulation"
+        ],
+        "slug": "construct-the-minimum-bitwise-array-ii"
+      },
+      {
+        "title": "Construct the Minimum Bitwise Array I",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 74.0,
+        "link": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-i",
+        "topics": [
+          "Array",
+          "Bit Manipulation"
+        ],
+        "slug": "construct-the-minimum-bitwise-array-i"
+      }
+    ],
+    "all": [
+      {
+        "title": "Construct the Minimum Bitwise Array II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 34.9,
+        "link": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii",
+        "topics": [
+          "Array",
+          "Bit Manipulation"
+        ],
+        "slug": "construct-the-minimum-bitwise-array-ii"
+      },
+      {
+        "title": "Construct the Minimum Bitwise Array I",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 74.0,
+        "link": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-i",
+        "topics": [
+          "Array",
+          "Bit Manipulation"
+        ],
+        "slug": "construct-the-minimum-bitwise-array-i"
+      },
+      {
+        "title": "Classifying Triangles by Lengths",
+        "difficulty": "EASY",
+        "frequency": 88.5,
+        "acceptance_rate": 50.8,
+        "link": "https://leetcode.com/problems/classifying-triangles-by-lengths",
+        "topics": [
+          "Database"
+        ],
+        "slug": "classifying-triangles-by-lengths"
+      },
+      {
+        "title": "Minimize OR of Remaining Elements Using Operations",
+        "difficulty": "HARD",
+        "frequency": 88.5,
+        "acceptance_rate": 29.0,
+        "link": "https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Bit Manipulation"
+        ],
+        "slug": "minimize-or-of-remaining-elements-using-operations"
+      }
+    ]
+  }
+}

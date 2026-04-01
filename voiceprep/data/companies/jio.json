@@ -1,0 +1,305 @@
+{
+  "profile": {
+    "name": "jio",
+    "slug": "jio",
+    "total_problems": 7,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.14,
+      "medium": 0.29,
+      "hard": 0.57
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 5
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 3
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 3
+      },
+      {
+        "topic": "Hash Table",
+        "count": 2
+      },
+      {
+        "topic": "Matrix",
+        "count": 2
+      },
+      {
+        "topic": "Tree",
+        "count": 2
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 1
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "count": 1
+      },
+      {
+        "topic": "Union Find",
+        "count": 1
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Divide an Array Into Subarrays With Minimum Cost II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "divide-an-array-into-subarrays-with-minimum-cost-ii"
+      },
+      {
+        "title": "Find the Grid of Region Average",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "find-the-grid-of-region-average"
+      },
+      {
+        "title": "Maximize the Number of Target Nodes After Connecting Trees I",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-i"
+      },
+      {
+        "title": "Maximize the Number of Target Nodes After Connecting Trees II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-ii"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 62.6,
+        "slug": "two-sum"
+      },
+      {
+        "title": "Making A Large Island",
+        "difficulty": "HARD",
+        "frequency": 62.6,
+        "slug": "making-a-large-island"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 62.6,
+        "slug": "trapping-rain-water"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Divide an Array Into Subarrays With Minimum Cost II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 30.4,
+        "link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "divide-an-array-into-subarrays-with-minimum-cost-ii"
+      },
+      {
+        "title": "Find the Grid of Region Average",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 42.2,
+        "link": "https://leetcode.com/problems/find-the-grid-of-region-average",
+        "topics": [
+          "Array",
+          "Matrix"
+        ],
+        "slug": "find-the-grid-of-region-average"
+      },
+      {
+        "title": "Maximize the Number of Target Nodes After Connecting Trees I",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 69.7,
+        "link": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search"
+        ],
+        "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-i"
+      },
+      {
+        "title": "Maximize the Number of Target Nodes After Connecting Trees II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 73.2,
+        "link": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search"
+        ],
+        "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-ii"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 62.8,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Making A Large Island",
+        "difficulty": "HARD",
+        "frequency": 62.8,
+        "acceptance_rate": 54.9,
+        "link": "https://leetcode.com/problems/making-a-large-island",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "making-a-large-island"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 62.8,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "trapping-rain-water"
+      }
+    ],
+    "all": [
+      {
+        "title": "Divide an Array Into Subarrays With Minimum Cost II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 30.4,
+        "link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "divide-an-array-into-subarrays-with-minimum-cost-ii"
+      },
+      {
+        "title": "Find the Grid of Region Average",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 42.2,
+        "link": "https://leetcode.com/problems/find-the-grid-of-region-average",
+        "topics": [
+          "Array",
+          "Matrix"
+        ],
+        "slug": "find-the-grid-of-region-average"
+      },
+      {
+        "title": "Maximize the Number of Target Nodes After Connecting Trees I",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 69.7,
+        "link": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search"
+        ],
+        "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-i"
+      },
+      {
+        "title": "Maximize the Number of Target Nodes After Connecting Trees II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 73.2,
+        "link": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search"
+        ],
+        "slug": "maximize-the-number-of-target-nodes-after-connecting-trees-ii"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 62.6,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Making A Large Island",
+        "difficulty": "HARD",
+        "frequency": 62.6,
+        "acceptance_rate": 54.9,
+        "link": "https://leetcode.com/problems/making-a-large-island",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "making-a-large-island"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 62.6,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "trapping-rain-water"
+      }
+    ]
+  }
+}

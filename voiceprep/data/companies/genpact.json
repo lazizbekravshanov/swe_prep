@@ -1,0 +1,177 @@
+{
+  "profile": {
+    "name": "Genpact",
+    "slug": "genpact",
+    "total_problems": 3,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.33,
+      "medium": 0.67,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Hash Table",
+        "count": 2
+      },
+      {
+        "topic": "Linked List",
+        "count": 1
+      },
+      {
+        "topic": "Design",
+        "count": 1
+      },
+      {
+        "topic": "Doubly-Linked List",
+        "count": 1
+      },
+      {
+        "topic": "Database",
+        "count": 1
+      },
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "Binary Search",
+        "count": 1
+      },
+      {
+        "topic": "Bit Manipulation",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Design Authentication Manager",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "design-authentication-manager"
+      },
+      {
+        "title": "Second Highest Salary",
+        "difficulty": "MEDIUM",
+        "frequency": 78.9,
+        "slug": "second-highest-salary"
+      },
+      {
+        "title": "Missing Number",
+        "difficulty": "EASY",
+        "frequency": 78.9,
+        "slug": "missing-number"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa",
+        "database",
+        "system_design"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Design Authentication Manager",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 57.9,
+        "link": "https://leetcode.com/problems/design-authentication-manager",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "design-authentication-manager"
+      },
+      {
+        "title": "Second Highest Salary",
+        "difficulty": "MEDIUM",
+        "frequency": 78.9,
+        "acceptance_rate": 43.9,
+        "link": "https://leetcode.com/problems/second-highest-salary",
+        "topics": [
+          "Database"
+        ],
+        "slug": "second-highest-salary"
+      },
+      {
+        "title": "Missing Number",
+        "difficulty": "EASY",
+        "frequency": 78.9,
+        "acceptance_rate": 70.1,
+        "link": "https://leetcode.com/problems/missing-number",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Binary Search",
+          "Bit Manipulation",
+          "Sorting"
+        ],
+        "slug": "missing-number"
+      }
+    ],
+    "all": [
+      {
+        "title": "Design Authentication Manager",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 57.9,
+        "link": "https://leetcode.com/problems/design-authentication-manager",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "design-authentication-manager"
+      },
+      {
+        "title": "Second Highest Salary",
+        "difficulty": "MEDIUM",
+        "frequency": 78.9,
+        "acceptance_rate": 43.9,
+        "link": "https://leetcode.com/problems/second-highest-salary",
+        "topics": [
+          "Database"
+        ],
+        "slug": "second-highest-salary"
+      },
+      {
+        "title": "Missing Number",
+        "difficulty": "EASY",
+        "frequency": 78.9,
+        "acceptance_rate": 70.1,
+        "link": "https://leetcode.com/problems/missing-number",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Binary Search",
+          "Bit Manipulation",
+          "Sorting"
+        ],
+        "slug": "missing-number"
+      }
+    ]
+  }
+}

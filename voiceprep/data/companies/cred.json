@@ -1,0 +1,162 @@
+{
+  "profile": {
+    "name": "CRED",
+    "slug": "cred",
+    "total_problems": 2,
+    "recent_problems_30d": 1,
+    "difficulty_distribution": {
+      "easy": 0.5,
+      "medium": 0.5,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 2
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      },
+      {
+        "topic": "Counting",
+        "count": 1
+      },
+      {
+        "topic": "Binary Search",
+        "count": 1
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      },
+      {
+        "topic": "Prefix Sum",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      },
+      {
+        "topic": "Counting",
+        "count": 1
+      }
+    ],
+    "highest_frequency_problems": [
+      {
+        "title": "Count Elements With Maximum Frequency",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "count-elements-with-maximum-frequency"
+      },
+      {
+        "title": "Frequency of the Most Frequent Element",
+        "difficulty": "MEDIUM",
+        "frequency": 89.4,
+        "slug": "frequency-of-the-most-frequent-element"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Mix of easy-medium \u2014 focuses on clean code and communication"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [
+      {
+        "title": "Count Elements With Maximum Frequency",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 77.9,
+        "link": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Counting"
+        ],
+        "slug": "count-elements-with-maximum-frequency"
+      }
+    ],
+    "90d": [
+      {
+        "title": "Count Elements With Maximum Frequency",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 77.9,
+        "link": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Counting"
+        ],
+        "slug": "count-elements-with-maximum-frequency"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Count Elements With Maximum Frequency",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 77.9,
+        "link": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Counting"
+        ],
+        "slug": "count-elements-with-maximum-frequency"
+      }
+    ],
+    "180d+": [],
+    "all": [
+      {
+        "title": "Count Elements With Maximum Frequency",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 77.9,
+        "link": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Counting"
+        ],
+        "slug": "count-elements-with-maximum-frequency"
+      },
+      {
+        "title": "Frequency of the Most Frequent Element",
+        "difficulty": "MEDIUM",
+        "frequency": 89.4,
+        "acceptance_rate": 44.1,
+        "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy",
+          "Sliding Window",
+          "Sorting",
+          "Prefix Sum"
+        ],
+        "slug": "frequency-of-the-most-frequent-element"
+      }
+    ]
+  }
+}

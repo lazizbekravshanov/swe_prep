@@ -1,0 +1,290 @@
+{
+  "profile": {
+    "name": "Samsara",
+    "slug": "samsara",
+    "total_problems": 6,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.17,
+      "medium": 0.5,
+      "hard": 0.33
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 5
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 2
+      },
+      {
+        "topic": "String",
+        "count": 2
+      },
+      {
+        "topic": "Binary Search",
+        "count": 2
+      },
+      {
+        "topic": "Hash Table",
+        "count": 2
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 1
+      },
+      {
+        "topic": "Rolling Hash",
+        "count": 1
+      },
+      {
+        "topic": "String Matching",
+        "count": 1
+      },
+      {
+        "topic": "Hash Function",
+        "count": 1
+      },
+      {
+        "topic": "Matrix",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Alternating Groups I",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "alternating-groups-i"
+      },
+      {
+        "title": "Alternating Groups II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "alternating-groups-ii"
+      },
+      {
+        "title": "Find Beautiful Indices in the Given Array I",
+        "difficulty": "MEDIUM",
+        "frequency": 85.1,
+        "slug": "find-beautiful-indices-in-the-given-array-i"
+      },
+      {
+        "title": "Valid Sudoku",
+        "difficulty": "MEDIUM",
+        "frequency": 85.1,
+        "slug": "valid-sudoku"
+      },
+      {
+        "title": "Text Justification",
+        "difficulty": "HARD",
+        "frequency": 74.2,
+        "slug": "text-justification"
+      },
+      {
+        "title": "Number of Flowers in Full Bloom",
+        "difficulty": "HARD",
+        "frequency": 65.5,
+        "slug": "number-of-flowers-in-full-bloom"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Valid Sudoku",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/valid-sudoku",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "slug": "valid-sudoku"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Find Beautiful Indices in the Given Array I",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 38.4,
+        "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Binary Search",
+          "Rolling Hash",
+          "String Matching",
+          "Hash Function"
+        ],
+        "slug": "find-beautiful-indices-in-the-given-array-i"
+      },
+      {
+        "title": "Text Justification",
+        "difficulty": "HARD",
+        "frequency": 88.0,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/text-justification",
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "slug": "text-justification"
+      },
+      {
+        "title": "Alternating Groups II",
+        "difficulty": "MEDIUM",
+        "frequency": 78.4,
+        "acceptance_rate": 59.9,
+        "link": "https://leetcode.com/problems/alternating-groups-ii",
+        "topics": [
+          "Array",
+          "Sliding Window"
+        ],
+        "slug": "alternating-groups-ii"
+      },
+      {
+        "title": "Alternating Groups I",
+        "difficulty": "EASY",
+        "frequency": 78.4,
+        "acceptance_rate": 67.7,
+        "link": "https://leetcode.com/problems/alternating-groups-i",
+        "topics": [
+          "Array",
+          "Sliding Window"
+        ],
+        "slug": "alternating-groups-i"
+      },
+      {
+        "title": "Number of Flowers in Full Bloom",
+        "difficulty": "HARD",
+        "frequency": 78.4,
+        "acceptance_rate": 57.2,
+        "link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Sorting",
+          "Prefix Sum",
+          "Ordered Set"
+        ],
+        "slug": "number-of-flowers-in-full-bloom"
+      },
+      {
+        "title": "Valid Sudoku",
+        "difficulty": "MEDIUM",
+        "frequency": 78.4,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/valid-sudoku",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "slug": "valid-sudoku"
+      }
+    ],
+    "all": [
+      {
+        "title": "Alternating Groups I",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 67.7,
+        "link": "https://leetcode.com/problems/alternating-groups-i",
+        "topics": [
+          "Array",
+          "Sliding Window"
+        ],
+        "slug": "alternating-groups-i"
+      },
+      {
+        "title": "Alternating Groups II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 59.9,
+        "link": "https://leetcode.com/problems/alternating-groups-ii",
+        "topics": [
+          "Array",
+          "Sliding Window"
+        ],
+        "slug": "alternating-groups-ii"
+      },
+      {
+        "title": "Find Beautiful Indices in the Given Array I",
+        "difficulty": "MEDIUM",
+        "frequency": 85.1,
+        "acceptance_rate": 38.4,
+        "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Binary Search",
+          "Rolling Hash",
+          "String Matching",
+          "Hash Function"
+        ],
+        "slug": "find-beautiful-indices-in-the-given-array-i"
+      },
+      {
+        "title": "Valid Sudoku",
+        "difficulty": "MEDIUM",
+        "frequency": 85.1,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/valid-sudoku",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "slug": "valid-sudoku"
+      },
+      {
+        "title": "Text Justification",
+        "difficulty": "HARD",
+        "frequency": 74.2,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/text-justification",
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "slug": "text-justification"
+      },
+      {
+        "title": "Number of Flowers in Full Bloom",
+        "difficulty": "HARD",
+        "frequency": 65.5,
+        "acceptance_rate": 57.2,
+        "link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Sorting",
+          "Prefix Sum",
+          "Ordered Set"
+        ],
+        "slug": "number-of-flowers-in-full-bloom"
+      }
+    ]
+  }
+}

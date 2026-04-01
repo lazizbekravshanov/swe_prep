@@ -1,0 +1,185 @@
+{
+  "profile": {
+    "name": "Navi",
+    "slug": "navi",
+    "total_problems": 4,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.75,
+      "hard": 0.25
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 4
+      },
+      {
+        "topic": "Binary Search",
+        "count": 3
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 2
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 1
+      },
+      {
+        "topic": "Stack",
+        "count": 1
+      },
+      {
+        "topic": "Monotonic Stack",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Minimize the Maximum Difference of Pairs",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "minimize-the-maximum-difference-of-pairs"
+      },
+      {
+        "title": "Minimum Number of Days to Make m Bouquets",
+        "difficulty": "MEDIUM",
+        "frequency": 80.7,
+        "slug": "minimum-number-of-days-to-make-m-bouquets"
+      },
+      {
+        "title": "Search in Rotated Sorted Array",
+        "difficulty": "MEDIUM",
+        "frequency": 66.2,
+        "slug": "search-in-rotated-sorted-array"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 66.2,
+        "slug": "trapping-rain-water"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Minimum Number of Days to Make m Bouquets",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 55.5,
+        "link": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "minimum-number-of-days-to-make-m-bouquets"
+      },
+      {
+        "title": "Search in Rotated Sorted Array",
+        "difficulty": "MEDIUM",
+        "frequency": 83.2,
+        "acceptance_rate": 42.8,
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "search-in-rotated-sorted-array"
+      },
+      {
+        "title": "Minimize the Maximum Difference of Pairs",
+        "difficulty": "MEDIUM",
+        "frequency": 83.2,
+        "acceptance_rate": 50.9,
+        "link": "https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "minimize-the-maximum-difference-of-pairs"
+      }
+    ],
+    "all": [
+      {
+        "title": "Minimize the Maximum Difference of Pairs",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 50.9,
+        "link": "https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "minimize-the-maximum-difference-of-pairs"
+      },
+      {
+        "title": "Minimum Number of Days to Make m Bouquets",
+        "difficulty": "MEDIUM",
+        "frequency": 80.7,
+        "acceptance_rate": 55.5,
+        "link": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "minimum-number-of-days-to-make-m-bouquets"
+      },
+      {
+        "title": "Search in Rotated Sorted Array",
+        "difficulty": "MEDIUM",
+        "frequency": 66.2,
+        "acceptance_rate": 42.8,
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "search-in-rotated-sorted-array"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 66.2,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "trapping-rain-water"
+      }
+    ]
+  }
+}

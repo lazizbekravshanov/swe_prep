@@ -1,0 +1,146 @@
+{
+  "profile": {
+    "name": "Teradata",
+    "slug": "teradata",
+    "total_problems": 3,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.33,
+      "medium": 0.33,
+      "hard": 0.33
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 2
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 1
+      },
+      {
+        "topic": "Binary Search",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      },
+      {
+        "topic": "Linked List",
+        "count": 1
+      },
+      {
+        "topic": "Recursion",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Count Pairs in Two Arrays",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "count-pairs-in-two-arrays"
+      },
+      {
+        "title": "Candy",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "candy"
+      },
+      {
+        "title": "Merge Two Sorted Lists",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "merge-two-sorted-lists"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Count Pairs in Two Arrays",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 60.2,
+        "link": "https://leetcode.com/problems/count-pairs-in-two-arrays",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
+        ],
+        "slug": "count-pairs-in-two-arrays"
+      },
+      {
+        "title": "Candy",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 46.7,
+        "link": "https://leetcode.com/problems/candy",
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "slug": "candy"
+      }
+    ],
+    "all": [
+      {
+        "title": "Count Pairs in Two Arrays",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 60.2,
+        "link": "https://leetcode.com/problems/count-pairs-in-two-arrays",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search",
+          "Sorting"
+        ],
+        "slug": "count-pairs-in-two-arrays"
+      },
+      {
+        "title": "Candy",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 46.7,
+        "link": "https://leetcode.com/problems/candy",
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "slug": "candy"
+      },
+      {
+        "title": "Merge Two Sorted Lists",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 66.8,
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "merge-two-sorted-lists"
+      }
+    ]
+  }
+}

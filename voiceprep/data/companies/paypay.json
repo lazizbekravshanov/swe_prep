@@ -1,0 +1,161 @@
+{
+  "profile": {
+    "name": "PayPay",
+    "slug": "paypay",
+    "total_problems": 3,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.33,
+      "medium": 0.33,
+      "hard": 0.33
+    },
+    "top_topics": [
+      {
+        "topic": "String",
+        "count": 2
+      },
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Binary Search",
+        "count": 1
+      },
+      {
+        "topic": "Binary Indexed Tree",
+        "count": 1
+      },
+      {
+        "topic": "Segment Tree",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Largest 3-Same-Digit Number in String",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "largest-3-same-digit-number-in-string"
+      },
+      {
+        "title": "Block Placement Queries",
+        "difficulty": "HARD",
+        "frequency": 73.7,
+        "slug": "block-placement-queries"
+      },
+      {
+        "title": "Zigzag Conversion",
+        "difficulty": "MEDIUM",
+        "frequency": 64.9,
+        "slug": "zigzag-conversion"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [
+      {
+        "title": "Block Placement Queries",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 16.9,
+        "link": "https://leetcode.com/problems/block-placement-queries",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Binary Indexed Tree",
+          "Segment Tree"
+        ],
+        "slug": "block-placement-queries"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Block Placement Queries",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 16.9,
+        "link": "https://leetcode.com/problems/block-placement-queries",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Binary Indexed Tree",
+          "Segment Tree"
+        ],
+        "slug": "block-placement-queries"
+      },
+      {
+        "title": "Zigzag Conversion",
+        "difficulty": "MEDIUM",
+        "frequency": 89.7,
+        "acceptance_rate": 51.6,
+        "link": "https://leetcode.com/problems/zigzag-conversion",
+        "topics": [
+          "String"
+        ],
+        "slug": "zigzag-conversion"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Largest 3-Same-Digit Number in String",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 69.1,
+        "link": "https://leetcode.com/problems/largest-3-same-digit-number-in-string",
+        "topics": [
+          "String"
+        ],
+        "slug": "largest-3-same-digit-number-in-string"
+      }
+    ],
+    "all": [
+      {
+        "title": "Largest 3-Same-Digit Number in String",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 69.1,
+        "link": "https://leetcode.com/problems/largest-3-same-digit-number-in-string",
+        "topics": [
+          "String"
+        ],
+        "slug": "largest-3-same-digit-number-in-string"
+      },
+      {
+        "title": "Block Placement Queries",
+        "difficulty": "HARD",
+        "frequency": 73.7,
+        "acceptance_rate": 16.9,
+        "link": "https://leetcode.com/problems/block-placement-queries",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Binary Indexed Tree",
+          "Segment Tree"
+        ],
+        "slug": "block-placement-queries"
+      },
+      {
+        "title": "Zigzag Conversion",
+        "difficulty": "MEDIUM",
+        "frequency": 64.9,
+        "acceptance_rate": 51.6,
+        "link": "https://leetcode.com/problems/zigzag-conversion",
+        "topics": [
+          "String"
+        ],
+        "slug": "zigzag-conversion"
+      }
+    ]
+  }
+}

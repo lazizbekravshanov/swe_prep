@@ -1,0 +1,203 @@
+{
+  "profile": {
+    "name": "HPE",
+    "slug": "hpe",
+    "total_problems": 4,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.25,
+      "medium": 0.75,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "String",
+        "count": 2
+      },
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 1
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 1
+      },
+      {
+        "topic": "Union Find",
+        "count": 1
+      },
+      {
+        "topic": "Matrix",
+        "count": 1
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 1
+      },
+      {
+        "topic": "Linked List",
+        "count": 1
+      },
+      {
+        "topic": "Recursion",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Merge Two Sorted Lists",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "merge-two-sorted-lists"
+      },
+      {
+        "title": "Reverse Words in a String",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "reverse-words-in-a-string"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Merge Two Sorted Lists",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 66.8,
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "merge-two-sorted-lists"
+      },
+      {
+        "title": "Reverse Words in a String",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 51.9,
+        "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "reverse-words-in-a-string"
+      }
+    ],
+    "all": [
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Merge Two Sorted Lists",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 66.8,
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "merge-two-sorted-lists"
+      },
+      {
+        "title": "Reverse Words in a String",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 51.9,
+        "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "reverse-words-in-a-string"
+      }
+    ]
+  }
+}

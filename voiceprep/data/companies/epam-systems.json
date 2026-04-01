@@ -1,0 +1,1176 @@
+{
+  "profile": {
+    "name": "EPAM Systems",
+    "slug": "epam-systems",
+    "total_problems": 43,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.4,
+      "medium": 0.56,
+      "hard": 0.05
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 21
+      },
+      {
+        "topic": "String",
+        "count": 11
+      },
+      {
+        "topic": "Hash Table",
+        "count": 11
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 10
+      },
+      {
+        "topic": "Sorting",
+        "count": 8
+      },
+      {
+        "topic": "Math",
+        "count": 7
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 7
+      },
+      {
+        "topic": "Linked List",
+        "count": 4
+      },
+      {
+        "topic": "Stack",
+        "count": 3
+      },
+      {
+        "topic": "Binary Search",
+        "count": 3
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 97.6,
+        "slug": "two-sum"
+      },
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 97.6,
+        "slug": "group-anagrams"
+      },
+      {
+        "title": "Minimum Operations to Make a Uni-Value Grid",
+        "difficulty": "MEDIUM",
+        "frequency": 97.6,
+        "slug": "minimum-operations-to-make-a-uni-value-grid"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 91.8,
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Longest Common Prefix",
+        "difficulty": "EASY",
+        "frequency": 84.5,
+        "slug": "longest-common-prefix"
+      },
+      {
+        "title": "Valid Anagram",
+        "difficulty": "EASY",
+        "frequency": 84.5,
+        "slug": "valid-anagram"
+      },
+      {
+        "title": "Valid Palindrome",
+        "difficulty": "EASY",
+        "frequency": 79.8,
+        "slug": "valid-palindrome"
+      },
+      {
+        "title": "Merge Sorted Array",
+        "difficulty": "EASY",
+        "frequency": 79.8,
+        "slug": "merge-sorted-array"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Mix of easy-medium \u2014 focuses on clean code and communication",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 87.0,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 87.0,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Longest Common Prefix",
+        "difficulty": "EASY",
+        "frequency": 76.6,
+        "acceptance_rate": 45.5,
+        "link": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "String",
+          "Trie"
+        ],
+        "slug": "longest-common-prefix"
+      },
+      {
+        "title": "Duplicate Emails",
+        "difficulty": "EASY",
+        "frequency": 76.6,
+        "acceptance_rate": 72.4,
+        "link": "https://leetcode.com/problems/duplicate-emails",
+        "topics": [
+          "Database"
+        ],
+        "slug": "duplicate-emails"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 70.9,
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "group-anagrams"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 94.3,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 82.4,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 82.4,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Valid Palindrome",
+        "difficulty": "EASY",
+        "frequency": 82.4,
+        "acceptance_rate": 51.0,
+        "link": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "valid-palindrome"
+      },
+      {
+        "title": "Valid Anagram",
+        "difficulty": "EASY",
+        "frequency": 82.4,
+        "acceptance_rate": 66.7,
+        "link": "https://leetcode.com/problems/valid-anagram",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "valid-anagram"
+      },
+      {
+        "title": "Longest Common Prefix",
+        "difficulty": "EASY",
+        "frequency": 76.8,
+        "acceptance_rate": 45.5,
+        "link": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "String",
+          "Trie"
+        ],
+        "slug": "longest-common-prefix"
+      },
+      {
+        "title": "Merge Sorted Array",
+        "difficulty": "EASY",
+        "frequency": 76.8,
+        "acceptance_rate": 52.9,
+        "link": "https://leetcode.com/problems/merge-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "merge-sorted-array"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 69.5,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 69.5,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "trapping-rain-water"
+      },
+      {
+        "title": "Maximum Difference Between Node and Ancestor",
+        "difficulty": "MEDIUM",
+        "frequency": 69.5,
+        "acceptance_rate": 78.1,
+        "link": "https://leetcode.com/problems/maximum-difference-between-node-and-ancestor",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "maximum-difference-between-node-and-ancestor"
+      },
+      {
+        "title": "Partition Equal Subset Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 59.3,
+        "acceptance_rate": 48.4,
+        "link": "https://leetcode.com/problems/partition-equal-subset-sum",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "partition-equal-subset-sum"
+      },
+      {
+        "title": "Managers with at Least 5 Direct Reports",
+        "difficulty": "MEDIUM",
+        "frequency": 59.3,
+        "acceptance_rate": 48.9,
+        "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+        "topics": [
+          "Database"
+        ],
+        "slug": "managers-with-at-least-5-direct-reports"
+      },
+      {
+        "title": "Kth Largest Element in an Array",
+        "difficulty": "MEDIUM",
+        "frequency": 59.3,
+        "acceptance_rate": 68.0,
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect"
+        ],
+        "slug": "kth-largest-element-in-an-array"
+      },
+      {
+        "title": "Pow(x, n)",
+        "difficulty": "MEDIUM",
+        "frequency": 59.3,
+        "acceptance_rate": 37.0,
+        "link": "https://leetcode.com/problems/powx-n",
+        "topics": [
+          "Math",
+          "Recursion"
+        ],
+        "slug": "powx-n"
+      },
+      {
+        "title": "Reverse Integer",
+        "difficulty": "MEDIUM",
+        "frequency": 59.3,
+        "acceptance_rate": 30.3,
+        "link": "https://leetcode.com/problems/reverse-integer",
+        "topics": [
+          "Math"
+        ],
+        "slug": "reverse-integer"
+      },
+      {
+        "title": "Longest Consecutive Sequence",
+        "difficulty": "MEDIUM",
+        "frequency": 59.3,
+        "acceptance_rate": 47.0,
+        "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union Find"
+        ],
+        "slug": "longest-consecutive-sequence"
+      },
+      {
+        "title": "Reverse String",
+        "difficulty": "EASY",
+        "frequency": 59.3,
+        "acceptance_rate": 79.8,
+        "link": "https://leetcode.com/problems/reverse-string",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "reverse-string"
+      },
+      {
+        "title": "String Compression",
+        "difficulty": "MEDIUM",
+        "frequency": 59.3,
+        "acceptance_rate": 58.1,
+        "link": "https://leetcode.com/problems/string-compression",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "string-compression"
+      },
+      {
+        "title": "Two Sum II - Input Array Is Sorted",
+        "difficulty": "MEDIUM",
+        "frequency": 59.3,
+        "acceptance_rate": 63.4,
+        "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search"
+        ],
+        "slug": "two-sum-ii-input-array-is-sorted"
+      },
+      {
+        "title": "House Robber",
+        "difficulty": "MEDIUM",
+        "frequency": 59.3,
+        "acceptance_rate": 52.3,
+        "link": "https://leetcode.com/problems/house-robber",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "house-robber"
+      },
+      {
+        "title": "Coin Change",
+        "difficulty": "MEDIUM",
+        "frequency": 59.3,
+        "acceptance_rate": 46.5,
+        "link": "https://leetcode.com/problems/coin-change",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search"
+        ],
+        "slug": "coin-change"
+      },
+      {
+        "title": "Minimum Operations to Make a Uni-Value Grid",
+        "difficulty": "MEDIUM",
+        "frequency": 59.3,
+        "acceptance_rate": 67.5,
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid",
+        "topics": [
+          "Array",
+          "Math",
+          "Sorting",
+          "Matrix"
+        ],
+        "slug": "minimum-operations-to-make-a-uni-value-grid"
+      },
+      {
+        "title": "Binary Search",
+        "difficulty": "EASY",
+        "frequency": 59.3,
+        "acceptance_rate": 59.6,
+        "link": "https://leetcode.com/problems/binary-search",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "binary-search"
+      },
+      {
+        "title": "To Be Or Not To Be",
+        "difficulty": "EASY",
+        "frequency": 59.3,
+        "acceptance_rate": 63.0,
+        "link": "https://leetcode.com/problems/to-be-or-not-to-be",
+        "topics": [],
+        "slug": "to-be-or-not-to-be"
+      },
+      {
+        "title": "Asteroid Collision",
+        "difficulty": "MEDIUM",
+        "frequency": 59.3,
+        "acceptance_rate": 45.5,
+        "link": "https://leetcode.com/problems/asteroid-collision",
+        "topics": [
+          "Array",
+          "Stack",
+          "Simulation"
+        ],
+        "slug": "asteroid-collision"
+      },
+      {
+        "title": "Add Two Numbers",
+        "difficulty": "MEDIUM",
+        "frequency": 59.3,
+        "acceptance_rate": 46.2,
+        "link": "https://leetcode.com/problems/add-two-numbers",
+        "topics": [
+          "Linked List",
+          "Math",
+          "Recursion"
+        ],
+        "slug": "add-two-numbers"
+      },
+      {
+        "title": "Ugly Number II",
+        "difficulty": "MEDIUM",
+        "frequency": 59.3,
+        "acceptance_rate": 49.3,
+        "link": "https://leetcode.com/problems/ugly-number-ii",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "Dynamic Programming",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "ugly-number-ii"
+      },
+      {
+        "title": "Palindrome Number",
+        "difficulty": "EASY",
+        "frequency": 59.3,
+        "acceptance_rate": 59.2,
+        "link": "https://leetcode.com/problems/palindrome-number",
+        "topics": [
+          "Math"
+        ],
+        "slug": "palindrome-number"
+      },
+      {
+        "title": "Isomorphic Strings",
+        "difficulty": "EASY",
+        "frequency": 59.3,
+        "acceptance_rate": 46.9,
+        "link": "https://leetcode.com/problems/isomorphic-strings",
+        "topics": [
+          "Hash Table",
+          "String"
+        ],
+        "slug": "isomorphic-strings"
+      },
+      {
+        "title": "Linked List Cycle",
+        "difficulty": "EASY",
+        "frequency": 59.3,
+        "acceptance_rate": 52.6,
+        "link": "https://leetcode.com/problems/linked-list-cycle",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Two Pointers"
+        ],
+        "slug": "linked-list-cycle"
+      },
+      {
+        "title": "Merge Two Sorted Lists",
+        "difficulty": "EASY",
+        "frequency": 59.3,
+        "acceptance_rate": 66.8,
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "merge-two-sorted-lists"
+      },
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 59.3,
+        "acceptance_rate": 37.1,
+        "link": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "3sum"
+      },
+      {
+        "title": "Reverse Linked List II",
+        "difficulty": "MEDIUM",
+        "frequency": 59.3,
+        "acceptance_rate": 49.6,
+        "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+        "topics": [
+          "Linked List"
+        ],
+        "slug": "reverse-linked-list-ii"
+      }
+    ],
+    "all": [
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 97.6,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 97.6,
+        "acceptance_rate": 70.9,
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "group-anagrams"
+      },
+      {
+        "title": "Minimum Operations to Make a Uni-Value Grid",
+        "difficulty": "MEDIUM",
+        "frequency": 97.6,
+        "acceptance_rate": 67.5,
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid",
+        "topics": [
+          "Array",
+          "Math",
+          "Sorting",
+          "Matrix"
+        ],
+        "slug": "minimum-operations-to-make-a-uni-value-grid"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 91.8,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Longest Common Prefix",
+        "difficulty": "EASY",
+        "frequency": 84.5,
+        "acceptance_rate": 45.5,
+        "link": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "String",
+          "Trie"
+        ],
+        "slug": "longest-common-prefix"
+      },
+      {
+        "title": "Valid Anagram",
+        "difficulty": "EASY",
+        "frequency": 84.5,
+        "acceptance_rate": 66.7,
+        "link": "https://leetcode.com/problems/valid-anagram",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "valid-anagram"
+      },
+      {
+        "title": "Valid Palindrome",
+        "difficulty": "EASY",
+        "frequency": 79.8,
+        "acceptance_rate": 51.0,
+        "link": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "valid-palindrome"
+      },
+      {
+        "title": "Merge Sorted Array",
+        "difficulty": "EASY",
+        "frequency": 79.8,
+        "acceptance_rate": 52.9,
+        "link": "https://leetcode.com/problems/merge-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "merge-sorted-array"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 74.1,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Maximum Difference Between Node and Ancestor",
+        "difficulty": "MEDIUM",
+        "frequency": 66.8,
+        "acceptance_rate": 78.1,
+        "link": "https://leetcode.com/problems/maximum-difference-between-node-and-ancestor",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "maximum-difference-between-node-and-ancestor"
+      },
+      {
+        "title": "Two Sum II - Input Array Is Sorted",
+        "difficulty": "MEDIUM",
+        "frequency": 66.8,
+        "acceptance_rate": 63.4,
+        "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Binary Search"
+        ],
+        "slug": "two-sum-ii-input-array-is-sorted"
+      },
+      {
+        "title": "Pow(x, n)",
+        "difficulty": "MEDIUM",
+        "frequency": 66.8,
+        "acceptance_rate": 37.0,
+        "link": "https://leetcode.com/problems/powx-n",
+        "topics": [
+          "Math",
+          "Recursion"
+        ],
+        "slug": "powx-n"
+      },
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 66.8,
+        "acceptance_rate": 37.1,
+        "link": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "3sum"
+      },
+      {
+        "title": "Palindrome Number",
+        "difficulty": "EASY",
+        "frequency": 66.8,
+        "acceptance_rate": 59.2,
+        "link": "https://leetcode.com/problems/palindrome-number",
+        "topics": [
+          "Math"
+        ],
+        "slug": "palindrome-number"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 66.8,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "trapping-rain-water"
+      },
+      {
+        "title": "Merge Two Sorted Lists",
+        "difficulty": "EASY",
+        "frequency": 66.8,
+        "acceptance_rate": 66.8,
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "merge-two-sorted-lists"
+      },
+      {
+        "title": "Reverse String",
+        "difficulty": "EASY",
+        "frequency": 66.8,
+        "acceptance_rate": 79.8,
+        "link": "https://leetcode.com/problems/reverse-string",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "reverse-string"
+      },
+      {
+        "title": "Reverse Linked List II",
+        "difficulty": "MEDIUM",
+        "frequency": 56.5,
+        "acceptance_rate": 49.6,
+        "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+        "topics": [
+          "Linked List"
+        ],
+        "slug": "reverse-linked-list-ii"
+      },
+      {
+        "title": "Rotate Array",
+        "difficulty": "MEDIUM",
+        "frequency": 56.5,
+        "acceptance_rate": 43.0,
+        "link": "https://leetcode.com/problems/rotate-array",
+        "topics": [
+          "Array",
+          "Math",
+          "Two Pointers"
+        ],
+        "slug": "rotate-array"
+      },
+      {
+        "title": "First Missing Positive",
+        "difficulty": "HARD",
+        "frequency": 56.5,
+        "acceptance_rate": 41.1,
+        "link": "https://leetcode.com/problems/first-missing-positive",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "first-missing-positive"
+      },
+      {
+        "title": "Top K Frequent Elements",
+        "difficulty": "MEDIUM",
+        "frequency": 56.5,
+        "acceptance_rate": 64.6,
+        "link": "https://leetcode.com/problems/top-k-frequent-elements",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "slug": "top-k-frequent-elements"
+      },
+      {
+        "title": "First Unique Character in a String",
+        "difficulty": "EASY",
+        "frequency": 56.5,
+        "acceptance_rate": 63.7,
+        "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Queue",
+          "Counting"
+        ],
+        "slug": "first-unique-character-in-a-string"
+      },
+      {
+        "title": "Running Sum of 1d Array",
+        "difficulty": "EASY",
+        "frequency": 56.5,
+        "acceptance_rate": 87.0,
+        "link": "https://leetcode.com/problems/running-sum-of-1d-array",
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "slug": "running-sum-of-1d-array"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 56.5,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Duplicate Emails",
+        "difficulty": "EASY",
+        "frequency": 56.5,
+        "acceptance_rate": 72.4,
+        "link": "https://leetcode.com/problems/duplicate-emails",
+        "topics": [
+          "Database"
+        ],
+        "slug": "duplicate-emails"
+      },
+      {
+        "title": "String Compression",
+        "difficulty": "MEDIUM",
+        "frequency": 56.5,
+        "acceptance_rate": 58.1,
+        "link": "https://leetcode.com/problems/string-compression",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "string-compression"
+      },
+      {
+        "title": "Binary Search",
+        "difficulty": "EASY",
+        "frequency": 56.5,
+        "acceptance_rate": 59.6,
+        "link": "https://leetcode.com/problems/binary-search",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "binary-search"
+      },
+      {
+        "title": "House Robber",
+        "difficulty": "MEDIUM",
+        "frequency": 56.5,
+        "acceptance_rate": 52.3,
+        "link": "https://leetcode.com/problems/house-robber",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "house-robber"
+      },
+      {
+        "title": "Longest Consecutive Sequence",
+        "difficulty": "MEDIUM",
+        "frequency": 56.5,
+        "acceptance_rate": 47.0,
+        "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union Find"
+        ],
+        "slug": "longest-consecutive-sequence"
+      },
+      {
+        "title": "Reverse Integer",
+        "difficulty": "MEDIUM",
+        "frequency": 56.5,
+        "acceptance_rate": 30.3,
+        "link": "https://leetcode.com/problems/reverse-integer",
+        "topics": [
+          "Math"
+        ],
+        "slug": "reverse-integer"
+      },
+      {
+        "title": "Kth Largest Element in an Array",
+        "difficulty": "MEDIUM",
+        "frequency": 56.5,
+        "acceptance_rate": 68.0,
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect"
+        ],
+        "slug": "kth-largest-element-in-an-array"
+      },
+      {
+        "title": "Partition Equal Subset Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 56.5,
+        "acceptance_rate": 48.4,
+        "link": "https://leetcode.com/problems/partition-equal-subset-sum",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "partition-equal-subset-sum"
+      },
+      {
+        "title": "Managers with at Least 5 Direct Reports",
+        "difficulty": "MEDIUM",
+        "frequency": 56.5,
+        "acceptance_rate": 48.9,
+        "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+        "topics": [
+          "Database"
+        ],
+        "slug": "managers-with-at-least-5-direct-reports"
+      },
+      {
+        "title": "Add Two Numbers",
+        "difficulty": "MEDIUM",
+        "frequency": 56.5,
+        "acceptance_rate": 46.2,
+        "link": "https://leetcode.com/problems/add-two-numbers",
+        "topics": [
+          "Linked List",
+          "Math",
+          "Recursion"
+        ],
+        "slug": "add-two-numbers"
+      },
+      {
+        "title": "Coin Change",
+        "difficulty": "MEDIUM",
+        "frequency": 56.5,
+        "acceptance_rate": 46.5,
+        "link": "https://leetcode.com/problems/coin-change",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search"
+        ],
+        "slug": "coin-change"
+      },
+      {
+        "title": "Ugly Number II",
+        "difficulty": "MEDIUM",
+        "frequency": 56.5,
+        "acceptance_rate": 49.3,
+        "link": "https://leetcode.com/problems/ugly-number-ii",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "Dynamic Programming",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "ugly-number-ii"
+      },
+      {
+        "title": "To Be Or Not To Be",
+        "difficulty": "EASY",
+        "frequency": 56.5,
+        "acceptance_rate": 63.0,
+        "link": "https://leetcode.com/problems/to-be-or-not-to-be",
+        "topics": [],
+        "slug": "to-be-or-not-to-be"
+      },
+      {
+        "title": "Asteroid Collision",
+        "difficulty": "MEDIUM",
+        "frequency": 56.5,
+        "acceptance_rate": 45.5,
+        "link": "https://leetcode.com/problems/asteroid-collision",
+        "topics": [
+          "Array",
+          "Stack",
+          "Simulation"
+        ],
+        "slug": "asteroid-collision"
+      },
+      {
+        "title": "Isomorphic Strings",
+        "difficulty": "EASY",
+        "frequency": 56.5,
+        "acceptance_rate": 46.9,
+        "link": "https://leetcode.com/problems/isomorphic-strings",
+        "topics": [
+          "Hash Table",
+          "String"
+        ],
+        "slug": "isomorphic-strings"
+      },
+      {
+        "title": "Linked List Cycle",
+        "difficulty": "EASY",
+        "frequency": 56.5,
+        "acceptance_rate": 52.6,
+        "link": "https://leetcode.com/problems/linked-list-cycle",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Two Pointers"
+        ],
+        "slug": "linked-list-cycle"
+      },
+      {
+        "title": "Search in Rotated Sorted Array",
+        "difficulty": "MEDIUM",
+        "frequency": 56.5,
+        "acceptance_rate": 42.8,
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "search-in-rotated-sorted-array"
+      }
+    ]
+  }
+}

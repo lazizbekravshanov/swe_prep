@@ -1,0 +1,193 @@
+{
+  "profile": {
+    "name": "Rokt",
+    "slug": "rokt",
+    "total_problems": 4,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.5,
+      "medium": 0.25,
+      "hard": 0.25
+    },
+    "top_topics": [
+      {
+        "topic": "String",
+        "count": 4
+      },
+      {
+        "topic": "Math",
+        "count": 2
+      },
+      {
+        "topic": "Stack",
+        "count": 2
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 1
+      },
+      {
+        "topic": "Recursion",
+        "count": 1
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Valid Word Abbreviation",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "valid-word-abbreviation"
+      },
+      {
+        "title": "Basic Calculator II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "basic-calculator-ii"
+      },
+      {
+        "title": "Basic Calculator",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "basic-calculator"
+      },
+      {
+        "title": "Valid Anagram",
+        "difficulty": "EASY",
+        "frequency": 89.8,
+        "slug": "valid-anagram"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Mix of easy-medium \u2014 focuses on clean code and communication",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Basic Calculator",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 45.6,
+        "link": "https://leetcode.com/problems/basic-calculator",
+        "topics": [
+          "Math",
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "basic-calculator"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Valid Anagram",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 66.7,
+        "link": "https://leetcode.com/problems/valid-anagram",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "valid-anagram"
+      },
+      {
+        "title": "Valid Word Abbreviation",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/valid-word-abbreviation",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "valid-word-abbreviation"
+      },
+      {
+        "title": "Basic Calculator II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 45.8,
+        "link": "https://leetcode.com/problems/basic-calculator-ii",
+        "topics": [
+          "Math",
+          "String",
+          "Stack"
+        ],
+        "slug": "basic-calculator-ii"
+      }
+    ],
+    "all": [
+      {
+        "title": "Valid Word Abbreviation",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/valid-word-abbreviation",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "valid-word-abbreviation"
+      },
+      {
+        "title": "Basic Calculator II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 45.8,
+        "link": "https://leetcode.com/problems/basic-calculator-ii",
+        "topics": [
+          "Math",
+          "String",
+          "Stack"
+        ],
+        "slug": "basic-calculator-ii"
+      },
+      {
+        "title": "Basic Calculator",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 45.6,
+        "link": "https://leetcode.com/problems/basic-calculator",
+        "topics": [
+          "Math",
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "basic-calculator"
+      },
+      {
+        "title": "Valid Anagram",
+        "difficulty": "EASY",
+        "frequency": 89.8,
+        "acceptance_rate": 66.7,
+        "link": "https://leetcode.com/problems/valid-anagram",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "valid-anagram"
+      }
+    ]
+  }
+}

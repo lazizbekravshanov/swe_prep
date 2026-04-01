@@ -1,0 +1,154 @@
+{
+  "profile": {
+    "name": "Cashfree",
+    "slug": "cashfree",
+    "total_problems": 3,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 1.0,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 3
+      },
+      {
+        "topic": "Binary Search",
+        "count": 1
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 1
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "House Robber IV",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "house-robber-iv"
+      },
+      {
+        "title": "Maximum Erasure Value",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "maximum-erasure-value"
+      },
+      {
+        "title": "Non-decreasing Array",
+        "difficulty": "MEDIUM",
+        "frequency": 66.3,
+        "slug": "non-decreasing-array"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "House Robber IV",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 65.2,
+        "link": "https://leetcode.com/problems/house-robber-iv",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "slug": "house-robber-iv"
+      },
+      {
+        "title": "Maximum Erasure Value",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 59.4,
+        "link": "https://leetcode.com/problems/maximum-erasure-value",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window"
+        ],
+        "slug": "maximum-erasure-value"
+      },
+      {
+        "title": "Non-decreasing Array",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 25.1,
+        "link": "https://leetcode.com/problems/non-decreasing-array",
+        "topics": [
+          "Array"
+        ],
+        "slug": "non-decreasing-array"
+      }
+    ],
+    "all": [
+      {
+        "title": "House Robber IV",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 65.2,
+        "link": "https://leetcode.com/problems/house-robber-iv",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "slug": "house-robber-iv"
+      },
+      {
+        "title": "Maximum Erasure Value",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 59.4,
+        "link": "https://leetcode.com/problems/maximum-erasure-value",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window"
+        ],
+        "slug": "maximum-erasure-value"
+      },
+      {
+        "title": "Non-decreasing Array",
+        "difficulty": "MEDIUM",
+        "frequency": 66.3,
+        "acceptance_rate": 25.1,
+        "link": "https://leetcode.com/problems/non-decreasing-array",
+        "topics": [
+          "Array"
+        ],
+        "slug": "non-decreasing-array"
+      }
+    ]
+  }
+}

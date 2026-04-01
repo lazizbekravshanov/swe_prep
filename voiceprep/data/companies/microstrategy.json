@@ -1,0 +1,307 @@
+{
+  "profile": {
+    "name": "Microstrategy",
+    "slug": "microstrategy",
+    "total_problems": 9,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.22,
+      "medium": 0.78,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 5
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 3
+      },
+      {
+        "topic": "String",
+        "count": 3
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 2
+      },
+      {
+        "topic": "Stack",
+        "count": 2
+      },
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "Brainteaser",
+        "count": 1
+      },
+      {
+        "topic": "Probability and Statistics",
+        "count": 1
+      },
+      {
+        "topic": "Simulation",
+        "count": 1
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Airplane Seat Assignment Probability",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "airplane-seat-assignment-probability"
+      },
+      {
+        "title": "Zigzag Conversion",
+        "difficulty": "MEDIUM",
+        "frequency": 85.2,
+        "slug": "zigzag-conversion"
+      },
+      {
+        "title": "Backspace String Compare",
+        "difficulty": "EASY",
+        "frequency": 80.4,
+        "slug": "backspace-string-compare"
+      },
+      {
+        "title": "Top K Frequent Elements",
+        "difficulty": "MEDIUM",
+        "frequency": 65.6,
+        "slug": "top-k-frequent-elements"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 65.6,
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Battleships in a Board",
+        "difficulty": "MEDIUM",
+        "frequency": 65.6,
+        "slug": "battleships-in-a-board"
+      },
+      {
+        "title": "Number of Ways to Build Sturdy Brick Wall",
+        "difficulty": "MEDIUM",
+        "frequency": 65.6,
+        "slug": "number-of-ways-to-build-sturdy-brick-wall"
+      },
+      {
+        "title": "Permutations",
+        "difficulty": "MEDIUM",
+        "frequency": 65.6,
+        "slug": "permutations"
+      },
+      {
+        "title": "Minimum Number of Swaps to Make the String Balanced",
+        "difficulty": "MEDIUM",
+        "frequency": 65.6,
+        "slug": "minimum-number-of-swaps-to-make-the-string-balanced"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Backspace String Compare",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 49.5,
+        "link": "https://leetcode.com/problems/backspace-string-compare",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Stack",
+          "Simulation"
+        ],
+        "slug": "backspace-string-compare"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Zigzag Conversion",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 51.6,
+        "link": "https://leetcode.com/problems/zigzag-conversion",
+        "topics": [
+          "String"
+        ],
+        "slug": "zigzag-conversion"
+      },
+      {
+        "title": "Airplane Seat Assignment Probability",
+        "difficulty": "MEDIUM",
+        "frequency": 78.5,
+        "acceptance_rate": 66.7,
+        "link": "https://leetcode.com/problems/airplane-seat-assignment-probability",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Brainteaser",
+          "Probability and Statistics"
+        ],
+        "slug": "airplane-seat-assignment-probability"
+      },
+      {
+        "title": "Backspace String Compare",
+        "difficulty": "EASY",
+        "frequency": 78.5,
+        "acceptance_rate": 49.5,
+        "link": "https://leetcode.com/problems/backspace-string-compare",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Stack",
+          "Simulation"
+        ],
+        "slug": "backspace-string-compare"
+      }
+    ],
+    "all": [
+      {
+        "title": "Airplane Seat Assignment Probability",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 66.7,
+        "link": "https://leetcode.com/problems/airplane-seat-assignment-probability",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Brainteaser",
+          "Probability and Statistics"
+        ],
+        "slug": "airplane-seat-assignment-probability"
+      },
+      {
+        "title": "Zigzag Conversion",
+        "difficulty": "MEDIUM",
+        "frequency": 85.2,
+        "acceptance_rate": 51.6,
+        "link": "https://leetcode.com/problems/zigzag-conversion",
+        "topics": [
+          "String"
+        ],
+        "slug": "zigzag-conversion"
+      },
+      {
+        "title": "Backspace String Compare",
+        "difficulty": "EASY",
+        "frequency": 80.4,
+        "acceptance_rate": 49.5,
+        "link": "https://leetcode.com/problems/backspace-string-compare",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Stack",
+          "Simulation"
+        ],
+        "slug": "backspace-string-compare"
+      },
+      {
+        "title": "Top K Frequent Elements",
+        "difficulty": "MEDIUM",
+        "frequency": 65.6,
+        "acceptance_rate": 64.6,
+        "link": "https://leetcode.com/problems/top-k-frequent-elements",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "slug": "top-k-frequent-elements"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 65.6,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Battleships in a Board",
+        "difficulty": "MEDIUM",
+        "frequency": 65.6,
+        "acceptance_rate": 76.6,
+        "link": "https://leetcode.com/problems/battleships-in-a-board",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "slug": "battleships-in-a-board"
+      },
+      {
+        "title": "Number of Ways to Build Sturdy Brick Wall",
+        "difficulty": "MEDIUM",
+        "frequency": 65.6,
+        "acceptance_rate": 49.5,
+        "link": "https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Bitmask"
+        ],
+        "slug": "number-of-ways-to-build-sturdy-brick-wall"
+      },
+      {
+        "title": "Permutations",
+        "difficulty": "MEDIUM",
+        "frequency": 65.6,
+        "acceptance_rate": 80.7,
+        "link": "https://leetcode.com/problems/permutations",
+        "topics": [
+          "Array",
+          "Backtracking"
+        ],
+        "slug": "permutations"
+      },
+      {
+        "title": "Minimum Number of Swaps to Make the String Balanced",
+        "difficulty": "MEDIUM",
+        "frequency": 65.6,
+        "acceptance_rate": 78.0,
+        "link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Stack",
+          "Greedy"
+        ],
+        "slug": "minimum-number-of-swaps-to-make-the-string-balanced"
+      }
+    ]
+  }
+}

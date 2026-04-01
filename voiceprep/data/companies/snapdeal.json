@@ -1,0 +1,148 @@
+{
+  "profile": {
+    "name": "Snapdeal",
+    "slug": "snapdeal",
+    "total_problems": 3,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.33,
+      "medium": 0.67,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 2
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 2
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      },
+      {
+        "topic": "Binary Search",
+        "count": 1
+      },
+      {
+        "topic": "Tree",
+        "count": 1
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 1
+      },
+      {
+        "topic": "Binary Tree",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Longest Arithmetic Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "longest-arithmetic-subsequence"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 67.6,
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "difficulty": "MEDIUM",
+        "frequency": 67.6,
+        "slug": "lowest-common-ancestor-of-a-binary-tree"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems",
+        "Tree traversal problems are frequently asked"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Longest Arithmetic Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 49.5,
+        "link": "https://leetcode.com/problems/longest-arithmetic-subsequence",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-arithmetic-subsequence"
+      }
+    ],
+    "all": [
+      {
+        "title": "Longest Arithmetic Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 49.5,
+        "link": "https://leetcode.com/problems/longest-arithmetic-subsequence",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-arithmetic-subsequence"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 67.6,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "difficulty": "MEDIUM",
+        "frequency": 67.6,
+        "acceptance_rate": 66.8,
+        "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "lowest-common-ancestor-of-a-binary-tree"
+      }
+    ]
+  }
+}

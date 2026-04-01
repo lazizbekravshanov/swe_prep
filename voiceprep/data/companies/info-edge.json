@@ -1,0 +1,300 @@
+{
+  "profile": {
+    "name": "Info Edge",
+    "slug": "info-edge",
+    "total_problems": 7,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.14,
+      "medium": 0.71,
+      "hard": 0.14
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 5
+      },
+      {
+        "topic": "Hash Table",
+        "count": 3
+      },
+      {
+        "topic": "Linked List",
+        "count": 1
+      },
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "Number Theory",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      },
+      {
+        "topic": "Counting",
+        "count": 1
+      },
+      {
+        "topic": "Enumeration",
+        "count": 1
+      },
+      {
+        "topic": "Bit Manipulation",
+        "count": 1
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points"
+      },
+      {
+        "title": "Find the Maximum Factor Score of Array",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "find-the-maximum-factor-score-of-array"
+      },
+      {
+        "title": "Count Almost Equal Pairs I",
+        "difficulty": "MEDIUM",
+        "frequency": 95.0,
+        "slug": "count-almost-equal-pairs-i"
+      },
+      {
+        "title": "Two Out of Three",
+        "difficulty": "EASY",
+        "frequency": 84.5,
+        "slug": "two-out-of-three"
+      },
+      {
+        "title": "Bus Routes",
+        "difficulty": "HARD",
+        "frequency": 73.1,
+        "slug": "bus-routes"
+      },
+      {
+        "title": "Subrectangle Queries",
+        "difficulty": "MEDIUM",
+        "frequency": 73.1,
+        "slug": "subrectangle-queries"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 64.1,
+        "slug": "longest-palindromic-substring"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Count Almost Equal Pairs I",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 37.5,
+        "link": "https://leetcode.com/problems/count-almost-equal-pairs-i",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting",
+          "Counting",
+          "Enumeration"
+        ],
+        "slug": "count-almost-equal-pairs-i"
+      },
+      {
+        "title": "Two Out of Three",
+        "difficulty": "EASY",
+        "frequency": 90.0,
+        "acceptance_rate": 76.6,
+        "link": "https://leetcode.com/problems/two-out-of-three",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Bit Manipulation"
+        ],
+        "slug": "two-out-of-three"
+      },
+      {
+        "title": "Bus Routes",
+        "difficulty": "HARD",
+        "frequency": 79.1,
+        "acceptance_rate": 47.0,
+        "link": "https://leetcode.com/problems/bus-routes",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Breadth-First Search"
+        ],
+        "slug": "bus-routes"
+      },
+      {
+        "title": "Subrectangle Queries",
+        "difficulty": "MEDIUM",
+        "frequency": 79.1,
+        "acceptance_rate": 86.0,
+        "link": "https://leetcode.com/problems/subrectangle-queries",
+        "topics": [
+          "Array",
+          "Design",
+          "Matrix"
+        ],
+        "slug": "subrectangle-queries"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Find the Maximum Factor Score of Array",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 40.4,
+        "link": "https://leetcode.com/problems/find-the-maximum-factor-score-of-array",
+        "topics": [
+          "Array",
+          "Math",
+          "Number Theory"
+        ],
+        "slug": "find-the-maximum-factor-score-of-array"
+      },
+      {
+        "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+        "difficulty": "MEDIUM",
+        "frequency": 66.9,
+        "acceptance_rate": 69.5,
+        "link": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+        "topics": [
+          "Linked List"
+        ],
+        "slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 66.9,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      }
+    ],
+    "all": [
+      {
+        "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 69.5,
+        "link": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+        "topics": [
+          "Linked List"
+        ],
+        "slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points"
+      },
+      {
+        "title": "Find the Maximum Factor Score of Array",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 40.4,
+        "link": "https://leetcode.com/problems/find-the-maximum-factor-score-of-array",
+        "topics": [
+          "Array",
+          "Math",
+          "Number Theory"
+        ],
+        "slug": "find-the-maximum-factor-score-of-array"
+      },
+      {
+        "title": "Count Almost Equal Pairs I",
+        "difficulty": "MEDIUM",
+        "frequency": 95.0,
+        "acceptance_rate": 37.5,
+        "link": "https://leetcode.com/problems/count-almost-equal-pairs-i",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting",
+          "Counting",
+          "Enumeration"
+        ],
+        "slug": "count-almost-equal-pairs-i"
+      },
+      {
+        "title": "Two Out of Three",
+        "difficulty": "EASY",
+        "frequency": 84.5,
+        "acceptance_rate": 76.6,
+        "link": "https://leetcode.com/problems/two-out-of-three",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Bit Manipulation"
+        ],
+        "slug": "two-out-of-three"
+      },
+      {
+        "title": "Bus Routes",
+        "difficulty": "HARD",
+        "frequency": 73.1,
+        "acceptance_rate": 47.0,
+        "link": "https://leetcode.com/problems/bus-routes",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Breadth-First Search"
+        ],
+        "slug": "bus-routes"
+      },
+      {
+        "title": "Subrectangle Queries",
+        "difficulty": "MEDIUM",
+        "frequency": 73.1,
+        "acceptance_rate": 86.0,
+        "link": "https://leetcode.com/problems/subrectangle-queries",
+        "topics": [
+          "Array",
+          "Design",
+          "Matrix"
+        ],
+        "slug": "subrectangle-queries"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 64.1,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      }
+    ]
+  }
+}

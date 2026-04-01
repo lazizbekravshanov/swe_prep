@@ -1,0 +1,179 @@
+{
+  "profile": {
+    "name": "GSN Games",
+    "slug": "gsn-games",
+    "total_problems": 5,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.4,
+      "medium": 0.4,
+      "hard": 0.2
+    },
+    "top_topics": [
+      {
+        "topic": "Database",
+        "count": 5
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Game Play Analysis V",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "game-play-analysis-v"
+      },
+      {
+        "title": "Game Play Analysis I",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "game-play-analysis-i"
+      },
+      {
+        "title": "Game Play Analysis II",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "game-play-analysis-ii"
+      },
+      {
+        "title": "Game Play Analysis III",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "game-play-analysis-iii"
+      },
+      {
+        "title": "Game Play Analysis IV",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "game-play-analysis-iv"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "database"
+      ],
+      "style_notes": [
+        "Mix of easy-medium \u2014 focuses on clean code and communication"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Game Play Analysis V",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 50.8,
+        "link": "https://leetcode.com/problems/game-play-analysis-v",
+        "topics": [
+          "Database"
+        ],
+        "slug": "game-play-analysis-v"
+      },
+      {
+        "title": "Game Play Analysis I",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 75.8,
+        "link": "https://leetcode.com/problems/game-play-analysis-i",
+        "topics": [
+          "Database"
+        ],
+        "slug": "game-play-analysis-i"
+      },
+      {
+        "title": "Game Play Analysis II",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 54.0,
+        "link": "https://leetcode.com/problems/game-play-analysis-ii",
+        "topics": [
+          "Database"
+        ],
+        "slug": "game-play-analysis-ii"
+      },
+      {
+        "title": "Game Play Analysis III",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 81.3,
+        "link": "https://leetcode.com/problems/game-play-analysis-iii",
+        "topics": [
+          "Database"
+        ],
+        "slug": "game-play-analysis-iii"
+      },
+      {
+        "title": "Game Play Analysis IV",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 39.4,
+        "link": "https://leetcode.com/problems/game-play-analysis-iv",
+        "topics": [
+          "Database"
+        ],
+        "slug": "game-play-analysis-iv"
+      }
+    ],
+    "all": [
+      {
+        "title": "Game Play Analysis V",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 50.8,
+        "link": "https://leetcode.com/problems/game-play-analysis-v",
+        "topics": [
+          "Database"
+        ],
+        "slug": "game-play-analysis-v"
+      },
+      {
+        "title": "Game Play Analysis I",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 75.8,
+        "link": "https://leetcode.com/problems/game-play-analysis-i",
+        "topics": [
+          "Database"
+        ],
+        "slug": "game-play-analysis-i"
+      },
+      {
+        "title": "Game Play Analysis II",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 54.0,
+        "link": "https://leetcode.com/problems/game-play-analysis-ii",
+        "topics": [
+          "Database"
+        ],
+        "slug": "game-play-analysis-ii"
+      },
+      {
+        "title": "Game Play Analysis III",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 81.3,
+        "link": "https://leetcode.com/problems/game-play-analysis-iii",
+        "topics": [
+          "Database"
+        ],
+        "slug": "game-play-analysis-iii"
+      },
+      {
+        "title": "Game Play Analysis IV",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 39.4,
+        "link": "https://leetcode.com/problems/game-play-analysis-iv",
+        "topics": [
+          "Database"
+        ],
+        "slug": "game-play-analysis-iv"
+      }
+    ]
+  }
+}

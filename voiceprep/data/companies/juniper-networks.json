@@ -1,0 +1,169 @@
+{
+  "profile": {
+    "name": "Juniper Networks",
+    "slug": "juniper-networks",
+    "total_problems": 3,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 1.0,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Tree",
+        "count": 1
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 1
+      },
+      {
+        "topic": "Binary Tree",
+        "count": 1
+      },
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 1
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 1
+      },
+      {
+        "topic": "Linked List",
+        "count": 1
+      },
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "Stack",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Boundary of Binary Tree",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "boundary-of-binary-tree"
+      },
+      {
+        "title": "Coin Change",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "coin-change"
+      },
+      {
+        "title": "Add Two Numbers II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "add-two-numbers-ii"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems",
+        "Tree traversal problems are frequently asked"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Boundary of Binary Tree",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 47.2,
+        "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "boundary-of-binary-tree"
+      },
+      {
+        "title": "Coin Change",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 46.5,
+        "link": "https://leetcode.com/problems/coin-change",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search"
+        ],
+        "slug": "coin-change"
+      },
+      {
+        "title": "Add Two Numbers II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 61.8,
+        "link": "https://leetcode.com/problems/add-two-numbers-ii",
+        "topics": [
+          "Linked List",
+          "Math",
+          "Stack"
+        ],
+        "slug": "add-two-numbers-ii"
+      }
+    ],
+    "all": [
+      {
+        "title": "Boundary of Binary Tree",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 47.2,
+        "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "boundary-of-binary-tree"
+      },
+      {
+        "title": "Coin Change",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 46.5,
+        "link": "https://leetcode.com/problems/coin-change",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search"
+        ],
+        "slug": "coin-change"
+      },
+      {
+        "title": "Add Two Numbers II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 61.8,
+        "link": "https://leetcode.com/problems/add-two-numbers-ii",
+        "topics": [
+          "Linked List",
+          "Math",
+          "Stack"
+        ],
+        "slug": "add-two-numbers-ii"
+      }
+    ]
+  }
+}

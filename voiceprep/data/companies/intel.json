@@ -1,0 +1,731 @@
+{
+  "profile": {
+    "name": "Intel",
+    "slug": "intel",
+    "total_problems": 25,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.4,
+      "medium": 0.56,
+      "hard": 0.04
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 11
+      },
+      {
+        "topic": "Hash Table",
+        "count": 7
+      },
+      {
+        "topic": "String",
+        "count": 6
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 6
+      },
+      {
+        "topic": "Math",
+        "count": 6
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 5
+      },
+      {
+        "topic": "Linked List",
+        "count": 5
+      },
+      {
+        "topic": "Stack",
+        "count": 3
+      },
+      {
+        "topic": "Design",
+        "count": 2
+      },
+      {
+        "topic": "Counting",
+        "count": 2
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Maximum Nesting Depth of the Parentheses",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "maximum-nesting-depth-of-the-parentheses"
+      },
+      {
+        "title": "Find Consecutive Integers from a Data Stream",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "find-consecutive-integers-from-a-data-stream"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "trapping-rain-water"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 94.4,
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 94.4,
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Copy List with Random Pointer",
+        "difficulty": "MEDIUM",
+        "frequency": 87.1,
+        "slug": "copy-list-with-random-pointer"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 82.5,
+        "slug": "two-sum"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 76.9,
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Count Primes",
+        "difficulty": "MEDIUM",
+        "frequency": 76.9,
+        "slug": "count-primes"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock II",
+        "difficulty": "MEDIUM",
+        "frequency": 69.6,
+        "slug": "best-time-to-buy-and-sell-stock-ii"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Mix of easy-medium \u2014 focuses on clean code and communication",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 89.2,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Maximum Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 89.2,
+        "acceptance_rate": 52.1,
+        "link": "https://leetcode.com/problems/maximum-subarray",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "slug": "maximum-subarray"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "trapping-rain-water"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 94.5,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Copy List with Random Pointer",
+        "difficulty": "MEDIUM",
+        "frequency": 87.5,
+        "acceptance_rate": 60.5,
+        "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+        "topics": [
+          "Hash Table",
+          "Linked List"
+        ],
+        "slug": "copy-list-with-random-pointer"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 87.5,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Count Primes",
+        "difficulty": "MEDIUM",
+        "frequency": 70.6,
+        "acceptance_rate": 34.8,
+        "link": "https://leetcode.com/problems/count-primes",
+        "topics": [
+          "Array",
+          "Math",
+          "Enumeration",
+          "Number Theory"
+        ],
+        "slug": "count-primes"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock II",
+        "difficulty": "MEDIUM",
+        "frequency": 70.6,
+        "acceptance_rate": 69.5,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock-ii"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 70.6,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 60.7,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Climbing Stairs",
+        "difficulty": "EASY",
+        "frequency": 60.7,
+        "acceptance_rate": 53.5,
+        "link": "https://leetcode.com/problems/climbing-stairs",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "slug": "climbing-stairs"
+      },
+      {
+        "title": "Merge Two Sorted Lists",
+        "difficulty": "EASY",
+        "frequency": 60.7,
+        "acceptance_rate": 66.8,
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "merge-two-sorted-lists"
+      },
+      {
+        "title": "Find Consecutive Integers from a Data Stream",
+        "difficulty": "MEDIUM",
+        "frequency": 60.7,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream",
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Queue",
+          "Counting",
+          "Data Stream"
+        ],
+        "slug": "find-consecutive-integers-from-a-data-stream"
+      },
+      {
+        "title": "Maximum Nesting Depth of the Parentheses",
+        "difficulty": "EASY",
+        "frequency": 60.7,
+        "acceptance_rate": 84.3,
+        "link": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "maximum-nesting-depth-of-the-parentheses"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 60.7,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Reverse Words in a String",
+        "difficulty": "MEDIUM",
+        "frequency": 60.7,
+        "acceptance_rate": 51.9,
+        "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "reverse-words-in-a-string"
+      },
+      {
+        "title": "Reverse Integer",
+        "difficulty": "MEDIUM",
+        "frequency": 60.7,
+        "acceptance_rate": 30.3,
+        "link": "https://leetcode.com/problems/reverse-integer",
+        "topics": [
+          "Math"
+        ],
+        "slug": "reverse-integer"
+      },
+      {
+        "title": "Add Two Numbers",
+        "difficulty": "MEDIUM",
+        "frequency": 60.7,
+        "acceptance_rate": 46.2,
+        "link": "https://leetcode.com/problems/add-two-numbers",
+        "topics": [
+          "Linked List",
+          "Math",
+          "Recursion"
+        ],
+        "slug": "add-two-numbers"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 60.7,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Palindrome Number",
+        "difficulty": "EASY",
+        "frequency": 60.7,
+        "acceptance_rate": 59.2,
+        "link": "https://leetcode.com/problems/palindrome-number",
+        "topics": [
+          "Math"
+        ],
+        "slug": "palindrome-number"
+      }
+    ],
+    "all": [
+      {
+        "title": "Maximum Nesting Depth of the Parentheses",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 84.3,
+        "link": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "maximum-nesting-depth-of-the-parentheses"
+      },
+      {
+        "title": "Find Consecutive Integers from a Data Stream",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream",
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Queue",
+          "Counting",
+          "Data Stream"
+        ],
+        "slug": "find-consecutive-integers-from-a-data-stream"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "trapping-rain-water"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 94.4,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 94.4,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Copy List with Random Pointer",
+        "difficulty": "MEDIUM",
+        "frequency": 87.1,
+        "acceptance_rate": 60.5,
+        "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+        "topics": [
+          "Hash Table",
+          "Linked List"
+        ],
+        "slug": "copy-list-with-random-pointer"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 82.5,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 76.9,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Count Primes",
+        "difficulty": "MEDIUM",
+        "frequency": 76.9,
+        "acceptance_rate": 34.8,
+        "link": "https://leetcode.com/problems/count-primes",
+        "topics": [
+          "Array",
+          "Math",
+          "Enumeration",
+          "Number Theory"
+        ],
+        "slug": "count-primes"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock II",
+        "difficulty": "MEDIUM",
+        "frequency": 69.6,
+        "acceptance_rate": 69.5,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock-ii"
+      },
+      {
+        "title": "Reverse Integer",
+        "difficulty": "MEDIUM",
+        "frequency": 69.6,
+        "acceptance_rate": 30.3,
+        "link": "https://leetcode.com/problems/reverse-integer",
+        "topics": [
+          "Math"
+        ],
+        "slug": "reverse-integer"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 69.6,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 59.5,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Add Two Numbers",
+        "difficulty": "MEDIUM",
+        "frequency": 59.5,
+        "acceptance_rate": 46.2,
+        "link": "https://leetcode.com/problems/add-two-numbers",
+        "topics": [
+          "Linked List",
+          "Math",
+          "Recursion"
+        ],
+        "slug": "add-two-numbers"
+      },
+      {
+        "title": "Climbing Stairs",
+        "difficulty": "EASY",
+        "frequency": 59.5,
+        "acceptance_rate": 53.5,
+        "link": "https://leetcode.com/problems/climbing-stairs",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "slug": "climbing-stairs"
+      },
+      {
+        "title": "Merge Two Sorted Lists",
+        "difficulty": "EASY",
+        "frequency": 59.5,
+        "acceptance_rate": 66.8,
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "merge-two-sorted-lists"
+      },
+      {
+        "title": "Reverse Words in a String",
+        "difficulty": "MEDIUM",
+        "frequency": 59.5,
+        "acceptance_rate": 51.9,
+        "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "reverse-words-in-a-string"
+      },
+      {
+        "title": "Palindrome Number",
+        "difficulty": "EASY",
+        "frequency": 59.5,
+        "acceptance_rate": 59.2,
+        "link": "https://leetcode.com/problems/palindrome-number",
+        "topics": [
+          "Math"
+        ],
+        "slug": "palindrome-number"
+      },
+      {
+        "title": "Container With Most Water",
+        "difficulty": "MEDIUM",
+        "frequency": 59.5,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/container-with-most-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "slug": "container-with-most-water"
+      },
+      {
+        "title": "Merge Sorted Array",
+        "difficulty": "EASY",
+        "frequency": 59.5,
+        "acceptance_rate": 52.9,
+        "link": "https://leetcode.com/problems/merge-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "merge-sorted-array"
+      },
+      {
+        "title": "Rotate Image",
+        "difficulty": "MEDIUM",
+        "frequency": 59.5,
+        "acceptance_rate": 77.9,
+        "link": "https://leetcode.com/problems/rotate-image",
+        "topics": [
+          "Array",
+          "Math",
+          "Matrix"
+        ],
+        "slug": "rotate-image"
+      },
+      {
+        "title": "Linked List Cycle",
+        "difficulty": "EASY",
+        "frequency": 59.5,
+        "acceptance_rate": 52.6,
+        "link": "https://leetcode.com/problems/linked-list-cycle",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Two Pointers"
+        ],
+        "slug": "linked-list-cycle"
+      },
+      {
+        "title": "Valid Palindrome",
+        "difficulty": "EASY",
+        "frequency": 59.5,
+        "acceptance_rate": 51.0,
+        "link": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "valid-palindrome"
+      },
+      {
+        "title": "Maximum Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 59.5,
+        "acceptance_rate": 52.1,
+        "link": "https://leetcode.com/problems/maximum-subarray",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "slug": "maximum-subarray"
+      },
+      {
+        "title": "Top K Frequent Words",
+        "difficulty": "MEDIUM",
+        "frequency": 59.5,
+        "acceptance_rate": 59.3,
+        "link": "https://leetcode.com/problems/top-k-frequent-words",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting"
+        ],
+        "slug": "top-k-frequent-words"
+      }
+    ]
+  }
+}

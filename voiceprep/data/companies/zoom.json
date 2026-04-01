@@ -1,0 +1,141 @@
+{
+  "profile": {
+    "name": "Zoom",
+    "slug": "zoom",
+    "total_problems": 3,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.67,
+      "medium": 0.33,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Database",
+        "count": 2
+      },
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 1
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "User Activity for the Past 30 Days I",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "user-activity-for-the-past-30-days-i"
+      },
+      {
+        "title": "User Activity for the Past 30 Days II",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "user-activity-for-the-past-30-days-ii"
+      },
+      {
+        "title": "Container With Most Water",
+        "difficulty": "MEDIUM",
+        "frequency": 66.0,
+        "slug": "container-with-most-water"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa",
+        "database"
+      ],
+      "style_notes": [
+        "Mix of easy-medium \u2014 focuses on clean code and communication",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Container With Most Water",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/container-with-most-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "slug": "container-with-most-water"
+      },
+      {
+        "title": "User Activity for the Past 30 Days I",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 49.5,
+        "link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-i",
+        "topics": [
+          "Database"
+        ],
+        "slug": "user-activity-for-the-past-30-days-i"
+      },
+      {
+        "title": "User Activity for the Past 30 Days II",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 35.7,
+        "link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-ii",
+        "topics": [
+          "Database"
+        ],
+        "slug": "user-activity-for-the-past-30-days-ii"
+      }
+    ],
+    "all": [
+      {
+        "title": "User Activity for the Past 30 Days I",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 49.5,
+        "link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-i",
+        "topics": [
+          "Database"
+        ],
+        "slug": "user-activity-for-the-past-30-days-i"
+      },
+      {
+        "title": "User Activity for the Past 30 Days II",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 35.7,
+        "link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-ii",
+        "topics": [
+          "Database"
+        ],
+        "slug": "user-activity-for-the-past-30-days-ii"
+      },
+      {
+        "title": "Container With Most Water",
+        "difficulty": "MEDIUM",
+        "frequency": 66.0,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/container-with-most-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "slug": "container-with-most-water"
+      }
+    ]
+  }
+}

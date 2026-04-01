@@ -1,0 +1,192 @@
+{
+  "profile": {
+    "name": "Fastenal",
+    "slug": "fastenal",
+    "total_problems": 4,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.25,
+      "hard": 0.75
+    },
+    "top_topics": [
+      {
+        "topic": "String",
+        "count": 4
+      },
+      {
+        "topic": "Hash Table",
+        "count": 3
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 1
+      },
+      {
+        "topic": "Counting",
+        "count": 1
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 1
+      },
+      {
+        "topic": "Stack",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Minimum Window Substring",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "minimum-window-substring"
+      },
+      {
+        "title": "Sum of Beauty of All Substrings",
+        "difficulty": "MEDIUM",
+        "frequency": 89.6,
+        "slug": "sum-of-beauty-of-all-substrings"
+      },
+      {
+        "title": "Last Substring in Lexicographical Order",
+        "difficulty": "HARD",
+        "frequency": 89.6,
+        "slug": "last-substring-in-lexicographical-order"
+      },
+      {
+        "title": "Number of Atoms",
+        "difficulty": "HARD",
+        "frequency": 89.6,
+        "slug": "number-of-atoms"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Minimum Window Substring",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 45.4,
+        "link": "https://leetcode.com/problems/minimum-window-substring",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "minimum-window-substring"
+      },
+      {
+        "title": "Sum of Beauty of All Substrings",
+        "difficulty": "MEDIUM",
+        "frequency": 89.6,
+        "acceptance_rate": 70.8,
+        "link": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "sum-of-beauty-of-all-substrings"
+      },
+      {
+        "title": "Last Substring in Lexicographical Order",
+        "difficulty": "HARD",
+        "frequency": 89.6,
+        "acceptance_rate": 34.6,
+        "link": "https://leetcode.com/problems/last-substring-in-lexicographical-order",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "last-substring-in-lexicographical-order"
+      },
+      {
+        "title": "Number of Atoms",
+        "difficulty": "HARD",
+        "frequency": 89.6,
+        "acceptance_rate": 65.0,
+        "link": "https://leetcode.com/problems/number-of-atoms",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Sorting"
+        ],
+        "slug": "number-of-atoms"
+      }
+    ],
+    "all": [
+      {
+        "title": "Minimum Window Substring",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 45.4,
+        "link": "https://leetcode.com/problems/minimum-window-substring",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "minimum-window-substring"
+      },
+      {
+        "title": "Sum of Beauty of All Substrings",
+        "difficulty": "MEDIUM",
+        "frequency": 89.6,
+        "acceptance_rate": 70.8,
+        "link": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "sum-of-beauty-of-all-substrings"
+      },
+      {
+        "title": "Last Substring in Lexicographical Order",
+        "difficulty": "HARD",
+        "frequency": 89.6,
+        "acceptance_rate": 34.6,
+        "link": "https://leetcode.com/problems/last-substring-in-lexicographical-order",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "last-substring-in-lexicographical-order"
+      },
+      {
+        "title": "Number of Atoms",
+        "difficulty": "HARD",
+        "frequency": 89.6,
+        "acceptance_rate": 65.0,
+        "link": "https://leetcode.com/problems/number-of-atoms",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Sorting"
+        ],
+        "slug": "number-of-atoms"
+      }
+    ]
+  }
+}

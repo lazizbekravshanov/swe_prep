@@ -1,0 +1,238 @@
+{
+  "profile": {
+    "name": "The Trade Desk",
+    "slug": "the-trade-desk",
+    "total_problems": 5,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.2,
+      "medium": 0.6,
+      "hard": 0.2
+    },
+    "top_topics": [
+      {
+        "topic": "Hash Table",
+        "count": 3
+      },
+      {
+        "topic": "String",
+        "count": 3
+      },
+      {
+        "topic": "Array",
+        "count": 2
+      },
+      {
+        "topic": "Trie",
+        "count": 1
+      },
+      {
+        "topic": "Linked List",
+        "count": 1
+      },
+      {
+        "topic": "Design",
+        "count": 1
+      },
+      {
+        "topic": "Doubly-Linked List",
+        "count": 1
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 1
+      },
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "Stack",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Find the Length of the Longest Common Prefix",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "find-the-length-of-the-longest-common-prefix"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 66.1,
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 66.1,
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Basic Calculator II",
+        "difficulty": "MEDIUM",
+        "frequency": 66.1,
+        "slug": "basic-calculator-ii"
+      },
+      {
+        "title": "Word Ladder",
+        "difficulty": "HARD",
+        "frequency": 66.1,
+        "slug": "word-ladder"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Word Ladder",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 42.8,
+        "link": "https://leetcode.com/problems/word-ladder",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search"
+        ],
+        "slug": "word-ladder"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Find the Length of the Longest Common Prefix",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 56.4,
+        "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie"
+        ],
+        "slug": "find-the-length-of-the-longest-common-prefix"
+      },
+      {
+        "title": "Basic Calculator II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 45.8,
+        "link": "https://leetcode.com/problems/basic-calculator-ii",
+        "topics": [
+          "Math",
+          "String",
+          "Stack"
+        ],
+        "slug": "basic-calculator-ii"
+      }
+    ],
+    "all": [
+      {
+        "title": "Find the Length of the Longest Common Prefix",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 56.4,
+        "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie"
+        ],
+        "slug": "find-the-length-of-the-longest-common-prefix"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 66.1,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 66.1,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Basic Calculator II",
+        "difficulty": "MEDIUM",
+        "frequency": 66.1,
+        "acceptance_rate": 45.8,
+        "link": "https://leetcode.com/problems/basic-calculator-ii",
+        "topics": [
+          "Math",
+          "String",
+          "Stack"
+        ],
+        "slug": "basic-calculator-ii"
+      },
+      {
+        "title": "Word Ladder",
+        "difficulty": "HARD",
+        "frequency": 66.1,
+        "acceptance_rate": 42.8,
+        "link": "https://leetcode.com/problems/word-ladder",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search"
+        ],
+        "slug": "word-ladder"
+      }
+    ]
+  }
+}

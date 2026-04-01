@@ -1,0 +1,183 @@
+{
+  "profile": {
+    "name": "Acko",
+    "slug": "acko",
+    "total_problems": 4,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.5,
+      "medium": 0.0,
+      "hard": 0.5
+    },
+    "top_topics": [
+      {
+        "topic": "Dynamic Programming",
+        "count": 2
+      },
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "Combinatorics",
+        "count": 1
+      },
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Graph",
+        "count": 1
+      },
+      {
+        "topic": "Topological Sort",
+        "count": 1
+      },
+      {
+        "topic": "Database",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Fill Missing Data",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "fill-missing-data"
+      },
+      {
+        "title": "Count All Valid Pickup and Delivery Options",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "count-all-valid-pickup-and-delivery-options"
+      },
+      {
+        "title": "Parallel Courses III",
+        "difficulty": "HARD",
+        "frequency": 89.3,
+        "slug": "parallel-courses-iii"
+      },
+      {
+        "title": "Invalid Tweets",
+        "difficulty": "EASY",
+        "frequency": 89.3,
+        "slug": "invalid-tweets"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Count All Valid Pickup and Delivery Options",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 64.9,
+        "link": "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Combinatorics"
+        ],
+        "slug": "count-all-valid-pickup-and-delivery-options"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Fill Missing Data",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 72.3,
+        "link": "https://leetcode.com/problems/fill-missing-data",
+        "topics": [],
+        "slug": "fill-missing-data"
+      },
+      {
+        "title": "Parallel Courses III",
+        "difficulty": "HARD",
+        "frequency": 89.6,
+        "acceptance_rate": 66.7,
+        "link": "https://leetcode.com/problems/parallel-courses-iii",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Graph",
+          "Topological Sort"
+        ],
+        "slug": "parallel-courses-iii"
+      },
+      {
+        "title": "Invalid Tweets",
+        "difficulty": "EASY",
+        "frequency": 89.6,
+        "acceptance_rate": 85.5,
+        "link": "https://leetcode.com/problems/invalid-tweets",
+        "topics": [
+          "Database"
+        ],
+        "slug": "invalid-tweets"
+      }
+    ],
+    "all": [
+      {
+        "title": "Fill Missing Data",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 72.3,
+        "link": "https://leetcode.com/problems/fill-missing-data",
+        "topics": [],
+        "slug": "fill-missing-data"
+      },
+      {
+        "title": "Count All Valid Pickup and Delivery Options",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 64.9,
+        "link": "https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Combinatorics"
+        ],
+        "slug": "count-all-valid-pickup-and-delivery-options"
+      },
+      {
+        "title": "Parallel Courses III",
+        "difficulty": "HARD",
+        "frequency": 89.3,
+        "acceptance_rate": 66.7,
+        "link": "https://leetcode.com/problems/parallel-courses-iii",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Graph",
+          "Topological Sort"
+        ],
+        "slug": "parallel-courses-iii"
+      },
+      {
+        "title": "Invalid Tweets",
+        "difficulty": "EASY",
+        "frequency": 89.3,
+        "acceptance_rate": 85.5,
+        "link": "https://leetcode.com/problems/invalid-tweets",
+        "topics": [
+          "Database"
+        ],
+        "slug": "invalid-tweets"
+      }
+    ]
+  }
+}

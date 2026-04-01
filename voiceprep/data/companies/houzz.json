@@ -1,0 +1,113 @@
+{
+  "profile": {
+    "name": "Houzz",
+    "slug": "houzz",
+    "total_problems": 2,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.0,
+      "hard": 1.0
+    },
+    "top_topics": [
+      {
+        "topic": "Math",
+        "count": 2
+      },
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Stack",
+        "count": 1
+      },
+      {
+        "topic": "Recursion",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Remove 9",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "remove-9"
+      },
+      {
+        "title": "Basic Calculator III",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "basic-calculator-iii"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Basic Calculator III",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 52.5,
+        "link": "https://leetcode.com/problems/basic-calculator-iii",
+        "topics": [
+          "Math",
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "basic-calculator-iii"
+      },
+      {
+        "title": "Remove 9",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 57.3,
+        "link": "https://leetcode.com/problems/remove-9",
+        "topics": [
+          "Math"
+        ],
+        "slug": "remove-9"
+      }
+    ],
+    "all": [
+      {
+        "title": "Remove 9",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 57.3,
+        "link": "https://leetcode.com/problems/remove-9",
+        "topics": [
+          "Math"
+        ],
+        "slug": "remove-9"
+      },
+      {
+        "title": "Basic Calculator III",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 52.5,
+        "link": "https://leetcode.com/problems/basic-calculator-iii",
+        "topics": [
+          "Math",
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "basic-calculator-iii"
+      }
+    ]
+  }
+}

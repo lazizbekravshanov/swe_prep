@@ -1,0 +1,152 @@
+{
+  "profile": {
+    "name": "Softwire",
+    "slug": "softwire",
+    "total_problems": 3,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.33,
+      "medium": 0.67,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "String",
+        "count": 3
+      },
+      {
+        "topic": "Hash Table",
+        "count": 2
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 1
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 1
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Second Largest Digit in a String",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "second-largest-digit-in-a-string"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 76.3,
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 68.4,
+        "slug": "longest-substring-without-repeating-characters"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Second Largest Digit in a String",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 52.0,
+        "link": "https://leetcode.com/problems/second-largest-digit-in-a-string",
+        "topics": [
+          "Hash Table",
+          "String"
+        ],
+        "slug": "second-largest-digit-in-a-string"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      }
+    ],
+    "all": [
+      {
+        "title": "Second Largest Digit in a String",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 52.0,
+        "link": "https://leetcode.com/problems/second-largest-digit-in-a-string",
+        "topics": [
+          "Hash Table",
+          "String"
+        ],
+        "slug": "second-largest-digit-in-a-string"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 76.3,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 68.4,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      }
+    ]
+  }
+}

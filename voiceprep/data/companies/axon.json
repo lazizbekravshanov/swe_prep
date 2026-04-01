@@ -1,0 +1,410 @@
+{
+  "profile": {
+    "name": "Axon",
+    "slug": "axon",
+    "total_problems": 7,
+    "recent_problems_30d": 1,
+    "difficulty_distribution": {
+      "easy": 0.29,
+      "medium": 0.71,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "String",
+        "count": 4
+      },
+      {
+        "topic": "Hash Table",
+        "count": 3
+      },
+      {
+        "topic": "Array",
+        "count": 3
+      },
+      {
+        "topic": "Math",
+        "count": 3
+      },
+      {
+        "topic": "Design",
+        "count": 2
+      },
+      {
+        "topic": "Binary Search",
+        "count": 1
+      },
+      {
+        "topic": "Randomized",
+        "count": 1
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 1
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 1
+      },
+      {
+        "topic": "Union Find",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [
+      {
+        "topic": "Hash Table",
+        "count": 1
+      },
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Binary Search",
+        "count": 1
+      },
+      {
+        "topic": "Design",
+        "count": 1
+      }
+    ],
+    "highest_frequency_problems": [
+      {
+        "title": "Time Based Key-Value Store",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "time-based-key-value-store"
+      },
+      {
+        "title": "Insert Delete GetRandom O(1)",
+        "difficulty": "MEDIUM",
+        "frequency": 91.4,
+        "slug": "insert-delete-getrandom-o1"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 70.6,
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Valid Palindrome",
+        "difficulty": "EASY",
+        "frequency": 70.6,
+        "slug": "valid-palindrome"
+      },
+      {
+        "title": "Roman to Integer",
+        "difficulty": "EASY",
+        "frequency": 62.0,
+        "slug": "roman-to-integer"
+      },
+      {
+        "title": "Edit Distance",
+        "difficulty": "MEDIUM",
+        "frequency": 62.0,
+        "slug": "edit-distance"
+      },
+      {
+        "title": "K Closest Points to Origin",
+        "difficulty": "MEDIUM",
+        "frequency": 62.0,
+        "slug": "k-closest-points-to-origin"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa",
+        "system_design"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [
+      {
+        "title": "Time Based Key-Value Store",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/time-based-key-value-store",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "slug": "time-based-key-value-store"
+      }
+    ],
+    "90d": [
+      {
+        "title": "Time Based Key-Value Store",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/time-based-key-value-store",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "slug": "time-based-key-value-store"
+      },
+      {
+        "title": "Insert Delete GetRandom O(1)",
+        "difficulty": "MEDIUM",
+        "frequency": 82.1,
+        "acceptance_rate": 55.0,
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "slug": "insert-delete-getrandom-o1"
+      },
+      {
+        "title": "K Closest Points to Origin",
+        "difficulty": "MEDIUM",
+        "frequency": 73.5,
+        "acceptance_rate": 67.9,
+        "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+        "topics": [
+          "Array",
+          "Math",
+          "Divide and Conquer",
+          "Geometry",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect"
+        ],
+        "slug": "k-closest-points-to-origin"
+      },
+      {
+        "title": "Valid Palindrome",
+        "difficulty": "EASY",
+        "frequency": 73.5,
+        "acceptance_rate": 51.0,
+        "link": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "valid-palindrome"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Time Based Key-Value Store",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/time-based-key-value-store",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "slug": "time-based-key-value-store"
+      },
+      {
+        "title": "Insert Delete GetRandom O(1)",
+        "difficulty": "MEDIUM",
+        "frequency": 87.7,
+        "acceptance_rate": 55.0,
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "slug": "insert-delete-getrandom-o1"
+      },
+      {
+        "title": "K Closest Points to Origin",
+        "difficulty": "MEDIUM",
+        "frequency": 68.6,
+        "acceptance_rate": 67.9,
+        "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+        "topics": [
+          "Array",
+          "Math",
+          "Divide and Conquer",
+          "Geometry",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect"
+        ],
+        "slug": "k-closest-points-to-origin"
+      },
+      {
+        "title": "Valid Palindrome",
+        "difficulty": "EASY",
+        "frequency": 68.6,
+        "acceptance_rate": 51.0,
+        "link": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "valid-palindrome"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Insert Delete GetRandom O(1)",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 55.0,
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "slug": "insert-delete-getrandom-o1"
+      },
+      {
+        "title": "Time Based Key-Value Store",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/time-based-key-value-store",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "slug": "time-based-key-value-store"
+      }
+    ],
+    "all": [
+      {
+        "title": "Time Based Key-Value Store",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/time-based-key-value-store",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "slug": "time-based-key-value-store"
+      },
+      {
+        "title": "Insert Delete GetRandom O(1)",
+        "difficulty": "MEDIUM",
+        "frequency": 91.4,
+        "acceptance_rate": 55.0,
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "slug": "insert-delete-getrandom-o1"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 70.6,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Valid Palindrome",
+        "difficulty": "EASY",
+        "frequency": 70.6,
+        "acceptance_rate": 51.0,
+        "link": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "valid-palindrome"
+      },
+      {
+        "title": "Roman to Integer",
+        "difficulty": "EASY",
+        "frequency": 62.0,
+        "acceptance_rate": 64.9,
+        "link": "https://leetcode.com/problems/roman-to-integer",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "slug": "roman-to-integer"
+      },
+      {
+        "title": "Edit Distance",
+        "difficulty": "MEDIUM",
+        "frequency": 62.0,
+        "acceptance_rate": 58.8,
+        "link": "https://leetcode.com/problems/edit-distance",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "edit-distance"
+      },
+      {
+        "title": "K Closest Points to Origin",
+        "difficulty": "MEDIUM",
+        "frequency": 62.0,
+        "acceptance_rate": 67.9,
+        "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+        "topics": [
+          "Array",
+          "Math",
+          "Divide and Conquer",
+          "Geometry",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect"
+        ],
+        "slug": "k-closest-points-to-origin"
+      }
+    ]
+  }
+}

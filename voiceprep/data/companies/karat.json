@@ -1,0 +1,738 @@
+{
+  "profile": {
+    "name": "Karat",
+    "slug": "karat",
+    "total_problems": 15,
+    "recent_problems_30d": 4,
+    "difficulty_distribution": {
+      "easy": 0.27,
+      "medium": 0.6,
+      "hard": 0.13
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 12
+      },
+      {
+        "topic": "String",
+        "count": 7
+      },
+      {
+        "topic": "Hash Table",
+        "count": 7
+      },
+      {
+        "topic": "Matrix",
+        "count": 6
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 4
+      },
+      {
+        "topic": "Counting",
+        "count": 3
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 3
+      },
+      {
+        "topic": "Backtracking",
+        "count": 2
+      },
+      {
+        "topic": "Graph",
+        "count": 2
+      },
+      {
+        "topic": "Topological Sort",
+        "count": 2
+      }
+    ],
+    "recent_hot_topics": [
+      {
+        "topic": "Array",
+        "count": 4
+      },
+      {
+        "topic": "Hash Table",
+        "count": 3
+      },
+      {
+        "topic": "String",
+        "count": 3
+      },
+      {
+        "topic": "Matrix",
+        "count": 2
+      },
+      {
+        "topic": "Counting",
+        "count": 1
+      }
+    ],
+    "highest_frequency_problems": [
+      {
+        "title": "Text Justification",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "text-justification"
+      },
+      {
+        "title": "Check if Every Row and Column Contains All Numbers",
+        "difficulty": "EASY",
+        "frequency": 89.6,
+        "slug": "check-if-every-row-and-column-contains-all-numbers"
+      },
+      {
+        "title": "Find Words That Can Be Formed by Characters",
+        "difficulty": "EASY",
+        "frequency": 88.5,
+        "slug": "find-words-that-can-be-formed-by-characters"
+      },
+      {
+        "title": "Word Search",
+        "difficulty": "MEDIUM",
+        "frequency": 86.1,
+        "slug": "word-search"
+      },
+      {
+        "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+        "difficulty": "MEDIUM",
+        "frequency": 80.2,
+        "slug": "alert-using-same-key-card-three-or-more-times-in-a-one-hour-period"
+      },
+      {
+        "title": "Course Schedule",
+        "difficulty": "MEDIUM",
+        "frequency": 60.9,
+        "slug": "course-schedule"
+      },
+      {
+        "title": "Ransom Note",
+        "difficulty": "EASY",
+        "frequency": 60.9,
+        "slug": "ransom-note"
+      },
+      {
+        "title": "Valid Sudoku",
+        "difficulty": "MEDIUM",
+        "frequency": 55.4,
+        "slug": "valid-sudoku"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 55.4,
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Maximal Square",
+        "difficulty": "MEDIUM",
+        "frequency": 55.4,
+        "slug": "maximal-square"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [
+      {
+        "title": "Find Words That Can Be Formed by Characters",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 71.1,
+        "link": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "find-words-that-can-be-formed-by-characters"
+      },
+      {
+        "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 45.9,
+        "link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "alert-using-same-key-card-three-or-more-times-in-a-one-hour-period"
+      },
+      {
+        "title": "Check if Every Row and Column Contains All Numbers",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 52.8,
+        "link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "slug": "check-if-every-row-and-column-contains-all-numbers"
+      },
+      {
+        "title": "Word Search",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 45.3,
+        "link": "https://leetcode.com/problems/word-search",
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "slug": "word-search"
+      }
+    ],
+    "90d": [
+      {
+        "title": "Text Justification",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/text-justification",
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "slug": "text-justification"
+      },
+      {
+        "title": "Check if Every Row and Column Contains All Numbers",
+        "difficulty": "EASY",
+        "frequency": 95.8,
+        "acceptance_rate": 52.8,
+        "link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "slug": "check-if-every-row-and-column-contains-all-numbers"
+      },
+      {
+        "title": "Find Words That Can Be Formed by Characters",
+        "difficulty": "EASY",
+        "frequency": 90.7,
+        "acceptance_rate": 71.1,
+        "link": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "find-words-that-can-be-formed-by-characters"
+      },
+      {
+        "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+        "difficulty": "MEDIUM",
+        "frequency": 90.7,
+        "acceptance_rate": 45.9,
+        "link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "alert-using-same-key-card-three-or-more-times-in-a-one-hour-period"
+      },
+      {
+        "title": "Word Search",
+        "difficulty": "MEDIUM",
+        "frequency": 90.7,
+        "acceptance_rate": 45.3,
+        "link": "https://leetcode.com/problems/word-search",
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "slug": "word-search"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Text Justification",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/text-justification",
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "slug": "text-justification"
+      },
+      {
+        "title": "Check if Every Row and Column Contains All Numbers",
+        "difficulty": "EASY",
+        "frequency": 93.7,
+        "acceptance_rate": 52.8,
+        "link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "slug": "check-if-every-row-and-column-contains-all-numbers"
+      },
+      {
+        "title": "Word Search",
+        "difficulty": "MEDIUM",
+        "frequency": 87.2,
+        "acceptance_rate": 45.3,
+        "link": "https://leetcode.com/problems/word-search",
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "slug": "word-search"
+      },
+      {
+        "title": "Find Words That Can Be Formed by Characters",
+        "difficulty": "EASY",
+        "frequency": 84.4,
+        "acceptance_rate": 71.1,
+        "link": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "find-words-that-can-be-formed-by-characters"
+      },
+      {
+        "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+        "difficulty": "MEDIUM",
+        "frequency": 84.4,
+        "acceptance_rate": 45.9,
+        "link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "alert-using-same-key-card-three-or-more-times-in-a-one-hour-period"
+      },
+      {
+        "title": "Maximal Square",
+        "difficulty": "MEDIUM",
+        "frequency": 58.9,
+        "acceptance_rate": 48.8,
+        "link": "https://leetcode.com/problems/maximal-square",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "slug": "maximal-square"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Text Justification",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/text-justification",
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "slug": "text-justification"
+      },
+      {
+        "title": "Find Words That Can Be Formed by Characters",
+        "difficulty": "EASY",
+        "frequency": 90.3,
+        "acceptance_rate": 71.1,
+        "link": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "find-words-that-can-be-formed-by-characters"
+      },
+      {
+        "title": "Word Search",
+        "difficulty": "MEDIUM",
+        "frequency": 83.0,
+        "acceptance_rate": 45.3,
+        "link": "https://leetcode.com/problems/word-search",
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "slug": "word-search"
+      },
+      {
+        "title": "Check if Every Row and Column Contains All Numbers",
+        "difficulty": "EASY",
+        "frequency": 83.0,
+        "acceptance_rate": 52.8,
+        "link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "slug": "check-if-every-row-and-column-contains-all-numbers"
+      },
+      {
+        "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+        "difficulty": "MEDIUM",
+        "frequency": 76.1,
+        "acceptance_rate": 45.9,
+        "link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "alert-using-same-key-card-three-or-more-times-in-a-one-hour-period"
+      },
+      {
+        "title": "Course Schedule",
+        "difficulty": "MEDIUM",
+        "frequency": 71.5,
+        "acceptance_rate": 49.2,
+        "link": "https://leetcode.com/problems/course-schedule",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph",
+          "Topological Sort"
+        ],
+        "slug": "course-schedule"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 65.6,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Ransom Note",
+        "difficulty": "EASY",
+        "frequency": 65.6,
+        "acceptance_rate": 64.5,
+        "link": "https://leetcode.com/problems/ransom-note",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "ransom-note"
+      },
+      {
+        "title": "Subdomain Visit Count",
+        "difficulty": "MEDIUM",
+        "frequency": 57.3,
+        "acceptance_rate": 76.8,
+        "link": "https://leetcode.com/problems/subdomain-visit-count",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "subdomain-visit-count"
+      },
+      {
+        "title": "Word Search II",
+        "difficulty": "HARD",
+        "frequency": 57.3,
+        "acceptance_rate": 37.3,
+        "link": "https://leetcode.com/problems/word-search-ii",
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Trie",
+          "Matrix"
+        ],
+        "slug": "word-search-ii"
+      },
+      {
+        "title": "Course Schedule II",
+        "difficulty": "MEDIUM",
+        "frequency": 57.3,
+        "acceptance_rate": 53.4,
+        "link": "https://leetcode.com/problems/course-schedule-ii",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph",
+          "Topological Sort"
+        ],
+        "slug": "course-schedule-ii"
+      },
+      {
+        "title": "Valid Sudoku",
+        "difficulty": "MEDIUM",
+        "frequency": 57.3,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/valid-sudoku",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "slug": "valid-sudoku"
+      }
+    ],
+    "all": [
+      {
+        "title": "Text Justification",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/text-justification",
+        "topics": [
+          "Array",
+          "String",
+          "Simulation"
+        ],
+        "slug": "text-justification"
+      },
+      {
+        "title": "Check if Every Row and Column Contains All Numbers",
+        "difficulty": "EASY",
+        "frequency": 89.6,
+        "acceptance_rate": 52.8,
+        "link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "slug": "check-if-every-row-and-column-contains-all-numbers"
+      },
+      {
+        "title": "Find Words That Can Be Formed by Characters",
+        "difficulty": "EASY",
+        "frequency": 88.5,
+        "acceptance_rate": 71.1,
+        "link": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "find-words-that-can-be-formed-by-characters"
+      },
+      {
+        "title": "Word Search",
+        "difficulty": "MEDIUM",
+        "frequency": 86.1,
+        "acceptance_rate": 45.3,
+        "link": "https://leetcode.com/problems/word-search",
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Depth-First Search",
+          "Matrix"
+        ],
+        "slug": "word-search"
+      },
+      {
+        "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+        "difficulty": "MEDIUM",
+        "frequency": 80.2,
+        "acceptance_rate": 45.9,
+        "link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "alert-using-same-key-card-three-or-more-times-in-a-one-hour-period"
+      },
+      {
+        "title": "Course Schedule",
+        "difficulty": "MEDIUM",
+        "frequency": 60.9,
+        "acceptance_rate": 49.2,
+        "link": "https://leetcode.com/problems/course-schedule",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph",
+          "Topological Sort"
+        ],
+        "slug": "course-schedule"
+      },
+      {
+        "title": "Ransom Note",
+        "difficulty": "EASY",
+        "frequency": 60.9,
+        "acceptance_rate": 64.5,
+        "link": "https://leetcode.com/problems/ransom-note",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "ransom-note"
+      },
+      {
+        "title": "Valid Sudoku",
+        "difficulty": "MEDIUM",
+        "frequency": 55.4,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/valid-sudoku",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "slug": "valid-sudoku"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 55.4,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Maximal Square",
+        "difficulty": "MEDIUM",
+        "frequency": 55.4,
+        "acceptance_rate": 48.8,
+        "link": "https://leetcode.com/problems/maximal-square",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "slug": "maximal-square"
+      },
+      {
+        "title": "Subdomain Visit Count",
+        "difficulty": "MEDIUM",
+        "frequency": 47.6,
+        "acceptance_rate": 76.8,
+        "link": "https://leetcode.com/problems/subdomain-visit-count",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "subdomain-visit-count"
+      },
+      {
+        "title": "Word Search II",
+        "difficulty": "HARD",
+        "frequency": 47.6,
+        "acceptance_rate": 37.3,
+        "link": "https://leetcode.com/problems/word-search-ii",
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Trie",
+          "Matrix"
+        ],
+        "slug": "word-search-ii"
+      },
+      {
+        "title": "Course Schedule II",
+        "difficulty": "MEDIUM",
+        "frequency": 47.6,
+        "acceptance_rate": 53.4,
+        "link": "https://leetcode.com/problems/course-schedule-ii",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph",
+          "Topological Sort"
+        ],
+        "slug": "course-schedule-ii"
+      },
+      {
+        "title": "Jump Game",
+        "difficulty": "MEDIUM",
+        "frequency": 47.6,
+        "acceptance_rate": 39.5,
+        "link": "https://leetcode.com/problems/jump-game",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "slug": "jump-game"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 47.6,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      }
+    ]
+  }
+}

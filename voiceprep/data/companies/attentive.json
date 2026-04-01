@@ -1,0 +1,380 @@
+{
+  "profile": {
+    "name": "Attentive",
+    "slug": "attentive",
+    "total_problems": 9,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.22,
+      "medium": 0.56,
+      "hard": 0.22
+    },
+    "top_topics": [
+      {
+        "topic": "String",
+        "count": 5
+      },
+      {
+        "topic": "Array",
+        "count": 5
+      },
+      {
+        "topic": "Stack",
+        "count": 3
+      },
+      {
+        "topic": "Hash Table",
+        "count": 3
+      },
+      {
+        "topic": "Recursion",
+        "count": 2
+      },
+      {
+        "topic": "Math",
+        "count": 2
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 1
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      },
+      {
+        "topic": "Prefix Sum",
+        "count": 1
+      },
+      {
+        "topic": "Matrix",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Remove All Adjacent Duplicates in String II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "remove-all-adjacent-duplicates-in-string-ii"
+      },
+      {
+        "title": "Parse Lisp Expression",
+        "difficulty": "HARD",
+        "frequency": 93.2,
+        "slug": "parse-lisp-expression"
+      },
+      {
+        "title": "Valid Palindrome II",
+        "difficulty": "EASY",
+        "frequency": 73.6,
+        "slug": "valid-palindrome-ii"
+      },
+      {
+        "title": "Find Pivot Index",
+        "difficulty": "EASY",
+        "frequency": 63.9,
+        "slug": "find-pivot-index"
+      },
+      {
+        "title": "Valid Sudoku",
+        "difficulty": "MEDIUM",
+        "frequency": 56.2,
+        "slug": "valid-sudoku"
+      },
+      {
+        "title": "Integer to English Words",
+        "difficulty": "HARD",
+        "frequency": 56.2,
+        "slug": "integer-to-english-words"
+      },
+      {
+        "title": "Evaluate Reverse Polish Notation",
+        "difficulty": "MEDIUM",
+        "frequency": 56.2,
+        "slug": "evaluate-reverse-polish-notation"
+      },
+      {
+        "title": "Top K Frequent Words",
+        "difficulty": "MEDIUM",
+        "frequency": 56.2,
+        "slug": "top-k-frequent-words"
+      },
+      {
+        "title": "Find First and Last Position of Element in Sorted Array",
+        "difficulty": "MEDIUM",
+        "frequency": 56.2,
+        "slug": "find-first-and-last-position-of-element-in-sorted-array"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [
+      {
+        "title": "Remove All Adjacent Duplicates in String II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 59.6,
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "remove-all-adjacent-duplicates-in-string-ii"
+      },
+      {
+        "title": "Parse Lisp Expression",
+        "difficulty": "HARD",
+        "frequency": 79.3,
+        "acceptance_rate": 52.8,
+        "link": "https://leetcode.com/problems/parse-lisp-expression",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "parse-lisp-expression"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Remove All Adjacent Duplicates in String II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 59.6,
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "remove-all-adjacent-duplicates-in-string-ii"
+      },
+      {
+        "title": "Parse Lisp Expression",
+        "difficulty": "HARD",
+        "frequency": 92.2,
+        "acceptance_rate": 52.8,
+        "link": "https://leetcode.com/problems/parse-lisp-expression",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "parse-lisp-expression"
+      },
+      {
+        "title": "Find Pivot Index",
+        "difficulty": "EASY",
+        "frequency": 69.2,
+        "acceptance_rate": 60.6,
+        "link": "https://leetcode.com/problems/find-pivot-index",
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "slug": "find-pivot-index"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Remove All Adjacent Duplicates in String II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 59.6,
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "remove-all-adjacent-duplicates-in-string-ii"
+      },
+      {
+        "title": "Parse Lisp Expression",
+        "difficulty": "HARD",
+        "frequency": 94.9,
+        "acceptance_rate": 52.8,
+        "link": "https://leetcode.com/problems/parse-lisp-expression",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "parse-lisp-expression"
+      },
+      {
+        "title": "Valid Palindrome II",
+        "difficulty": "EASY",
+        "frequency": 94.9,
+        "acceptance_rate": 43.0,
+        "link": "https://leetcode.com/problems/valid-palindrome-ii",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Greedy"
+        ],
+        "slug": "valid-palindrome-ii"
+      },
+      {
+        "title": "Valid Sudoku",
+        "difficulty": "MEDIUM",
+        "frequency": 78.9,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/valid-sudoku",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "slug": "valid-sudoku"
+      },
+      {
+        "title": "Integer to English Words",
+        "difficulty": "HARD",
+        "frequency": 78.9,
+        "acceptance_rate": 34.4,
+        "link": "https://leetcode.com/problems/integer-to-english-words",
+        "topics": [
+          "Math",
+          "String",
+          "Recursion"
+        ],
+        "slug": "integer-to-english-words"
+      }
+    ],
+    "all": [
+      {
+        "title": "Remove All Adjacent Duplicates in String II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 59.6,
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "remove-all-adjacent-duplicates-in-string-ii"
+      },
+      {
+        "title": "Parse Lisp Expression",
+        "difficulty": "HARD",
+        "frequency": 93.2,
+        "acceptance_rate": 52.8,
+        "link": "https://leetcode.com/problems/parse-lisp-expression",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "parse-lisp-expression"
+      },
+      {
+        "title": "Valid Palindrome II",
+        "difficulty": "EASY",
+        "frequency": 73.6,
+        "acceptance_rate": 43.0,
+        "link": "https://leetcode.com/problems/valid-palindrome-ii",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Greedy"
+        ],
+        "slug": "valid-palindrome-ii"
+      },
+      {
+        "title": "Find Pivot Index",
+        "difficulty": "EASY",
+        "frequency": 63.9,
+        "acceptance_rate": 60.6,
+        "link": "https://leetcode.com/problems/find-pivot-index",
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "slug": "find-pivot-index"
+      },
+      {
+        "title": "Valid Sudoku",
+        "difficulty": "MEDIUM",
+        "frequency": 56.2,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/valid-sudoku",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "slug": "valid-sudoku"
+      },
+      {
+        "title": "Integer to English Words",
+        "difficulty": "HARD",
+        "frequency": 56.2,
+        "acceptance_rate": 34.4,
+        "link": "https://leetcode.com/problems/integer-to-english-words",
+        "topics": [
+          "Math",
+          "String",
+          "Recursion"
+        ],
+        "slug": "integer-to-english-words"
+      },
+      {
+        "title": "Evaluate Reverse Polish Notation",
+        "difficulty": "MEDIUM",
+        "frequency": 56.2,
+        "acceptance_rate": 55.0,
+        "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+        "topics": [
+          "Array",
+          "Math",
+          "Stack"
+        ],
+        "slug": "evaluate-reverse-polish-notation"
+      },
+      {
+        "title": "Top K Frequent Words",
+        "difficulty": "MEDIUM",
+        "frequency": 56.2,
+        "acceptance_rate": 59.3,
+        "link": "https://leetcode.com/problems/top-k-frequent-words",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting"
+        ],
+        "slug": "top-k-frequent-words"
+      },
+      {
+        "title": "Find First and Last Position of Element in Sorted Array",
+        "difficulty": "MEDIUM",
+        "frequency": 56.2,
+        "acceptance_rate": 46.8,
+        "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "find-first-and-last-position-of-element-in-sorted-array"
+      }
+    ]
+  }
+}

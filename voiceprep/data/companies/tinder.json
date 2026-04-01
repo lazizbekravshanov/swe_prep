@@ -1,0 +1,143 @@
+{
+  "profile": {
+    "name": "Tinder",
+    "slug": "tinder",
+    "total_problems": 2,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.5,
+      "medium": 0.0,
+      "hard": 0.5
+    },
+    "top_topics": [
+      {
+        "topic": "Design",
+        "count": 2
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "count": 2
+      },
+      {
+        "topic": "Data Stream",
+        "count": 2
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      },
+      {
+        "topic": "Tree",
+        "count": 1
+      },
+      {
+        "topic": "Binary Search Tree",
+        "count": 1
+      },
+      {
+        "topic": "Binary Tree",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Find Median from Data Stream",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "find-median-from-data-stream"
+      },
+      {
+        "title": "Kth Largest Element in a Stream",
+        "difficulty": "EASY",
+        "frequency": 88.2,
+        "slug": "kth-largest-element-in-a-stream"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa",
+        "system_design"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Find Median from Data Stream",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 53.3,
+        "link": "https://leetcode.com/problems/find-median-from-data-stream",
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "slug": "find-median-from-data-stream"
+      },
+      {
+        "title": "Kth Largest Element in a Stream",
+        "difficulty": "EASY",
+        "frequency": 83.6,
+        "acceptance_rate": 59.9,
+        "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+        "topics": [
+          "Tree",
+          "Design",
+          "Binary Search Tree",
+          "Heap (Priority Queue)",
+          "Binary Tree",
+          "Data Stream"
+        ],
+        "slug": "kth-largest-element-in-a-stream"
+      }
+    ],
+    "all": [
+      {
+        "title": "Find Median from Data Stream",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 53.3,
+        "link": "https://leetcode.com/problems/find-median-from-data-stream",
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "slug": "find-median-from-data-stream"
+      },
+      {
+        "title": "Kth Largest Element in a Stream",
+        "difficulty": "EASY",
+        "frequency": 88.2,
+        "acceptance_rate": 59.9,
+        "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+        "topics": [
+          "Tree",
+          "Design",
+          "Binary Search Tree",
+          "Heap (Priority Queue)",
+          "Binary Tree",
+          "Data Stream"
+        ],
+        "slug": "kth-largest-element-in-a-stream"
+      }
+    ]
+  }
+}

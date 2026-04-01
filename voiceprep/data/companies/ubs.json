@@ -1,0 +1,247 @@
+{
+  "profile": {
+    "name": "UBS",
+    "slug": "ubs",
+    "total_problems": 5,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.4,
+      "medium": 0.6,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 4
+      },
+      {
+        "topic": "String",
+        "count": 2
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 2
+      },
+      {
+        "topic": "Binary Search",
+        "count": 1
+      },
+      {
+        "topic": "Trie",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "count": 1
+      },
+      {
+        "topic": "Tree",
+        "count": 1
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 1
+      },
+      {
+        "topic": "Backtracking",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Search Suggestions System",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "search-suggestions-system"
+      },
+      {
+        "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+        "difficulty": "MEDIUM",
+        "frequency": 94.6,
+        "slug": "count-pairs-of-connectable-servers-in-a-weighted-tree-network"
+      },
+      {
+        "title": "Beautiful Arrangement",
+        "difficulty": "MEDIUM",
+        "frequency": 61.7,
+        "slug": "beautiful-arrangement"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 61.7,
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 61.7,
+        "slug": "valid-parentheses"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Mix of easy-medium \u2014 focuses on clean code and communication",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Search Suggestions System",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/search-suggestions-system",
+        "topics": [
+          "Array",
+          "String",
+          "Binary Search",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "search-suggestions-system"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Search Suggestions System",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/search-suggestions-system",
+        "topics": [
+          "Array",
+          "String",
+          "Binary Search",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "search-suggestions-system"
+      },
+      {
+        "title": "Beautiful Arrangement",
+        "difficulty": "MEDIUM",
+        "frequency": 64.9,
+        "acceptance_rate": 64.5,
+        "link": "https://leetcode.com/problems/beautiful-arrangement",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ],
+        "slug": "beautiful-arrangement"
+      },
+      {
+        "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+        "difficulty": "MEDIUM",
+        "frequency": 64.9,
+        "acceptance_rate": 54.2,
+        "link": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+        "topics": [
+          "Array",
+          "Tree",
+          "Depth-First Search"
+        ],
+        "slug": "count-pairs-of-connectable-servers-in-a-weighted-tree-network"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 64.9,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      }
+    ],
+    "all": [
+      {
+        "title": "Search Suggestions System",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/search-suggestions-system",
+        "topics": [
+          "Array",
+          "String",
+          "Binary Search",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "search-suggestions-system"
+      },
+      {
+        "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+        "difficulty": "MEDIUM",
+        "frequency": 94.6,
+        "acceptance_rate": 54.2,
+        "link": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+        "topics": [
+          "Array",
+          "Tree",
+          "Depth-First Search"
+        ],
+        "slug": "count-pairs-of-connectable-servers-in-a-weighted-tree-network"
+      },
+      {
+        "title": "Beautiful Arrangement",
+        "difficulty": "MEDIUM",
+        "frequency": 61.7,
+        "acceptance_rate": 64.5,
+        "link": "https://leetcode.com/problems/beautiful-arrangement",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ],
+        "slug": "beautiful-arrangement"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 61.7,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 61.7,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      }
+    ]
+  }
+}

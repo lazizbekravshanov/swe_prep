@@ -1,0 +1,140 @@
+{
+  "profile": {
+    "name": "Audible",
+    "slug": "audible",
+    "total_problems": 3,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.67,
+      "medium": 0.33,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 2
+      },
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      },
+      {
+        "topic": "Database",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Missing Number In Arithmetic Progression",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "missing-number-in-arithmetic-progression"
+      },
+      {
+        "title": "Minimum Absolute Difference",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "minimum-absolute-difference"
+      },
+      {
+        "title": "Leetflex Banned Accounts",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "leetflex-banned-accounts"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa",
+        "database"
+      ],
+      "style_notes": [
+        "Mix of easy-medium \u2014 focuses on clean code and communication"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Minimum Absolute Difference",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 70.7,
+        "link": "https://leetcode.com/problems/minimum-absolute-difference",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "minimum-absolute-difference"
+      },
+      {
+        "title": "Missing Number In Arithmetic Progression",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 52.1,
+        "link": "https://leetcode.com/problems/missing-number-in-arithmetic-progression",
+        "topics": [
+          "Array",
+          "Math"
+        ],
+        "slug": "missing-number-in-arithmetic-progression"
+      },
+      {
+        "title": "Leetflex Banned Accounts",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 62.2,
+        "link": "https://leetcode.com/problems/leetflex-banned-accounts",
+        "topics": [
+          "Database"
+        ],
+        "slug": "leetflex-banned-accounts"
+      }
+    ],
+    "all": [
+      {
+        "title": "Missing Number In Arithmetic Progression",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 52.1,
+        "link": "https://leetcode.com/problems/missing-number-in-arithmetic-progression",
+        "topics": [
+          "Array",
+          "Math"
+        ],
+        "slug": "missing-number-in-arithmetic-progression"
+      },
+      {
+        "title": "Minimum Absolute Difference",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 70.7,
+        "link": "https://leetcode.com/problems/minimum-absolute-difference",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "minimum-absolute-difference"
+      },
+      {
+        "title": "Leetflex Banned Accounts",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 62.2,
+        "link": "https://leetcode.com/problems/leetflex-banned-accounts",
+        "topics": [
+          "Database"
+        ],
+        "slug": "leetflex-banned-accounts"
+      }
+    ]
+  }
+}

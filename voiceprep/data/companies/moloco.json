@@ -1,0 +1,310 @@
+{
+  "profile": {
+    "name": "Moloco",
+    "slug": "moloco",
+    "total_problems": 7,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.86,
+      "hard": 0.14
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 7
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 3
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 2
+      },
+      {
+        "topic": "Sorting",
+        "count": 2
+      },
+      {
+        "topic": "Stack",
+        "count": 2
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "count": 2
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      },
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Design",
+        "count": 1
+      },
+      {
+        "topic": "Monotonic Stack",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Longest String Chain",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "longest-string-chain"
+      },
+      {
+        "title": "Design a Stack With Increment Operation",
+        "difficulty": "MEDIUM",
+        "frequency": 92.6,
+        "slug": "design-a-stack-with-increment-operation"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 92.6,
+        "slug": "trapping-rain-water"
+      },
+      {
+        "title": "Meeting Rooms II",
+        "difficulty": "MEDIUM",
+        "frequency": 82.2,
+        "slug": "meeting-rooms-ii"
+      },
+      {
+        "title": "Single Element in a Sorted Array",
+        "difficulty": "MEDIUM",
+        "frequency": 82.2,
+        "slug": "single-element-in-a-sorted-array"
+      },
+      {
+        "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+        "difficulty": "MEDIUM",
+        "frequency": 82.2,
+        "slug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 82.2,
+        "slug": "number-of-islands"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Design a Stack With Increment Operation",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 80.1,
+        "link": "https://leetcode.com/problems/design-a-stack-with-increment-operation",
+        "topics": [
+          "Array",
+          "Stack",
+          "Design"
+        ],
+        "slug": "design-a-stack-with-increment-operation"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "trapping-rain-water"
+      },
+      {
+        "title": "Longest String Chain",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 62.0,
+        "link": "https://leetcode.com/problems/longest-string-chain",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Sorting"
+        ],
+        "slug": "longest-string-chain"
+      },
+      {
+        "title": "Meeting Rooms II",
+        "difficulty": "MEDIUM",
+        "frequency": 89.2,
+        "acceptance_rate": 52.1,
+        "link": "https://leetcode.com/problems/meeting-rooms-ii",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "slug": "meeting-rooms-ii"
+      },
+      {
+        "title": "Single Element in a Sorted Array",
+        "difficulty": "MEDIUM",
+        "frequency": 89.2,
+        "acceptance_rate": 59.2,
+        "link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "single-element-in-a-sorted-array"
+      }
+    ],
+    "all": [
+      {
+        "title": "Longest String Chain",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 62.0,
+        "link": "https://leetcode.com/problems/longest-string-chain",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Two Pointers",
+          "String",
+          "Dynamic Programming",
+          "Sorting"
+        ],
+        "slug": "longest-string-chain"
+      },
+      {
+        "title": "Design a Stack With Increment Operation",
+        "difficulty": "MEDIUM",
+        "frequency": 92.6,
+        "acceptance_rate": 80.1,
+        "link": "https://leetcode.com/problems/design-a-stack-with-increment-operation",
+        "topics": [
+          "Array",
+          "Stack",
+          "Design"
+        ],
+        "slug": "design-a-stack-with-increment-operation"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 92.6,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "trapping-rain-water"
+      },
+      {
+        "title": "Meeting Rooms II",
+        "difficulty": "MEDIUM",
+        "frequency": 82.2,
+        "acceptance_rate": 52.1,
+        "link": "https://leetcode.com/problems/meeting-rooms-ii",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "slug": "meeting-rooms-ii"
+      },
+      {
+        "title": "Single Element in a Sorted Array",
+        "difficulty": "MEDIUM",
+        "frequency": 82.2,
+        "acceptance_rate": 59.2,
+        "link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "single-element-in-a-sorted-array"
+      },
+      {
+        "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+        "difficulty": "MEDIUM",
+        "frequency": 82.2,
+        "acceptance_rate": 56.7,
+        "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Ordered Set",
+          "Monotonic Queue"
+        ],
+        "slug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 82.2,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      }
+    ]
+  }
+}

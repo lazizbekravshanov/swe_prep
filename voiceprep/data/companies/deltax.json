@@ -1,0 +1,167 @@
+{
+  "profile": {
+    "name": "DeltaX",
+    "slug": "deltax",
+    "total_problems": 3,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.33,
+      "medium": 0.67,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Hash Table",
+        "count": 2
+      },
+      {
+        "topic": "Math",
+        "count": 2
+      },
+      {
+        "topic": "String",
+        "count": 2
+      },
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Union Find",
+        "count": 1
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 1
+      },
+      {
+        "topic": "Recursion",
+        "count": 1
+      },
+      {
+        "topic": "Memoization",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Roman to Integer",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "roman-to-integer"
+      },
+      {
+        "title": "Longest Consecutive Sequence",
+        "difficulty": "MEDIUM",
+        "frequency": 68.6,
+        "slug": "longest-consecutive-sequence"
+      },
+      {
+        "title": "Different Ways to Add Parentheses",
+        "difficulty": "MEDIUM",
+        "frequency": 68.6,
+        "slug": "different-ways-to-add-parentheses"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Roman to Integer",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 64.9,
+        "link": "https://leetcode.com/problems/roman-to-integer",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "slug": "roman-to-integer"
+      },
+      {
+        "title": "Longest Consecutive Sequence",
+        "difficulty": "MEDIUM",
+        "frequency": 70.5,
+        "acceptance_rate": 47.0,
+        "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union Find"
+        ],
+        "slug": "longest-consecutive-sequence"
+      },
+      {
+        "title": "Different Ways to Add Parentheses",
+        "difficulty": "MEDIUM",
+        "frequency": 70.5,
+        "acceptance_rate": 72.4,
+        "link": "https://leetcode.com/problems/different-ways-to-add-parentheses",
+        "topics": [
+          "Math",
+          "String",
+          "Dynamic Programming",
+          "Recursion",
+          "Memoization"
+        ],
+        "slug": "different-ways-to-add-parentheses"
+      }
+    ],
+    "all": [
+      {
+        "title": "Roman to Integer",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 64.9,
+        "link": "https://leetcode.com/problems/roman-to-integer",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "slug": "roman-to-integer"
+      },
+      {
+        "title": "Longest Consecutive Sequence",
+        "difficulty": "MEDIUM",
+        "frequency": 68.6,
+        "acceptance_rate": 47.0,
+        "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union Find"
+        ],
+        "slug": "longest-consecutive-sequence"
+      },
+      {
+        "title": "Different Ways to Add Parentheses",
+        "difficulty": "MEDIUM",
+        "frequency": 68.6,
+        "acceptance_rate": 72.4,
+        "link": "https://leetcode.com/problems/different-ways-to-add-parentheses",
+        "topics": [
+          "Math",
+          "String",
+          "Dynamic Programming",
+          "Recursion",
+          "Memoization"
+        ],
+        "slug": "different-ways-to-add-parentheses"
+      }
+    ]
+  }
+}

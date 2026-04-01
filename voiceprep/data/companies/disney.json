@@ -1,0 +1,572 @@
+{
+  "profile": {
+    "name": "Disney",
+    "slug": "disney",
+    "total_problems": 19,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.32,
+      "medium": 0.68,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "String",
+        "count": 9
+      },
+      {
+        "topic": "Array",
+        "count": 7
+      },
+      {
+        "topic": "Hash Table",
+        "count": 5
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 4
+      },
+      {
+        "topic": "Sorting",
+        "count": 3
+      },
+      {
+        "topic": "Linked List",
+        "count": 2
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 2
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 2
+      },
+      {
+        "topic": "Union Find",
+        "count": 2
+      },
+      {
+        "topic": "Matrix",
+        "count": 2
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Ransom Note",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "ransom-note"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Max Area of Island",
+        "difficulty": "MEDIUM",
+        "frequency": 91.6,
+        "slug": "max-area-of-island"
+      },
+      {
+        "title": "Remove All Adjacent Duplicates in String II",
+        "difficulty": "MEDIUM",
+        "frequency": 91.6,
+        "slug": "remove-all-adjacent-duplicates-in-string-ii"
+      },
+      {
+        "title": "Generate Parentheses",
+        "difficulty": "MEDIUM",
+        "frequency": 91.6,
+        "slug": "generate-parentheses"
+      },
+      {
+        "title": "Search in Rotated Sorted Array",
+        "difficulty": "MEDIUM",
+        "frequency": 79.8,
+        "slug": "search-in-rotated-sorted-array"
+      },
+      {
+        "title": "Subarray Sum Equals K",
+        "difficulty": "MEDIUM",
+        "frequency": 79.8,
+        "slug": "subarray-sum-equals-k"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 79.8,
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 79.8,
+        "slug": "group-anagrams"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Remove All Adjacent Duplicates in String II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 59.6,
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "remove-all-adjacent-duplicates-in-string-ii"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Max Area of Island",
+        "difficulty": "MEDIUM",
+        "frequency": 91.8,
+        "acceptance_rate": 73.2,
+        "link": "https://leetcode.com/problems/max-area-of-island",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "max-area-of-island"
+      },
+      {
+        "title": "Ransom Note",
+        "difficulty": "EASY",
+        "frequency": 91.8,
+        "acceptance_rate": 64.5,
+        "link": "https://leetcode.com/problems/ransom-note",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "ransom-note"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 91.8,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 80.2,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Valid Anagram",
+        "difficulty": "EASY",
+        "frequency": 80.2,
+        "acceptance_rate": 66.7,
+        "link": "https://leetcode.com/problems/valid-anagram",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "valid-anagram"
+      },
+      {
+        "title": "Search in Rotated Sorted Array",
+        "difficulty": "MEDIUM",
+        "frequency": 80.2,
+        "acceptance_rate": 42.8,
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "search-in-rotated-sorted-array"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 80.2,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Valid Word Abbreviation",
+        "difficulty": "EASY",
+        "frequency": 80.2,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/valid-word-abbreviation",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "valid-word-abbreviation"
+      },
+      {
+        "title": "Egg Drop With 2 Eggs and N Floors",
+        "difficulty": "MEDIUM",
+        "frequency": 80.2,
+        "acceptance_rate": 73.7,
+        "link": "https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors",
+        "topics": [
+          "Math",
+          "Dynamic Programming"
+        ],
+        "slug": "egg-drop-with-2-eggs-and-n-floors"
+      },
+      {
+        "title": "Climbing Stairs",
+        "difficulty": "EASY",
+        "frequency": 80.2,
+        "acceptance_rate": 53.5,
+        "link": "https://leetcode.com/problems/climbing-stairs",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "slug": "climbing-stairs"
+      },
+      {
+        "title": "Reverse Linked List II",
+        "difficulty": "MEDIUM",
+        "frequency": 80.2,
+        "acceptance_rate": 49.6,
+        "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+        "topics": [
+          "Linked List"
+        ],
+        "slug": "reverse-linked-list-ii"
+      },
+      {
+        "title": "Generate Parentheses",
+        "difficulty": "MEDIUM",
+        "frequency": 80.2,
+        "acceptance_rate": 77.1,
+        "link": "https://leetcode.com/problems/generate-parentheses",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Backtracking"
+        ],
+        "slug": "generate-parentheses"
+      },
+      {
+        "title": "Subarray Sum Equals K",
+        "difficulty": "MEDIUM",
+        "frequency": 80.2,
+        "acceptance_rate": 45.5,
+        "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "slug": "subarray-sum-equals-k"
+      }
+    ],
+    "all": [
+      {
+        "title": "Ransom Note",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 64.5,
+        "link": "https://leetcode.com/problems/ransom-note",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "ransom-note"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Max Area of Island",
+        "difficulty": "MEDIUM",
+        "frequency": 91.6,
+        "acceptance_rate": 73.2,
+        "link": "https://leetcode.com/problems/max-area-of-island",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "max-area-of-island"
+      },
+      {
+        "title": "Remove All Adjacent Duplicates in String II",
+        "difficulty": "MEDIUM",
+        "frequency": 91.6,
+        "acceptance_rate": 59.6,
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "remove-all-adjacent-duplicates-in-string-ii"
+      },
+      {
+        "title": "Generate Parentheses",
+        "difficulty": "MEDIUM",
+        "frequency": 91.6,
+        "acceptance_rate": 77.1,
+        "link": "https://leetcode.com/problems/generate-parentheses",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Backtracking"
+        ],
+        "slug": "generate-parentheses"
+      },
+      {
+        "title": "Search in Rotated Sorted Array",
+        "difficulty": "MEDIUM",
+        "frequency": 79.8,
+        "acceptance_rate": 42.8,
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "search-in-rotated-sorted-array"
+      },
+      {
+        "title": "Subarray Sum Equals K",
+        "difficulty": "MEDIUM",
+        "frequency": 79.8,
+        "acceptance_rate": 45.5,
+        "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "slug": "subarray-sum-equals-k"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 79.8,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 79.8,
+        "acceptance_rate": 70.9,
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "group-anagrams"
+      },
+      {
+        "title": "Longest Common Prefix",
+        "difficulty": "EASY",
+        "frequency": 79.8,
+        "acceptance_rate": 45.5,
+        "link": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "String",
+          "Trie"
+        ],
+        "slug": "longest-common-prefix"
+      },
+      {
+        "title": "Reverse Linked List II",
+        "difficulty": "MEDIUM",
+        "frequency": 79.8,
+        "acceptance_rate": 49.6,
+        "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+        "topics": [
+          "Linked List"
+        ],
+        "slug": "reverse-linked-list-ii"
+      },
+      {
+        "title": "Climbing Stairs",
+        "difficulty": "EASY",
+        "frequency": 79.8,
+        "acceptance_rate": 53.5,
+        "link": "https://leetcode.com/problems/climbing-stairs",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "slug": "climbing-stairs"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 79.8,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Valid Anagram",
+        "difficulty": "EASY",
+        "frequency": 79.8,
+        "acceptance_rate": 66.7,
+        "link": "https://leetcode.com/problems/valid-anagram",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "valid-anagram"
+      },
+      {
+        "title": "Egg Drop With 2 Eggs and N Floors",
+        "difficulty": "MEDIUM",
+        "frequency": 79.8,
+        "acceptance_rate": 73.7,
+        "link": "https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors",
+        "topics": [
+          "Math",
+          "Dynamic Programming"
+        ],
+        "slug": "egg-drop-with-2-eggs-and-n-floors"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 79.8,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Valid Word Abbreviation",
+        "difficulty": "EASY",
+        "frequency": 79.8,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/valid-word-abbreviation",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "valid-word-abbreviation"
+      },
+      {
+        "title": "Product of Array Except Self",
+        "difficulty": "MEDIUM",
+        "frequency": 79.8,
+        "acceptance_rate": 67.8,
+        "link": "https://leetcode.com/problems/product-of-array-except-self",
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "slug": "product-of-array-except-self"
+      }
+    ]
+  }
+}

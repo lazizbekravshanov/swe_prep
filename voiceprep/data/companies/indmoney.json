@@ -1,0 +1,131 @@
+{
+  "profile": {
+    "name": "INDmoney",
+    "slug": "indmoney",
+    "total_problems": 2,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 1.0,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Stack",
+        "count": 1
+      },
+      {
+        "topic": "Design",
+        "count": 1
+      },
+      {
+        "topic": "Monotonic Stack",
+        "count": 1
+      },
+      {
+        "topic": "Data Stream",
+        "count": 1
+      },
+      {
+        "topic": "Tree",
+        "count": 1
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 1
+      },
+      {
+        "topic": "Binary Tree",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Online Stock Span",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "online-stock-span"
+      },
+      {
+        "title": "Count Nodes Equal to Average of Subtree",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "count-nodes-equal-to-average-of-subtree"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa",
+        "system_design"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Tree traversal problems are frequently asked"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Count Nodes Equal to Average of Subtree",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 86.4,
+        "link": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "count-nodes-equal-to-average-of-subtree"
+      },
+      {
+        "title": "Online Stock Span",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 67.4,
+        "link": "https://leetcode.com/problems/online-stock-span",
+        "topics": [
+          "Stack",
+          "Design",
+          "Monotonic Stack",
+          "Data Stream"
+        ],
+        "slug": "online-stock-span"
+      }
+    ],
+    "all": [
+      {
+        "title": "Online Stock Span",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 67.4,
+        "link": "https://leetcode.com/problems/online-stock-span",
+        "topics": [
+          "Stack",
+          "Design",
+          "Monotonic Stack",
+          "Data Stream"
+        ],
+        "slug": "online-stock-span"
+      },
+      {
+        "title": "Count Nodes Equal to Average of Subtree",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 86.4,
+        "link": "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "count-nodes-equal-to-average-of-subtree"
+      }
+    ]
+  }
+}

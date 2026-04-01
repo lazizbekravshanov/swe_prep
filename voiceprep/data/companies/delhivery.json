@@ -1,0 +1,150 @@
+{
+  "profile": {
+    "name": "Delhivery",
+    "slug": "delhivery",
+    "total_problems": 3,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.67,
+      "hard": 0.33
+    },
+    "top_topics": [
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Recursion",
+        "count": 1
+      },
+      {
+        "topic": "Stack",
+        "count": 1
+      },
+      {
+        "topic": "Design",
+        "count": 1
+      },
+      {
+        "topic": "Database",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Integer to English Words",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "integer-to-english-words"
+      },
+      {
+        "title": "Min Stack",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "min-stack"
+      },
+      {
+        "title": "Consecutive Numbers",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "consecutive-numbers"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa",
+        "system_design"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Min Stack",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 56.4,
+        "link": "https://leetcode.com/problems/min-stack",
+        "topics": [
+          "Stack",
+          "Design"
+        ],
+        "slug": "min-stack"
+      },
+      {
+        "title": "Integer to English Words",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 34.4,
+        "link": "https://leetcode.com/problems/integer-to-english-words",
+        "topics": [
+          "Math",
+          "String",
+          "Recursion"
+        ],
+        "slug": "integer-to-english-words"
+      },
+      {
+        "title": "Consecutive Numbers",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 46.1,
+        "link": "https://leetcode.com/problems/consecutive-numbers",
+        "topics": [
+          "Database"
+        ],
+        "slug": "consecutive-numbers"
+      }
+    ],
+    "all": [
+      {
+        "title": "Integer to English Words",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 34.4,
+        "link": "https://leetcode.com/problems/integer-to-english-words",
+        "topics": [
+          "Math",
+          "String",
+          "Recursion"
+        ],
+        "slug": "integer-to-english-words"
+      },
+      {
+        "title": "Min Stack",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 56.4,
+        "link": "https://leetcode.com/problems/min-stack",
+        "topics": [
+          "Stack",
+          "Design"
+        ],
+        "slug": "min-stack"
+      },
+      {
+        "title": "Consecutive Numbers",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 46.1,
+        "link": "https://leetcode.com/problems/consecutive-numbers",
+        "topics": [
+          "Database"
+        ],
+        "slug": "consecutive-numbers"
+      }
+    ]
+  }
+}

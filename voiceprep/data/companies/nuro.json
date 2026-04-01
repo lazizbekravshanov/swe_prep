@@ -1,0 +1,376 @@
+{
+  "profile": {
+    "name": "Nuro",
+    "slug": "nuro",
+    "total_problems": 9,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.11,
+      "medium": 0.56,
+      "hard": 0.33
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 8
+      },
+      {
+        "topic": "Design",
+        "count": 2
+      },
+      {
+        "topic": "Matrix",
+        "count": 2
+      },
+      {
+        "topic": "Math",
+        "count": 2
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 2
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 2
+      },
+      {
+        "topic": "String",
+        "count": 2
+      },
+      {
+        "topic": "Queue",
+        "count": 2
+      },
+      {
+        "topic": "Geometry",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Subrectangle Queries",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "subrectangle-queries"
+      },
+      {
+        "title": "Maximum Number of Visible Points",
+        "difficulty": "HARD",
+        "frequency": 95.1,
+        "slug": "maximum-number-of-visible-points"
+      },
+      {
+        "title": "Shortest Path in a Grid with Obstacles Elimination",
+        "difficulty": "HARD",
+        "frequency": 73.6,
+        "slug": "shortest-path-in-a-grid-with-obstacles-elimination"
+      },
+      {
+        "title": "Evaluate Division",
+        "difficulty": "MEDIUM",
+        "frequency": 73.6,
+        "slug": "evaluate-division"
+      },
+      {
+        "title": "Interleaving String",
+        "difficulty": "MEDIUM",
+        "frequency": 64.8,
+        "slug": "interleaving-string"
+      },
+      {
+        "title": "Moving Average from Data Stream",
+        "difficulty": "EASY",
+        "frequency": 64.8,
+        "slug": "moving-average-from-data-stream"
+      },
+      {
+        "title": "Interval List Intersections",
+        "difficulty": "MEDIUM",
+        "frequency": 64.8,
+        "slug": "interval-list-intersections"
+      },
+      {
+        "title": "Line Reflection",
+        "difficulty": "MEDIUM",
+        "frequency": 64.8,
+        "slug": "line-reflection"
+      },
+      {
+        "title": "Sliding Window Maximum",
+        "difficulty": "HARD",
+        "frequency": 64.8,
+        "slug": "sliding-window-maximum"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa",
+        "system_design"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [
+      {
+        "title": "Maximum Number of Visible Points",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 37.7,
+        "link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+        "topics": [
+          "Array",
+          "Math",
+          "Geometry",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "slug": "maximum-number-of-visible-points"
+      },
+      {
+        "title": "Evaluate Division",
+        "difficulty": "MEDIUM",
+        "frequency": 84.6,
+        "acceptance_rate": 63.1,
+        "link": "https://leetcode.com/problems/evaluate-division",
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Graph",
+          "Shortest Path"
+        ],
+        "slug": "evaluate-division"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Maximum Number of Visible Points",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 37.7,
+        "link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+        "topics": [
+          "Array",
+          "Math",
+          "Geometry",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "slug": "maximum-number-of-visible-points"
+      },
+      {
+        "title": "Evaluate Division",
+        "difficulty": "MEDIUM",
+        "frequency": 85.0,
+        "acceptance_rate": 63.1,
+        "link": "https://leetcode.com/problems/evaluate-division",
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Graph",
+          "Shortest Path"
+        ],
+        "slug": "evaluate-division"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Subrectangle Queries",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 86.0,
+        "link": "https://leetcode.com/problems/subrectangle-queries",
+        "topics": [
+          "Array",
+          "Design",
+          "Matrix"
+        ],
+        "slug": "subrectangle-queries"
+      },
+      {
+        "title": "Shortest Path in a Grid with Obstacles Elimination",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 45.6,
+        "link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "slug": "shortest-path-in-a-grid-with-obstacles-elimination"
+      },
+      {
+        "title": "Maximum Number of Visible Points",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 37.7,
+        "link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+        "topics": [
+          "Array",
+          "Math",
+          "Geometry",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "slug": "maximum-number-of-visible-points"
+      },
+      {
+        "title": "Line Reflection",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 36.0,
+        "link": "https://leetcode.com/problems/line-reflection",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math"
+        ],
+        "slug": "line-reflection"
+      }
+    ],
+    "all": [
+      {
+        "title": "Subrectangle Queries",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 86.0,
+        "link": "https://leetcode.com/problems/subrectangle-queries",
+        "topics": [
+          "Array",
+          "Design",
+          "Matrix"
+        ],
+        "slug": "subrectangle-queries"
+      },
+      {
+        "title": "Maximum Number of Visible Points",
+        "difficulty": "HARD",
+        "frequency": 95.1,
+        "acceptance_rate": 37.7,
+        "link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+        "topics": [
+          "Array",
+          "Math",
+          "Geometry",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "slug": "maximum-number-of-visible-points"
+      },
+      {
+        "title": "Shortest Path in a Grid with Obstacles Elimination",
+        "difficulty": "HARD",
+        "frequency": 73.6,
+        "acceptance_rate": 45.6,
+        "link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "slug": "shortest-path-in-a-grid-with-obstacles-elimination"
+      },
+      {
+        "title": "Evaluate Division",
+        "difficulty": "MEDIUM",
+        "frequency": 73.6,
+        "acceptance_rate": 63.1,
+        "link": "https://leetcode.com/problems/evaluate-division",
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Graph",
+          "Shortest Path"
+        ],
+        "slug": "evaluate-division"
+      },
+      {
+        "title": "Interleaving String",
+        "difficulty": "MEDIUM",
+        "frequency": 64.8,
+        "acceptance_rate": 42.2,
+        "link": "https://leetcode.com/problems/interleaving-string",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "interleaving-string"
+      },
+      {
+        "title": "Moving Average from Data Stream",
+        "difficulty": "EASY",
+        "frequency": 64.8,
+        "acceptance_rate": 79.9,
+        "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+        "topics": [
+          "Array",
+          "Design",
+          "Queue",
+          "Data Stream"
+        ],
+        "slug": "moving-average-from-data-stream"
+      },
+      {
+        "title": "Interval List Intersections",
+        "difficulty": "MEDIUM",
+        "frequency": 64.8,
+        "acceptance_rate": 72.7,
+        "link": "https://leetcode.com/problems/interval-list-intersections",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Line Sweep"
+        ],
+        "slug": "interval-list-intersections"
+      },
+      {
+        "title": "Line Reflection",
+        "difficulty": "MEDIUM",
+        "frequency": 64.8,
+        "acceptance_rate": 36.0,
+        "link": "https://leetcode.com/problems/line-reflection",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math"
+        ],
+        "slug": "line-reflection"
+      },
+      {
+        "title": "Sliding Window Maximum",
+        "difficulty": "HARD",
+        "frequency": 64.8,
+        "acceptance_rate": 47.6,
+        "link": "https://leetcode.com/problems/sliding-window-maximum",
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue"
+        ],
+        "slug": "sliding-window-maximum"
+      }
+    ]
+  }
+}

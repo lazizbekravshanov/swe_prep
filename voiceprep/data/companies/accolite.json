@@ -1,0 +1,613 @@
+{
+  "profile": {
+    "name": "Accolite",
+    "slug": "accolite",
+    "total_problems": 17,
+    "recent_problems_30d": 1,
+    "difficulty_distribution": {
+      "easy": 0.35,
+      "medium": 0.59,
+      "hard": 0.06
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 8
+      },
+      {
+        "topic": "String",
+        "count": 7
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 6
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 5
+      },
+      {
+        "topic": "Stack",
+        "count": 3
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 2
+      },
+      {
+        "topic": "Greedy",
+        "count": 2
+      },
+      {
+        "topic": "Hash Table",
+        "count": 2
+      },
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "Memoization",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 1
+      }
+    ],
+    "highest_frequency_problems": [
+      {
+        "title": "Replace the Substring for Balanced String",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "replace-the-substring-for-balanced-string"
+      },
+      {
+        "title": "Merge Operations to Turn Array Into a Palindrome",
+        "difficulty": "MEDIUM",
+        "frequency": 87.5,
+        "slug": "merge-operations-to-turn-array-into-a-palindrome"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 72.8,
+        "slug": "two-sum"
+      },
+      {
+        "title": "Climbing Stairs",
+        "difficulty": "EASY",
+        "frequency": 72.8,
+        "slug": "climbing-stairs"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 62.0,
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Binary Tree Right Side View",
+        "difficulty": "MEDIUM",
+        "frequency": 62.0,
+        "slug": "binary-tree-right-side-view"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 62.0,
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 62.0,
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 53.4,
+        "slug": "trapping-rain-water"
+      },
+      {
+        "title": "Longest Common Prefix",
+        "difficulty": "EASY",
+        "frequency": 53.4,
+        "slug": "longest-common-prefix"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [
+      {
+        "title": "Replace the Substring for Balanced String",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 39.6,
+        "link": "https://leetcode.com/problems/replace-the-substring-for-balanced-string",
+        "topics": [
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "replace-the-substring-for-balanced-string"
+      }
+    ],
+    "90d": [
+      {
+        "title": "Replace the Substring for Balanced String",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 39.6,
+        "link": "https://leetcode.com/problems/replace-the-substring-for-balanced-string",
+        "topics": [
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "replace-the-substring-for-balanced-string"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 90.2,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Replace the Substring for Balanced String",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 39.6,
+        "link": "https://leetcode.com/problems/replace-the-substring-for-balanced-string",
+        "topics": [
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "replace-the-substring-for-balanced-string"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 83.2,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Replace the Substring for Balanced String",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 39.6,
+        "link": "https://leetcode.com/problems/replace-the-substring-for-balanced-string",
+        "topics": [
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "replace-the-substring-for-balanced-string"
+      },
+      {
+        "title": "Climbing Stairs",
+        "difficulty": "EASY",
+        "frequency": 95.2,
+        "acceptance_rate": 53.5,
+        "link": "https://leetcode.com/problems/climbing-stairs",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "slug": "climbing-stairs"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 81.7,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 81.7,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 81.7,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 70.9,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Longest Common Prefix",
+        "difficulty": "EASY",
+        "frequency": 70.9,
+        "acceptance_rate": 45.5,
+        "link": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "String",
+          "Trie"
+        ],
+        "slug": "longest-common-prefix"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 70.9,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "trapping-rain-water"
+      },
+      {
+        "title": "Binary Tree Right Side View",
+        "difficulty": "MEDIUM",
+        "frequency": 70.9,
+        "acceptance_rate": 67.0,
+        "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "binary-tree-right-side-view"
+      },
+      {
+        "title": "Reverse Vowels of a String",
+        "difficulty": "EASY",
+        "frequency": 70.9,
+        "acceptance_rate": 58.2,
+        "link": "https://leetcode.com/problems/reverse-vowels-of-a-string",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "reverse-vowels-of-a-string"
+      },
+      {
+        "title": "Merge Operations to Turn Array Into a Palindrome",
+        "difficulty": "MEDIUM",
+        "frequency": 70.9,
+        "acceptance_rate": 69.0,
+        "link": "https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "slug": "merge-operations-to-turn-array-into-a-palindrome"
+      },
+      {
+        "title": "Longest Common Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 70.9,
+        "acceptance_rate": 58.2,
+        "link": "https://leetcode.com/problems/longest-common-subsequence",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-common-subsequence"
+      },
+      {
+        "title": "Search in Rotated Sorted Array",
+        "difficulty": "MEDIUM",
+        "frequency": 70.9,
+        "acceptance_rate": 42.8,
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "search-in-rotated-sorted-array"
+      },
+      {
+        "title": "Remove Duplicates from Sorted Array II",
+        "difficulty": "MEDIUM",
+        "frequency": 70.9,
+        "acceptance_rate": 62.9,
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "remove-duplicates-from-sorted-array-ii"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 70.9,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      }
+    ],
+    "all": [
+      {
+        "title": "Replace the Substring for Balanced String",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 39.6,
+        "link": "https://leetcode.com/problems/replace-the-substring-for-balanced-string",
+        "topics": [
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "replace-the-substring-for-balanced-string"
+      },
+      {
+        "title": "Merge Operations to Turn Array Into a Palindrome",
+        "difficulty": "MEDIUM",
+        "frequency": 87.5,
+        "acceptance_rate": 69.0,
+        "link": "https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "slug": "merge-operations-to-turn-array-into-a-palindrome"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 72.8,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Climbing Stairs",
+        "difficulty": "EASY",
+        "frequency": 72.8,
+        "acceptance_rate": 53.5,
+        "link": "https://leetcode.com/problems/climbing-stairs",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "slug": "climbing-stairs"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 62.0,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Binary Tree Right Side View",
+        "difficulty": "MEDIUM",
+        "frequency": 62.0,
+        "acceptance_rate": 67.0,
+        "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "binary-tree-right-side-view"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 62.0,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 62.0,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 53.4,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "trapping-rain-water"
+      },
+      {
+        "title": "Longest Common Prefix",
+        "difficulty": "EASY",
+        "frequency": 53.4,
+        "acceptance_rate": 45.5,
+        "link": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "String",
+          "Trie"
+        ],
+        "slug": "longest-common-prefix"
+      },
+      {
+        "title": "Reverse Vowels of a String",
+        "difficulty": "EASY",
+        "frequency": 53.4,
+        "acceptance_rate": 58.2,
+        "link": "https://leetcode.com/problems/reverse-vowels-of-a-string",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "reverse-vowels-of-a-string"
+      },
+      {
+        "title": "Search in Rotated Sorted Array",
+        "difficulty": "MEDIUM",
+        "frequency": 53.4,
+        "acceptance_rate": 42.8,
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "search-in-rotated-sorted-array"
+      },
+      {
+        "title": "Longest Common Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 53.4,
+        "acceptance_rate": 58.2,
+        "link": "https://leetcode.com/problems/longest-common-subsequence",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-common-subsequence"
+      },
+      {
+        "title": "Remove Duplicates from Sorted Array II",
+        "difficulty": "MEDIUM",
+        "frequency": 53.4,
+        "acceptance_rate": 62.9,
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "remove-duplicates-from-sorted-array-ii"
+      },
+      {
+        "title": "Container With Most Water",
+        "difficulty": "MEDIUM",
+        "frequency": 53.4,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/container-with-most-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "slug": "container-with-most-water"
+      },
+      {
+        "title": "Asteroid Collision",
+        "difficulty": "MEDIUM",
+        "frequency": 53.4,
+        "acceptance_rate": 45.5,
+        "link": "https://leetcode.com/problems/asteroid-collision",
+        "topics": [
+          "Array",
+          "Stack",
+          "Simulation"
+        ],
+        "slug": "asteroid-collision"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 53.4,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      }
+    ]
+  }
+}

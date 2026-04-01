@@ -1,0 +1,98 @@
+{
+  "google": {
+    "interviewer_personality": "Collaborative and curious. Google interviewers often explore multiple solutions and care deeply about algorithmic elegance. They ask 'can you do better?' frequently.",
+    "evaluation_emphasis": ["algorithmic complexity", "scalability thinking", "clean code"],
+    "common_follow_ups": ["What if the input doesn't fit in memory?", "Can you parallelize this?", "What's the best possible time complexity for this problem?"],
+    "interview_format": ["1 phone screen (45 min)", "4-5 onsite rounds", "Googleyness & Leadership round"],
+    "red_flags": ["Jumping to code without discussing approach", "Not analyzing complexity", "Unable to optimize beyond brute force"],
+    "unique_traits": "Google uses a hiring committee — your interviewer doesn't make the final call. They care about 'Googliness' — intellectual humility and collaborative problem-solving."
+  },
+  "meta": {
+    "interviewer_personality": "Fast-paced and direct. Meta interviewers expect you to move quickly. They care about working code that handles edge cases. Speed matters.",
+    "evaluation_emphasis": ["speed of coding", "bug-free code", "edge case handling"],
+    "common_follow_ups": ["What edge cases are you handling?", "Can you code the optimal solution directly?", "How would you test this?"],
+    "interview_format": ["1 phone screen (45 min)", "2 coding rounds", "1 system design", "1 behavioral"],
+    "red_flags": ["Slow coding", "Not testing with examples", "Over-engineering"],
+    "unique_traits": "Meta expects you to write code in a shared document (no IDE, no autocomplete). Practice without syntax highlighting."
+  },
+  "amazon": {
+    "interviewer_personality": "Leadership Principles focused. Amazon interviewers weave behavioral questions into technical rounds. They ask 'tell me about a time when...' even during coding.",
+    "evaluation_emphasis": ["leadership principles", "working backwards from customer", "bias for action"],
+    "common_follow_ups": ["How does this solution scale to millions of users?", "Tell me about a time you had to make a quick decision with incomplete data.", "What's the trade-off here?"],
+    "interview_format": ["1 OA (online assessment)", "1 phone screen", "4-5 onsite loop rounds"],
+    "red_flags": ["Not connecting technical decisions to business impact", "Unable to give STAR examples", "Not mentioning scalability"],
+    "unique_traits": "Amazon is the only FAANG that heavily evaluates Leadership Principles in every round. Prepare 2-3 STAR stories per principle."
+  },
+  "apple": {
+    "interviewer_personality": "Detail-oriented and design-conscious. Apple interviewers care about code quality, naming conventions, and software design. They may ask you to write tests.",
+    "evaluation_emphasis": ["code quality", "attention to detail", "software design patterns"],
+    "common_follow_ups": ["How would you test this?", "What design pattern would you use here?", "How would you name this variable in production?"],
+    "interview_format": ["1-2 phone screens", "5-6 onsite rounds", "Team-matched interviews"],
+    "red_flags": ["Sloppy variable names", "No consideration of error handling", "Ignoring code readability"],
+    "unique_traits": "Apple interviews are team-matched — you interview with the actual team you'd join. Culture fit matters more than at other FAANGs."
+  },
+  "microsoft": {
+    "interviewer_personality": "Methodical and structured. Microsoft interviewers like to see systematic problem decomposition. They often ask about object-oriented design.",
+    "evaluation_emphasis": ["systematic thinking", "OOP design", "communication clarity"],
+    "common_follow_ups": ["How would you design the classes for this?", "What about thread safety?", "How would this work in a distributed system?"],
+    "interview_format": ["1 phone screen", "4-5 onsite rounds", "As-Appropriate final round with senior leader"],
+    "red_flags": ["Unstructured problem-solving", "Ignoring object-oriented principles", "Poor communication"],
+    "unique_traits": "Microsoft's 'As-Appropriate' (AA) round is with a senior leader who decides hire/no-hire. It combines technical depth with behavioral assessment."
+  },
+  "bloomberg": {
+    "interviewer_personality": "Practical and systems-oriented. Bloomberg interviewers focus on real-world coding ability and understanding of financial systems. They value production-quality code.",
+    "evaluation_emphasis": ["production-quality code", "systems knowledge", "practical problem-solving"],
+    "common_follow_ups": ["How would you handle millions of messages per second?", "What happens when this service goes down?", "How would you monitor this in production?"],
+    "interview_format": ["1 phone screen", "1 onsite with 3-4 rounds", "Often includes pair programming"],
+    "red_flags": ["Writing code that only works for the happy path", "No consideration of error handling or edge cases"],
+    "unique_traits": "Bloomberg interviews often include pair programming. They value C++ expertise and understanding of low-latency systems."
+  },
+  "netflix": {
+    "interviewer_personality": "Senior and direct. Netflix only hires senior engineers, so interviews are fast-paced with high expectations. They care about culture fit and independent thinking.",
+    "evaluation_emphasis": ["senior-level thinking", "system design", "cultural values alignment"],
+    "common_follow_ups": ["What would you do differently if you had more time?", "How would you make this decision without manager approval?", "What's the simplest solution that works?"],
+    "interview_format": ["Multiple phone screens", "Onsite with 5-6 rounds", "Strong culture fit component"],
+    "red_flags": ["Needing too much guidance", "Not demonstrating strong opinions", "Over-complicating solutions"],
+    "unique_traits": "Netflix culture emphasizes 'freedom and responsibility'. They want engineers who can make independent decisions and communicate directly."
+  },
+  "stripe": {
+    "interviewer_personality": "Practical and API-focused. Stripe interviewers give problems that resemble real work — building APIs, handling edge cases in payment systems, debugging production code.",
+    "evaluation_emphasis": ["API design", "code clarity", "real-world problem-solving"],
+    "common_follow_ups": ["How would you handle a race condition here?", "What if this API is called 10,000 times per second?", "How would you version this API?"],
+    "interview_format": ["1 phone screen", "Onsite with 4 rounds including a debugging exercise"],
+    "red_flags": ["Writing code that doesn't compile", "Not considering concurrent access", "Poor API naming"],
+    "unique_traits": "Stripe interviews include a unique 'bug squash' round where you debug real-ish code. Practice reading and fixing other people's code."
+  },
+  "uber": {
+    "interviewer_personality": "Systems-minded and pragmatic. Uber interviewers focus on distributed systems, real-time processing, and handling scale. They appreciate practical trade-off discussions.",
+    "evaluation_emphasis": ["distributed systems thinking", "handling scale", "practical trade-offs"],
+    "common_follow_ups": ["How would this work with millions of concurrent users?", "What happens during a network partition?", "How would you handle data consistency here?"],
+    "interview_format": ["1 phone screen", "Onsite with 4-5 rounds", "Often includes system design"],
+    "red_flags": ["Not considering scale", "Ignoring failure modes", "No discussion of trade-offs"],
+    "unique_traits": "Uber problems often involve geospatial data, real-time systems, and matching algorithms. Study rate limiting and consistent hashing."
+  },
+  "tiktok": {
+    "interviewer_personality": "Fast-paced and algorithm-heavy. TikTok/ByteDance interviewers emphasize pure algorithmic ability. Interviews may include multiple coding problems in one session.",
+    "evaluation_emphasis": ["algorithmic speed", "multiple problems per round", "optimization"],
+    "common_follow_ups": ["Can you solve this in O(n)?", "What if the array is sorted?", "Here's a harder version of this problem..."],
+    "interview_format": ["1-2 phone screens with 2 problems each", "Onsite with 3-4 rounds"],
+    "red_flags": ["Slow problem-solving", "Cannot optimize beyond O(n^2)", "Struggling with basic data structures"],
+    "unique_traits": "ByteDance/TikTok interviews are notoriously algorithm-heavy. You may get 2-3 problems per round. Speed and accuracy both matter."
+  },
+  "goldman-sachs": {
+    "interviewer_personality": "Technical and detail-oriented. Goldman Sachs interviewers care about clean code, understanding of data structures, and sometimes financial domain knowledge.",
+    "evaluation_emphasis": ["clean code", "data structure mastery", "analytical thinking"],
+    "common_follow_ups": ["What's the worst-case scenario?", "How would you handle floating-point precision?", "Walk me through your testing strategy."],
+    "interview_format": ["1 HackerRank assessment", "1-2 phone screens", "Super Day with 4-5 rounds"],
+    "red_flags": ["Messy code", "Not handling edge cases", "Poor complexity analysis"],
+    "unique_traits": "Goldman's 'Super Day' is an intensive onsite with back-to-back interviews. Prepare for both technical and behavioral questions about teamwork and ethics."
+  },
+  "linkedin": {
+    "interviewer_personality": "Collaborative and product-minded. LinkedIn interviewers like candidates who think about the user impact of their technical decisions.",
+    "evaluation_emphasis": ["product thinking", "collaboration", "clean code"],
+    "common_follow_ups": ["How would this feature impact the user experience?", "What metrics would you track?", "How would you A/B test this?"],
+    "interview_format": ["1 phone screen", "Onsite with 4 rounds including system design"],
+    "red_flags": ["Pure algorithmic thinking without considering product impact", "Not asking clarifying questions"],
+    "unique_traits": "LinkedIn (owned by Microsoft) values 'members first' thinking. Connect your technical solutions to user value."
+  }
+}

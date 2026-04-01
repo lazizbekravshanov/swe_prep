@@ -1,0 +1,283 @@
+{
+  "profile": {
+    "name": "InMobi",
+    "slug": "inmobi",
+    "total_problems": 6,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.5,
+      "hard": 0.5
+    },
+    "top_topics": [
+      {
+        "topic": "Binary Search",
+        "count": 2
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 2
+      },
+      {
+        "topic": "String",
+        "count": 2
+      },
+      {
+        "topic": "Array",
+        "count": 2
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 2
+      },
+      {
+        "topic": "Stack",
+        "count": 2
+      },
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      },
+      {
+        "topic": "Queue",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Reach a Number",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "reach-a-number"
+      },
+      {
+        "title": "Partition Labels",
+        "difficulty": "MEDIUM",
+        "frequency": 65.2,
+        "slug": "partition-labels"
+      },
+      {
+        "title": "Maximum Number of Robots Within Budget",
+        "difficulty": "HARD",
+        "frequency": 65.2,
+        "slug": "maximum-number-of-robots-within-budget"
+      },
+      {
+        "title": "Redundant Connection",
+        "difficulty": "MEDIUM",
+        "frequency": 65.2,
+        "slug": "redundant-connection"
+      },
+      {
+        "title": "Longest Valid Parentheses",
+        "difficulty": "HARD",
+        "frequency": 65.2,
+        "slug": "longest-valid-parentheses"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 65.2,
+        "slug": "trapping-rain-water"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Emphasizes DP and graph problems",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Reach a Number",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 43.9,
+        "link": "https://leetcode.com/problems/reach-a-number",
+        "topics": [
+          "Math",
+          "Binary Search"
+        ],
+        "slug": "reach-a-number"
+      },
+      {
+        "title": "Partition Labels",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 81.5,
+        "link": "https://leetcode.com/problems/partition-labels",
+        "topics": [
+          "Hash Table",
+          "Two Pointers",
+          "String",
+          "Greedy"
+        ],
+        "slug": "partition-labels"
+      },
+      {
+        "title": "Maximum Number of Robots Within Budget",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 36.8,
+        "link": "https://leetcode.com/problems/maximum-number-of-robots-within-budget",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Prefix Sum",
+          "Monotonic Queue"
+        ],
+        "slug": "maximum-number-of-robots-within-budget"
+      },
+      {
+        "title": "Redundant Connection",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 66.5,
+        "link": "https://leetcode.com/problems/redundant-connection",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Graph"
+        ],
+        "slug": "redundant-connection"
+      },
+      {
+        "title": "Longest Valid Parentheses",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 36.3,
+        "link": "https://leetcode.com/problems/longest-valid-parentheses",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Stack"
+        ],
+        "slug": "longest-valid-parentheses"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "trapping-rain-water"
+      }
+    ],
+    "all": [
+      {
+        "title": "Reach a Number",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 43.9,
+        "link": "https://leetcode.com/problems/reach-a-number",
+        "topics": [
+          "Math",
+          "Binary Search"
+        ],
+        "slug": "reach-a-number"
+      },
+      {
+        "title": "Partition Labels",
+        "difficulty": "MEDIUM",
+        "frequency": 65.2,
+        "acceptance_rate": 81.5,
+        "link": "https://leetcode.com/problems/partition-labels",
+        "topics": [
+          "Hash Table",
+          "Two Pointers",
+          "String",
+          "Greedy"
+        ],
+        "slug": "partition-labels"
+      },
+      {
+        "title": "Maximum Number of Robots Within Budget",
+        "difficulty": "HARD",
+        "frequency": 65.2,
+        "acceptance_rate": 36.8,
+        "link": "https://leetcode.com/problems/maximum-number-of-robots-within-budget",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Prefix Sum",
+          "Monotonic Queue"
+        ],
+        "slug": "maximum-number-of-robots-within-budget"
+      },
+      {
+        "title": "Redundant Connection",
+        "difficulty": "MEDIUM",
+        "frequency": 65.2,
+        "acceptance_rate": 66.5,
+        "link": "https://leetcode.com/problems/redundant-connection",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Graph"
+        ],
+        "slug": "redundant-connection"
+      },
+      {
+        "title": "Longest Valid Parentheses",
+        "difficulty": "HARD",
+        "frequency": 65.2,
+        "acceptance_rate": 36.3,
+        "link": "https://leetcode.com/problems/longest-valid-parentheses",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Stack"
+        ],
+        "slug": "longest-valid-parentheses"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 65.2,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "trapping-rain-water"
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "profile": {
+    "name": "Mobileye",
+    "slug": "mobileye",
+    "total_problems": 2,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 1.0,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Hash Table",
+        "count": 2
+      },
+      {
+        "topic": "Linked List",
+        "count": 2
+      },
+      {
+        "topic": "Design",
+        "count": 1
+      },
+      {
+        "topic": "Doubly-Linked List",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Copy List with Random Pointer",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "copy-list-with-random-pointer"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 90.0,
+        "slug": "lru-cache"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa",
+        "system_design"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Copy List with Random Pointer",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 60.5,
+        "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+        "topics": [
+          "Hash Table",
+          "Linked List"
+        ],
+        "slug": "copy-list-with-random-pointer"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      }
+    ],
+    "all": [
+      {
+        "title": "Copy List with Random Pointer",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 60.5,
+        "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+        "topics": [
+          "Hash Table",
+          "Linked List"
+        ],
+        "slug": "copy-list-with-random-pointer"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 90.0,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      }
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "profile": {
+    "name": "PayU",
+    "slug": "payu",
+    "total_problems": 2,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.5,
+      "medium": 0.5,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "Simulation",
+        "count": 1
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      },
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Count Operations to Obtain Zero",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "count-operations-to-obtain-zero"
+      },
+      {
+        "title": "Longest Repeating Character Replacement",
+        "difficulty": "MEDIUM",
+        "frequency": 66.6,
+        "slug": "longest-repeating-character-replacement"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Mix of easy-medium \u2014 focuses on clean code and communication",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Count Operations to Obtain Zero",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 74.9,
+        "link": "https://leetcode.com/problems/count-operations-to-obtain-zero",
+        "topics": [
+          "Math",
+          "Simulation"
+        ],
+        "slug": "count-operations-to-obtain-zero"
+      },
+      {
+        "title": "Longest Repeating Character Replacement",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 57.2,
+        "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-repeating-character-replacement"
+      }
+    ],
+    "all": [
+      {
+        "title": "Count Operations to Obtain Zero",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 74.9,
+        "link": "https://leetcode.com/problems/count-operations-to-obtain-zero",
+        "topics": [
+          "Math",
+          "Simulation"
+        ],
+        "slug": "count-operations-to-obtain-zero"
+      },
+      {
+        "title": "Longest Repeating Character Replacement",
+        "difficulty": "MEDIUM",
+        "frequency": 66.6,
+        "acceptance_rate": 57.2,
+        "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-repeating-character-replacement"
+      }
+    ]
+  }
+}

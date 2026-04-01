@@ -1,0 +1,159 @@
+{
+  "profile": {
+    "name": "zeta suite",
+    "slug": "zeta-suite",
+    "total_problems": 3,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.67,
+      "medium": 0.33,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 3
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "count": 1
+      },
+      {
+        "topic": "Counting",
+        "count": 1
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Count Equal and Divisible Pairs in an Array",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "count-equal-and-divisible-pairs-in-an-array"
+      },
+      {
+        "title": "Task Scheduler",
+        "difficulty": "MEDIUM",
+        "frequency": 66.8,
+        "slug": "task-scheduler"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 66.8,
+        "slug": "best-time-to-buy-and-sell-stock"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Mix of easy-medium \u2014 focuses on clean code and communication"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Task Scheduler",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 61.5,
+        "link": "https://leetcode.com/problems/task-scheduler",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Counting"
+        ],
+        "slug": "task-scheduler"
+      },
+      {
+        "title": "Count Equal and Divisible Pairs in an Array",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 84.1,
+        "link": "https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array",
+        "topics": [
+          "Array"
+        ],
+        "slug": "count-equal-and-divisible-pairs-in-an-array"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      }
+    ],
+    "all": [
+      {
+        "title": "Count Equal and Divisible Pairs in an Array",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 84.1,
+        "link": "https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array",
+        "topics": [
+          "Array"
+        ],
+        "slug": "count-equal-and-divisible-pairs-in-an-array"
+      },
+      {
+        "title": "Task Scheduler",
+        "difficulty": "MEDIUM",
+        "frequency": 66.8,
+        "acceptance_rate": 61.5,
+        "link": "https://leetcode.com/problems/task-scheduler",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Counting"
+        ],
+        "slug": "task-scheduler"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 66.8,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      }
+    ]
+  }
+}

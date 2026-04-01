@@ -1,0 +1,280 @@
+{
+  "profile": {
+    "name": "LiveRamp",
+    "slug": "liveramp",
+    "total_problems": 6,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.33,
+      "medium": 0.67,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 4
+      },
+      {
+        "topic": "Hash Table",
+        "count": 2
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 2
+      },
+      {
+        "topic": "Sorting",
+        "count": 2
+      },
+      {
+        "topic": "String",
+        "count": 2
+      },
+      {
+        "topic": "Stack",
+        "count": 1
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      },
+      {
+        "topic": "Monotonic Stack",
+        "count": 1
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 1
+      },
+      {
+        "topic": "Counting",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Distribute Candies",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "distribute-candies"
+      },
+      {
+        "title": "Shortest Unsorted Continuous Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "shortest-unsorted-continuous-subarray"
+      },
+      {
+        "title": "Longest Harmonious Subsequence",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "longest-harmonious-subsequence"
+      },
+      {
+        "title": "Largest Time for Given Digits",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "largest-time-for-given-digits"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 65.1,
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Course Schedule",
+        "difficulty": "MEDIUM",
+        "frequency": 65.1,
+        "slug": "course-schedule"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Largest Time for Given Digits",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 35.5,
+        "link": "https://leetcode.com/problems/largest-time-for-given-digits",
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Enumeration"
+        ],
+        "slug": "largest-time-for-given-digits"
+      },
+      {
+        "title": "Longest Harmonious Subsequence",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 57.3,
+        "link": "https://leetcode.com/problems/longest-harmonious-subsequence",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Sorting",
+          "Counting"
+        ],
+        "slug": "longest-harmonious-subsequence"
+      },
+      {
+        "title": "Shortest Unsorted Continuous Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 37.4,
+        "link": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Stack",
+          "Greedy",
+          "Sorting",
+          "Monotonic Stack"
+        ],
+        "slug": "shortest-unsorted-continuous-subarray"
+      },
+      {
+        "title": "Distribute Candies",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 69.6,
+        "link": "https://leetcode.com/problems/distribute-candies",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "distribute-candies"
+      },
+      {
+        "title": "Course Schedule",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 49.2,
+        "link": "https://leetcode.com/problems/course-schedule",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph",
+          "Topological Sort"
+        ],
+        "slug": "course-schedule"
+      }
+    ],
+    "all": [
+      {
+        "title": "Distribute Candies",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 69.6,
+        "link": "https://leetcode.com/problems/distribute-candies",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "distribute-candies"
+      },
+      {
+        "title": "Shortest Unsorted Continuous Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 37.4,
+        "link": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Stack",
+          "Greedy",
+          "Sorting",
+          "Monotonic Stack"
+        ],
+        "slug": "shortest-unsorted-continuous-subarray"
+      },
+      {
+        "title": "Longest Harmonious Subsequence",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 57.3,
+        "link": "https://leetcode.com/problems/longest-harmonious-subsequence",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Sorting",
+          "Counting"
+        ],
+        "slug": "longest-harmonious-subsequence"
+      },
+      {
+        "title": "Largest Time for Given Digits",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 35.5,
+        "link": "https://leetcode.com/problems/largest-time-for-given-digits",
+        "topics": [
+          "Array",
+          "String",
+          "Backtracking",
+          "Enumeration"
+        ],
+        "slug": "largest-time-for-given-digits"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 65.1,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Course Schedule",
+        "difficulty": "MEDIUM",
+        "frequency": 65.1,
+        "acceptance_rate": 49.2,
+        "link": "https://leetcode.com/problems/course-schedule",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph",
+          "Topological Sort"
+        ],
+        "slug": "course-schedule"
+      }
+    ]
+  }
+}

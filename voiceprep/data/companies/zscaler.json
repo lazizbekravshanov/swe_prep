@@ -1,0 +1,737 @@
+{
+  "profile": {
+    "name": "ZScaler",
+    "slug": "zscaler",
+    "total_problems": 24,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.46,
+      "medium": 0.42,
+      "hard": 0.12
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 14
+      },
+      {
+        "topic": "Hash Table",
+        "count": 10
+      },
+      {
+        "topic": "String",
+        "count": 5
+      },
+      {
+        "topic": "Math",
+        "count": 4
+      },
+      {
+        "topic": "Sorting",
+        "count": 3
+      },
+      {
+        "topic": "Greedy",
+        "count": 3
+      },
+      {
+        "topic": "Bit Manipulation",
+        "count": 3
+      },
+      {
+        "topic": "Trie",
+        "count": 3
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 3
+      },
+      {
+        "topic": "Linked List",
+        "count": 3
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Largest Number After Digit Swaps by Parity",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "largest-number-after-digit-swaps-by-parity"
+      },
+      {
+        "title": "Day of the Year",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "day-of-the-year"
+      },
+      {
+        "title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k"
+      },
+      {
+        "title": "Maximum Strong Pair XOR I",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "maximum-strong-pair-xor-i"
+      },
+      {
+        "title": "Maximum Strong Pair XOR II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "maximum-strong-pair-xor-ii"
+      },
+      {
+        "title": "Optimal Account Balancing",
+        "difficulty": "HARD",
+        "frequency": 94.4,
+        "slug": "optimal-account-balancing"
+      },
+      {
+        "title": "Robot Bounded In Circle",
+        "difficulty": "MEDIUM",
+        "frequency": 77.1,
+        "slug": "robot-bounded-in-circle"
+      },
+      {
+        "title": "Find the Smallest Divisor Given a Threshold",
+        "difficulty": "MEDIUM",
+        "frequency": 69.9,
+        "slug": "find-the-smallest-divisor-given-a-threshold"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 69.9,
+        "slug": "two-sum"
+      },
+      {
+        "title": "Jump Game",
+        "difficulty": "MEDIUM",
+        "frequency": 69.9,
+        "slug": "jump-game"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Mix of easy-medium \u2014 focuses on clean code and communication"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [
+      {
+        "title": "Minimum Increment to Make Array Unique",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 60.3,
+        "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Counting"
+        ],
+        "slug": "minimum-increment-to-make-array-unique"
+      },
+      {
+        "title": "Word Ladder",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 42.8,
+        "link": "https://leetcode.com/problems/word-ladder",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search"
+        ],
+        "slug": "word-ladder"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Number of Divisible Triplet Sums",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 67.8,
+        "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "number-of-divisible-triplet-sums"
+      },
+      {
+        "title": "Minimum Increment to Make Array Unique",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 60.3,
+        "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Counting"
+        ],
+        "slug": "minimum-increment-to-make-array-unique"
+      },
+      {
+        "title": "Word Ladder",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 42.8,
+        "link": "https://leetcode.com/problems/word-ladder",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search"
+        ],
+        "slug": "word-ladder"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Optimal Account Balancing",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 49.9,
+        "link": "https://leetcode.com/problems/optimal-account-balancing",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ],
+        "slug": "optimal-account-balancing"
+      },
+      {
+        "title": "Robot Bounded In Circle",
+        "difficulty": "MEDIUM",
+        "frequency": 85.5,
+        "acceptance_rate": 56.2,
+        "link": "https://leetcode.com/problems/robot-bounded-in-circle",
+        "topics": [
+          "Math",
+          "String",
+          "Simulation"
+        ],
+        "slug": "robot-bounded-in-circle"
+      },
+      {
+        "title": "Jump Game",
+        "difficulty": "MEDIUM",
+        "frequency": 78.0,
+        "acceptance_rate": 39.5,
+        "link": "https://leetcode.com/problems/jump-game",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "slug": "jump-game"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 78.0,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Rotate Image",
+        "difficulty": "MEDIUM",
+        "frequency": 78.0,
+        "acceptance_rate": 77.9,
+        "link": "https://leetcode.com/problems/rotate-image",
+        "topics": [
+          "Array",
+          "Math",
+          "Matrix"
+        ],
+        "slug": "rotate-image"
+      },
+      {
+        "title": "Degree of an Array",
+        "difficulty": "EASY",
+        "frequency": 67.6,
+        "acceptance_rate": 57.4,
+        "link": "https://leetcode.com/problems/degree-of-an-array",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "degree-of-an-array"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 67.6,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Moving Average from Data Stream",
+        "difficulty": "EASY",
+        "frequency": 67.6,
+        "acceptance_rate": 79.9,
+        "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+        "topics": [
+          "Array",
+          "Design",
+          "Queue",
+          "Data Stream"
+        ],
+        "slug": "moving-average-from-data-stream"
+      },
+      {
+        "title": "Remove Duplicates from Sorted Array",
+        "difficulty": "EASY",
+        "frequency": 67.6,
+        "acceptance_rate": 60.4,
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "remove-duplicates-from-sorted-array"
+      },
+      {
+        "title": "Linked List Cycle",
+        "difficulty": "EASY",
+        "frequency": 67.6,
+        "acceptance_rate": 52.6,
+        "link": "https://leetcode.com/problems/linked-list-cycle",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Two Pointers"
+        ],
+        "slug": "linked-list-cycle"
+      },
+      {
+        "title": "Longest Common Prefix",
+        "difficulty": "EASY",
+        "frequency": 67.6,
+        "acceptance_rate": 45.5,
+        "link": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "String",
+          "Trie"
+        ],
+        "slug": "longest-common-prefix"
+      },
+      {
+        "title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+        "difficulty": "MEDIUM",
+        "frequency": 67.6,
+        "acceptance_rate": 43.4,
+        "link": "https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k",
+        "topics": [
+          "Math",
+          "Greedy",
+          "Enumeration"
+        ],
+        "slug": "apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k"
+      },
+      {
+        "title": "Day of the Year",
+        "difficulty": "EASY",
+        "frequency": 67.6,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/day-of-the-year",
+        "topics": [
+          "Math",
+          "String"
+        ],
+        "slug": "day-of-the-year"
+      },
+      {
+        "title": "Largest Number After Digit Swaps by Parity",
+        "difficulty": "EASY",
+        "frequency": 67.6,
+        "acceptance_rate": 63.7,
+        "link": "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity",
+        "topics": [
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "largest-number-after-digit-swaps-by-parity"
+      },
+      {
+        "title": "Maximum Strong Pair XOR I",
+        "difficulty": "EASY",
+        "frequency": 67.6,
+        "acceptance_rate": 74.8,
+        "link": "https://leetcode.com/problems/maximum-strong-pair-xor-i",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Bit Manipulation",
+          "Trie",
+          "Sliding Window"
+        ],
+        "slug": "maximum-strong-pair-xor-i"
+      },
+      {
+        "title": "Maximum Strong Pair XOR II",
+        "difficulty": "HARD",
+        "frequency": 67.6,
+        "acceptance_rate": 30.7,
+        "link": "https://leetcode.com/problems/maximum-strong-pair-xor-ii",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Bit Manipulation",
+          "Trie",
+          "Sliding Window"
+        ],
+        "slug": "maximum-strong-pair-xor-ii"
+      },
+      {
+        "title": "Find the Smallest Divisor Given a Threshold",
+        "difficulty": "MEDIUM",
+        "frequency": 67.6,
+        "acceptance_rate": 63.6,
+        "link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "find-the-smallest-divisor-given-a-threshold"
+      }
+    ],
+    "all": [
+      {
+        "title": "Largest Number After Digit Swaps by Parity",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 63.7,
+        "link": "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity",
+        "topics": [
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "largest-number-after-digit-swaps-by-parity"
+      },
+      {
+        "title": "Day of the Year",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/day-of-the-year",
+        "topics": [
+          "Math",
+          "String"
+        ],
+        "slug": "day-of-the-year"
+      },
+      {
+        "title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 43.4,
+        "link": "https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k",
+        "topics": [
+          "Math",
+          "Greedy",
+          "Enumeration"
+        ],
+        "slug": "apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k"
+      },
+      {
+        "title": "Maximum Strong Pair XOR I",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 74.8,
+        "link": "https://leetcode.com/problems/maximum-strong-pair-xor-i",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Bit Manipulation",
+          "Trie",
+          "Sliding Window"
+        ],
+        "slug": "maximum-strong-pair-xor-i"
+      },
+      {
+        "title": "Maximum Strong Pair XOR II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 30.7,
+        "link": "https://leetcode.com/problems/maximum-strong-pair-xor-ii",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Bit Manipulation",
+          "Trie",
+          "Sliding Window"
+        ],
+        "slug": "maximum-strong-pair-xor-ii"
+      },
+      {
+        "title": "Optimal Account Balancing",
+        "difficulty": "HARD",
+        "frequency": 94.4,
+        "acceptance_rate": 49.9,
+        "link": "https://leetcode.com/problems/optimal-account-balancing",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ],
+        "slug": "optimal-account-balancing"
+      },
+      {
+        "title": "Robot Bounded In Circle",
+        "difficulty": "MEDIUM",
+        "frequency": 77.1,
+        "acceptance_rate": 56.2,
+        "link": "https://leetcode.com/problems/robot-bounded-in-circle",
+        "topics": [
+          "Math",
+          "String",
+          "Simulation"
+        ],
+        "slug": "robot-bounded-in-circle"
+      },
+      {
+        "title": "Find the Smallest Divisor Given a Threshold",
+        "difficulty": "MEDIUM",
+        "frequency": 69.9,
+        "acceptance_rate": 63.6,
+        "link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "find-the-smallest-divisor-given-a-threshold"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 69.9,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Jump Game",
+        "difficulty": "MEDIUM",
+        "frequency": 69.9,
+        "acceptance_rate": 39.5,
+        "link": "https://leetcode.com/problems/jump-game",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "slug": "jump-game"
+      },
+      {
+        "title": "Rotate Image",
+        "difficulty": "MEDIUM",
+        "frequency": 69.9,
+        "acceptance_rate": 77.9,
+        "link": "https://leetcode.com/problems/rotate-image",
+        "topics": [
+          "Array",
+          "Math",
+          "Matrix"
+        ],
+        "slug": "rotate-image"
+      },
+      {
+        "title": "Degree of an Array",
+        "difficulty": "EASY",
+        "frequency": 59.8,
+        "acceptance_rate": 57.4,
+        "link": "https://leetcode.com/problems/degree-of-an-array",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "degree-of-an-array"
+      },
+      {
+        "title": "Linked List Cycle",
+        "difficulty": "EASY",
+        "frequency": 59.8,
+        "acceptance_rate": 52.6,
+        "link": "https://leetcode.com/problems/linked-list-cycle",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Two Pointers"
+        ],
+        "slug": "linked-list-cycle"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 59.8,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Moving Average from Data Stream",
+        "difficulty": "EASY",
+        "frequency": 59.8,
+        "acceptance_rate": 79.9,
+        "link": "https://leetcode.com/problems/moving-average-from-data-stream",
+        "topics": [
+          "Array",
+          "Design",
+          "Queue",
+          "Data Stream"
+        ],
+        "slug": "moving-average-from-data-stream"
+      },
+      {
+        "title": "Remove Duplicates from Sorted Array",
+        "difficulty": "EASY",
+        "frequency": 59.8,
+        "acceptance_rate": 60.4,
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "remove-duplicates-from-sorted-array"
+      },
+      {
+        "title": "Longest Common Prefix",
+        "difficulty": "EASY",
+        "frequency": 59.8,
+        "acceptance_rate": 45.5,
+        "link": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "String",
+          "Trie"
+        ],
+        "slug": "longest-common-prefix"
+      },
+      {
+        "title": "Search in Rotated Sorted Array",
+        "difficulty": "MEDIUM",
+        "frequency": 59.8,
+        "acceptance_rate": 42.8,
+        "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "search-in-rotated-sorted-array"
+      },
+      {
+        "title": "Contains Duplicate",
+        "difficulty": "EASY",
+        "frequency": 59.8,
+        "acceptance_rate": 63.2,
+        "link": "https://leetcode.com/problems/contains-duplicate",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting"
+        ],
+        "slug": "contains-duplicate"
+      },
+      {
+        "title": "Palindrome Linked List",
+        "difficulty": "EASY",
+        "frequency": 59.8,
+        "acceptance_rate": 55.9,
+        "link": "https://leetcode.com/problems/palindrome-linked-list",
+        "topics": [
+          "Linked List",
+          "Two Pointers",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "palindrome-linked-list"
+      },
+      {
+        "title": "Number of Divisible Triplet Sums",
+        "difficulty": "MEDIUM",
+        "frequency": 59.8,
+        "acceptance_rate": 67.8,
+        "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "number-of-divisible-triplet-sums"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 59.8,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Minimum Increment to Make Array Unique",
+        "difficulty": "MEDIUM",
+        "frequency": 59.8,
+        "acceptance_rate": 60.3,
+        "link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Counting"
+        ],
+        "slug": "minimum-increment-to-make-array-unique"
+      },
+      {
+        "title": "Word Ladder",
+        "difficulty": "HARD",
+        "frequency": 59.8,
+        "acceptance_rate": 42.8,
+        "link": "https://leetcode.com/problems/word-ladder",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Breadth-First Search"
+        ],
+        "slug": "word-ladder"
+      }
+    ]
+  }
+}

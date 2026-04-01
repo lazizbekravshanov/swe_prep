@@ -1,0 +1,682 @@
+{
+  "profile": {
+    "name": "Geico",
+    "slug": "geico",
+    "total_problems": 20,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.1,
+      "medium": 0.8,
+      "hard": 0.1
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 10
+      },
+      {
+        "topic": "String",
+        "count": 9
+      },
+      {
+        "topic": "Greedy",
+        "count": 6
+      },
+      {
+        "topic": "Hash Table",
+        "count": 6
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 5
+      },
+      {
+        "topic": "Matrix",
+        "count": 4
+      },
+      {
+        "topic": "Bit Manipulation",
+        "count": 2
+      },
+      {
+        "topic": "Simulation",
+        "count": 2
+      },
+      {
+        "topic": "Math",
+        "count": 2
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 2
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Maximum Number of Potholes That Can Be Fixed",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "maximum-number-of-potholes-that-can-be-fixed"
+      },
+      {
+        "title": "Largest Palindromic Number",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "largest-palindromic-number"
+      },
+      {
+        "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+        "difficulty": "MEDIUM",
+        "frequency": 89.4,
+        "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
+      },
+      {
+        "title": "Integer to Roman",
+        "difficulty": "MEDIUM",
+        "frequency": 89.4,
+        "slug": "integer-to-roman"
+      },
+      {
+        "title": "Valid Sudoku",
+        "difficulty": "MEDIUM",
+        "frequency": 81.5,
+        "slug": "valid-sudoku"
+      },
+      {
+        "title": "Coin Change",
+        "difficulty": "MEDIUM",
+        "frequency": 81.5,
+        "slug": "coin-change"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock with Cooldown",
+        "difficulty": "MEDIUM",
+        "frequency": 81.5,
+        "slug": "best-time-to-buy-and-sell-stock-with-cooldown"
+      },
+      {
+        "title": "First Missing Positive",
+        "difficulty": "HARD",
+        "frequency": 76.2,
+        "slug": "first-missing-positive"
+      },
+      {
+        "title": "Number of Spaces Cleaning Robot Cleaned",
+        "difficulty": "MEDIUM",
+        "frequency": 76.2,
+        "slug": "number-of-spaces-cleaning-robot-cleaned"
+      },
+      {
+        "title": "Path with Maximum Gold",
+        "difficulty": "MEDIUM",
+        "frequency": 69.5,
+        "slug": "path-with-maximum-gold"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [
+      {
+        "title": "Largest Palindromic Number",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 36.5,
+        "link": "https://leetcode.com/problems/largest-palindromic-number",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy",
+          "Counting"
+        ],
+        "slug": "largest-palindromic-number"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Coin Change",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 46.5,
+        "link": "https://leetcode.com/problems/coin-change",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search"
+        ],
+        "slug": "coin-change"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock with Cooldown",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 60.4,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock-with-cooldown"
+      },
+      {
+        "title": "Largest Palindromic Number",
+        "difficulty": "MEDIUM",
+        "frequency": 79.6,
+        "acceptance_rate": 36.5,
+        "link": "https://leetcode.com/problems/largest-palindromic-number",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy",
+          "Counting"
+        ],
+        "slug": "largest-palindromic-number"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Maximum Number of Potholes That Can Be Fixed",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 53.2,
+        "link": "https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed",
+        "topics": [
+          "String",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "maximum-number-of-potholes-that-can-be-fixed"
+      },
+      {
+        "title": "Largest Palindromic Number",
+        "difficulty": "MEDIUM",
+        "frequency": 95.4,
+        "acceptance_rate": 36.5,
+        "link": "https://leetcode.com/problems/largest-palindromic-number",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy",
+          "Counting"
+        ],
+        "slug": "largest-palindromic-number"
+      },
+      {
+        "title": "Integer to Roman",
+        "difficulty": "MEDIUM",
+        "frequency": 89.6,
+        "acceptance_rate": 68.6,
+        "link": "https://leetcode.com/problems/integer-to-roman",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "slug": "integer-to-roman"
+      },
+      {
+        "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+        "difficulty": "MEDIUM",
+        "frequency": 89.6,
+        "acceptance_rate": 61.4,
+        "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+        "topics": [
+          "String",
+          "Bit Manipulation",
+          "Simulation"
+        ],
+        "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
+      },
+      {
+        "title": "Valid Sudoku",
+        "difficulty": "MEDIUM",
+        "frequency": 81.8,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/valid-sudoku",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "slug": "valid-sudoku"
+      },
+      {
+        "title": "First Missing Positive",
+        "difficulty": "HARD",
+        "frequency": 76.6,
+        "acceptance_rate": 41.1,
+        "link": "https://leetcode.com/problems/first-missing-positive",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "first-missing-positive"
+      },
+      {
+        "title": "Number of Spaces Cleaning Robot Cleaned",
+        "difficulty": "MEDIUM",
+        "frequency": 76.6,
+        "acceptance_rate": 62.1,
+        "link": "https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "slug": "number-of-spaces-cleaning-robot-cleaned"
+      },
+      {
+        "title": "Path with Maximum Gold",
+        "difficulty": "MEDIUM",
+        "frequency": 70.0,
+        "acceptance_rate": 68.1,
+        "link": "https://leetcode.com/problems/path-with-maximum-gold",
+        "topics": [
+          "Array",
+          "Backtracking",
+          "Matrix"
+        ],
+        "slug": "path-with-maximum-gold"
+      },
+      {
+        "title": "Boundary of Binary Tree",
+        "difficulty": "MEDIUM",
+        "frequency": 70.0,
+        "acceptance_rate": 47.2,
+        "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "boundary-of-binary-tree"
+      },
+      {
+        "title": "Longest Happy String",
+        "difficulty": "MEDIUM",
+        "frequency": 70.0,
+        "acceptance_rate": 65.5,
+        "link": "https://leetcode.com/problems/longest-happy-string",
+        "topics": [
+          "String",
+          "Greedy",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "longest-happy-string"
+      },
+      {
+        "title": "Cinema Seat Allocation",
+        "difficulty": "MEDIUM",
+        "frequency": 60.6,
+        "acceptance_rate": 42.8,
+        "link": "https://leetcode.com/problems/cinema-seat-allocation",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Greedy",
+          "Bit Manipulation"
+        ],
+        "slug": "cinema-seat-allocation"
+      },
+      {
+        "title": "Minimum Moves to Spread Stones Over Grid",
+        "difficulty": "MEDIUM",
+        "frequency": 60.6,
+        "acceptance_rate": 44.3,
+        "link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "slug": "minimum-moves-to-spread-stones-over-grid"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock II",
+        "difficulty": "MEDIUM",
+        "frequency": 60.6,
+        "acceptance_rate": 69.5,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock-ii"
+      },
+      {
+        "title": "Decode String",
+        "difficulty": "MEDIUM",
+        "frequency": 60.6,
+        "acceptance_rate": 61.2,
+        "link": "https://leetcode.com/problems/decode-string",
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "decode-string"
+      },
+      {
+        "title": "Roman to Integer",
+        "difficulty": "EASY",
+        "frequency": 60.6,
+        "acceptance_rate": 64.9,
+        "link": "https://leetcode.com/problems/roman-to-integer",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "slug": "roman-to-integer"
+      },
+      {
+        "title": "Count of Smaller Numbers After Self",
+        "difficulty": "HARD",
+        "frequency": 60.6,
+        "acceptance_rate": 42.9,
+        "link": "https://leetcode.com/problems/count-of-smaller-numbers-after-self",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Merge Sort",
+          "Ordered Set"
+        ],
+        "slug": "count-of-smaller-numbers-after-self"
+      },
+      {
+        "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+        "difficulty": "MEDIUM",
+        "frequency": 60.6,
+        "acceptance_rate": 47.0,
+        "link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "slug": "minimum-number-of-food-buckets-to-feed-the-hamsters"
+      }
+    ],
+    "all": [
+      {
+        "title": "Maximum Number of Potholes That Can Be Fixed",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 53.2,
+        "link": "https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed",
+        "topics": [
+          "String",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "maximum-number-of-potholes-that-can-be-fixed"
+      },
+      {
+        "title": "Largest Palindromic Number",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 36.5,
+        "link": "https://leetcode.com/problems/largest-palindromic-number",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy",
+          "Counting"
+        ],
+        "slug": "largest-palindromic-number"
+      },
+      {
+        "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+        "difficulty": "MEDIUM",
+        "frequency": 89.4,
+        "acceptance_rate": 61.4,
+        "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+        "topics": [
+          "String",
+          "Bit Manipulation",
+          "Simulation"
+        ],
+        "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
+      },
+      {
+        "title": "Integer to Roman",
+        "difficulty": "MEDIUM",
+        "frequency": 89.4,
+        "acceptance_rate": 68.6,
+        "link": "https://leetcode.com/problems/integer-to-roman",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "slug": "integer-to-roman"
+      },
+      {
+        "title": "Valid Sudoku",
+        "difficulty": "MEDIUM",
+        "frequency": 81.5,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/valid-sudoku",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix"
+        ],
+        "slug": "valid-sudoku"
+      },
+      {
+        "title": "Coin Change",
+        "difficulty": "MEDIUM",
+        "frequency": 81.5,
+        "acceptance_rate": 46.5,
+        "link": "https://leetcode.com/problems/coin-change",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search"
+        ],
+        "slug": "coin-change"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock with Cooldown",
+        "difficulty": "MEDIUM",
+        "frequency": 81.5,
+        "acceptance_rate": 60.4,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock-with-cooldown"
+      },
+      {
+        "title": "First Missing Positive",
+        "difficulty": "HARD",
+        "frequency": 76.2,
+        "acceptance_rate": 41.1,
+        "link": "https://leetcode.com/problems/first-missing-positive",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "first-missing-positive"
+      },
+      {
+        "title": "Number of Spaces Cleaning Robot Cleaned",
+        "difficulty": "MEDIUM",
+        "frequency": 76.2,
+        "acceptance_rate": 62.1,
+        "link": "https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "slug": "number-of-spaces-cleaning-robot-cleaned"
+      },
+      {
+        "title": "Path with Maximum Gold",
+        "difficulty": "MEDIUM",
+        "frequency": 69.5,
+        "acceptance_rate": 68.1,
+        "link": "https://leetcode.com/problems/path-with-maximum-gold",
+        "topics": [
+          "Array",
+          "Backtracking",
+          "Matrix"
+        ],
+        "slug": "path-with-maximum-gold"
+      },
+      {
+        "title": "Longest Happy String",
+        "difficulty": "MEDIUM",
+        "frequency": 69.5,
+        "acceptance_rate": 65.5,
+        "link": "https://leetcode.com/problems/longest-happy-string",
+        "topics": [
+          "String",
+          "Greedy",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "longest-happy-string"
+      },
+      {
+        "title": "Boundary of Binary Tree",
+        "difficulty": "MEDIUM",
+        "frequency": 69.5,
+        "acceptance_rate": 47.2,
+        "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "boundary-of-binary-tree"
+      },
+      {
+        "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+        "difficulty": "MEDIUM",
+        "frequency": 69.5,
+        "acceptance_rate": 47.0,
+        "link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "slug": "minimum-number-of-food-buckets-to-feed-the-hamsters"
+      },
+      {
+        "title": "Count of Smaller Numbers After Self",
+        "difficulty": "HARD",
+        "frequency": 60.0,
+        "acceptance_rate": 42.9,
+        "link": "https://leetcode.com/problems/count-of-smaller-numbers-after-self",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Divide and Conquer",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Merge Sort",
+          "Ordered Set"
+        ],
+        "slug": "count-of-smaller-numbers-after-self"
+      },
+      {
+        "title": "Decode String",
+        "difficulty": "MEDIUM",
+        "frequency": 60.0,
+        "acceptance_rate": 61.2,
+        "link": "https://leetcode.com/problems/decode-string",
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "decode-string"
+      },
+      {
+        "title": "Roman to Integer",
+        "difficulty": "EASY",
+        "frequency": 60.0,
+        "acceptance_rate": 64.9,
+        "link": "https://leetcode.com/problems/roman-to-integer",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "slug": "roman-to-integer"
+      },
+      {
+        "title": "Minimum Moves to Spread Stones Over Grid",
+        "difficulty": "MEDIUM",
+        "frequency": 60.0,
+        "acceptance_rate": 44.3,
+        "link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "slug": "minimum-moves-to-spread-stones-over-grid"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock II",
+        "difficulty": "MEDIUM",
+        "frequency": 60.0,
+        "acceptance_rate": 69.5,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock-ii"
+      },
+      {
+        "title": "Cinema Seat Allocation",
+        "difficulty": "MEDIUM",
+        "frequency": 60.0,
+        "acceptance_rate": 42.8,
+        "link": "https://leetcode.com/problems/cinema-seat-allocation",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Greedy",
+          "Bit Manipulation"
+        ],
+        "slug": "cinema-seat-allocation"
+      },
+      {
+        "title": "Remove All Adjacent Duplicates In String",
+        "difficulty": "EASY",
+        "frequency": 60.0,
+        "acceptance_rate": 71.6,
+        "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "remove-all-adjacent-duplicates-in-string"
+      }
+    ]
+  }
+}

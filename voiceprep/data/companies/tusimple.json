@@ -1,0 +1,208 @@
+{
+  "profile": {
+    "name": "TuSimple",
+    "slug": "tusimple",
+    "total_problems": 4,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.5,
+      "hard": 0.5
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 3
+      },
+      {
+        "topic": "Hash Table",
+        "count": 2
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 1
+      },
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Combinatorics",
+        "count": 1
+      },
+      {
+        "topic": "Counting",
+        "count": 1
+      },
+      {
+        "topic": "Prefix Sum",
+        "count": 1
+      },
+      {
+        "topic": "Backtracking",
+        "count": 1
+      },
+      {
+        "topic": "Bit Manipulation",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Number of Ways to Earn Points",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "number-of-ways-to-earn-points"
+      },
+      {
+        "title": "Count the Number of Good Subsequences",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "count-the-number-of-good-subsequences"
+      },
+      {
+        "title": "Intervals Between Identical Elements",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "intervals-between-identical-elements"
+      },
+      {
+        "title": "Maximum Good People Based on Statements",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "maximum-good-people-based-on-statements"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Intervals Between Identical Elements",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 44.9,
+        "link": "https://leetcode.com/problems/intervals-between-identical-elements",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "slug": "intervals-between-identical-elements"
+      },
+      {
+        "title": "Count the Number of Good Subsequences",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 50.6,
+        "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String",
+          "Combinatorics",
+          "Counting"
+        ],
+        "slug": "count-the-number-of-good-subsequences"
+      },
+      {
+        "title": "Number of Ways to Earn Points",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 58.6,
+        "link": "https://leetcode.com/problems/number-of-ways-to-earn-points",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "number-of-ways-to-earn-points"
+      },
+      {
+        "title": "Maximum Good People Based on Statements",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 51.0,
+        "link": "https://leetcode.com/problems/maximum-good-people-based-on-statements",
+        "topics": [
+          "Array",
+          "Backtracking",
+          "Bit Manipulation",
+          "Enumeration"
+        ],
+        "slug": "maximum-good-people-based-on-statements"
+      }
+    ],
+    "all": [
+      {
+        "title": "Number of Ways to Earn Points",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 58.6,
+        "link": "https://leetcode.com/problems/number-of-ways-to-earn-points",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "number-of-ways-to-earn-points"
+      },
+      {
+        "title": "Count the Number of Good Subsequences",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 50.6,
+        "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String",
+          "Combinatorics",
+          "Counting"
+        ],
+        "slug": "count-the-number-of-good-subsequences"
+      },
+      {
+        "title": "Intervals Between Identical Elements",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 44.9,
+        "link": "https://leetcode.com/problems/intervals-between-identical-elements",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "slug": "intervals-between-identical-elements"
+      },
+      {
+        "title": "Maximum Good People Based on Statements",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 51.0,
+        "link": "https://leetcode.com/problems/maximum-good-people-based-on-statements",
+        "topics": [
+          "Array",
+          "Backtracking",
+          "Bit Manipulation",
+          "Enumeration"
+        ],
+        "slug": "maximum-good-people-based-on-statements"
+      }
+    ]
+  }
+}

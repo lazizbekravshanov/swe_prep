@@ -1,0 +1,743 @@
+{
+  "profile": {
+    "name": "Wayfair",
+    "slug": "wayfair",
+    "total_problems": 24,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.21,
+      "medium": 0.67,
+      "hard": 0.12
+    },
+    "top_topics": [
+      {
+        "topic": "String",
+        "count": 13
+      },
+      {
+        "topic": "Array",
+        "count": 7
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 5
+      },
+      {
+        "topic": "Hash Table",
+        "count": 5
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 5
+      },
+      {
+        "topic": "Math",
+        "count": 3
+      },
+      {
+        "topic": "Database",
+        "count": 3
+      },
+      {
+        "topic": "Sorting",
+        "count": 3
+      },
+      {
+        "topic": "Prefix Sum",
+        "count": 2
+      },
+      {
+        "topic": "Greedy",
+        "count": 2
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Maximum Product Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "maximum-product-subarray"
+      },
+      {
+        "title": "Largest Magic Square",
+        "difficulty": "MEDIUM",
+        "frequency": 94.3,
+        "slug": "largest-magic-square"
+      },
+      {
+        "title": "Minimum Moves to Reach Target Score",
+        "difficulty": "MEDIUM",
+        "frequency": 94.3,
+        "slug": "minimum-moves-to-reach-target-score"
+      },
+      {
+        "title": "Team Scores in Football Tournament",
+        "difficulty": "MEDIUM",
+        "frequency": 94.3,
+        "slug": "team-scores-in-football-tournament"
+      },
+      {
+        "title": "Tournament Winners",
+        "difficulty": "HARD",
+        "frequency": 92.0,
+        "slug": "tournament-winners"
+      },
+      {
+        "title": "Best Sightseeing Pair",
+        "difficulty": "MEDIUM",
+        "frequency": 92.0,
+        "slug": "best-sightseeing-pair"
+      },
+      {
+        "title": "Design A Leaderboard",
+        "difficulty": "MEDIUM",
+        "frequency": 92.0,
+        "slug": "design-a-leaderboard"
+      },
+      {
+        "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+        "difficulty": "MEDIUM",
+        "frequency": 92.0,
+        "slug": "alert-using-same-key-card-three-or-more-times-in-a-one-hour-period"
+      },
+      {
+        "title": "Maximum Number of Balloons",
+        "difficulty": "EASY",
+        "frequency": 92.0,
+        "slug": "maximum-number-of-balloons"
+      },
+      {
+        "title": "Delete Characters to Make Fancy String",
+        "difficulty": "EASY",
+        "frequency": 92.0,
+        "slug": "delete-characters-to-make-fancy-string"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Number of Divisible Substrings",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 73.4,
+        "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting",
+          "Prefix Sum"
+        ],
+        "slug": "number-of-divisible-substrings"
+      },
+      {
+        "title": "Add Strings",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 51.9,
+        "link": "https://leetcode.com/problems/add-strings",
+        "topics": [
+          "Math",
+          "String",
+          "Simulation"
+        ],
+        "slug": "add-strings"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Maximum Product Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 34.9,
+        "link": "https://leetcode.com/problems/maximum-product-subarray",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "maximum-product-subarray"
+      },
+      {
+        "title": "Add Strings",
+        "difficulty": "EASY",
+        "frequency": 84.6,
+        "acceptance_rate": 51.9,
+        "link": "https://leetcode.com/problems/add-strings",
+        "topics": [
+          "Math",
+          "String",
+          "Simulation"
+        ],
+        "slug": "add-strings"
+      },
+      {
+        "title": "Number of Divisible Substrings",
+        "difficulty": "MEDIUM",
+        "frequency": 81.2,
+        "acceptance_rate": 73.4,
+        "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting",
+          "Prefix Sum"
+        ],
+        "slug": "number-of-divisible-substrings"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 77.1,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 65.8,
+        "acceptance_rate": 70.9,
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "group-anagrams"
+      },
+      {
+        "title": "Largest Magic Square",
+        "difficulty": "MEDIUM",
+        "frequency": 65.8,
+        "acceptance_rate": 52.5,
+        "link": "https://leetcode.com/problems/largest-magic-square",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Prefix Sum"
+        ],
+        "slug": "largest-magic-square"
+      },
+      {
+        "title": "Team Scores in Football Tournament",
+        "difficulty": "MEDIUM",
+        "frequency": 65.8,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/team-scores-in-football-tournament",
+        "topics": [
+          "Database"
+        ],
+        "slug": "team-scores-in-football-tournament"
+      },
+      {
+        "title": "Valid Palindrome",
+        "difficulty": "EASY",
+        "frequency": 65.8,
+        "acceptance_rate": 51.0,
+        "link": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "valid-palindrome"
+      },
+      {
+        "title": "Minimum Moves to Reach Target Score",
+        "difficulty": "MEDIUM",
+        "frequency": 65.8,
+        "acceptance_rate": 51.5,
+        "link": "https://leetcode.com/problems/minimum-moves-to-reach-target-score",
+        "topics": [
+          "Math",
+          "Greedy"
+        ],
+        "slug": "minimum-moves-to-reach-target-score"
+      },
+      {
+        "title": "Longest Happy String",
+        "difficulty": "MEDIUM",
+        "frequency": 56.8,
+        "acceptance_rate": 65.5,
+        "link": "https://leetcode.com/problems/longest-happy-string",
+        "topics": [
+          "String",
+          "Greedy",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "longest-happy-string"
+      },
+      {
+        "title": "Backspace String Compare",
+        "difficulty": "EASY",
+        "frequency": 56.8,
+        "acceptance_rate": 49.5,
+        "link": "https://leetcode.com/problems/backspace-string-compare",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Stack",
+          "Simulation"
+        ],
+        "slug": "backspace-string-compare"
+      },
+      {
+        "title": "Reaching Points",
+        "difficulty": "HARD",
+        "frequency": 56.8,
+        "acceptance_rate": 33.6,
+        "link": "https://leetcode.com/problems/reaching-points",
+        "topics": [
+          "Math"
+        ],
+        "slug": "reaching-points"
+      },
+      {
+        "title": "Design A Leaderboard",
+        "difficulty": "MEDIUM",
+        "frequency": 56.8,
+        "acceptance_rate": 68.0,
+        "link": "https://leetcode.com/problems/design-a-leaderboard",
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Sorting"
+        ],
+        "slug": "design-a-leaderboard"
+      },
+      {
+        "title": "Delete Characters to Make Fancy String",
+        "difficulty": "EASY",
+        "frequency": 56.8,
+        "acceptance_rate": 71.6,
+        "link": "https://leetcode.com/problems/delete-characters-to-make-fancy-string",
+        "topics": [
+          "String"
+        ],
+        "slug": "delete-characters-to-make-fancy-string"
+      },
+      {
+        "title": "Maximum Number of Balloons",
+        "difficulty": "EASY",
+        "frequency": 56.8,
+        "acceptance_rate": 59.7,
+        "link": "https://leetcode.com/problems/maximum-number-of-balloons",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "maximum-number-of-balloons"
+      },
+      {
+        "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+        "difficulty": "MEDIUM",
+        "frequency": 56.8,
+        "acceptance_rate": 45.9,
+        "link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "alert-using-same-key-card-three-or-more-times-in-a-one-hour-period"
+      },
+      {
+        "title": "Best Sightseeing Pair",
+        "difficulty": "MEDIUM",
+        "frequency": 56.8,
+        "acceptance_rate": 62.6,
+        "link": "https://leetcode.com/problems/best-sightseeing-pair",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-sightseeing-pair"
+      },
+      {
+        "title": "Tournament Winners",
+        "difficulty": "HARD",
+        "frequency": 56.8,
+        "acceptance_rate": 49.9,
+        "link": "https://leetcode.com/problems/tournament-winners",
+        "topics": [
+          "Database"
+        ],
+        "slug": "tournament-winners"
+      },
+      {
+        "title": "Maximum Number of Vowels in a Substring of Given Length",
+        "difficulty": "MEDIUM",
+        "frequency": 56.8,
+        "acceptance_rate": 60.4,
+        "link": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length",
+        "topics": [
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "maximum-number-of-vowels-in-a-substring-of-given-length"
+      },
+      {
+        "title": "Longest Increasing Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 56.8,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-increasing-subsequence"
+      },
+      {
+        "title": "Palindromic Substrings",
+        "difficulty": "MEDIUM",
+        "frequency": 56.8,
+        "acceptance_rate": 71.7,
+        "link": "https://leetcode.com/problems/palindromic-substrings",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "palindromic-substrings"
+      },
+      {
+        "title": "Reverse Words in a String",
+        "difficulty": "MEDIUM",
+        "frequency": 56.8,
+        "acceptance_rate": 51.9,
+        "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "reverse-words-in-a-string"
+      }
+    ],
+    "all": [
+      {
+        "title": "Maximum Product Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 34.9,
+        "link": "https://leetcode.com/problems/maximum-product-subarray",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "maximum-product-subarray"
+      },
+      {
+        "title": "Largest Magic Square",
+        "difficulty": "MEDIUM",
+        "frequency": 94.3,
+        "acceptance_rate": 52.5,
+        "link": "https://leetcode.com/problems/largest-magic-square",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Prefix Sum"
+        ],
+        "slug": "largest-magic-square"
+      },
+      {
+        "title": "Minimum Moves to Reach Target Score",
+        "difficulty": "MEDIUM",
+        "frequency": 94.3,
+        "acceptance_rate": 51.5,
+        "link": "https://leetcode.com/problems/minimum-moves-to-reach-target-score",
+        "topics": [
+          "Math",
+          "Greedy"
+        ],
+        "slug": "minimum-moves-to-reach-target-score"
+      },
+      {
+        "title": "Team Scores in Football Tournament",
+        "difficulty": "MEDIUM",
+        "frequency": 94.3,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/team-scores-in-football-tournament",
+        "topics": [
+          "Database"
+        ],
+        "slug": "team-scores-in-football-tournament"
+      },
+      {
+        "title": "Tournament Winners",
+        "difficulty": "HARD",
+        "frequency": 92.0,
+        "acceptance_rate": 49.9,
+        "link": "https://leetcode.com/problems/tournament-winners",
+        "topics": [
+          "Database"
+        ],
+        "slug": "tournament-winners"
+      },
+      {
+        "title": "Best Sightseeing Pair",
+        "difficulty": "MEDIUM",
+        "frequency": 92.0,
+        "acceptance_rate": 62.6,
+        "link": "https://leetcode.com/problems/best-sightseeing-pair",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-sightseeing-pair"
+      },
+      {
+        "title": "Design A Leaderboard",
+        "difficulty": "MEDIUM",
+        "frequency": 92.0,
+        "acceptance_rate": 68.0,
+        "link": "https://leetcode.com/problems/design-a-leaderboard",
+        "topics": [
+          "Hash Table",
+          "Design",
+          "Sorting"
+        ],
+        "slug": "design-a-leaderboard"
+      },
+      {
+        "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+        "difficulty": "MEDIUM",
+        "frequency": 92.0,
+        "acceptance_rate": 45.9,
+        "link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "alert-using-same-key-card-three-or-more-times-in-a-one-hour-period"
+      },
+      {
+        "title": "Maximum Number of Balloons",
+        "difficulty": "EASY",
+        "frequency": 92.0,
+        "acceptance_rate": 59.7,
+        "link": "https://leetcode.com/problems/maximum-number-of-balloons",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "maximum-number-of-balloons"
+      },
+      {
+        "title": "Delete Characters to Make Fancy String",
+        "difficulty": "EASY",
+        "frequency": 92.0,
+        "acceptance_rate": 71.6,
+        "link": "https://leetcode.com/problems/delete-characters-to-make-fancy-string",
+        "topics": [
+          "String"
+        ],
+        "slug": "delete-characters-to-make-fancy-string"
+      },
+      {
+        "title": "Longest Happy String",
+        "difficulty": "MEDIUM",
+        "frequency": 92.0,
+        "acceptance_rate": 65.5,
+        "link": "https://leetcode.com/problems/longest-happy-string",
+        "topics": [
+          "String",
+          "Greedy",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "longest-happy-string"
+      },
+      {
+        "title": "Add Strings",
+        "difficulty": "EASY",
+        "frequency": 89.5,
+        "acceptance_rate": 51.9,
+        "link": "https://leetcode.com/problems/add-strings",
+        "topics": [
+          "Math",
+          "String",
+          "Simulation"
+        ],
+        "slug": "add-strings"
+      },
+      {
+        "title": "Number of Divisible Substrings",
+        "difficulty": "MEDIUM",
+        "frequency": 86.7,
+        "acceptance_rate": 73.4,
+        "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Counting",
+          "Prefix Sum"
+        ],
+        "slug": "number-of-divisible-substrings"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 75.5,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 70.2,
+        "acceptance_rate": 70.9,
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "group-anagrams"
+      },
+      {
+        "title": "Reaching Points",
+        "difficulty": "HARD",
+        "frequency": 63.4,
+        "acceptance_rate": 33.6,
+        "link": "https://leetcode.com/problems/reaching-points",
+        "topics": [
+          "Math"
+        ],
+        "slug": "reaching-points"
+      },
+      {
+        "title": "Valid Palindrome",
+        "difficulty": "EASY",
+        "frequency": 63.4,
+        "acceptance_rate": 51.0,
+        "link": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "valid-palindrome"
+      },
+      {
+        "title": "Longest Increasing Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 53.9,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-increasing-subsequence"
+      },
+      {
+        "title": "Maximum Number of Vowels in a Substring of Given Length",
+        "difficulty": "MEDIUM",
+        "frequency": 53.9,
+        "acceptance_rate": 60.4,
+        "link": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length",
+        "topics": [
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "maximum-number-of-vowels-in-a-substring-of-given-length"
+      },
+      {
+        "title": "Palindromic Substrings",
+        "difficulty": "MEDIUM",
+        "frequency": 53.9,
+        "acceptance_rate": 71.7,
+        "link": "https://leetcode.com/problems/palindromic-substrings",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "palindromic-substrings"
+      },
+      {
+        "title": "Backspace String Compare",
+        "difficulty": "EASY",
+        "frequency": 53.9,
+        "acceptance_rate": 49.5,
+        "link": "https://leetcode.com/problems/backspace-string-compare",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Stack",
+          "Simulation"
+        ],
+        "slug": "backspace-string-compare"
+      },
+      {
+        "title": "Reverse Words in a String",
+        "difficulty": "MEDIUM",
+        "frequency": 53.9,
+        "acceptance_rate": 51.9,
+        "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "reverse-words-in-a-string"
+      },
+      {
+        "title": "Last Person to Fit in the Bus",
+        "difficulty": "MEDIUM",
+        "frequency": 53.9,
+        "acceptance_rate": 68.4,
+        "link": "https://leetcode.com/problems/last-person-to-fit-in-the-bus",
+        "topics": [
+          "Database"
+        ],
+        "slug": "last-person-to-fit-in-the-bus"
+      },
+      {
+        "title": "Sliding Window Maximum",
+        "difficulty": "HARD",
+        "frequency": 53.9,
+        "acceptance_rate": 47.6,
+        "link": "https://leetcode.com/problems/sliding-window-maximum",
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Heap (Priority Queue)",
+          "Monotonic Queue"
+        ],
+        "slug": "sliding-window-maximum"
+      }
+    ]
+  }
+}

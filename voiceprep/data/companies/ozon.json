@@ -1,0 +1,454 @@
+{
+  "profile": {
+    "name": "Ozon",
+    "slug": "ozon",
+    "total_problems": 14,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.64,
+      "medium": 0.29,
+      "hard": 0.07
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 6
+      },
+      {
+        "topic": "String",
+        "count": 4
+      },
+      {
+        "topic": "Hash Table",
+        "count": 3
+      },
+      {
+        "topic": "Stack",
+        "count": 2
+      },
+      {
+        "topic": "Sorting",
+        "count": 2
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 2
+      },
+      {
+        "topic": "Database",
+        "count": 2
+      },
+      {
+        "topic": "Recursion",
+        "count": 2
+      },
+      {
+        "topic": "Linked List",
+        "count": 1
+      },
+      {
+        "topic": "Queue",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 91.8,
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Squares of a Sorted Array",
+        "difficulty": "EASY",
+        "frequency": 91.8,
+        "slug": "squares-of-a-sorted-array"
+      },
+      {
+        "title": "Monotonic Array",
+        "difficulty": "EASY",
+        "frequency": 86.4,
+        "slug": "monotonic-array"
+      },
+      {
+        "title": "Department Top Three Salaries",
+        "difficulty": "HARD",
+        "frequency": 86.4,
+        "slug": "department-top-three-salaries"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 79.4,
+        "slug": "two-sum"
+      },
+      {
+        "title": "Move Zeroes",
+        "difficulty": "EASY",
+        "frequency": 69.5,
+        "slug": "move-zeroes"
+      },
+      {
+        "title": "Reverse Linked List",
+        "difficulty": "EASY",
+        "frequency": 69.5,
+        "slug": "reverse-linked-list"
+      },
+      {
+        "title": "First Unique Character in a String",
+        "difficulty": "EASY",
+        "frequency": 69.5,
+        "slug": "first-unique-character-in-a-string"
+      },
+      {
+        "title": "Invert Binary Tree",
+        "difficulty": "EASY",
+        "frequency": 69.5,
+        "slug": "invert-binary-tree"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Mix of easy-medium \u2014 focuses on clean code and communication"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Monotonic Array",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 61.7,
+        "link": "https://leetcode.com/problems/monotonic-array",
+        "topics": [
+          "Array"
+        ],
+        "slug": "monotonic-array"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "merge-intervals"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Squares of a Sorted Array",
+        "difficulty": "EASY",
+        "frequency": 90.0,
+        "acceptance_rate": 73.2,
+        "link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "squares-of-a-sorted-array"
+      },
+      {
+        "title": "Department Top Three Salaries",
+        "difficulty": "HARD",
+        "frequency": 90.0,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/department-top-three-salaries",
+        "topics": [
+          "Database"
+        ],
+        "slug": "department-top-three-salaries"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 82.9,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 82.9,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Move Zeroes",
+        "difficulty": "EASY",
+        "frequency": 72.9,
+        "acceptance_rate": 62.8,
+        "link": "https://leetcode.com/problems/move-zeroes",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "move-zeroes"
+      },
+      {
+        "title": "Reverse Linked List",
+        "difficulty": "EASY",
+        "frequency": 72.9,
+        "acceptance_rate": 79.2,
+        "link": "https://leetcode.com/problems/reverse-linked-list",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "reverse-linked-list"
+      },
+      {
+        "title": "Invert Binary Tree",
+        "difficulty": "EASY",
+        "frequency": 72.9,
+        "acceptance_rate": 79.0,
+        "link": "https://leetcode.com/problems/invert-binary-tree",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "invert-binary-tree"
+      },
+      {
+        "title": "First Unique Character in a String",
+        "difficulty": "EASY",
+        "frequency": 72.9,
+        "acceptance_rate": 63.7,
+        "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Queue",
+          "Counting"
+        ],
+        "slug": "first-unique-character-in-a-string"
+      },
+      {
+        "title": "Monotonic Array",
+        "difficulty": "EASY",
+        "frequency": 72.9,
+        "acceptance_rate": 61.7,
+        "link": "https://leetcode.com/problems/monotonic-array",
+        "topics": [
+          "Array"
+        ],
+        "slug": "monotonic-array"
+      }
+    ],
+    "all": [
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 91.8,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Squares of a Sorted Array",
+        "difficulty": "EASY",
+        "frequency": 91.8,
+        "acceptance_rate": 73.2,
+        "link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "squares-of-a-sorted-array"
+      },
+      {
+        "title": "Monotonic Array",
+        "difficulty": "EASY",
+        "frequency": 86.4,
+        "acceptance_rate": 61.7,
+        "link": "https://leetcode.com/problems/monotonic-array",
+        "topics": [
+          "Array"
+        ],
+        "slug": "monotonic-array"
+      },
+      {
+        "title": "Department Top Three Salaries",
+        "difficulty": "HARD",
+        "frequency": 86.4,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/department-top-three-salaries",
+        "topics": [
+          "Database"
+        ],
+        "slug": "department-top-three-salaries"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 79.4,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Move Zeroes",
+        "difficulty": "EASY",
+        "frequency": 69.5,
+        "acceptance_rate": 62.8,
+        "link": "https://leetcode.com/problems/move-zeroes",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "move-zeroes"
+      },
+      {
+        "title": "Reverse Linked List",
+        "difficulty": "EASY",
+        "frequency": 69.5,
+        "acceptance_rate": 79.2,
+        "link": "https://leetcode.com/problems/reverse-linked-list",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "reverse-linked-list"
+      },
+      {
+        "title": "First Unique Character in a String",
+        "difficulty": "EASY",
+        "frequency": 69.5,
+        "acceptance_rate": 63.7,
+        "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Queue",
+          "Counting"
+        ],
+        "slug": "first-unique-character-in-a-string"
+      },
+      {
+        "title": "Invert Binary Tree",
+        "difficulty": "EASY",
+        "frequency": 69.5,
+        "acceptance_rate": 79.0,
+        "link": "https://leetcode.com/problems/invert-binary-tree",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "invert-binary-tree"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 69.5,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Decode String",
+        "difficulty": "MEDIUM",
+        "frequency": 69.5,
+        "acceptance_rate": 61.2,
+        "link": "https://leetcode.com/problems/decode-string",
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "decode-string"
+      },
+      {
+        "title": "Department Highest Salary",
+        "difficulty": "MEDIUM",
+        "frequency": 69.5,
+        "acceptance_rate": 54.8,
+        "link": "https://leetcode.com/problems/department-highest-salary",
+        "topics": [
+          "Database"
+        ],
+        "slug": "department-highest-salary"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 69.5,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      }
+    ]
+  }
+}

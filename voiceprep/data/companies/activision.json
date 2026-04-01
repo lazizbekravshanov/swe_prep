@@ -1,0 +1,133 @@
+{
+  "profile": {
+    "name": "Activision",
+    "slug": "activision",
+    "total_problems": 3,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.33,
+      "medium": 0.67,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "String",
+        "count": 2
+      },
+      {
+        "topic": "Stack",
+        "count": 1
+      },
+      {
+        "topic": "Recursion",
+        "count": 1
+      },
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Reformat Phone Number",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "reformat-phone-number"
+      },
+      {
+        "title": "Decode String",
+        "difficulty": "MEDIUM",
+        "frequency": 65.9,
+        "slug": "decode-string"
+      },
+      {
+        "title": "Number of Divisible Triplet Sums",
+        "difficulty": "MEDIUM",
+        "frequency": 65.9,
+        "slug": "number-of-divisible-triplet-sums"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Number of Divisible Triplet Sums",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 67.8,
+        "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "number-of-divisible-triplet-sums"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Reformat Phone Number",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 66.9,
+        "link": "https://leetcode.com/problems/reformat-phone-number",
+        "topics": [
+          "String"
+        ],
+        "slug": "reformat-phone-number"
+      }
+    ],
+    "all": [
+      {
+        "title": "Reformat Phone Number",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 66.9,
+        "link": "https://leetcode.com/problems/reformat-phone-number",
+        "topics": [
+          "String"
+        ],
+        "slug": "reformat-phone-number"
+      },
+      {
+        "title": "Decode String",
+        "difficulty": "MEDIUM",
+        "frequency": 65.9,
+        "acceptance_rate": 61.2,
+        "link": "https://leetcode.com/problems/decode-string",
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "decode-string"
+      },
+      {
+        "title": "Number of Divisible Triplet Sums",
+        "difficulty": "MEDIUM",
+        "frequency": 65.9,
+        "acceptance_rate": 67.8,
+        "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "number-of-divisible-triplet-sums"
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "profile": {
+    "name": "Lucid",
+    "slug": "lucid",
+    "total_problems": 8,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.25,
+      "medium": 0.62,
+      "hard": 0.12
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 3
+      },
+      {
+        "topic": "String",
+        "count": 3
+      },
+      {
+        "topic": "Hash Table",
+        "count": 2
+      },
+      {
+        "topic": "Stack",
+        "count": 2
+      },
+      {
+        "topic": "Tree",
+        "count": 1
+      },
+      {
+        "topic": "Graph",
+        "count": 1
+      },
+      {
+        "topic": "Topological Sort",
+        "count": 1
+      },
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "Counting",
+        "count": 1
+      },
+      {
+        "topic": "Design",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Collect Coins in a Tree",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "collect-coins-in-a-tree"
+      },
+      {
+        "title": "Maximum Number of Balls in a Box",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "maximum-number-of-balls-in-a-box"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 73.8,
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Min Stack",
+        "difficulty": "MEDIUM",
+        "frequency": 73.8,
+        "slug": "min-stack"
+      },
+      {
+        "title": "Generate Parentheses",
+        "difficulty": "MEDIUM",
+        "frequency": 64.9,
+        "slug": "generate-parentheses"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 64.9,
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Gas Station",
+        "difficulty": "MEDIUM",
+        "frequency": 64.9,
+        "slug": "gas-station"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 64.9,
+        "slug": "number-of-islands"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Tree traversal problems are frequently asked"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Min Stack",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 56.4,
+        "link": "https://leetcode.com/problems/min-stack",
+        "topics": [
+          "Stack",
+          "Design"
+        ],
+        "slug": "min-stack"
+      },
+      {
+        "title": "Generate Parentheses",
+        "difficulty": "MEDIUM",
+        "frequency": 89.0,
+        "acceptance_rate": 77.1,
+        "link": "https://leetcode.com/problems/generate-parentheses",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Backtracking"
+        ],
+        "slug": "generate-parentheses"
+      },
+      {
+        "title": "Gas Station",
+        "difficulty": "MEDIUM",
+        "frequency": 89.0,
+        "acceptance_rate": 46.4,
+        "link": "https://leetcode.com/problems/gas-station",
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "slug": "gas-station"
+      },
+      {
+        "title": "Maximum Number of Balls in a Box",
+        "difficulty": "EASY",
+        "frequency": 89.0,
+        "acceptance_rate": 74.3,
+        "link": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "Counting"
+        ],
+        "slug": "maximum-number-of-balls-in-a-box"
+      },
+      {
+        "title": "Collect Coins in a Tree",
+        "difficulty": "HARD",
+        "frequency": 89.0,
+        "acceptance_rate": 36.1,
+        "link": "https://leetcode.com/problems/collect-coins-in-a-tree",
+        "topics": [
+          "Array",
+          "Tree",
+          "Graph",
+          "Topological Sort"
+        ],
+        "slug": "collect-coins-in-a-tree"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 89.0,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      }
+    ],
+    "all": [
+      {
+        "title": "Collect Coins in a Tree",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 36.1,
+        "link": "https://leetcode.com/problems/collect-coins-in-a-tree",
+        "topics": [
+          "Array",
+          "Tree",
+          "Graph",
+          "Topological Sort"
+        ],
+        "slug": "collect-coins-in-a-tree"
+      },
+      {
+        "title": "Maximum Number of Balls in a Box",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 74.3,
+        "link": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "Counting"
+        ],
+        "slug": "maximum-number-of-balls-in-a-box"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 73.8,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Min Stack",
+        "difficulty": "MEDIUM",
+        "frequency": 73.8,
+        "acceptance_rate": 56.4,
+        "link": "https://leetcode.com/problems/min-stack",
+        "topics": [
+          "Stack",
+          "Design"
+        ],
+        "slug": "min-stack"
+      },
+      {
+        "title": "Generate Parentheses",
+        "difficulty": "MEDIUM",
+        "frequency": 64.9,
+        "acceptance_rate": 77.1,
+        "link": "https://leetcode.com/problems/generate-parentheses",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Backtracking"
+        ],
+        "slug": "generate-parentheses"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 64.9,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Gas Station",
+        "difficulty": "MEDIUM",
+        "frequency": 64.9,
+        "acceptance_rate": 46.4,
+        "link": "https://leetcode.com/problems/gas-station",
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "slug": "gas-station"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 64.9,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      }
+    ]
+  }
+}

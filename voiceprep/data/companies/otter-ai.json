@@ -1,0 +1,221 @@
+{
+  "profile": {
+    "name": "Otter.ai",
+    "slug": "otter-ai",
+    "total_problems": 5,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.6,
+      "hard": 0.4
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 4
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "count": 2
+      },
+      {
+        "topic": "Hash Table",
+        "count": 2
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 2
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 1
+      },
+      {
+        "topic": "Matrix",
+        "count": 1
+      },
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Trie",
+        "count": 1
+      },
+      {
+        "topic": "Memoization",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Trapping Rain Water II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "trapping-rain-water-ii"
+      },
+      {
+        "title": "The Number of the Smallest Unoccupied Chair",
+        "difficulty": "MEDIUM",
+        "frequency": 82.5,
+        "slug": "the-number-of-the-smallest-unoccupied-chair"
+      },
+      {
+        "title": "Frog Jump",
+        "difficulty": "HARD",
+        "frequency": 82.5,
+        "slug": "frog-jump"
+      },
+      {
+        "title": "Word Break",
+        "difficulty": "MEDIUM",
+        "frequency": 82.5,
+        "slug": "word-break"
+      },
+      {
+        "title": "Flatten Deeply Nested Array",
+        "difficulty": "MEDIUM",
+        "frequency": 82.5,
+        "slug": "flatten-deeply-nested-array"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Trapping Rain Water II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 58.9,
+        "link": "https://leetcode.com/problems/trapping-rain-water-ii",
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Heap (Priority Queue)",
+          "Matrix"
+        ],
+        "slug": "trapping-rain-water-ii"
+      },
+      {
+        "title": "The Number of the Smallest Unoccupied Chair",
+        "difficulty": "MEDIUM",
+        "frequency": 89.6,
+        "acceptance_rate": 60.4,
+        "link": "https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "the-number-of-the-smallest-unoccupied-chair"
+      },
+      {
+        "title": "Frog Jump",
+        "difficulty": "HARD",
+        "frequency": 89.6,
+        "acceptance_rate": 46.6,
+        "link": "https://leetcode.com/problems/frog-jump",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "frog-jump"
+      },
+      {
+        "title": "Word Break",
+        "difficulty": "MEDIUM",
+        "frequency": 89.6,
+        "acceptance_rate": 48.3,
+        "link": "https://leetcode.com/problems/word-break",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Trie",
+          "Memoization"
+        ],
+        "slug": "word-break"
+      }
+    ],
+    "all": [
+      {
+        "title": "Trapping Rain Water II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 58.9,
+        "link": "https://leetcode.com/problems/trapping-rain-water-ii",
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Heap (Priority Queue)",
+          "Matrix"
+        ],
+        "slug": "trapping-rain-water-ii"
+      },
+      {
+        "title": "The Number of the Smallest Unoccupied Chair",
+        "difficulty": "MEDIUM",
+        "frequency": 82.5,
+        "acceptance_rate": 60.4,
+        "link": "https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "the-number-of-the-smallest-unoccupied-chair"
+      },
+      {
+        "title": "Frog Jump",
+        "difficulty": "HARD",
+        "frequency": 82.5,
+        "acceptance_rate": 46.6,
+        "link": "https://leetcode.com/problems/frog-jump",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "frog-jump"
+      },
+      {
+        "title": "Word Break",
+        "difficulty": "MEDIUM",
+        "frequency": 82.5,
+        "acceptance_rate": 48.3,
+        "link": "https://leetcode.com/problems/word-break",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Trie",
+          "Memoization"
+        ],
+        "slug": "word-break"
+      },
+      {
+        "title": "Flatten Deeply Nested Array",
+        "difficulty": "MEDIUM",
+        "frequency": 82.5,
+        "acceptance_rate": 64.4,
+        "link": "https://leetcode.com/problems/flatten-deeply-nested-array",
+        "topics": [],
+        "slug": "flatten-deeply-nested-array"
+      }
+    ]
+  }
+}

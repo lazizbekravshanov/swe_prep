@@ -1,0 +1,158 @@
+{
+  "profile": {
+    "name": "Toptal",
+    "slug": "toptal",
+    "total_problems": 3,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.33,
+      "medium": 0.33,
+      "hard": 0.33
+    },
+    "top_topics": [
+      {
+        "topic": "Dynamic Programming",
+        "count": 2
+      },
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "Brainteaser",
+        "count": 1
+      },
+      {
+        "topic": "Probability and Statistics",
+        "count": 1
+      },
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Matrix",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "String Compression II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "string-compression-ii"
+      },
+      {
+        "title": "Airplane Seat Assignment Probability",
+        "difficulty": "MEDIUM",
+        "frequency": 68.7,
+        "slug": "airplane-seat-assignment-probability"
+      },
+      {
+        "title": "Image Smoother",
+        "difficulty": "EASY",
+        "frequency": 68.7,
+        "slug": "image-smoother"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "String Compression II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 52.0,
+        "link": "https://leetcode.com/problems/string-compression-ii",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "string-compression-ii"
+      },
+      {
+        "title": "Airplane Seat Assignment Probability",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 66.7,
+        "link": "https://leetcode.com/problems/airplane-seat-assignment-probability",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Brainteaser",
+          "Probability and Statistics"
+        ],
+        "slug": "airplane-seat-assignment-probability"
+      },
+      {
+        "title": "Image Smoother",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 68.4,
+        "link": "https://leetcode.com/problems/image-smoother",
+        "topics": [
+          "Array",
+          "Matrix"
+        ],
+        "slug": "image-smoother"
+      }
+    ],
+    "all": [
+      {
+        "title": "String Compression II",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 52.0,
+        "link": "https://leetcode.com/problems/string-compression-ii",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "string-compression-ii"
+      },
+      {
+        "title": "Airplane Seat Assignment Probability",
+        "difficulty": "MEDIUM",
+        "frequency": 68.7,
+        "acceptance_rate": 66.7,
+        "link": "https://leetcode.com/problems/airplane-seat-assignment-probability",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Brainteaser",
+          "Probability and Statistics"
+        ],
+        "slug": "airplane-seat-assignment-probability"
+      },
+      {
+        "title": "Image Smoother",
+        "difficulty": "EASY",
+        "frequency": 68.7,
+        "acceptance_rate": 68.4,
+        "link": "https://leetcode.com/problems/image-smoother",
+        "topics": [
+          "Array",
+          "Matrix"
+        ],
+        "slug": "image-smoother"
+      }
+    ]
+  }
+}

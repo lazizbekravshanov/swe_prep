@@ -1,0 +1,224 @@
+{
+  "profile": {
+    "name": "Nykaa",
+    "slug": "nykaa",
+    "total_problems": 5,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.8,
+      "hard": 0.2
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 4
+      },
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      },
+      {
+        "topic": "Binary Search",
+        "count": 1
+      },
+      {
+        "topic": "Linked List",
+        "count": 1
+      },
+      {
+        "topic": "Divide and Conquer",
+        "count": 1
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "count": 1
+      },
+      {
+        "topic": "Merge Sort",
+        "count": 1
+      },
+      {
+        "topic": "Matrix",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Largest Number",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "largest-number"
+      },
+      {
+        "title": "Koko Eating Bananas",
+        "difficulty": "MEDIUM",
+        "frequency": 88.7,
+        "slug": "koko-eating-bananas"
+      },
+      {
+        "title": "Merge k Sorted Lists",
+        "difficulty": "HARD",
+        "frequency": 88.7,
+        "slug": "merge-k-sorted-lists"
+      },
+      {
+        "title": "Diagonal Traverse",
+        "difficulty": "MEDIUM",
+        "frequency": 88.7,
+        "slug": "diagonal-traverse"
+      },
+      {
+        "title": "Remove Duplicates from Sorted Array II",
+        "difficulty": "MEDIUM",
+        "frequency": 88.7,
+        "slug": "remove-duplicates-from-sorted-array-ii"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Largest Number",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 41.3,
+        "link": "https://leetcode.com/problems/largest-number",
+        "topics": [
+          "Array",
+          "String",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "largest-number"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Koko Eating Bananas",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 49.1,
+        "link": "https://leetcode.com/problems/koko-eating-bananas",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "koko-eating-bananas"
+      },
+      {
+        "title": "Diagonal Traverse",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 63.2,
+        "link": "https://leetcode.com/problems/diagonal-traverse",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "slug": "diagonal-traverse"
+      },
+      {
+        "title": "Merge k Sorted Lists",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 56.8,
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort"
+        ],
+        "slug": "merge-k-sorted-lists"
+      }
+    ],
+    "all": [
+      {
+        "title": "Largest Number",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 41.3,
+        "link": "https://leetcode.com/problems/largest-number",
+        "topics": [
+          "Array",
+          "String",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "largest-number"
+      },
+      {
+        "title": "Koko Eating Bananas",
+        "difficulty": "MEDIUM",
+        "frequency": 88.7,
+        "acceptance_rate": 49.1,
+        "link": "https://leetcode.com/problems/koko-eating-bananas",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "koko-eating-bananas"
+      },
+      {
+        "title": "Merge k Sorted Lists",
+        "difficulty": "HARD",
+        "frequency": 88.7,
+        "acceptance_rate": 56.8,
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort"
+        ],
+        "slug": "merge-k-sorted-lists"
+      },
+      {
+        "title": "Diagonal Traverse",
+        "difficulty": "MEDIUM",
+        "frequency": 88.7,
+        "acceptance_rate": 63.2,
+        "link": "https://leetcode.com/problems/diagonal-traverse",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Simulation"
+        ],
+        "slug": "diagonal-traverse"
+      },
+      {
+        "title": "Remove Duplicates from Sorted Array II",
+        "difficulty": "MEDIUM",
+        "frequency": 88.7,
+        "acceptance_rate": 62.9,
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "remove-duplicates-from-sorted-array-ii"
+      }
+    ]
+  }
+}

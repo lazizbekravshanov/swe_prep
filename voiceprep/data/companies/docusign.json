@@ -1,0 +1,1090 @@
+{
+  "profile": {
+    "name": "Docusign",
+    "slug": "docusign",
+    "total_problems": 34,
+    "recent_problems_30d": 1,
+    "difficulty_distribution": {
+      "easy": 0.09,
+      "medium": 0.76,
+      "hard": 0.15
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 16
+      },
+      {
+        "topic": "Hash Table",
+        "count": 14
+      },
+      {
+        "topic": "Sorting",
+        "count": 10
+      },
+      {
+        "topic": "String",
+        "count": 9
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 7
+      },
+      {
+        "topic": "Design",
+        "count": 6
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "count": 6
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 6
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 5
+      },
+      {
+        "topic": "Linked List",
+        "count": 4
+      }
+    ],
+    "recent_hot_topics": [
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 1
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "count": 1
+      }
+    ],
+    "highest_frequency_problems": [
+      {
+        "title": "Implement Trie (Prefix Tree)",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "implement-trie-prefix-tree"
+      },
+      {
+        "title": "Copy List with Random Pointer",
+        "difficulty": "MEDIUM",
+        "frequency": 95.8,
+        "slug": "copy-list-with-random-pointer"
+      },
+      {
+        "title": "Top K Frequent Elements",
+        "difficulty": "MEDIUM",
+        "frequency": 84.8,
+        "slug": "top-k-frequent-elements"
+      },
+      {
+        "title": "Rotting Oranges",
+        "difficulty": "MEDIUM",
+        "frequency": 84.8,
+        "slug": "rotting-oranges"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 84.8,
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Design Authentication Manager",
+        "difficulty": "MEDIUM",
+        "frequency": 84.8,
+        "slug": "design-authentication-manager"
+      },
+      {
+        "title": "Reaching Points",
+        "difficulty": "HARD",
+        "frequency": 77.0,
+        "slug": "reaching-points"
+      },
+      {
+        "title": "Find Median from Data Stream",
+        "difficulty": "HARD",
+        "frequency": 77.0,
+        "slug": "find-median-from-data-stream"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 77.0,
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Integer to Roman",
+        "difficulty": "MEDIUM",
+        "frequency": 77.0,
+        "slug": "integer-to-roman"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [
+      {
+        "title": "Meeting Rooms II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 52.1,
+        "link": "https://leetcode.com/problems/meeting-rooms-ii",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "slug": "meeting-rooms-ii"
+      }
+    ],
+    "90d": [
+      {
+        "title": "Implement Trie (Prefix Tree)",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 67.9,
+        "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "slug": "implement-trie-prefix-tree"
+      },
+      {
+        "title": "Integer to Roman",
+        "difficulty": "MEDIUM",
+        "frequency": 93.0,
+        "acceptance_rate": 68.6,
+        "link": "https://leetcode.com/problems/integer-to-roman",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "slug": "integer-to-roman"
+      },
+      {
+        "title": "Meeting Rooms II",
+        "difficulty": "MEDIUM",
+        "frequency": 83.2,
+        "acceptance_rate": 52.1,
+        "link": "https://leetcode.com/problems/meeting-rooms-ii",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "slug": "meeting-rooms-ii"
+      },
+      {
+        "title": "Search Suggestions System",
+        "difficulty": "MEDIUM",
+        "frequency": 83.2,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/search-suggestions-system",
+        "topics": [
+          "Array",
+          "String",
+          "Binary Search",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "search-suggestions-system"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Implement Trie (Prefix Tree)",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 67.9,
+        "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "slug": "implement-trie-prefix-tree"
+      },
+      {
+        "title": "Integer to Roman",
+        "difficulty": "MEDIUM",
+        "frequency": 92.4,
+        "acceptance_rate": 68.6,
+        "link": "https://leetcode.com/problems/integer-to-roman",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "slug": "integer-to-roman"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 81.7,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Number of Atoms",
+        "difficulty": "HARD",
+        "frequency": 81.7,
+        "acceptance_rate": 65.0,
+        "link": "https://leetcode.com/problems/number-of-atoms",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Sorting"
+        ],
+        "slug": "number-of-atoms"
+      },
+      {
+        "title": "House Robber II",
+        "difficulty": "MEDIUM",
+        "frequency": 81.7,
+        "acceptance_rate": 43.6,
+        "link": "https://leetcode.com/problems/house-robber-ii",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "house-robber-ii"
+      },
+      {
+        "title": "Meeting Rooms II",
+        "difficulty": "MEDIUM",
+        "frequency": 81.7,
+        "acceptance_rate": 52.1,
+        "link": "https://leetcode.com/problems/meeting-rooms-ii",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "slug": "meeting-rooms-ii"
+      },
+      {
+        "title": "Search Suggestions System",
+        "difficulty": "MEDIUM",
+        "frequency": 81.7,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/search-suggestions-system",
+        "topics": [
+          "Array",
+          "String",
+          "Binary Search",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "search-suggestions-system"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Copy List with Random Pointer",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 60.5,
+        "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+        "topics": [
+          "Hash Table",
+          "Linked List"
+        ],
+        "slug": "copy-list-with-random-pointer"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 93.6,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Rotting Oranges",
+        "difficulty": "MEDIUM",
+        "frequency": 93.6,
+        "acceptance_rate": 56.6,
+        "link": "https://leetcode.com/problems/rotting-oranges",
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "slug": "rotting-oranges"
+      },
+      {
+        "title": "Design Authentication Manager",
+        "difficulty": "MEDIUM",
+        "frequency": 85.4,
+        "acceptance_rate": 57.9,
+        "link": "https://leetcode.com/problems/design-authentication-manager",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "design-authentication-manager"
+      },
+      {
+        "title": "Sort Colors",
+        "difficulty": "MEDIUM",
+        "frequency": 85.4,
+        "acceptance_rate": 67.6,
+        "link": "https://leetcode.com/problems/sort-colors",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "sort-colors"
+      },
+      {
+        "title": "Implement Trie (Prefix Tree)",
+        "difficulty": "MEDIUM",
+        "frequency": 85.4,
+        "acceptance_rate": 67.9,
+        "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "slug": "implement-trie-prefix-tree"
+      },
+      {
+        "title": "Find Median from Data Stream",
+        "difficulty": "HARD",
+        "frequency": 85.4,
+        "acceptance_rate": 53.3,
+        "link": "https://leetcode.com/problems/find-median-from-data-stream",
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "slug": "find-median-from-data-stream"
+      },
+      {
+        "title": "Reaching Points",
+        "difficulty": "HARD",
+        "frequency": 85.4,
+        "acceptance_rate": 33.6,
+        "link": "https://leetcode.com/problems/reaching-points",
+        "topics": [
+          "Math"
+        ],
+        "slug": "reaching-points"
+      },
+      {
+        "title": "Top K Frequent Elements",
+        "difficulty": "MEDIUM",
+        "frequency": 85.4,
+        "acceptance_rate": 64.6,
+        "link": "https://leetcode.com/problems/top-k-frequent-elements",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "slug": "top-k-frequent-elements"
+      },
+      {
+        "title": "Excel Sheet Column Number",
+        "difficulty": "EASY",
+        "frequency": 85.4,
+        "acceptance_rate": 65.8,
+        "link": "https://leetcode.com/problems/excel-sheet-column-number",
+        "topics": [
+          "Math",
+          "String"
+        ],
+        "slug": "excel-sheet-column-number"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 73.8,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Shortest Bridge",
+        "difficulty": "MEDIUM",
+        "frequency": 73.8,
+        "acceptance_rate": 58.6,
+        "link": "https://leetcode.com/problems/shortest-bridge",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "slug": "shortest-bridge"
+      },
+      {
+        "title": "Inorder Successor in BST",
+        "difficulty": "MEDIUM",
+        "frequency": 73.8,
+        "acceptance_rate": 50.7,
+        "link": "https://leetcode.com/problems/inorder-successor-in-bst",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Search Tree",
+          "Binary Tree"
+        ],
+        "slug": "inorder-successor-in-bst"
+      },
+      {
+        "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+        "difficulty": "MEDIUM",
+        "frequency": 73.8,
+        "acceptance_rate": 65.0,
+        "link": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph"
+        ],
+        "slug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero"
+      },
+      {
+        "title": "Boats to Save People",
+        "difficulty": "MEDIUM",
+        "frequency": 73.8,
+        "acceptance_rate": 60.3,
+        "link": "https://leetcode.com/problems/boats-to-save-people",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "boats-to-save-people"
+      },
+      {
+        "title": "Palindrome Permutation",
+        "difficulty": "EASY",
+        "frequency": 73.8,
+        "acceptance_rate": 68.5,
+        "link": "https://leetcode.com/problems/palindrome-permutation",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Bit Manipulation"
+        ],
+        "slug": "palindrome-permutation"
+      },
+      {
+        "title": "IPO",
+        "difficulty": "HARD",
+        "frequency": 73.8,
+        "acceptance_rate": 53.0,
+        "link": "https://leetcode.com/problems/ipo",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "ipo"
+      },
+      {
+        "title": "Optimal Partition of String",
+        "difficulty": "MEDIUM",
+        "frequency": 73.8,
+        "acceptance_rate": 78.2,
+        "link": "https://leetcode.com/problems/optimal-partition-of-string",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy"
+        ],
+        "slug": "optimal-partition-of-string"
+      },
+      {
+        "title": "Product of Array Except Self",
+        "difficulty": "MEDIUM",
+        "frequency": 73.8,
+        "acceptance_rate": 67.8,
+        "link": "https://leetcode.com/problems/product-of-array-except-self",
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "slug": "product-of-array-except-self"
+      },
+      {
+        "title": "Clone Graph",
+        "difficulty": "MEDIUM",
+        "frequency": 73.8,
+        "acceptance_rate": 62.4,
+        "link": "https://leetcode.com/problems/clone-graph",
+        "topics": [
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph"
+        ],
+        "slug": "clone-graph"
+      },
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 73.8,
+        "acceptance_rate": 37.1,
+        "link": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "3sum"
+      },
+      {
+        "title": "Insert Delete GetRandom O(1)",
+        "difficulty": "MEDIUM",
+        "frequency": 73.8,
+        "acceptance_rate": 55.0,
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "slug": "insert-delete-getrandom-o1"
+      }
+    ],
+    "all": [
+      {
+        "title": "Implement Trie (Prefix Tree)",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 67.9,
+        "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "slug": "implement-trie-prefix-tree"
+      },
+      {
+        "title": "Copy List with Random Pointer",
+        "difficulty": "MEDIUM",
+        "frequency": 95.8,
+        "acceptance_rate": 60.5,
+        "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+        "topics": [
+          "Hash Table",
+          "Linked List"
+        ],
+        "slug": "copy-list-with-random-pointer"
+      },
+      {
+        "title": "Top K Frequent Elements",
+        "difficulty": "MEDIUM",
+        "frequency": 84.8,
+        "acceptance_rate": 64.6,
+        "link": "https://leetcode.com/problems/top-k-frequent-elements",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Bucket Sort",
+          "Counting",
+          "Quickselect"
+        ],
+        "slug": "top-k-frequent-elements"
+      },
+      {
+        "title": "Rotting Oranges",
+        "difficulty": "MEDIUM",
+        "frequency": 84.8,
+        "acceptance_rate": 56.6,
+        "link": "https://leetcode.com/problems/rotting-oranges",
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "slug": "rotting-oranges"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 84.8,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Design Authentication Manager",
+        "difficulty": "MEDIUM",
+        "frequency": 84.8,
+        "acceptance_rate": 57.9,
+        "link": "https://leetcode.com/problems/design-authentication-manager",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "design-authentication-manager"
+      },
+      {
+        "title": "Reaching Points",
+        "difficulty": "HARD",
+        "frequency": 77.0,
+        "acceptance_rate": 33.6,
+        "link": "https://leetcode.com/problems/reaching-points",
+        "topics": [
+          "Math"
+        ],
+        "slug": "reaching-points"
+      },
+      {
+        "title": "Find Median from Data Stream",
+        "difficulty": "HARD",
+        "frequency": 77.0,
+        "acceptance_rate": 53.3,
+        "link": "https://leetcode.com/problems/find-median-from-data-stream",
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "slug": "find-median-from-data-stream"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 77.0,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Integer to Roman",
+        "difficulty": "MEDIUM",
+        "frequency": 77.0,
+        "acceptance_rate": 68.6,
+        "link": "https://leetcode.com/problems/integer-to-roman",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "slug": "integer-to-roman"
+      },
+      {
+        "title": "Excel Sheet Column Number",
+        "difficulty": "EASY",
+        "frequency": 77.0,
+        "acceptance_rate": 65.8,
+        "link": "https://leetcode.com/problems/excel-sheet-column-number",
+        "topics": [
+          "Math",
+          "String"
+        ],
+        "slug": "excel-sheet-column-number"
+      },
+      {
+        "title": "Search Suggestions System",
+        "difficulty": "MEDIUM",
+        "frequency": 77.0,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/search-suggestions-system",
+        "topics": [
+          "Array",
+          "String",
+          "Binary Search",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "search-suggestions-system"
+      },
+      {
+        "title": "Sort Colors",
+        "difficulty": "MEDIUM",
+        "frequency": 77.0,
+        "acceptance_rate": 67.6,
+        "link": "https://leetcode.com/problems/sort-colors",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "sort-colors"
+      },
+      {
+        "title": "Shortest Bridge",
+        "difficulty": "MEDIUM",
+        "frequency": 66.0,
+        "acceptance_rate": 58.6,
+        "link": "https://leetcode.com/problems/shortest-bridge",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "slug": "shortest-bridge"
+      },
+      {
+        "title": "House Robber II",
+        "difficulty": "MEDIUM",
+        "frequency": 66.0,
+        "acceptance_rate": 43.6,
+        "link": "https://leetcode.com/problems/house-robber-ii",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "house-robber-ii"
+      },
+      {
+        "title": "Number of Atoms",
+        "difficulty": "HARD",
+        "frequency": 66.0,
+        "acceptance_rate": 65.0,
+        "link": "https://leetcode.com/problems/number-of-atoms",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Stack",
+          "Sorting"
+        ],
+        "slug": "number-of-atoms"
+      },
+      {
+        "title": "Pairs of Songs With Total Durations Divisible by 60",
+        "difficulty": "MEDIUM",
+        "frequency": 66.0,
+        "acceptance_rate": 53.2,
+        "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Counting"
+        ],
+        "slug": "pairs-of-songs-with-total-durations-divisible-by-60"
+      },
+      {
+        "title": "Meeting Rooms II",
+        "difficulty": "MEDIUM",
+        "frequency": 66.0,
+        "acceptance_rate": 52.1,
+        "link": "https://leetcode.com/problems/meeting-rooms-ii",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Prefix Sum"
+        ],
+        "slug": "meeting-rooms-ii"
+      },
+      {
+        "title": "Design Add and Search Words Data Structure",
+        "difficulty": "MEDIUM",
+        "frequency": 66.0,
+        "acceptance_rate": 47.1,
+        "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+        "topics": [
+          "String",
+          "Depth-First Search",
+          "Design",
+          "Trie"
+        ],
+        "slug": "design-add-and-search-words-data-structure"
+      },
+      {
+        "title": "Count Good Nodes in Binary Tree",
+        "difficulty": "MEDIUM",
+        "frequency": 66.0,
+        "acceptance_rate": 73.5,
+        "link": "https://leetcode.com/problems/count-good-nodes-in-binary-tree",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "count-good-nodes-in-binary-tree"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 66.0,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Insert Delete GetRandom O(1)",
+        "difficulty": "MEDIUM",
+        "frequency": 66.0,
+        "acceptance_rate": 55.0,
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "slug": "insert-delete-getrandom-o1"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 66.0,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Inorder Successor in BST",
+        "difficulty": "MEDIUM",
+        "frequency": 66.0,
+        "acceptance_rate": 50.7,
+        "link": "https://leetcode.com/problems/inorder-successor-in-bst",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Search Tree",
+          "Binary Tree"
+        ],
+        "slug": "inorder-successor-in-bst"
+      },
+      {
+        "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+        "difficulty": "MEDIUM",
+        "frequency": 66.0,
+        "acceptance_rate": 65.0,
+        "link": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph"
+        ],
+        "slug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 66.0,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Palindrome Permutation",
+        "difficulty": "EASY",
+        "frequency": 66.0,
+        "acceptance_rate": 68.5,
+        "link": "https://leetcode.com/problems/palindrome-permutation",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Bit Manipulation"
+        ],
+        "slug": "palindrome-permutation"
+      },
+      {
+        "title": "IPO",
+        "difficulty": "HARD",
+        "frequency": 66.0,
+        "acceptance_rate": 53.0,
+        "link": "https://leetcode.com/problems/ipo",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "ipo"
+      },
+      {
+        "title": "Optimal Partition of String",
+        "difficulty": "MEDIUM",
+        "frequency": 66.0,
+        "acceptance_rate": 78.2,
+        "link": "https://leetcode.com/problems/optimal-partition-of-string",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Greedy"
+        ],
+        "slug": "optimal-partition-of-string"
+      },
+      {
+        "title": "Boats to Save People",
+        "difficulty": "MEDIUM",
+        "frequency": 66.0,
+        "acceptance_rate": 60.3,
+        "link": "https://leetcode.com/problems/boats-to-save-people",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "boats-to-save-people"
+      },
+      {
+        "title": "Product of Array Except Self",
+        "difficulty": "MEDIUM",
+        "frequency": 66.0,
+        "acceptance_rate": 67.8,
+        "link": "https://leetcode.com/problems/product-of-array-except-self",
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "slug": "product-of-array-except-self"
+      },
+      {
+        "title": "Clone Graph",
+        "difficulty": "MEDIUM",
+        "frequency": 66.0,
+        "acceptance_rate": 62.4,
+        "link": "https://leetcode.com/problems/clone-graph",
+        "topics": [
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph"
+        ],
+        "slug": "clone-graph"
+      },
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 66.0,
+        "acceptance_rate": 37.1,
+        "link": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "3sum"
+      },
+      {
+        "title": "Merge k Sorted Lists",
+        "difficulty": "HARD",
+        "frequency": 66.0,
+        "acceptance_rate": 56.8,
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort"
+        ],
+        "slug": "merge-k-sorted-lists"
+      }
+    ]
+  }
+}

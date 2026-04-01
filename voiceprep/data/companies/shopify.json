@@ -1,0 +1,434 @@
+{
+  "profile": {
+    "name": "Shopify",
+    "slug": "shopify",
+    "total_problems": 8,
+    "recent_problems_30d": 1,
+    "difficulty_distribution": {
+      "easy": 0.12,
+      "medium": 0.62,
+      "hard": 0.25
+    },
+    "top_topics": [
+      {
+        "topic": "Hash Table",
+        "count": 5
+      },
+      {
+        "topic": "Design",
+        "count": 5
+      },
+      {
+        "topic": "Array",
+        "count": 3
+      },
+      {
+        "topic": "Simulation",
+        "count": 3
+      },
+      {
+        "topic": "String",
+        "count": 3
+      },
+      {
+        "topic": "Linked List",
+        "count": 2
+      },
+      {
+        "topic": "Doubly-Linked List",
+        "count": 2
+      },
+      {
+        "topic": "Matrix",
+        "count": 2
+      },
+      {
+        "topic": "Trie",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [
+      {
+        "topic": "Hash Table",
+        "count": 1
+      },
+      {
+        "topic": "Linked List",
+        "count": 1
+      },
+      {
+        "topic": "Design",
+        "count": 1
+      },
+      {
+        "topic": "Doubly-Linked List",
+        "count": 1
+      }
+    ],
+    "highest_frequency_problems": [
+      {
+        "title": "Walking Robot Simulation",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "walking-robot-simulation"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 88.5,
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Design In-Memory File System",
+        "difficulty": "HARD",
+        "frequency": 60.9,
+        "slug": "design-in-memory-file-system"
+      },
+      {
+        "title": "Encode and Decode TinyURL",
+        "difficulty": "MEDIUM",
+        "frequency": 60.9,
+        "slug": "encode-and-decode-tinyurl"
+      },
+      {
+        "title": "Design a Text Editor",
+        "difficulty": "HARD",
+        "frequency": 53.3,
+        "slug": "design-a-text-editor"
+      },
+      {
+        "title": "Find Users With Valid E-Mails",
+        "difficulty": "EASY",
+        "frequency": 53.3,
+        "slug": "find-users-with-valid-e-mails"
+      },
+      {
+        "title": "Design Tic-Tac-Toe",
+        "difficulty": "MEDIUM",
+        "frequency": 53.3,
+        "slug": "design-tic-tac-toe"
+      },
+      {
+        "title": "Walls and Gates",
+        "difficulty": "MEDIUM",
+        "frequency": 53.3,
+        "slug": "walls-and-gates"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa",
+        "system_design"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      }
+    ],
+    "90d": [
+      {
+        "title": "Walking Robot Simulation",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 58.2,
+        "link": "https://leetcode.com/problems/walking-robot-simulation",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Simulation"
+        ],
+        "slug": "walking-robot-simulation"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 67.1,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Walking Robot Simulation",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 58.2,
+        "link": "https://leetcode.com/problems/walking-robot-simulation",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Simulation"
+        ],
+        "slug": "walking-robot-simulation"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 70.8,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Encode and Decode TinyURL",
+        "difficulty": "MEDIUM",
+        "frequency": 63.1,
+        "acceptance_rate": 86.4,
+        "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Hash Function"
+        ],
+        "slug": "encode-and-decode-tinyurl"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Walking Robot Simulation",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 58.2,
+        "link": "https://leetcode.com/problems/walking-robot-simulation",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Simulation"
+        ],
+        "slug": "walking-robot-simulation"
+      },
+      {
+        "title": "Design In-Memory File System",
+        "difficulty": "HARD",
+        "frequency": 74.3,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/design-in-memory-file-system",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie",
+          "Sorting"
+        ],
+        "slug": "design-in-memory-file-system"
+      },
+      {
+        "title": "Design a Text Editor",
+        "difficulty": "HARD",
+        "frequency": 65.6,
+        "acceptance_rate": 47.1,
+        "link": "https://leetcode.com/problems/design-a-text-editor",
+        "topics": [
+          "Linked List",
+          "String",
+          "Stack",
+          "Design",
+          "Simulation",
+          "Doubly-Linked List"
+        ],
+        "slug": "design-a-text-editor"
+      },
+      {
+        "title": "Find Users With Valid E-Mails",
+        "difficulty": "EASY",
+        "frequency": 65.6,
+        "acceptance_rate": 44.1,
+        "link": "https://leetcode.com/problems/find-users-with-valid-e-mails",
+        "topics": [
+          "Database"
+        ],
+        "slug": "find-users-with-valid-e-mails"
+      },
+      {
+        "title": "Design Tic-Tac-Toe",
+        "difficulty": "MEDIUM",
+        "frequency": 65.6,
+        "acceptance_rate": 58.6,
+        "link": "https://leetcode.com/problems/design-tic-tac-toe",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Matrix",
+          "Simulation"
+        ],
+        "slug": "design-tic-tac-toe"
+      },
+      {
+        "title": "Walls and Gates",
+        "difficulty": "MEDIUM",
+        "frequency": 65.6,
+        "acceptance_rate": 63.0,
+        "link": "https://leetcode.com/problems/walls-and-gates",
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "slug": "walls-and-gates"
+      }
+    ],
+    "all": [
+      {
+        "title": "Walking Robot Simulation",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 58.2,
+        "link": "https://leetcode.com/problems/walking-robot-simulation",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Simulation"
+        ],
+        "slug": "walking-robot-simulation"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 88.5,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Design In-Memory File System",
+        "difficulty": "HARD",
+        "frequency": 60.9,
+        "acceptance_rate": 48.2,
+        "link": "https://leetcode.com/problems/design-in-memory-file-system",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie",
+          "Sorting"
+        ],
+        "slug": "design-in-memory-file-system"
+      },
+      {
+        "title": "Encode and Decode TinyURL",
+        "difficulty": "MEDIUM",
+        "frequency": 60.9,
+        "acceptance_rate": 86.4,
+        "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Hash Function"
+        ],
+        "slug": "encode-and-decode-tinyurl"
+      },
+      {
+        "title": "Design a Text Editor",
+        "difficulty": "HARD",
+        "frequency": 53.3,
+        "acceptance_rate": 47.1,
+        "link": "https://leetcode.com/problems/design-a-text-editor",
+        "topics": [
+          "Linked List",
+          "String",
+          "Stack",
+          "Design",
+          "Simulation",
+          "Doubly-Linked List"
+        ],
+        "slug": "design-a-text-editor"
+      },
+      {
+        "title": "Find Users With Valid E-Mails",
+        "difficulty": "EASY",
+        "frequency": 53.3,
+        "acceptance_rate": 44.1,
+        "link": "https://leetcode.com/problems/find-users-with-valid-e-mails",
+        "topics": [
+          "Database"
+        ],
+        "slug": "find-users-with-valid-e-mails"
+      },
+      {
+        "title": "Design Tic-Tac-Toe",
+        "difficulty": "MEDIUM",
+        "frequency": 53.3,
+        "acceptance_rate": 58.6,
+        "link": "https://leetcode.com/problems/design-tic-tac-toe",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Design",
+          "Matrix",
+          "Simulation"
+        ],
+        "slug": "design-tic-tac-toe"
+      },
+      {
+        "title": "Walls and Gates",
+        "difficulty": "MEDIUM",
+        "frequency": 53.3,
+        "acceptance_rate": 63.0,
+        "link": "https://leetcode.com/problems/walls-and-gates",
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "slug": "walls-and-gates"
+      }
+    ]
+  }
+}

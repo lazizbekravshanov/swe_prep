@@ -1,0 +1,242 @@
+{
+  "profile": {
+    "name": "Vimeo",
+    "slug": "vimeo",
+    "total_problems": 6,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.83,
+      "hard": 0.17
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 3
+      },
+      {
+        "topic": "Design",
+        "count": 2
+      },
+      {
+        "topic": "Bit Manipulation",
+        "count": 1
+      },
+      {
+        "topic": "Trie",
+        "count": 1
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 1
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 1
+      },
+      {
+        "topic": "Graph",
+        "count": 1
+      },
+      {
+        "topic": "Divide and Conquer",
+        "count": 1
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 1
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Count Pairs With XOR in a Range",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "count-pairs-with-xor-in-a-range"
+      },
+      {
+        "title": "Flower Planting With No Adjacent",
+        "difficulty": "MEDIUM",
+        "frequency": 66.4,
+        "slug": "flower-planting-with-no-adjacent"
+      },
+      {
+        "title": "Maximum Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 66.4,
+        "slug": "maximum-subarray"
+      },
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 66.4,
+        "slug": "3sum"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 66.4,
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Min Stack",
+        "difficulty": "MEDIUM",
+        "frequency": 66.4,
+        "slug": "min-stack"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa",
+        "system_design"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [
+      {
+        "title": "Min Stack",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 56.4,
+        "link": "https://leetcode.com/problems/min-stack",
+        "topics": [
+          "Stack",
+          "Design"
+        ],
+        "slug": "min-stack"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Min Stack",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 56.4,
+        "link": "https://leetcode.com/problems/min-stack",
+        "topics": [
+          "Stack",
+          "Design"
+        ],
+        "slug": "min-stack"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Count Pairs With XOR in a Range",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 45.7,
+        "link": "https://leetcode.com/problems/count-pairs-with-xor-in-a-range",
+        "topics": [
+          "Array",
+          "Bit Manipulation",
+          "Trie"
+        ],
+        "slug": "count-pairs-with-xor-in-a-range"
+      },
+      {
+        "title": "Flower Planting With No Adjacent",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 52.4,
+        "link": "https://leetcode.com/problems/flower-planting-with-no-adjacent",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph"
+        ],
+        "slug": "flower-planting-with-no-adjacent"
+      }
+    ],
+    "all": [
+      {
+        "title": "Count Pairs With XOR in a Range",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 45.7,
+        "link": "https://leetcode.com/problems/count-pairs-with-xor-in-a-range",
+        "topics": [
+          "Array",
+          "Bit Manipulation",
+          "Trie"
+        ],
+        "slug": "count-pairs-with-xor-in-a-range"
+      },
+      {
+        "title": "Flower Planting With No Adjacent",
+        "difficulty": "MEDIUM",
+        "frequency": 66.4,
+        "acceptance_rate": 52.4,
+        "link": "https://leetcode.com/problems/flower-planting-with-no-adjacent",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph"
+        ],
+        "slug": "flower-planting-with-no-adjacent"
+      },
+      {
+        "title": "Maximum Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 66.4,
+        "acceptance_rate": 52.1,
+        "link": "https://leetcode.com/problems/maximum-subarray",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "slug": "maximum-subarray"
+      },
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 66.4,
+        "acceptance_rate": 37.1,
+        "link": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "3sum"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 66.4,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Min Stack",
+        "difficulty": "MEDIUM",
+        "frequency": 66.4,
+        "acceptance_rate": 56.4,
+        "link": "https://leetcode.com/problems/min-stack",
+        "topics": [
+          "Stack",
+          "Design"
+        ],
+        "slug": "min-stack"
+      }
+    ]
+  }
+}

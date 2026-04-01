@@ -1,0 +1,457 @@
+{
+  "profile": {
+    "name": "Grab",
+    "slug": "grab",
+    "total_problems": 13,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.15,
+      "medium": 0.85,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 6
+      },
+      {
+        "topic": "String",
+        "count": 6
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 3
+      },
+      {
+        "topic": "Hash Table",
+        "count": 3
+      },
+      {
+        "topic": "Stack",
+        "count": 3
+      },
+      {
+        "topic": "Greedy",
+        "count": 2
+      },
+      {
+        "topic": "Matrix",
+        "count": 2
+      },
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 1
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Minimum Cost For Tickets",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "minimum-cost-for-tickets"
+      },
+      {
+        "title": "Adding Two Negabinary Numbers",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "adding-two-negabinary-numbers"
+      },
+      {
+        "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "minimum-number-of-food-buckets-to-feed-the-hamsters"
+      },
+      {
+        "title": "Reconstruct a 2-Row Binary Matrix",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "reconstruct-a-2-row-binary-matrix"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 78.1,
+        "slug": "two-sum"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 71.3,
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 71.3,
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 71.3,
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Search a 2D Matrix",
+        "difficulty": "MEDIUM",
+        "frequency": 61.6,
+        "slug": "search-a-2d-matrix"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 61.6,
+        "slug": "valid-parentheses"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [
+      {
+        "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 61.4,
+        "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+        "topics": [
+          "String",
+          "Bit Manipulation",
+          "Simulation"
+        ],
+        "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Daily Temperatures",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 67.4,
+        "link": "https://leetcode.com/problems/daily-temperatures",
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "daily-temperatures"
+      },
+      {
+        "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 61.4,
+        "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+        "topics": [
+          "String",
+          "Bit Manipulation",
+          "Simulation"
+        ],
+        "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 92.0,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 92.0,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Search a 2D Matrix",
+        "difficulty": "MEDIUM",
+        "frequency": 80.7,
+        "acceptance_rate": 52.3,
+        "link": "https://leetcode.com/problems/search-a-2d-matrix",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Matrix"
+        ],
+        "slug": "search-a-2d-matrix"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 80.7,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Minimum Cost For Tickets",
+        "difficulty": "MEDIUM",
+        "frequency": 80.7,
+        "acceptance_rate": 67.4,
+        "link": "https://leetcode.com/problems/minimum-cost-for-tickets",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "minimum-cost-for-tickets"
+      },
+      {
+        "title": "Reconstruct a 2-Row Binary Matrix",
+        "difficulty": "MEDIUM",
+        "frequency": 80.7,
+        "acceptance_rate": 47.7,
+        "link": "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Matrix"
+        ],
+        "slug": "reconstruct-a-2-row-binary-matrix"
+      },
+      {
+        "title": "Adding Two Negabinary Numbers",
+        "difficulty": "MEDIUM",
+        "frequency": 80.7,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/adding-two-negabinary-numbers",
+        "topics": [
+          "Array",
+          "Math"
+        ],
+        "slug": "adding-two-negabinary-numbers"
+      },
+      {
+        "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+        "difficulty": "MEDIUM",
+        "frequency": 80.7,
+        "acceptance_rate": 47.0,
+        "link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "slug": "minimum-number-of-food-buckets-to-feed-the-hamsters"
+      }
+    ],
+    "all": [
+      {
+        "title": "Minimum Cost For Tickets",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 67.4,
+        "link": "https://leetcode.com/problems/minimum-cost-for-tickets",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "minimum-cost-for-tickets"
+      },
+      {
+        "title": "Adding Two Negabinary Numbers",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/adding-two-negabinary-numbers",
+        "topics": [
+          "Array",
+          "Math"
+        ],
+        "slug": "adding-two-negabinary-numbers"
+      },
+      {
+        "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 47.0,
+        "link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "slug": "minimum-number-of-food-buckets-to-feed-the-hamsters"
+      },
+      {
+        "title": "Reconstruct a 2-Row Binary Matrix",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 47.7,
+        "link": "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Matrix"
+        ],
+        "slug": "reconstruct-a-2-row-binary-matrix"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 78.1,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 71.3,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 71.3,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 71.3,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Search a 2D Matrix",
+        "difficulty": "MEDIUM",
+        "frequency": 61.6,
+        "acceptance_rate": 52.3,
+        "link": "https://leetcode.com/problems/search-a-2d-matrix",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Matrix"
+        ],
+        "slug": "search-a-2d-matrix"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 61.6,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Simplify Path",
+        "difficulty": "MEDIUM",
+        "frequency": 61.6,
+        "acceptance_rate": 47.9,
+        "link": "https://leetcode.com/problems/simplify-path",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "simplify-path"
+      },
+      {
+        "title": "Daily Temperatures",
+        "difficulty": "MEDIUM",
+        "frequency": 61.6,
+        "acceptance_rate": 67.4,
+        "link": "https://leetcode.com/problems/daily-temperatures",
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "daily-temperatures"
+      },
+      {
+        "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+        "difficulty": "MEDIUM",
+        "frequency": 61.6,
+        "acceptance_rate": 61.4,
+        "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+        "topics": [
+          "String",
+          "Bit Manipulation",
+          "Simulation"
+        ],
+        "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one"
+      }
+    ]
+  }
+}

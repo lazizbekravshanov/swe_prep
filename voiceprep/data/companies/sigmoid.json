@@ -1,0 +1,304 @@
+{
+  "profile": {
+    "name": "Sigmoid",
+    "slug": "sigmoid",
+    "total_problems": 6,
+    "recent_problems_30d": 1,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.83,
+      "hard": 0.17
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 4
+      },
+      {
+        "topic": "Prefix Sum",
+        "count": 2
+      },
+      {
+        "topic": "Sorting",
+        "count": 2
+      },
+      {
+        "topic": "Tree",
+        "count": 1
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 1
+      },
+      {
+        "topic": "Binary Tree",
+        "count": 1
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      },
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Linked List",
+        "count": 1
+      },
+      {
+        "topic": "Recursion",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 1
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      }
+    ],
+    "highest_frequency_problems": [
+      {
+        "title": "Binary Tree Zigzag Level Order Traversal",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "binary-tree-zigzag-level-order-traversal"
+      },
+      {
+        "title": "Product of Array Except Self",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "product-of-array-except-self"
+      },
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "group-anagrams"
+      },
+      {
+        "title": "Reverse Nodes in k-Group",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "reverse-nodes-in-k-group"
+      },
+      {
+        "title": "Max Consecutive Ones III",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "max-consecutive-ones-iii"
+      },
+      {
+        "title": "Boats to Save People",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "boats-to-save-people"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Tree traversal problems are frequently asked"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [
+      {
+        "title": "Boats to Save People",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 60.3,
+        "link": "https://leetcode.com/problems/boats-to-save-people",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "boats-to-save-people"
+      }
+    ],
+    "90d": [
+      {
+        "title": "Boats to Save People",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 60.3,
+        "link": "https://leetcode.com/problems/boats-to-save-people",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "boats-to-save-people"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Boats to Save People",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 60.3,
+        "link": "https://leetcode.com/problems/boats-to-save-people",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "boats-to-save-people"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Binary Tree Zigzag Level Order Traversal",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 61.7,
+        "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+        "topics": [
+          "Tree",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "binary-tree-zigzag-level-order-traversal"
+      },
+      {
+        "title": "Product of Array Except Self",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 67.8,
+        "link": "https://leetcode.com/problems/product-of-array-except-self",
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "slug": "product-of-array-except-self"
+      },
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 70.9,
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "group-anagrams"
+      },
+      {
+        "title": "Reverse Nodes in k-Group",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 63.0,
+        "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "reverse-nodes-in-k-group"
+      }
+    ],
+    "all": [
+      {
+        "title": "Binary Tree Zigzag Level Order Traversal",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 61.7,
+        "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+        "topics": [
+          "Tree",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "binary-tree-zigzag-level-order-traversal"
+      },
+      {
+        "title": "Product of Array Except Self",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 67.8,
+        "link": "https://leetcode.com/problems/product-of-array-except-self",
+        "topics": [
+          "Array",
+          "Prefix Sum"
+        ],
+        "slug": "product-of-array-except-self"
+      },
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 70.9,
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "group-anagrams"
+      },
+      {
+        "title": "Reverse Nodes in k-Group",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 63.0,
+        "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "reverse-nodes-in-k-group"
+      },
+      {
+        "title": "Max Consecutive Ones III",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 65.9,
+        "link": "https://leetcode.com/problems/max-consecutive-ones-iii",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "slug": "max-consecutive-ones-iii"
+      },
+      {
+        "title": "Boats to Save People",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 60.3,
+        "link": "https://leetcode.com/problems/boats-to-save-people",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "boats-to-save-people"
+      }
+    ]
+  }
+}

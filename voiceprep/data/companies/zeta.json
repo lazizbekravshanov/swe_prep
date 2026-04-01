@@ -1,0 +1,705 @@
+{
+  "profile": {
+    "name": "Zeta",
+    "slug": "zeta",
+    "total_problems": 21,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.57,
+      "hard": 0.43
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 13
+      },
+      {
+        "topic": "String",
+        "count": 7
+      },
+      {
+        "topic": "Hash Table",
+        "count": 7
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 6
+      },
+      {
+        "topic": "Binary Search",
+        "count": 4
+      },
+      {
+        "topic": "Greedy",
+        "count": 3
+      },
+      {
+        "topic": "Sorting",
+        "count": 3
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 3
+      },
+      {
+        "topic": "Stack",
+        "count": 3
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 3
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Apply Operations to Make Two Strings Equal",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "apply-operations-to-make-two-strings-equal"
+      },
+      {
+        "title": "Split Array Largest Sum",
+        "difficulty": "HARD",
+        "frequency": 70.6,
+        "slug": "split-array-largest-sum"
+      },
+      {
+        "title": "Task Scheduler",
+        "difficulty": "MEDIUM",
+        "frequency": 70.6,
+        "slug": "task-scheduler"
+      },
+      {
+        "title": "Evaluate Division",
+        "difficulty": "MEDIUM",
+        "frequency": 70.6,
+        "slug": "evaluate-division"
+      },
+      {
+        "title": "IPO",
+        "difficulty": "HARD",
+        "frequency": 70.6,
+        "slug": "ipo"
+      },
+      {
+        "title": "Next Greater Element II",
+        "difficulty": "MEDIUM",
+        "frequency": 70.6,
+        "slug": "next-greater-element-ii"
+      },
+      {
+        "title": "Insert Delete GetRandom O(1)",
+        "difficulty": "MEDIUM",
+        "frequency": 70.6,
+        "slug": "insert-delete-getrandom-o1"
+      },
+      {
+        "title": "Maximum Profit in Job Scheduling",
+        "difficulty": "HARD",
+        "frequency": 70.6,
+        "slug": "maximum-profit-in-job-scheduling"
+      },
+      {
+        "title": "Capacity To Ship Packages Within D Days",
+        "difficulty": "MEDIUM",
+        "frequency": 60.8,
+        "slug": "capacity-to-ship-packages-within-d-days"
+      },
+      {
+        "title": "Longest Valid Parentheses",
+        "difficulty": "HARD",
+        "frequency": 60.8,
+        "slug": "longest-valid-parentheses"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [
+      {
+        "title": "Split Array Largest Sum",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 58.1,
+        "link": "https://leetcode.com/problems/split-array-largest-sum",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Greedy",
+          "Prefix Sum"
+        ],
+        "slug": "split-array-largest-sum"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "trapping-rain-water"
+      },
+      {
+        "title": "Count Univalue Subtrees",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 57.2,
+        "link": "https://leetcode.com/problems/count-univalue-subtrees",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "count-univalue-subtrees"
+      },
+      {
+        "title": "Insert Delete GetRandom O(1)",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 55.0,
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "slug": "insert-delete-getrandom-o1"
+      },
+      {
+        "title": "Split Array Largest Sum",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 58.1,
+        "link": "https://leetcode.com/problems/split-array-largest-sum",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Greedy",
+          "Prefix Sum"
+        ],
+        "slug": "split-array-largest-sum"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Maximum Profit in Job Scheduling",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 54.4,
+        "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Sorting"
+        ],
+        "slug": "maximum-profit-in-job-scheduling"
+      },
+      {
+        "title": "Task Scheduler",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 61.5,
+        "link": "https://leetcode.com/problems/task-scheduler",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Counting"
+        ],
+        "slug": "task-scheduler"
+      },
+      {
+        "title": "Evaluate Division",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 63.1,
+        "link": "https://leetcode.com/problems/evaluate-division",
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Graph",
+          "Shortest Path"
+        ],
+        "slug": "evaluate-division"
+      },
+      {
+        "title": "IPO",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 53.0,
+        "link": "https://leetcode.com/problems/ipo",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "ipo"
+      },
+      {
+        "title": "Next Greater Element II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 66.3,
+        "link": "https://leetcode.com/problems/next-greater-element-ii",
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "next-greater-element-ii"
+      },
+      {
+        "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+        "difficulty": "HARD",
+        "frequency": 87.1,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "slug": "insert-delete-getrandom-o1-duplicates-allowed"
+      },
+      {
+        "title": "Find a Peak Element II",
+        "difficulty": "MEDIUM",
+        "frequency": 87.1,
+        "acceptance_rate": 53.2,
+        "link": "https://leetcode.com/problems/find-a-peak-element-ii",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Matrix"
+        ],
+        "slug": "find-a-peak-element-ii"
+      },
+      {
+        "title": "Interleaving String",
+        "difficulty": "MEDIUM",
+        "frequency": 87.1,
+        "acceptance_rate": 42.2,
+        "link": "https://leetcode.com/problems/interleaving-string",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "interleaving-string"
+      },
+      {
+        "title": "Minimum Operations to Write the Letter Y on a Grid",
+        "difficulty": "MEDIUM",
+        "frequency": 87.1,
+        "acceptance_rate": 61.9,
+        "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix",
+          "Counting"
+        ],
+        "slug": "minimum-operations-to-write-the-letter-y-on-a-grid"
+      },
+      {
+        "title": "Apply Operations to Make Two Strings Equal",
+        "difficulty": "MEDIUM",
+        "frequency": 87.1,
+        "acceptance_rate": 27.2,
+        "link": "https://leetcode.com/problems/apply-operations-to-make-two-strings-equal",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "apply-operations-to-make-two-strings-equal"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 87.1,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Reverse Nodes in k-Group",
+        "difficulty": "HARD",
+        "frequency": 87.1,
+        "acceptance_rate": 63.0,
+        "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "reverse-nodes-in-k-group"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 87.1,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Substring with Concatenation of All Words",
+        "difficulty": "HARD",
+        "frequency": 87.1,
+        "acceptance_rate": 33.0,
+        "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "substring-with-concatenation-of-all-words"
+      },
+      {
+        "title": "Capacity To Ship Packages Within D Days",
+        "difficulty": "MEDIUM",
+        "frequency": 87.1,
+        "acceptance_rate": 72.1,
+        "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "capacity-to-ship-packages-within-d-days"
+      }
+    ],
+    "all": [
+      {
+        "title": "Apply Operations to Make Two Strings Equal",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 27.2,
+        "link": "https://leetcode.com/problems/apply-operations-to-make-two-strings-equal",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "apply-operations-to-make-two-strings-equal"
+      },
+      {
+        "title": "Split Array Largest Sum",
+        "difficulty": "HARD",
+        "frequency": 70.6,
+        "acceptance_rate": 58.1,
+        "link": "https://leetcode.com/problems/split-array-largest-sum",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Greedy",
+          "Prefix Sum"
+        ],
+        "slug": "split-array-largest-sum"
+      },
+      {
+        "title": "Task Scheduler",
+        "difficulty": "MEDIUM",
+        "frequency": 70.6,
+        "acceptance_rate": 61.5,
+        "link": "https://leetcode.com/problems/task-scheduler",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Counting"
+        ],
+        "slug": "task-scheduler"
+      },
+      {
+        "title": "Evaluate Division",
+        "difficulty": "MEDIUM",
+        "frequency": 70.6,
+        "acceptance_rate": 63.1,
+        "link": "https://leetcode.com/problems/evaluate-division",
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Graph",
+          "Shortest Path"
+        ],
+        "slug": "evaluate-division"
+      },
+      {
+        "title": "IPO",
+        "difficulty": "HARD",
+        "frequency": 70.6,
+        "acceptance_rate": 53.0,
+        "link": "https://leetcode.com/problems/ipo",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "ipo"
+      },
+      {
+        "title": "Next Greater Element II",
+        "difficulty": "MEDIUM",
+        "frequency": 70.6,
+        "acceptance_rate": 66.3,
+        "link": "https://leetcode.com/problems/next-greater-element-ii",
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "next-greater-element-ii"
+      },
+      {
+        "title": "Insert Delete GetRandom O(1)",
+        "difficulty": "MEDIUM",
+        "frequency": 70.6,
+        "acceptance_rate": 55.0,
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "slug": "insert-delete-getrandom-o1"
+      },
+      {
+        "title": "Maximum Profit in Job Scheduling",
+        "difficulty": "HARD",
+        "frequency": 70.6,
+        "acceptance_rate": 54.4,
+        "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming",
+          "Sorting"
+        ],
+        "slug": "maximum-profit-in-job-scheduling"
+      },
+      {
+        "title": "Capacity To Ship Packages Within D Days",
+        "difficulty": "MEDIUM",
+        "frequency": 60.8,
+        "acceptance_rate": 72.1,
+        "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "capacity-to-ship-packages-within-d-days"
+      },
+      {
+        "title": "Longest Valid Parentheses",
+        "difficulty": "HARD",
+        "frequency": 60.8,
+        "acceptance_rate": 36.3,
+        "link": "https://leetcode.com/problems/longest-valid-parentheses",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "Stack"
+        ],
+        "slug": "longest-valid-parentheses"
+      },
+      {
+        "title": "Minimum Window Substring",
+        "difficulty": "HARD",
+        "frequency": 60.8,
+        "acceptance_rate": 45.4,
+        "link": "https://leetcode.com/problems/minimum-window-substring",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "minimum-window-substring"
+      },
+      {
+        "title": "Count Univalue Subtrees",
+        "difficulty": "MEDIUM",
+        "frequency": 60.8,
+        "acceptance_rate": 57.2,
+        "link": "https://leetcode.com/problems/count-univalue-subtrees",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "count-univalue-subtrees"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 60.8,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "trapping-rain-water"
+      },
+      {
+        "title": "Minimum Operations to Write the Letter Y on a Grid",
+        "difficulty": "MEDIUM",
+        "frequency": 60.8,
+        "acceptance_rate": 61.9,
+        "link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Matrix",
+          "Counting"
+        ],
+        "slug": "minimum-operations-to-write-the-letter-y-on-a-grid"
+      },
+      {
+        "title": "Substring with Concatenation of All Words",
+        "difficulty": "HARD",
+        "frequency": 60.8,
+        "acceptance_rate": 33.0,
+        "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "substring-with-concatenation-of-all-words"
+      },
+      {
+        "title": "Interleaving String",
+        "difficulty": "MEDIUM",
+        "frequency": 60.8,
+        "acceptance_rate": 42.2,
+        "link": "https://leetcode.com/problems/interleaving-string",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "interleaving-string"
+      },
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "difficulty": "MEDIUM",
+        "frequency": 60.8,
+        "acceptance_rate": 36.9,
+        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 60.8,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Find a Peak Element II",
+        "difficulty": "MEDIUM",
+        "frequency": 60.8,
+        "acceptance_rate": 53.2,
+        "link": "https://leetcode.com/problems/find-a-peak-element-ii",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Matrix"
+        ],
+        "slug": "find-a-peak-element-ii"
+      },
+      {
+        "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+        "difficulty": "HARD",
+        "frequency": 60.8,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "slug": "insert-delete-getrandom-o1-duplicates-allowed"
+      },
+      {
+        "title": "Reverse Nodes in k-Group",
+        "difficulty": "HARD",
+        "frequency": 60.8,
+        "acceptance_rate": 63.0,
+        "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "reverse-nodes-in-k-group"
+      }
+    ]
+  }
+}

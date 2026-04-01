@@ -1,0 +1,292 @@
+{
+  "profile": {
+    "name": "Squarepoint Capital",
+    "slug": "squarepoint-capital",
+    "total_problems": 9,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.11,
+      "medium": 0.67,
+      "hard": 0.22
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 8
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 4
+      },
+      {
+        "topic": "String",
+        "count": 2
+      },
+      {
+        "topic": "Binary Search",
+        "count": 2
+      },
+      {
+        "topic": "Sorting",
+        "count": 2
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "count": 2
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 2
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 2
+      },
+      {
+        "topic": "Divide and Conquer",
+        "count": 2
+      },
+      {
+        "topic": "Trie",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Search Suggestions System",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "search-suggestions-system"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 86.4,
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Subarray Product Less Than K",
+        "difficulty": "MEDIUM",
+        "frequency": 86.4,
+        "slug": "subarray-product-less-than-k"
+      },
+      {
+        "title": "Minimum Insertion Steps to Make a String Palindrome",
+        "difficulty": "HARD",
+        "frequency": 69.5,
+        "slug": "minimum-insertion-steps-to-make-a-string-palindrome"
+      },
+      {
+        "title": "Coin Change",
+        "difficulty": "MEDIUM",
+        "frequency": 69.5,
+        "slug": "coin-change"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 69.5,
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Subarrays with K Different Integers",
+        "difficulty": "HARD",
+        "frequency": 69.5,
+        "slug": "subarrays-with-k-different-integers"
+      },
+      {
+        "title": "Maximum Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 69.5,
+        "slug": "maximum-subarray"
+      },
+      {
+        "title": "Kth Largest Element in an Array",
+        "difficulty": "MEDIUM",
+        "frequency": 69.5,
+        "slug": "kth-largest-element-in-an-array"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [
+      {
+        "title": "Frog Jump",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 46.6,
+        "link": "https://leetcode.com/problems/frog-jump",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "frog-jump"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Longest Increasing Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-increasing-subsequence"
+      },
+      {
+        "title": "Frog Jump",
+        "difficulty": "HARD",
+        "frequency": 89.4,
+        "acceptance_rate": 46.6,
+        "link": "https://leetcode.com/problems/frog-jump",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "frog-jump"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Search Suggestions System",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/search-suggestions-system",
+        "topics": [
+          "Array",
+          "String",
+          "Binary Search",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "search-suggestions-system"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 86.4,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Subarray Product Less Than K",
+        "difficulty": "MEDIUM",
+        "frequency": 86.4,
+        "acceptance_rate": 52.9,
+        "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "slug": "subarray-product-less-than-k"
+      },
+      {
+        "title": "Minimum Insertion Steps to Make a String Palindrome",
+        "difficulty": "HARD",
+        "frequency": 69.5,
+        "acceptance_rate": 72.4,
+        "link": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "minimum-insertion-steps-to-make-a-string-palindrome"
+      },
+      {
+        "title": "Coin Change",
+        "difficulty": "MEDIUM",
+        "frequency": 69.5,
+        "acceptance_rate": 46.5,
+        "link": "https://leetcode.com/problems/coin-change",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search"
+        ],
+        "slug": "coin-change"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 69.5,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Subarrays with K Different Integers",
+        "difficulty": "HARD",
+        "frequency": 69.5,
+        "acceptance_rate": 65.9,
+        "link": "https://leetcode.com/problems/subarrays-with-k-different-integers",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Counting"
+        ],
+        "slug": "subarrays-with-k-different-integers"
+      },
+      {
+        "title": "Maximum Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 69.5,
+        "acceptance_rate": 52.1,
+        "link": "https://leetcode.com/problems/maximum-subarray",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "slug": "maximum-subarray"
+      },
+      {
+        "title": "Kth Largest Element in an Array",
+        "difficulty": "MEDIUM",
+        "frequency": 69.5,
+        "acceptance_rate": 68.0,
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect"
+        ],
+        "slug": "kth-largest-element-in-an-array"
+      }
+    ],
+    "all": []
+  }
+}

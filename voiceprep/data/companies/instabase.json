@@ -1,0 +1,121 @@
+{
+  "profile": {
+    "name": "instabase",
+    "slug": "instabase",
+    "total_problems": 2,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.5,
+      "hard": 0.5
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Stack",
+        "count": 1
+      },
+      {
+        "topic": "Union Find",
+        "count": 1
+      },
+      {
+        "topic": "Monotonic Stack",
+        "count": 1
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      },
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Design",
+        "count": 1
+      },
+      {
+        "topic": "Trie",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Subarray With Elements Greater Than Varying Threshold",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "subarray-with-elements-greater-than-varying-threshold"
+      },
+      {
+        "title": "Implement Trie (Prefix Tree)",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "implement-trie-prefix-tree"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Subarray With Elements Greater Than Varying Threshold",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 44.5,
+        "link": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold",
+        "topics": [
+          "Array",
+          "Stack",
+          "Union Find",
+          "Monotonic Stack"
+        ],
+        "slug": "subarray-with-elements-greater-than-varying-threshold"
+      }
+    ],
+    "all": [
+      {
+        "title": "Subarray With Elements Greater Than Varying Threshold",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 44.5,
+        "link": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold",
+        "topics": [
+          "Array",
+          "Stack",
+          "Union Find",
+          "Monotonic Stack"
+        ],
+        "slug": "subarray-with-elements-greater-than-varying-threshold"
+      },
+      {
+        "title": "Implement Trie (Prefix Tree)",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 67.9,
+        "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Design",
+          "Trie"
+        ],
+        "slug": "implement-trie-prefix-tree"
+      }
+    ]
+  }
+}

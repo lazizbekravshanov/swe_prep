@@ -1,0 +1,126 @@
+{
+  "profile": {
+    "name": "BharatPe",
+    "slug": "bharatpe",
+    "total_problems": 2,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 1.0,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 2
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 1
+      },
+      {
+        "topic": "Matrix",
+        "count": 1
+      },
+      {
+        "topic": "Stack",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      },
+      {
+        "topic": "Monotonic Stack",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Maximal Square",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "maximal-square"
+      },
+      {
+        "title": "Car Fleet",
+        "difficulty": "MEDIUM",
+        "frequency": 93.4,
+        "slug": "car-fleet"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Maximal Square",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 48.8,
+        "link": "https://leetcode.com/problems/maximal-square",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "slug": "maximal-square"
+      },
+      {
+        "title": "Car Fleet",
+        "difficulty": "MEDIUM",
+        "frequency": 93.4,
+        "acceptance_rate": 53.5,
+        "link": "https://leetcode.com/problems/car-fleet",
+        "topics": [
+          "Array",
+          "Stack",
+          "Sorting",
+          "Monotonic Stack"
+        ],
+        "slug": "car-fleet"
+      }
+    ],
+    "all": [
+      {
+        "title": "Maximal Square",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 48.8,
+        "link": "https://leetcode.com/problems/maximal-square",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "slug": "maximal-square"
+      },
+      {
+        "title": "Car Fleet",
+        "difficulty": "MEDIUM",
+        "frequency": 93.4,
+        "acceptance_rate": 53.5,
+        "link": "https://leetcode.com/problems/car-fleet",
+        "topics": [
+          "Array",
+          "Stack",
+          "Sorting",
+          "Monotonic Stack"
+        ],
+        "slug": "car-fleet"
+      }
+    ]
+  }
+}

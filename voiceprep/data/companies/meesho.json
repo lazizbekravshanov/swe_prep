@@ -1,0 +1,533 @@
+{
+  "profile": {
+    "name": "Meesho",
+    "slug": "meesho",
+    "total_problems": 22,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.05,
+      "medium": 0.55,
+      "hard": 0.41
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 13
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 8
+      },
+      {
+        "topic": "Hash Table",
+        "count": 5
+      },
+      {
+        "topic": "Binary Search",
+        "count": 4
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "count": 4
+      },
+      {
+        "topic": "Graph",
+        "count": 3
+      },
+      {
+        "topic": "String",
+        "count": 3
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 3
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 2
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 2
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Minimum Edge Reversals So Every Node Is Reachable",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "minimum-edge-reversals-so-every-node-is-reachable"
+      },
+      {
+        "title": "Number of Strings Which Can Be Rearranged to Contain Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 78.0,
+        "slug": "number-of-strings-which-can-be-rearranged-to-contain-substring"
+      },
+      {
+        "title": "Making A Large Island",
+        "difficulty": "HARD",
+        "frequency": 78.0,
+        "slug": "making-a-large-island"
+      },
+      {
+        "title": "Delete and Earn",
+        "difficulty": "MEDIUM",
+        "frequency": 78.0,
+        "slug": "delete-and-earn"
+      },
+      {
+        "title": "Painting the Walls",
+        "difficulty": "HARD",
+        "frequency": 78.0,
+        "slug": "painting-the-walls"
+      },
+      {
+        "title": "Minimum Number of Taps to Open to Water a Garden",
+        "difficulty": "HARD",
+        "frequency": 71.1,
+        "slug": "minimum-number-of-taps-to-open-to-water-a-garden"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 71.1,
+        "slug": "two-sum"
+      },
+      {
+        "title": "Subsequence With the Minimum Score",
+        "difficulty": "HARD",
+        "frequency": 71.1,
+        "slug": "subsequence-with-the-minimum-score"
+      },
+      {
+        "title": "Design Twitter",
+        "difficulty": "MEDIUM",
+        "frequency": 71.1,
+        "slug": "design-twitter"
+      },
+      {
+        "title": "Consecutive Numbers",
+        "difficulty": "MEDIUM",
+        "frequency": 61.3,
+        "slug": "consecutive-numbers"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [
+      {
+        "title": "Number of Unique XOR Triplets I",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 24.9,
+        "link": "https://leetcode.com/problems/number-of-unique-xor-triplets-i",
+        "topics": [
+          "Array",
+          "Math",
+          "Bit Manipulation"
+        ],
+        "slug": "number-of-unique-xor-triplets-i"
+      },
+      {
+        "title": "Number of Unique XOR Triplets II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 29.4,
+        "link": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii",
+        "topics": [
+          "Array",
+          "Math",
+          "Bit Manipulation",
+          "Enumeration"
+        ],
+        "slug": "number-of-unique-xor-triplets-ii"
+      },
+      {
+        "title": "Next Permutation",
+        "difficulty": "MEDIUM",
+        "frequency": 66.3,
+        "acceptance_rate": 43.1,
+        "link": "https://leetcode.com/problems/next-permutation",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "next-permutation"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Number of Unique XOR Triplets I",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 24.9,
+        "link": "https://leetcode.com/problems/number-of-unique-xor-triplets-i",
+        "topics": [
+          "Array",
+          "Math",
+          "Bit Manipulation"
+        ],
+        "slug": "number-of-unique-xor-triplets-i"
+      },
+      {
+        "title": "Number of Unique XOR Triplets II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 29.4,
+        "link": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii",
+        "topics": [
+          "Array",
+          "Math",
+          "Bit Manipulation",
+          "Enumeration"
+        ],
+        "slug": "number-of-unique-xor-triplets-ii"
+      },
+      {
+        "title": "Number of Ways to Form a Target String Given a Dictionary",
+        "difficulty": "HARD",
+        "frequency": 73.9,
+        "acceptance_rate": 57.1,
+        "link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary",
+        "topics": [
+          "Array",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "number-of-ways-to-form-a-target-string-given-a-dictionary"
+      },
+      {
+        "title": "Next Permutation",
+        "difficulty": "MEDIUM",
+        "frequency": 73.9,
+        "acceptance_rate": 43.1,
+        "link": "https://leetcode.com/problems/next-permutation",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "next-permutation"
+      },
+      {
+        "title": "Count Subarrays With Fixed Bounds",
+        "difficulty": "HARD",
+        "frequency": 65.1,
+        "acceptance_rate": 69.4,
+        "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Monotonic Queue"
+        ],
+        "slug": "count-subarrays-with-fixed-bounds"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Minimum Edge Reversals So Every Node Is Reachable",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable",
+        "topics": [
+          "Dynamic Programming",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph"
+        ],
+        "slug": "minimum-edge-reversals-so-every-node-is-reachable"
+      },
+      {
+        "title": "Number of Strings Which Can Be Rearranged to Contain Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 78.0,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Combinatorics"
+        ],
+        "slug": "number-of-strings-which-can-be-rearranged-to-contain-substring"
+      },
+      {
+        "title": "Making A Large Island",
+        "difficulty": "HARD",
+        "frequency": 78.0,
+        "acceptance_rate": 54.9,
+        "link": "https://leetcode.com/problems/making-a-large-island",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "making-a-large-island"
+      },
+      {
+        "title": "Delete and Earn",
+        "difficulty": "MEDIUM",
+        "frequency": 78.0,
+        "acceptance_rate": 56.7,
+        "link": "https://leetcode.com/problems/delete-and-earn",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Dynamic Programming"
+        ],
+        "slug": "delete-and-earn"
+      },
+      {
+        "title": "Painting the Walls",
+        "difficulty": "HARD",
+        "frequency": 78.0,
+        "acceptance_rate": 48.5,
+        "link": "https://leetcode.com/problems/painting-the-walls",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "painting-the-walls"
+      },
+      {
+        "title": "Minimum Number of Taps to Open to Water a Garden",
+        "difficulty": "HARD",
+        "frequency": 71.1,
+        "acceptance_rate": 50.7,
+        "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "slug": "minimum-number-of-taps-to-open-to-water-a-garden"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 71.1,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Subsequence With the Minimum Score",
+        "difficulty": "HARD",
+        "frequency": 71.1,
+        "acceptance_rate": 32.6,
+        "link": "https://leetcode.com/problems/subsequence-with-the-minimum-score",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Binary Search"
+        ],
+        "slug": "subsequence-with-the-minimum-score"
+      },
+      {
+        "title": "Design Twitter",
+        "difficulty": "MEDIUM",
+        "frequency": 71.1,
+        "acceptance_rate": 42.7,
+        "link": "https://leetcode.com/problems/design-twitter",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "design-twitter"
+      },
+      {
+        "title": "Consecutive Numbers",
+        "difficulty": "MEDIUM",
+        "frequency": 61.3,
+        "acceptance_rate": 46.1,
+        "link": "https://leetcode.com/problems/consecutive-numbers",
+        "topics": [
+          "Database"
+        ],
+        "slug": "consecutive-numbers"
+      },
+      {
+        "title": "Count Subarrays With Fixed Bounds",
+        "difficulty": "HARD",
+        "frequency": 61.3,
+        "acceptance_rate": 69.4,
+        "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+        "topics": [
+          "Array",
+          "Queue",
+          "Sliding Window",
+          "Monotonic Queue"
+        ],
+        "slug": "count-subarrays-with-fixed-bounds"
+      },
+      {
+        "title": "Beautiful Arrangement",
+        "difficulty": "MEDIUM",
+        "frequency": 61.3,
+        "acceptance_rate": 64.5,
+        "link": "https://leetcode.com/problems/beautiful-arrangement",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ],
+        "slug": "beautiful-arrangement"
+      },
+      {
+        "title": "Minimum Time to Complete Trips",
+        "difficulty": "MEDIUM",
+        "frequency": 61.3,
+        "acceptance_rate": 39.0,
+        "link": "https://leetcode.com/problems/minimum-time-to-complete-trips",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "minimum-time-to-complete-trips"
+      },
+      {
+        "title": "Car Pooling",
+        "difficulty": "MEDIUM",
+        "frequency": 61.3,
+        "acceptance_rate": 56.0,
+        "link": "https://leetcode.com/problems/car-pooling",
+        "topics": [
+          "Array",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Simulation",
+          "Prefix Sum"
+        ],
+        "slug": "car-pooling"
+      },
+      {
+        "title": "Jump Game",
+        "difficulty": "MEDIUM",
+        "frequency": 61.3,
+        "acceptance_rate": 39.5,
+        "link": "https://leetcode.com/problems/jump-game",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy"
+        ],
+        "slug": "jump-game"
+      },
+      {
+        "title": "Search Suggestions System",
+        "difficulty": "MEDIUM",
+        "frequency": 61.3,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/search-suggestions-system",
+        "topics": [
+          "Array",
+          "String",
+          "Binary Search",
+          "Trie",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "search-suggestions-system"
+      },
+      {
+        "title": "Find the Longest Equal Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 61.3,
+        "acceptance_rate": 36.2,
+        "link": "https://leetcode.com/problems/find-the-longest-equal-subarray",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Sliding Window"
+        ],
+        "slug": "find-the-longest-equal-subarray"
+      },
+      {
+        "title": "Longest Non-decreasing Subarray From Two Arrays",
+        "difficulty": "MEDIUM",
+        "frequency": 61.3,
+        "acceptance_rate": 29.8,
+        "link": "https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-non-decreasing-subarray-from-two-arrays"
+      },
+      {
+        "title": "Count Complete Substrings",
+        "difficulty": "HARD",
+        "frequency": 61.3,
+        "acceptance_rate": 28.5,
+        "link": "https://leetcode.com/problems/count-complete-substrings",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "count-complete-substrings"
+      },
+      {
+        "title": "Number of Possible Sets of Closing Branches",
+        "difficulty": "HARD",
+        "frequency": 61.3,
+        "acceptance_rate": 48.4,
+        "link": "https://leetcode.com/problems/number-of-possible-sets-of-closing-branches",
+        "topics": [
+          "Bit Manipulation",
+          "Graph",
+          "Heap (Priority Queue)",
+          "Enumeration",
+          "Shortest Path"
+        ],
+        "slug": "number-of-possible-sets-of-closing-branches"
+      },
+      {
+        "title": "Minimum Degree of a Connected Trio in a Graph",
+        "difficulty": "HARD",
+        "frequency": 61.3,
+        "acceptance_rate": 43.4,
+        "link": "https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph",
+        "topics": [
+          "Graph"
+        ],
+        "slug": "minimum-degree-of-a-connected-trio-in-a-graph"
+      },
+      {
+        "title": "Second Highest Salary",
+        "difficulty": "MEDIUM",
+        "frequency": 61.3,
+        "acceptance_rate": 43.9,
+        "link": "https://leetcode.com/problems/second-highest-salary",
+        "topics": [
+          "Database"
+        ],
+        "slug": "second-highest-salary"
+      }
+    ],
+    "all": []
+  }
+}

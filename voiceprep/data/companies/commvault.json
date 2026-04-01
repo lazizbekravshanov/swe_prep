@@ -1,0 +1,416 @@
+{
+  "profile": {
+    "name": "Commvault",
+    "slug": "commvault",
+    "total_problems": 11,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.09,
+      "medium": 0.82,
+      "hard": 0.09
+    },
+    "top_topics": [
+      {
+        "topic": "Dynamic Programming",
+        "count": 4
+      },
+      {
+        "topic": "Array",
+        "count": 4
+      },
+      {
+        "topic": "String",
+        "count": 3
+      },
+      {
+        "topic": "Binary Search",
+        "count": 3
+      },
+      {
+        "topic": "Math",
+        "count": 2
+      },
+      {
+        "topic": "Linked List",
+        "count": 2
+      },
+      {
+        "topic": "Recursion",
+        "count": 2
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 2
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      },
+      {
+        "topic": "Binary Indexed Tree",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Count Vowel Substrings of a String",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "count-vowel-substrings-of-a-string"
+      },
+      {
+        "title": "Decode Ways",
+        "difficulty": "MEDIUM",
+        "frequency": 92.9,
+        "slug": "decode-ways"
+      },
+      {
+        "title": "Reach a Number",
+        "difficulty": "MEDIUM",
+        "frequency": 92.9,
+        "slug": "reach-a-number"
+      },
+      {
+        "title": "Longest Increasing Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 86.5,
+        "slug": "longest-increasing-subsequence"
+      },
+      {
+        "title": "Number of Longest Increasing Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 82.5,
+        "slug": "number-of-longest-increasing-subsequence"
+      },
+      {
+        "title": "Reverse Nodes in k-Group",
+        "difficulty": "HARD",
+        "frequency": 77.6,
+        "slug": "reverse-nodes-in-k-group"
+      },
+      {
+        "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+        "difficulty": "MEDIUM",
+        "frequency": 77.6,
+        "slug": "count-unreachable-pairs-of-nodes-in-an-undirected-graph"
+      },
+      {
+        "title": "Rotating the Box",
+        "difficulty": "MEDIUM",
+        "frequency": 62.2,
+        "slug": "rotating-the-box"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 62.2,
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Find Peak Element",
+        "difficulty": "MEDIUM",
+        "frequency": 62.2,
+        "slug": "find-peak-element"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Decode Ways",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 36.5,
+        "link": "https://leetcode.com/problems/decode-ways",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "decode-ways"
+      },
+      {
+        "title": "Reach a Number",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 43.9,
+        "link": "https://leetcode.com/problems/reach-a-number",
+        "topics": [
+          "Math",
+          "Binary Search"
+        ],
+        "slug": "reach-a-number"
+      },
+      {
+        "title": "Longest Increasing Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 93.2,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-increasing-subsequence"
+      },
+      {
+        "title": "Number of Longest Increasing Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 88.9,
+        "acceptance_rate": 49.9,
+        "link": "https://leetcode.com/problems/number-of-longest-increasing-subsequence",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Binary Indexed Tree",
+          "Segment Tree"
+        ],
+        "slug": "number-of-longest-increasing-subsequence"
+      },
+      {
+        "title": "Reverse Nodes in k-Group",
+        "difficulty": "HARD",
+        "frequency": 83.7,
+        "acceptance_rate": 63.0,
+        "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "reverse-nodes-in-k-group"
+      },
+      {
+        "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+        "difficulty": "MEDIUM",
+        "frequency": 83.7,
+        "acceptance_rate": 49.3,
+        "link": "https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Graph"
+        ],
+        "slug": "count-unreachable-pairs-of-nodes-in-an-undirected-graph"
+      },
+      {
+        "title": "Count Vowel Substrings of a String",
+        "difficulty": "EASY",
+        "frequency": 76.9,
+        "acceptance_rate": 71.5,
+        "link": "https://leetcode.com/problems/count-vowel-substrings-of-a-string",
+        "topics": [
+          "Hash Table",
+          "String"
+        ],
+        "slug": "count-vowel-substrings-of-a-string"
+      },
+      {
+        "title": "Rotating the Box",
+        "difficulty": "MEDIUM",
+        "frequency": 67.4,
+        "acceptance_rate": 79.1,
+        "link": "https://leetcode.com/problems/rotating-the-box",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Matrix"
+        ],
+        "slug": "rotating-the-box"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 67.4,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Find Peak Element",
+        "difficulty": "MEDIUM",
+        "frequency": 67.4,
+        "acceptance_rate": 46.5,
+        "link": "https://leetcode.com/problems/find-peak-element",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "find-peak-element"
+      },
+      {
+        "title": "Add Two Numbers",
+        "difficulty": "MEDIUM",
+        "frequency": 67.4,
+        "acceptance_rate": 46.2,
+        "link": "https://leetcode.com/problems/add-two-numbers",
+        "topics": [
+          "Linked List",
+          "Math",
+          "Recursion"
+        ],
+        "slug": "add-two-numbers"
+      }
+    ],
+    "all": [
+      {
+        "title": "Count Vowel Substrings of a String",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 71.5,
+        "link": "https://leetcode.com/problems/count-vowel-substrings-of-a-string",
+        "topics": [
+          "Hash Table",
+          "String"
+        ],
+        "slug": "count-vowel-substrings-of-a-string"
+      },
+      {
+        "title": "Decode Ways",
+        "difficulty": "MEDIUM",
+        "frequency": 92.9,
+        "acceptance_rate": 36.5,
+        "link": "https://leetcode.com/problems/decode-ways",
+        "topics": [
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "decode-ways"
+      },
+      {
+        "title": "Reach a Number",
+        "difficulty": "MEDIUM",
+        "frequency": 92.9,
+        "acceptance_rate": 43.9,
+        "link": "https://leetcode.com/problems/reach-a-number",
+        "topics": [
+          "Math",
+          "Binary Search"
+        ],
+        "slug": "reach-a-number"
+      },
+      {
+        "title": "Longest Increasing Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 86.5,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-increasing-subsequence"
+      },
+      {
+        "title": "Number of Longest Increasing Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 82.5,
+        "acceptance_rate": 49.9,
+        "link": "https://leetcode.com/problems/number-of-longest-increasing-subsequence",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Binary Indexed Tree",
+          "Segment Tree"
+        ],
+        "slug": "number-of-longest-increasing-subsequence"
+      },
+      {
+        "title": "Reverse Nodes in k-Group",
+        "difficulty": "HARD",
+        "frequency": 77.6,
+        "acceptance_rate": 63.0,
+        "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "reverse-nodes-in-k-group"
+      },
+      {
+        "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+        "difficulty": "MEDIUM",
+        "frequency": 77.6,
+        "acceptance_rate": 49.3,
+        "link": "https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Graph"
+        ],
+        "slug": "count-unreachable-pairs-of-nodes-in-an-undirected-graph"
+      },
+      {
+        "title": "Rotating the Box",
+        "difficulty": "MEDIUM",
+        "frequency": 62.2,
+        "acceptance_rate": 79.1,
+        "link": "https://leetcode.com/problems/rotating-the-box",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Matrix"
+        ],
+        "slug": "rotating-the-box"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 62.2,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Find Peak Element",
+        "difficulty": "MEDIUM",
+        "frequency": 62.2,
+        "acceptance_rate": 46.5,
+        "link": "https://leetcode.com/problems/find-peak-element",
+        "topics": [
+          "Array",
+          "Binary Search"
+        ],
+        "slug": "find-peak-element"
+      },
+      {
+        "title": "Add Two Numbers",
+        "difficulty": "MEDIUM",
+        "frequency": 62.2,
+        "acceptance_rate": 46.2,
+        "link": "https://leetcode.com/problems/add-two-numbers",
+        "topics": [
+          "Linked List",
+          "Math",
+          "Recursion"
+        ],
+        "slug": "add-two-numbers"
+      }
+    ]
+  }
+}

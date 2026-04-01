@@ -1,0 +1,230 @@
+{
+  "profile": {
+    "name": "Cloudera",
+    "slug": "cloudera",
+    "total_problems": 5,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.6,
+      "medium": 0.4,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Bit Manipulation",
+        "count": 2
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 2
+      },
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 1
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 1
+      },
+      {
+        "topic": "Graph",
+        "count": 1
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "count": 1
+      },
+      {
+        "topic": "Shortest Path",
+        "count": 1
+      },
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Union Find",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Complement of Base 10 Integer",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "complement-of-base-10-integer"
+      },
+      {
+        "title": "Number Complement",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "number-complement"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 73.9,
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Cheapest Flights Within K Stops",
+        "difficulty": "MEDIUM",
+        "frequency": 65.2,
+        "slug": "cheapest-flights-within-k-stops"
+      },
+      {
+        "title": "Lexicographically Smallest Equivalent String",
+        "difficulty": "MEDIUM",
+        "frequency": 65.2,
+        "slug": "lexicographically-smallest-equivalent-string"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Mix of easy-medium \u2014 focuses on clean code and communication",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Cheapest Flights Within K Stops",
+        "difficulty": "MEDIUM",
+        "frequency": 88.8,
+        "acceptance_rate": 40.4,
+        "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+        "topics": [
+          "Dynamic Programming",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph",
+          "Heap (Priority Queue)",
+          "Shortest Path"
+        ],
+        "slug": "cheapest-flights-within-k-stops"
+      },
+      {
+        "title": "Number Complement",
+        "difficulty": "EASY",
+        "frequency": 88.8,
+        "acceptance_rate": 70.3,
+        "link": "https://leetcode.com/problems/number-complement",
+        "topics": [
+          "Bit Manipulation"
+        ],
+        "slug": "number-complement"
+      },
+      {
+        "title": "Complement of Base 10 Integer",
+        "difficulty": "EASY",
+        "frequency": 88.8,
+        "acceptance_rate": 60.7,
+        "link": "https://leetcode.com/problems/complement-of-base-10-integer",
+        "topics": [
+          "Bit Manipulation"
+        ],
+        "slug": "complement-of-base-10-integer"
+      },
+      {
+        "title": "Lexicographically Smallest Equivalent String",
+        "difficulty": "MEDIUM",
+        "frequency": 88.8,
+        "acceptance_rate": 81.0,
+        "link": "https://leetcode.com/problems/lexicographically-smallest-equivalent-string",
+        "topics": [
+          "String",
+          "Union Find"
+        ],
+        "slug": "lexicographically-smallest-equivalent-string"
+      }
+    ],
+    "all": [
+      {
+        "title": "Complement of Base 10 Integer",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 60.7,
+        "link": "https://leetcode.com/problems/complement-of-base-10-integer",
+        "topics": [
+          "Bit Manipulation"
+        ],
+        "slug": "complement-of-base-10-integer"
+      },
+      {
+        "title": "Number Complement",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 70.3,
+        "link": "https://leetcode.com/problems/number-complement",
+        "topics": [
+          "Bit Manipulation"
+        ],
+        "slug": "number-complement"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 73.9,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Cheapest Flights Within K Stops",
+        "difficulty": "MEDIUM",
+        "frequency": 65.2,
+        "acceptance_rate": 40.4,
+        "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+        "topics": [
+          "Dynamic Programming",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph",
+          "Heap (Priority Queue)",
+          "Shortest Path"
+        ],
+        "slug": "cheapest-flights-within-k-stops"
+      },
+      {
+        "title": "Lexicographically Smallest Equivalent String",
+        "difficulty": "MEDIUM",
+        "frequency": 65.2,
+        "acceptance_rate": 81.0,
+        "link": "https://leetcode.com/problems/lexicographically-smallest-equivalent-string",
+        "topics": [
+          "String",
+          "Union Find"
+        ],
+        "slug": "lexicographically-smallest-equivalent-string"
+      }
+    ]
+  }
+}

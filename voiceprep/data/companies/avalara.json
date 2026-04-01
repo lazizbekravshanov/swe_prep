@@ -1,0 +1,107 @@
+{
+  "profile": {
+    "name": "Avalara",
+    "slug": "avalara",
+    "total_problems": 2,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.0,
+      "hard": 1.0
+    },
+    "top_topics": [
+      {
+        "topic": "Math",
+        "count": 2
+      },
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Recursion",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Abbreviating the Product of a Range",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "abbreviating-the-product-of-a-range"
+      },
+      {
+        "title": "Integer to English Words",
+        "difficulty": "HARD",
+        "frequency": 67.0,
+        "slug": "integer-to-english-words"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Abbreviating the Product of a Range",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 24.5,
+        "link": "https://leetcode.com/problems/abbreviating-the-product-of-a-range",
+        "topics": [
+          "Math"
+        ],
+        "slug": "abbreviating-the-product-of-a-range"
+      },
+      {
+        "title": "Integer to English Words",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 34.4,
+        "link": "https://leetcode.com/problems/integer-to-english-words",
+        "topics": [
+          "Math",
+          "String",
+          "Recursion"
+        ],
+        "slug": "integer-to-english-words"
+      }
+    ],
+    "all": [
+      {
+        "title": "Abbreviating the Product of a Range",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 24.5,
+        "link": "https://leetcode.com/problems/abbreviating-the-product-of-a-range",
+        "topics": [
+          "Math"
+        ],
+        "slug": "abbreviating-the-product-of-a-range"
+      },
+      {
+        "title": "Integer to English Words",
+        "difficulty": "HARD",
+        "frequency": 67.0,
+        "acceptance_rate": 34.4,
+        "link": "https://leetcode.com/problems/integer-to-english-words",
+        "topics": [
+          "Math",
+          "String",
+          "Recursion"
+        ],
+        "slug": "integer-to-english-words"
+      }
+    ]
+  }
+}

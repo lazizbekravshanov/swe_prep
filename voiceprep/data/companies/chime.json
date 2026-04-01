@@ -1,0 +1,142 @@
+{
+  "profile": {
+    "name": "Chime",
+    "slug": "chime",
+    "total_problems": 2,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 1.0,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 1
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 1
+      },
+      {
+        "topic": "Graph",
+        "count": 1
+      },
+      {
+        "topic": "Geometry",
+        "count": 1
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      },
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Backtracking",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Detonate the Maximum Bombs",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "detonate-the-maximum-bombs"
+      },
+      {
+        "title": "Letter Combinations of a Phone Number",
+        "difficulty": "MEDIUM",
+        "frequency": 66.5,
+        "slug": "letter-combinations-of-a-phone-number"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Detonate the Maximum Bombs",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 49.2,
+        "link": "https://leetcode.com/problems/detonate-the-maximum-bombs",
+        "topics": [
+          "Array",
+          "Math",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph",
+          "Geometry"
+        ],
+        "slug": "detonate-the-maximum-bombs"
+      },
+      {
+        "title": "Letter Combinations of a Phone Number",
+        "difficulty": "MEDIUM",
+        "frequency": 68.4,
+        "acceptance_rate": 63.9,
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking"
+        ],
+        "slug": "letter-combinations-of-a-phone-number"
+      }
+    ],
+    "all": [
+      {
+        "title": "Detonate the Maximum Bombs",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 49.2,
+        "link": "https://leetcode.com/problems/detonate-the-maximum-bombs",
+        "topics": [
+          "Array",
+          "Math",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph",
+          "Geometry"
+        ],
+        "slug": "detonate-the-maximum-bombs"
+      },
+      {
+        "title": "Letter Combinations of a Phone Number",
+        "difficulty": "MEDIUM",
+        "frequency": 66.5,
+        "acceptance_rate": 63.9,
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking"
+        ],
+        "slug": "letter-combinations-of-a-phone-number"
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "profile": {
+    "name": "Stripe",
+    "slug": "stripe",
+    "total_problems": 6,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.67,
+      "hard": 0.33
+    },
+    "top_topics": [
+      {
+        "topic": "String",
+        "count": 3
+      },
+      {
+        "topic": "Array",
+        "count": 3
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 3
+      },
+      {
+        "topic": "Graph",
+        "count": 3
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 3
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 2
+      },
+      {
+        "topic": "Shortest Path",
+        "count": 2
+      },
+      {
+        "topic": "Backtracking",
+        "count": 2
+      },
+      {
+        "topic": "Prefix Sum",
+        "count": 1
+      },
+      {
+        "topic": "Union Find",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Minimum Penalty for a Shop",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "minimum-penalty-for-a-shop"
+      },
+      {
+        "title": "Evaluate Division",
+        "difficulty": "MEDIUM",
+        "frequency": 68.2,
+        "slug": "evaluate-division"
+      },
+      {
+        "title": "Cheapest Flights Within K Stops",
+        "difficulty": "MEDIUM",
+        "frequency": 56.4,
+        "slug": "cheapest-flights-within-k-stops"
+      },
+      {
+        "title": "Optimal Account Balancing",
+        "difficulty": "HARD",
+        "frequency": 51.5,
+        "slug": "optimal-account-balancing"
+      },
+      {
+        "title": "Brace Expansion",
+        "difficulty": "MEDIUM",
+        "frequency": 51.5,
+        "slug": "brace-expansion"
+      },
+      {
+        "title": "Parallel Courses III",
+        "difficulty": "HARD",
+        "frequency": 44.6,
+        "slug": "parallel-courses-iii"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Minimum Penalty for a Shop",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 67.6,
+        "link": "https://leetcode.com/problems/minimum-penalty-for-a-shop",
+        "topics": [
+          "String",
+          "Prefix Sum"
+        ],
+        "slug": "minimum-penalty-for-a-shop"
+      },
+      {
+        "title": "Evaluate Division",
+        "difficulty": "MEDIUM",
+        "frequency": 70.5,
+        "acceptance_rate": 63.1,
+        "link": "https://leetcode.com/problems/evaluate-division",
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Graph",
+          "Shortest Path"
+        ],
+        "slug": "evaluate-division"
+      },
+      {
+        "title": "Optimal Account Balancing",
+        "difficulty": "HARD",
+        "frequency": 53.6,
+        "acceptance_rate": 49.9,
+        "link": "https://leetcode.com/problems/optimal-account-balancing",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ],
+        "slug": "optimal-account-balancing"
+      },
+      {
+        "title": "Brace Expansion",
+        "difficulty": "MEDIUM",
+        "frequency": 53.6,
+        "acceptance_rate": 66.7,
+        "link": "https://leetcode.com/problems/brace-expansion",
+        "topics": [
+          "String",
+          "Backtracking",
+          "Breadth-First Search"
+        ],
+        "slug": "brace-expansion"
+      },
+      {
+        "title": "Cheapest Flights Within K Stops",
+        "difficulty": "MEDIUM",
+        "frequency": 53.6,
+        "acceptance_rate": 40.4,
+        "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+        "topics": [
+          "Dynamic Programming",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph",
+          "Heap (Priority Queue)",
+          "Shortest Path"
+        ],
+        "slug": "cheapest-flights-within-k-stops"
+      }
+    ],
+    "all": [
+      {
+        "title": "Minimum Penalty for a Shop",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 67.6,
+        "link": "https://leetcode.com/problems/minimum-penalty-for-a-shop",
+        "topics": [
+          "String",
+          "Prefix Sum"
+        ],
+        "slug": "minimum-penalty-for-a-shop"
+      },
+      {
+        "title": "Evaluate Division",
+        "difficulty": "MEDIUM",
+        "frequency": 68.2,
+        "acceptance_rate": 63.1,
+        "link": "https://leetcode.com/problems/evaluate-division",
+        "topics": [
+          "Array",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Graph",
+          "Shortest Path"
+        ],
+        "slug": "evaluate-division"
+      },
+      {
+        "title": "Cheapest Flights Within K Stops",
+        "difficulty": "MEDIUM",
+        "frequency": 56.4,
+        "acceptance_rate": 40.4,
+        "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+        "topics": [
+          "Dynamic Programming",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph",
+          "Heap (Priority Queue)",
+          "Shortest Path"
+        ],
+        "slug": "cheapest-flights-within-k-stops"
+      },
+      {
+        "title": "Optimal Account Balancing",
+        "difficulty": "HARD",
+        "frequency": 51.5,
+        "acceptance_rate": 49.9,
+        "link": "https://leetcode.com/problems/optimal-account-balancing",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Backtracking",
+          "Bit Manipulation",
+          "Bitmask"
+        ],
+        "slug": "optimal-account-balancing"
+      },
+      {
+        "title": "Brace Expansion",
+        "difficulty": "MEDIUM",
+        "frequency": 51.5,
+        "acceptance_rate": 66.7,
+        "link": "https://leetcode.com/problems/brace-expansion",
+        "topics": [
+          "String",
+          "Backtracking",
+          "Breadth-First Search"
+        ],
+        "slug": "brace-expansion"
+      },
+      {
+        "title": "Parallel Courses III",
+        "difficulty": "HARD",
+        "frequency": 44.6,
+        "acceptance_rate": 66.7,
+        "link": "https://leetcode.com/problems/parallel-courses-iii",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Graph",
+          "Topological Sort"
+        ],
+        "slug": "parallel-courses-iii"
+      }
+    ]
+  }
+}

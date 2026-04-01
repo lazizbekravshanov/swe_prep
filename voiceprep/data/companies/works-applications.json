@@ -1,0 +1,192 @@
+{
+  "profile": {
+    "name": "Works Applications",
+    "slug": "works-applications",
+    "total_problems": 4,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.5,
+      "hard": 0.5
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 3
+      },
+      {
+        "topic": "Sorting",
+        "count": 3
+      },
+      {
+        "topic": "Greedy",
+        "count": 2
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 1
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "count": 1
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 1
+      },
+      {
+        "topic": "String",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "3sum"
+      },
+      {
+        "title": "Course Schedule III",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "course-schedule-iii"
+      },
+      {
+        "title": "K Inverse Pairs Array",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "k-inverse-pairs-array"
+      },
+      {
+        "title": "Largest Number",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "largest-number"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Largest Number",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 41.3,
+        "link": "https://leetcode.com/problems/largest-number",
+        "topics": [
+          "Array",
+          "String",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "largest-number"
+      },
+      {
+        "title": "K Inverse Pairs Array",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 49.0,
+        "link": "https://leetcode.com/problems/k-inverse-pairs-array",
+        "topics": [
+          "Dynamic Programming"
+        ],
+        "slug": "k-inverse-pairs-array"
+      },
+      {
+        "title": "Course Schedule III",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 40.7,
+        "link": "https://leetcode.com/problems/course-schedule-iii",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "course-schedule-iii"
+      },
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 37.1,
+        "link": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "3sum"
+      }
+    ],
+    "all": [
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 37.1,
+        "link": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "3sum"
+      },
+      {
+        "title": "Course Schedule III",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 40.7,
+        "link": "https://leetcode.com/problems/course-schedule-iii",
+        "topics": [
+          "Array",
+          "Greedy",
+          "Sorting",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "course-schedule-iii"
+      },
+      {
+        "title": "K Inverse Pairs Array",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 49.0,
+        "link": "https://leetcode.com/problems/k-inverse-pairs-array",
+        "topics": [
+          "Dynamic Programming"
+        ],
+        "slug": "k-inverse-pairs-array"
+      },
+      {
+        "title": "Largest Number",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 41.3,
+        "link": "https://leetcode.com/problems/largest-number",
+        "topics": [
+          "Array",
+          "String",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "largest-number"
+      }
+    ]
+  }
+}

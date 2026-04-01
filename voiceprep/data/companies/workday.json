@@ -1,0 +1,337 @@
+{
+  "profile": {
+    "name": "Workday",
+    "slug": "workday",
+    "total_problems": 8,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.12,
+      "medium": 0.62,
+      "hard": 0.25
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 3
+      },
+      {
+        "topic": "Hash Table",
+        "count": 2
+      },
+      {
+        "topic": "String",
+        "count": 2
+      },
+      {
+        "topic": "Sorting",
+        "count": 2
+      },
+      {
+        "topic": "Math",
+        "count": 2
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 2
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 2
+      },
+      {
+        "topic": "Design",
+        "count": 2
+      },
+      {
+        "topic": "Linked List",
+        "count": 2
+      },
+      {
+        "topic": "Tree",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "group-anagrams"
+      },
+      {
+        "title": "Reaching Points",
+        "difficulty": "HARD",
+        "frequency": 88.0,
+        "slug": "reaching-points"
+      },
+      {
+        "title": "Serialize and Deserialize Binary Tree",
+        "difficulty": "HARD",
+        "frequency": 88.0,
+        "slug": "serialize-and-deserialize-binary-tree"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 88.0,
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Convert Binary Number in a Linked List to Integer",
+        "difficulty": "EASY",
+        "frequency": 88.0,
+        "slug": "convert-binary-number-in-a-linked-list-to-integer"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 88.0,
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Course Schedule II",
+        "difficulty": "MEDIUM",
+        "frequency": 88.0,
+        "slug": "course-schedule-ii"
+      },
+      {
+        "title": "Permutations",
+        "difficulty": "MEDIUM",
+        "frequency": 88.0,
+        "slug": "permutations"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 70.9,
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "group-anagrams"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 70.9,
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "group-anagrams"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Convert Binary Number in a Linked List to Integer",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 81.2,
+        "link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer",
+        "topics": [
+          "Linked List",
+          "Math"
+        ],
+        "slug": "convert-binary-number-in-a-linked-list-to-integer"
+      },
+      {
+        "title": "Course Schedule II",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 53.4,
+        "link": "https://leetcode.com/problems/course-schedule-ii",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph",
+          "Topological Sort"
+        ],
+        "slug": "course-schedule-ii"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Reaching Points",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 33.6,
+        "link": "https://leetcode.com/problems/reaching-points",
+        "topics": [
+          "Math"
+        ],
+        "slug": "reaching-points"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Serialize and Deserialize Binary Tree",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 59.0,
+        "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+        "topics": [
+          "String",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Design",
+          "Binary Tree"
+        ],
+        "slug": "serialize-and-deserialize-binary-tree"
+      }
+    ],
+    "all": [
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 70.9,
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "group-anagrams"
+      },
+      {
+        "title": "Reaching Points",
+        "difficulty": "HARD",
+        "frequency": 88.0,
+        "acceptance_rate": 33.6,
+        "link": "https://leetcode.com/problems/reaching-points",
+        "topics": [
+          "Math"
+        ],
+        "slug": "reaching-points"
+      },
+      {
+        "title": "Serialize and Deserialize Binary Tree",
+        "difficulty": "HARD",
+        "frequency": 88.0,
+        "acceptance_rate": 59.0,
+        "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+        "topics": [
+          "String",
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Design",
+          "Binary Tree"
+        ],
+        "slug": "serialize-and-deserialize-binary-tree"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 88.0,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Convert Binary Number in a Linked List to Integer",
+        "difficulty": "EASY",
+        "frequency": 88.0,
+        "acceptance_rate": 81.2,
+        "link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer",
+        "topics": [
+          "Linked List",
+          "Math"
+        ],
+        "slug": "convert-binary-number-in-a-linked-list-to-integer"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 88.0,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Course Schedule II",
+        "difficulty": "MEDIUM",
+        "frequency": 88.0,
+        "acceptance_rate": 53.4,
+        "link": "https://leetcode.com/problems/course-schedule-ii",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph",
+          "Topological Sort"
+        ],
+        "slug": "course-schedule-ii"
+      },
+      {
+        "title": "Permutations",
+        "difficulty": "MEDIUM",
+        "frequency": 88.0,
+        "acceptance_rate": 80.7,
+        "link": "https://leetcode.com/problems/permutations",
+        "topics": [
+          "Array",
+          "Backtracking"
+        ],
+        "slug": "permutations"
+      }
+    ]
+  }
+}

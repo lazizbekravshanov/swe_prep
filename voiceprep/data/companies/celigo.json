@@ -1,0 +1,105 @@
+{
+  "profile": {
+    "name": "Celigo",
+    "slug": "celigo",
+    "total_problems": 2,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.5,
+      "medium": 0.0,
+      "hard": 0.5
+    },
+    "top_topics": [
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Reformat Date",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "reformat-date"
+      },
+      {
+        "title": "First Missing Positive",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "first-missing-positive"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Reformat Date",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 67.3,
+        "link": "https://leetcode.com/problems/reformat-date",
+        "topics": [
+          "String"
+        ],
+        "slug": "reformat-date"
+      },
+      {
+        "title": "First Missing Positive",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 41.1,
+        "link": "https://leetcode.com/problems/first-missing-positive",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "first-missing-positive"
+      }
+    ],
+    "all": [
+      {
+        "title": "Reformat Date",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 67.3,
+        "link": "https://leetcode.com/problems/reformat-date",
+        "topics": [
+          "String"
+        ],
+        "slug": "reformat-date"
+      },
+      {
+        "title": "First Missing Positive",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 41.1,
+        "link": "https://leetcode.com/problems/first-missing-positive",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "first-missing-positive"
+      }
+    ]
+  }
+}

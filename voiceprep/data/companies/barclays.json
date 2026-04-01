@@ -1,0 +1,604 @@
+{
+  "profile": {
+    "name": "Barclays",
+    "slug": "barclays",
+    "total_problems": 18,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.39,
+      "medium": 0.44,
+      "hard": 0.17
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 10
+      },
+      {
+        "topic": "String",
+        "count": 4
+      },
+      {
+        "topic": "Hash Table",
+        "count": 3
+      },
+      {
+        "topic": "Sorting",
+        "count": 3
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 3
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 3
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 3
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "count": 2
+      },
+      {
+        "topic": "Simulation",
+        "count": 2
+      },
+      {
+        "topic": "Matrix",
+        "count": 2
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Mark Elements on Array by Performing Queries",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "mark-elements-on-array-by-performing-queries"
+      },
+      {
+        "title": "Furthest Point From Origin",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "furthest-point-from-origin"
+      },
+      {
+        "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "count-submatrices-with-top-left-element-and-sum-less-than-k"
+      },
+      {
+        "title": "Double Modular Exponentiation",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "double-modular-exponentiation"
+      },
+      {
+        "title": "Lexicographically Smallest Generated String",
+        "difficulty": "HARD",
+        "frequency": 77.9,
+        "slug": "lexicographically-smallest-generated-string"
+      },
+      {
+        "title": "Maximum Employees to Be Invited to a Meeting",
+        "difficulty": "HARD",
+        "frequency": 71.0,
+        "slug": "maximum-employees-to-be-invited-to-a-meeting"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 71.0,
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 71.0,
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 71.0,
+        "slug": "two-sum"
+      },
+      {
+        "title": "Minimum Number of Refueling Stops",
+        "difficulty": "HARD",
+        "frequency": 71.0,
+        "slug": "minimum-number-of-refueling-stops"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Isomorphic Strings",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 46.9,
+        "link": "https://leetcode.com/problems/isomorphic-strings",
+        "topics": [
+          "Hash Table",
+          "String"
+        ],
+        "slug": "isomorphic-strings"
+      },
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 37.1,
+        "link": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "3sum"
+      },
+      {
+        "title": "Lexicographically Smallest Generated String",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 29.6,
+        "link": "https://leetcode.com/problems/lexicographically-smallest-generated-string",
+        "topics": [
+          "String",
+          "Greedy",
+          "String Matching"
+        ],
+        "slug": "lexicographically-smallest-generated-string"
+      },
+      {
+        "title": "Minimum Number of Refueling Stops",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 40.6,
+        "link": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "minimum-number-of-refueling-stops"
+      },
+      {
+        "title": "Maximum Employees to Be Invited to a Meeting",
+        "difficulty": "HARD",
+        "frequency": 87.3,
+        "acceptance_rate": 62.1,
+        "link": "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting",
+        "topics": [
+          "Depth-First Search",
+          "Graph",
+          "Topological Sort"
+        ],
+        "slug": "maximum-employees-to-be-invited-to-a-meeting"
+      },
+      {
+        "title": "Merge Sorted Array",
+        "difficulty": "EASY",
+        "frequency": 87.3,
+        "acceptance_rate": 52.9,
+        "link": "https://leetcode.com/problems/merge-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "merge-sorted-array"
+      },
+      {
+        "title": "Maximum Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 87.3,
+        "acceptance_rate": 52.1,
+        "link": "https://leetcode.com/problems/maximum-subarray",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "slug": "maximum-subarray"
+      },
+      {
+        "title": "Permutations",
+        "difficulty": "MEDIUM",
+        "frequency": 87.3,
+        "acceptance_rate": 80.7,
+        "link": "https://leetcode.com/problems/permutations",
+        "topics": [
+          "Array",
+          "Backtracking"
+        ],
+        "slug": "permutations"
+      },
+      {
+        "title": "Climbing Stairs",
+        "difficulty": "EASY",
+        "frequency": 87.3,
+        "acceptance_rate": 53.5,
+        "link": "https://leetcode.com/problems/climbing-stairs",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "slug": "climbing-stairs"
+      },
+      {
+        "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+        "difficulty": "MEDIUM",
+        "frequency": 87.3,
+        "acceptance_rate": 57.2,
+        "link": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Prefix Sum"
+        ],
+        "slug": "count-submatrices-with-top-left-element-and-sum-less-than-k"
+      },
+      {
+        "title": "Double Modular Exponentiation",
+        "difficulty": "MEDIUM",
+        "frequency": 87.3,
+        "acceptance_rate": 47.1,
+        "link": "https://leetcode.com/problems/double-modular-exponentiation",
+        "topics": [
+          "Array",
+          "Math",
+          "Simulation"
+        ],
+        "slug": "double-modular-exponentiation"
+      },
+      {
+        "title": "Furthest Point From Origin",
+        "difficulty": "EASY",
+        "frequency": 87.3,
+        "acceptance_rate": 64.4,
+        "link": "https://leetcode.com/problems/furthest-point-from-origin",
+        "topics": [
+          "String",
+          "Counting"
+        ],
+        "slug": "furthest-point-from-origin"
+      },
+      {
+        "title": "Mark Elements on Array by Performing Queries",
+        "difficulty": "MEDIUM",
+        "frequency": 87.3,
+        "acceptance_rate": 47.7,
+        "link": "https://leetcode.com/problems/mark-elements-on-array-by-performing-queries",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Simulation"
+        ],
+        "slug": "mark-elements-on-array-by-performing-queries"
+      },
+      {
+        "title": "Lexicographical Numbers",
+        "difficulty": "MEDIUM",
+        "frequency": 87.3,
+        "acceptance_rate": 76.0,
+        "link": "https://leetcode.com/problems/lexicographical-numbers",
+        "topics": [
+          "Depth-First Search",
+          "Trie"
+        ],
+        "slug": "lexicographical-numbers"
+      },
+      {
+        "title": "Palindrome Linked List",
+        "difficulty": "EASY",
+        "frequency": 87.3,
+        "acceptance_rate": 55.9,
+        "link": "https://leetcode.com/problems/palindrome-linked-list",
+        "topics": [
+          "Linked List",
+          "Two Pointers",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "palindrome-linked-list"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 87.3,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      }
+    ],
+    "all": [
+      {
+        "title": "Mark Elements on Array by Performing Queries",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 47.7,
+        "link": "https://leetcode.com/problems/mark-elements-on-array-by-performing-queries",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Simulation"
+        ],
+        "slug": "mark-elements-on-array-by-performing-queries"
+      },
+      {
+        "title": "Furthest Point From Origin",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 64.4,
+        "link": "https://leetcode.com/problems/furthest-point-from-origin",
+        "topics": [
+          "String",
+          "Counting"
+        ],
+        "slug": "furthest-point-from-origin"
+      },
+      {
+        "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 57.2,
+        "link": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k",
+        "topics": [
+          "Array",
+          "Matrix",
+          "Prefix Sum"
+        ],
+        "slug": "count-submatrices-with-top-left-element-and-sum-less-than-k"
+      },
+      {
+        "title": "Double Modular Exponentiation",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 47.1,
+        "link": "https://leetcode.com/problems/double-modular-exponentiation",
+        "topics": [
+          "Array",
+          "Math",
+          "Simulation"
+        ],
+        "slug": "double-modular-exponentiation"
+      },
+      {
+        "title": "Lexicographically Smallest Generated String",
+        "difficulty": "HARD",
+        "frequency": 77.9,
+        "acceptance_rate": 29.6,
+        "link": "https://leetcode.com/problems/lexicographically-smallest-generated-string",
+        "topics": [
+          "String",
+          "Greedy",
+          "String Matching"
+        ],
+        "slug": "lexicographically-smallest-generated-string"
+      },
+      {
+        "title": "Maximum Employees to Be Invited to a Meeting",
+        "difficulty": "HARD",
+        "frequency": 71.0,
+        "acceptance_rate": 62.1,
+        "link": "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting",
+        "topics": [
+          "Depth-First Search",
+          "Graph",
+          "Topological Sort"
+        ],
+        "slug": "maximum-employees-to-be-invited-to-a-meeting"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 71.0,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 71.0,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 71.0,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Minimum Number of Refueling Stops",
+        "difficulty": "HARD",
+        "frequency": 71.0,
+        "acceptance_rate": 40.6,
+        "link": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "minimum-number-of-refueling-stops"
+      },
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 71.0,
+        "acceptance_rate": 37.1,
+        "link": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "3sum"
+      },
+      {
+        "title": "Isomorphic Strings",
+        "difficulty": "EASY",
+        "frequency": 71.0,
+        "acceptance_rate": 46.9,
+        "link": "https://leetcode.com/problems/isomorphic-strings",
+        "topics": [
+          "Hash Table",
+          "String"
+        ],
+        "slug": "isomorphic-strings"
+      },
+      {
+        "title": "Merge Sorted Array",
+        "difficulty": "EASY",
+        "frequency": 61.2,
+        "acceptance_rate": 52.9,
+        "link": "https://leetcode.com/problems/merge-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "merge-sorted-array"
+      },
+      {
+        "title": "Maximum Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 61.2,
+        "acceptance_rate": 52.1,
+        "link": "https://leetcode.com/problems/maximum-subarray",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "slug": "maximum-subarray"
+      },
+      {
+        "title": "Palindrome Linked List",
+        "difficulty": "EASY",
+        "frequency": 61.2,
+        "acceptance_rate": 55.9,
+        "link": "https://leetcode.com/problems/palindrome-linked-list",
+        "topics": [
+          "Linked List",
+          "Two Pointers",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "palindrome-linked-list"
+      },
+      {
+        "title": "Lexicographical Numbers",
+        "difficulty": "MEDIUM",
+        "frequency": 61.2,
+        "acceptance_rate": 76.0,
+        "link": "https://leetcode.com/problems/lexicographical-numbers",
+        "topics": [
+          "Depth-First Search",
+          "Trie"
+        ],
+        "slug": "lexicographical-numbers"
+      },
+      {
+        "title": "Permutations",
+        "difficulty": "MEDIUM",
+        "frequency": 61.2,
+        "acceptance_rate": 80.7,
+        "link": "https://leetcode.com/problems/permutations",
+        "topics": [
+          "Array",
+          "Backtracking"
+        ],
+        "slug": "permutations"
+      },
+      {
+        "title": "Climbing Stairs",
+        "difficulty": "EASY",
+        "frequency": 61.2,
+        "acceptance_rate": 53.5,
+        "link": "https://leetcode.com/problems/climbing-stairs",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "slug": "climbing-stairs"
+      }
+    ]
+  }
+}

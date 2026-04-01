@@ -1,0 +1,315 @@
+{
+  "profile": {
+    "name": "Pure Storage",
+    "slug": "pure-storage",
+    "total_problems": 7,
+    "recent_problems_30d": 1,
+    "difficulty_distribution": {
+      "easy": 0.14,
+      "medium": 0.71,
+      "hard": 0.14
+    },
+    "top_topics": [
+      {
+        "topic": "Dynamic Programming",
+        "count": 4
+      },
+      {
+        "topic": "String",
+        "count": 3
+      },
+      {
+        "topic": "Math",
+        "count": 2
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 2
+      },
+      {
+        "topic": "Design",
+        "count": 2
+      },
+      {
+        "topic": "Array",
+        "count": 2
+      },
+      {
+        "topic": "Geometry",
+        "count": 1
+      },
+      {
+        "topic": "Linked List",
+        "count": 1
+      },
+      {
+        "topic": "String Matching",
+        "count": 1
+      },
+      {
+        "topic": "Binary Search",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 1
+      },
+      {
+        "topic": "String Matching",
+        "count": 1
+      }
+    ],
+    "highest_frequency_problems": [
+      {
+        "title": "Valid Square",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "valid-square"
+      },
+      {
+        "title": "Palindromic Substrings",
+        "difficulty": "MEDIUM",
+        "frequency": 85.9,
+        "slug": "palindromic-substrings"
+      },
+      {
+        "title": "Design Skiplist",
+        "difficulty": "HARD",
+        "frequency": 84.1,
+        "slug": "design-skiplist"
+      },
+      {
+        "title": "Maximum Repeating Substring",
+        "difficulty": "EASY",
+        "frequency": 70.9,
+        "slug": "maximum-repeating-substring"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 66.6,
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Longest Increasing Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 61.2,
+        "slug": "longest-increasing-subsequence"
+      },
+      {
+        "title": "Insert Delete GetRandom O(1)",
+        "difficulty": "MEDIUM",
+        "frequency": 61.2,
+        "slug": "insert-delete-getrandom-o1"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa",
+        "system_design"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [
+      {
+        "title": "Maximum Repeating Substring",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 39.6,
+        "link": "https://leetcode.com/problems/maximum-repeating-substring",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "String Matching"
+        ],
+        "slug": "maximum-repeating-substring"
+      }
+    ],
+    "90d": [
+      {
+        "title": "Maximum Repeating Substring",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 39.6,
+        "link": "https://leetcode.com/problems/maximum-repeating-substring",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "String Matching"
+        ],
+        "slug": "maximum-repeating-substring"
+      }
+    ],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Valid Square",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 44.3,
+        "link": "https://leetcode.com/problems/valid-square",
+        "topics": [
+          "Math",
+          "Geometry"
+        ],
+        "slug": "valid-square"
+      },
+      {
+        "title": "Longest Increasing Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 70.0,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-increasing-subsequence"
+      },
+      {
+        "title": "Maximum Repeating Substring",
+        "difficulty": "EASY",
+        "frequency": 70.0,
+        "acceptance_rate": 39.6,
+        "link": "https://leetcode.com/problems/maximum-repeating-substring",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "String Matching"
+        ],
+        "slug": "maximum-repeating-substring"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 62.1,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Design Skiplist",
+        "difficulty": "HARD",
+        "frequency": 62.1,
+        "acceptance_rate": 58.1,
+        "link": "https://leetcode.com/problems/design-skiplist",
+        "topics": [
+          "Linked List",
+          "Design"
+        ],
+        "slug": "design-skiplist"
+      }
+    ],
+    "all": [
+      {
+        "title": "Valid Square",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 44.3,
+        "link": "https://leetcode.com/problems/valid-square",
+        "topics": [
+          "Math",
+          "Geometry"
+        ],
+        "slug": "valid-square"
+      },
+      {
+        "title": "Palindromic Substrings",
+        "difficulty": "MEDIUM",
+        "frequency": 85.9,
+        "acceptance_rate": 71.7,
+        "link": "https://leetcode.com/problems/palindromic-substrings",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "palindromic-substrings"
+      },
+      {
+        "title": "Design Skiplist",
+        "difficulty": "HARD",
+        "frequency": 84.1,
+        "acceptance_rate": 58.1,
+        "link": "https://leetcode.com/problems/design-skiplist",
+        "topics": [
+          "Linked List",
+          "Design"
+        ],
+        "slug": "design-skiplist"
+      },
+      {
+        "title": "Maximum Repeating Substring",
+        "difficulty": "EASY",
+        "frequency": 70.9,
+        "acceptance_rate": 39.6,
+        "link": "https://leetcode.com/problems/maximum-repeating-substring",
+        "topics": [
+          "String",
+          "Dynamic Programming",
+          "String Matching"
+        ],
+        "slug": "maximum-repeating-substring"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 66.6,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Longest Increasing Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 61.2,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-increasing-subsequence"
+      },
+      {
+        "title": "Insert Delete GetRandom O(1)",
+        "difficulty": "MEDIUM",
+        "frequency": 61.2,
+        "acceptance_rate": 55.0,
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "slug": "insert-delete-getrandom-o1"
+      }
+    ]
+  }
+}

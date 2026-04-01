@@ -1,0 +1,205 @@
+{
+  "profile": {
+    "name": "StackAdapt",
+    "slug": "stackadapt",
+    "total_problems": 4,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.75,
+      "hard": 0.25
+    },
+    "top_topics": [
+      {
+        "topic": "Design",
+        "count": 2
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      },
+      {
+        "topic": "Heap (Priority Queue)",
+        "count": 1
+      },
+      {
+        "topic": "Data Stream",
+        "count": 1
+      },
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      },
+      {
+        "topic": "Binary Search",
+        "count": 1
+      },
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Backtracking",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Find Median from Data Stream",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "find-median-from-data-stream"
+      },
+      {
+        "title": "Snapshot Array",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "snapshot-array"
+      },
+      {
+        "title": "Restore IP Addresses",
+        "difficulty": "MEDIUM",
+        "frequency": 89.3,
+        "slug": "restore-ip-addresses"
+      },
+      {
+        "title": "Number of Dice Rolls With Target Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 89.3,
+        "slug": "number-of-dice-rolls-with-target-sum"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa",
+        "system_design"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Find Median from Data Stream",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 53.3,
+        "link": "https://leetcode.com/problems/find-median-from-data-stream",
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "slug": "find-median-from-data-stream"
+      },
+      {
+        "title": "Restore IP Addresses",
+        "difficulty": "MEDIUM",
+        "frequency": 89.5,
+        "acceptance_rate": 53.2,
+        "link": "https://leetcode.com/problems/restore-ip-addresses",
+        "topics": [
+          "String",
+          "Backtracking"
+        ],
+        "slug": "restore-ip-addresses"
+      },
+      {
+        "title": "Snapshot Array",
+        "difficulty": "MEDIUM",
+        "frequency": 89.5,
+        "acceptance_rate": 36.7,
+        "link": "https://leetcode.com/problems/snapshot-array",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Design"
+        ],
+        "slug": "snapshot-array"
+      },
+      {
+        "title": "Number of Dice Rolls With Target Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 89.5,
+        "acceptance_rate": 61.6,
+        "link": "https://leetcode.com/problems/number-of-dice-rolls-with-target-sum",
+        "topics": [
+          "Dynamic Programming"
+        ],
+        "slug": "number-of-dice-rolls-with-target-sum"
+      }
+    ],
+    "all": [
+      {
+        "title": "Find Median from Data Stream",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 53.3,
+        "link": "https://leetcode.com/problems/find-median-from-data-stream",
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "slug": "find-median-from-data-stream"
+      },
+      {
+        "title": "Snapshot Array",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 36.7,
+        "link": "https://leetcode.com/problems/snapshot-array",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Binary Search",
+          "Design"
+        ],
+        "slug": "snapshot-array"
+      },
+      {
+        "title": "Restore IP Addresses",
+        "difficulty": "MEDIUM",
+        "frequency": 89.3,
+        "acceptance_rate": 53.2,
+        "link": "https://leetcode.com/problems/restore-ip-addresses",
+        "topics": [
+          "String",
+          "Backtracking"
+        ],
+        "slug": "restore-ip-addresses"
+      },
+      {
+        "title": "Number of Dice Rolls With Target Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 89.3,
+        "acceptance_rate": 61.6,
+        "link": "https://leetcode.com/problems/number-of-dice-rolls-with-target-sum",
+        "topics": [
+          "Dynamic Programming"
+        ],
+        "slug": "number-of-dice-rolls-with-target-sum"
+      }
+    ]
+  }
+}

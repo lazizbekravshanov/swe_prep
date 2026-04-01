@@ -1,0 +1,148 @@
+{
+  "profile": {
+    "name": "Thomson Reuters",
+    "slug": "thomson-reuters",
+    "total_problems": 3,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.67,
+      "medium": 0.33,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "String",
+        "count": 3
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 1
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      },
+      {
+        "topic": "Hash Table",
+        "count": 1
+      },
+      {
+        "topic": "Math",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Longest Substring Of All Vowels in Order",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "longest-substring-of-all-vowels-in-order"
+      },
+      {
+        "title": "Minimum Time to Type Word Using Special Typewriter",
+        "difficulty": "EASY",
+        "frequency": 98.1,
+        "slug": "minimum-time-to-type-word-using-special-typewriter"
+      },
+      {
+        "title": "Roman to Integer",
+        "difficulty": "EASY",
+        "frequency": 65.3,
+        "slug": "roman-to-integer"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Mix of easy-medium \u2014 focuses on clean code and communication",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Longest Substring Of All Vowels in Order",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 50.5,
+        "link": "https://leetcode.com/problems/longest-substring-of-all-vowels-in-order",
+        "topics": [
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-of-all-vowels-in-order"
+      },
+      {
+        "title": "Minimum Time to Type Word Using Special Typewriter",
+        "difficulty": "EASY",
+        "frequency": 89.9,
+        "acceptance_rate": 77.7,
+        "link": "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter",
+        "topics": [
+          "String",
+          "Greedy"
+        ],
+        "slug": "minimum-time-to-type-word-using-special-typewriter"
+      },
+      {
+        "title": "Roman to Integer",
+        "difficulty": "EASY",
+        "frequency": 89.9,
+        "acceptance_rate": 64.9,
+        "link": "https://leetcode.com/problems/roman-to-integer",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "slug": "roman-to-integer"
+      }
+    ],
+    "all": [
+      {
+        "title": "Longest Substring Of All Vowels in Order",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 50.5,
+        "link": "https://leetcode.com/problems/longest-substring-of-all-vowels-in-order",
+        "topics": [
+          "String",
+          "Sliding Window"
+        ],
+        "slug": "longest-substring-of-all-vowels-in-order"
+      },
+      {
+        "title": "Minimum Time to Type Word Using Special Typewriter",
+        "difficulty": "EASY",
+        "frequency": 98.1,
+        "acceptance_rate": 77.7,
+        "link": "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter",
+        "topics": [
+          "String",
+          "Greedy"
+        ],
+        "slug": "minimum-time-to-type-word-using-special-typewriter"
+      },
+      {
+        "title": "Roman to Integer",
+        "difficulty": "EASY",
+        "frequency": 65.3,
+        "acceptance_rate": 64.9,
+        "link": "https://leetcode.com/problems/roman-to-integer",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "slug": "roman-to-integer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "profile": {
+    "name": "Tower Research Capital",
+    "slug": "tower-research-capital",
+    "total_problems": 2,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.5,
+      "hard": 0.5
+    },
+    "top_topics": [
+      {
+        "topic": "Math",
+        "count": 1
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 1
+      },
+      {
+        "topic": "Tree",
+        "count": 1
+      },
+      {
+        "topic": "Binary Search Tree",
+        "count": 1
+      },
+      {
+        "topic": "Binary Tree",
+        "count": 1
+      },
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Union Find",
+        "count": 1
+      },
+      {
+        "topic": "Matrix",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Unique Binary Search Trees",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "unique-binary-search-trees"
+      },
+      {
+        "title": "Bricks Falling When Hit",
+        "difficulty": "HARD",
+        "frequency": 73.5,
+        "slug": "bricks-falling-when-hit"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Emphasizes DP and graph problems",
+        "Tree traversal problems are frequently asked"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Unique Binary Search Trees",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 62.4,
+        "link": "https://leetcode.com/problems/unique-binary-search-trees",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Tree",
+          "Binary Search Tree",
+          "Binary Tree"
+        ],
+        "slug": "unique-binary-search-trees"
+      },
+      {
+        "title": "Bricks Falling When Hit",
+        "difficulty": "HARD",
+        "frequency": 73.8,
+        "acceptance_rate": 35.7,
+        "link": "https://leetcode.com/problems/bricks-falling-when-hit",
+        "topics": [
+          "Array",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "bricks-falling-when-hit"
+      }
+    ],
+    "all": [
+      {
+        "title": "Unique Binary Search Trees",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 62.4,
+        "link": "https://leetcode.com/problems/unique-binary-search-trees",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Tree",
+          "Binary Search Tree",
+          "Binary Tree"
+        ],
+        "slug": "unique-binary-search-trees"
+      },
+      {
+        "title": "Bricks Falling When Hit",
+        "difficulty": "HARD",
+        "frequency": 73.5,
+        "acceptance_rate": 35.7,
+        "link": "https://leetcode.com/problems/bricks-falling-when-hit",
+        "topics": [
+          "Array",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "bricks-falling-when-hit"
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "profile": {
+    "name": "KLA",
+    "slug": "kla",
+    "total_problems": 8,
+    "recent_problems_30d": 1,
+    "difficulty_distribution": {
+      "easy": 0.25,
+      "medium": 0.38,
+      "hard": 0.38
+    },
+    "top_topics": [
+      {
+        "topic": "Hash Table",
+        "count": 4
+      },
+      {
+        "topic": "Math",
+        "count": 3
+      },
+      {
+        "topic": "Design",
+        "count": 3
+      },
+      {
+        "topic": "Array",
+        "count": 2
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 2
+      },
+      {
+        "topic": "Linked List",
+        "count": 2
+      },
+      {
+        "topic": "Doubly-Linked List",
+        "count": 2
+      },
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 1
+      }
+    ],
+    "highest_frequency_problems": [
+      {
+        "title": "Maximum Product of First and Last Elements of a Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "maximum-product-of-first-and-last-elements-of-a-subsequence"
+      },
+      {
+        "title": "Reaching Points",
+        "difficulty": "HARD",
+        "frequency": 80.3,
+        "slug": "reaching-points"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 80.3,
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Roman to Integer",
+        "difficulty": "EASY",
+        "frequency": 70.9,
+        "slug": "roman-to-integer"
+      },
+      {
+        "title": "LFU Cache",
+        "difficulty": "HARD",
+        "frequency": 70.9,
+        "slug": "lfu-cache"
+      },
+      {
+        "title": "Maximum Swap",
+        "difficulty": "MEDIUM",
+        "frequency": 70.9,
+        "slug": "maximum-swap"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 70.9,
+        "slug": "two-sum"
+      },
+      {
+        "title": "Find Median from Data Stream",
+        "difficulty": "HARD",
+        "frequency": 70.9,
+        "slug": "find-median-from-data-stream"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa",
+        "system_design"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [
+      {
+        "title": "Maximum Product of First and Last Elements of a Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 29.8,
+        "link": "https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "maximum-product-of-first-and-last-elements-of-a-subsequence"
+      }
+    ],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Maximum Product of First and Last Elements of a Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 29.8,
+        "link": "https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "maximum-product-of-first-and-last-elements-of-a-subsequence"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 73.8,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Find Median from Data Stream",
+        "difficulty": "HARD",
+        "frequency": 73.8,
+        "acceptance_rate": 53.3,
+        "link": "https://leetcode.com/problems/find-median-from-data-stream",
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "slug": "find-median-from-data-stream"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Roman to Integer",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 64.9,
+        "link": "https://leetcode.com/problems/roman-to-integer",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "slug": "roman-to-integer"
+      },
+      {
+        "title": "LFU Cache",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 46.6,
+        "link": "https://leetcode.com/problems/lfu-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lfu-cache"
+      },
+      {
+        "title": "Reaching Points",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 33.6,
+        "link": "https://leetcode.com/problems/reaching-points",
+        "topics": [
+          "Math"
+        ],
+        "slug": "reaching-points"
+      },
+      {
+        "title": "Maximum Swap",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 51.8,
+        "link": "https://leetcode.com/problems/maximum-swap",
+        "topics": [
+          "Math",
+          "Greedy"
+        ],
+        "slug": "maximum-swap"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      }
+    ],
+    "all": [
+      {
+        "title": "Maximum Product of First and Last Elements of a Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 29.8,
+        "link": "https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "maximum-product-of-first-and-last-elements-of-a-subsequence"
+      },
+      {
+        "title": "Reaching Points",
+        "difficulty": "HARD",
+        "frequency": 80.3,
+        "acceptance_rate": 33.6,
+        "link": "https://leetcode.com/problems/reaching-points",
+        "topics": [
+          "Math"
+        ],
+        "slug": "reaching-points"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 80.3,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Roman to Integer",
+        "difficulty": "EASY",
+        "frequency": 70.9,
+        "acceptance_rate": 64.9,
+        "link": "https://leetcode.com/problems/roman-to-integer",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String"
+        ],
+        "slug": "roman-to-integer"
+      },
+      {
+        "title": "LFU Cache",
+        "difficulty": "HARD",
+        "frequency": 70.9,
+        "acceptance_rate": 46.6,
+        "link": "https://leetcode.com/problems/lfu-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lfu-cache"
+      },
+      {
+        "title": "Maximum Swap",
+        "difficulty": "MEDIUM",
+        "frequency": 70.9,
+        "acceptance_rate": 51.8,
+        "link": "https://leetcode.com/problems/maximum-swap",
+        "topics": [
+          "Math",
+          "Greedy"
+        ],
+        "slug": "maximum-swap"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 70.9,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Find Median from Data Stream",
+        "difficulty": "HARD",
+        "frequency": 70.9,
+        "acceptance_rate": 53.3,
+        "link": "https://leetcode.com/problems/find-median-from-data-stream",
+        "topics": [
+          "Two Pointers",
+          "Design",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Data Stream"
+        ],
+        "slug": "find-median-from-data-stream"
+      }
+    ]
+  }
+}

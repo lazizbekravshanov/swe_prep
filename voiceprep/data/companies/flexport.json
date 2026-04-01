@@ -1,0 +1,476 @@
+{
+  "profile": {
+    "name": "Flexport",
+    "slug": "flexport",
+    "total_problems": 10,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 1.0,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 5
+      },
+      {
+        "topic": "String",
+        "count": 4
+      },
+      {
+        "topic": "Hash Table",
+        "count": 4
+      },
+      {
+        "topic": "Binary Search",
+        "count": 4
+      },
+      {
+        "topic": "Design",
+        "count": 2
+      },
+      {
+        "topic": "Sorting",
+        "count": 2
+      },
+      {
+        "topic": "Sliding Window",
+        "count": 2
+      },
+      {
+        "topic": "Stack",
+        "count": 1
+      },
+      {
+        "topic": "Recursion",
+        "count": 1
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Decode String",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "decode-string"
+      },
+      {
+        "title": "Clone Graph",
+        "difficulty": "MEDIUM",
+        "frequency": 98.1,
+        "slug": "clone-graph"
+      },
+      {
+        "title": "Time Based Key-Value Store",
+        "difficulty": "MEDIUM",
+        "frequency": 96.1,
+        "slug": "time-based-key-value-store"
+      },
+      {
+        "title": "My Calendar I",
+        "difficulty": "MEDIUM",
+        "frequency": 85.0,
+        "slug": "my-calendar-i"
+      },
+      {
+        "title": "Letter Combinations of a Phone Number",
+        "difficulty": "MEDIUM",
+        "frequency": 85.0,
+        "slug": "letter-combinations-of-a-phone-number"
+      },
+      {
+        "title": "Bag of Tokens",
+        "difficulty": "MEDIUM",
+        "frequency": 70.0,
+        "slug": "bag-of-tokens"
+      },
+      {
+        "title": "Count Zero Request Servers",
+        "difficulty": "MEDIUM",
+        "frequency": 61.2,
+        "slug": "count-zero-request-servers"
+      },
+      {
+        "title": "Longest Increasing Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 61.2,
+        "slug": "longest-increasing-subsequence"
+      },
+      {
+        "title": "Subarray Product Less Than K",
+        "difficulty": "MEDIUM",
+        "frequency": 61.2,
+        "slug": "subarray-product-less-than-k"
+      },
+      {
+        "title": "Validate IP Address",
+        "difficulty": "MEDIUM",
+        "frequency": 61.2,
+        "slug": "validate-ip-address"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa",
+        "system_design"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [
+      {
+        "title": "Decode String",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 61.2,
+        "link": "https://leetcode.com/problems/decode-string",
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "decode-string"
+      },
+      {
+        "title": "Clone Graph",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 62.4,
+        "link": "https://leetcode.com/problems/clone-graph",
+        "topics": [
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph"
+        ],
+        "slug": "clone-graph"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Decode String",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 61.2,
+        "link": "https://leetcode.com/problems/decode-string",
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "decode-string"
+      },
+      {
+        "title": "Clone Graph",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 62.4,
+        "link": "https://leetcode.com/problems/clone-graph",
+        "topics": [
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph"
+        ],
+        "slug": "clone-graph"
+      },
+      {
+        "title": "Letter Combinations of a Phone Number",
+        "difficulty": "MEDIUM",
+        "frequency": 67.3,
+        "acceptance_rate": 63.9,
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking"
+        ],
+        "slug": "letter-combinations-of-a-phone-number"
+      },
+      {
+        "title": "Validate IP Address",
+        "difficulty": "MEDIUM",
+        "frequency": 67.3,
+        "acceptance_rate": 27.8,
+        "link": "https://leetcode.com/problems/validate-ip-address",
+        "topics": [
+          "String"
+        ],
+        "slug": "validate-ip-address"
+      },
+      {
+        "title": "My Calendar I",
+        "difficulty": "MEDIUM",
+        "frequency": 67.3,
+        "acceptance_rate": 58.1,
+        "link": "https://leetcode.com/problems/my-calendar-i",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Design",
+          "Segment Tree",
+          "Ordered Set"
+        ],
+        "slug": "my-calendar-i"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Letter Combinations of a Phone Number",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 63.9,
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking"
+        ],
+        "slug": "letter-combinations-of-a-phone-number"
+      },
+      {
+        "title": "My Calendar I",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 58.1,
+        "link": "https://leetcode.com/problems/my-calendar-i",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Design",
+          "Segment Tree",
+          "Ordered Set"
+        ],
+        "slug": "my-calendar-i"
+      },
+      {
+        "title": "Bag of Tokens",
+        "difficulty": "MEDIUM",
+        "frequency": 92.6,
+        "acceptance_rate": 59.2,
+        "link": "https://leetcode.com/problems/bag-of-tokens",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "bag-of-tokens"
+      },
+      {
+        "title": "Count Zero Request Servers",
+        "difficulty": "MEDIUM",
+        "frequency": 82.1,
+        "acceptance_rate": 34.1,
+        "link": "https://leetcode.com/problems/count-zero-request-servers",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "slug": "count-zero-request-servers"
+      },
+      {
+        "title": "Time Based Key-Value Store",
+        "difficulty": "MEDIUM",
+        "frequency": 82.1,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/time-based-key-value-store",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "slug": "time-based-key-value-store"
+      },
+      {
+        "title": "Subarray Product Less Than K",
+        "difficulty": "MEDIUM",
+        "frequency": 82.1,
+        "acceptance_rate": 52.9,
+        "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "slug": "subarray-product-less-than-k"
+      },
+      {
+        "title": "Longest Increasing Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 82.1,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-increasing-subsequence"
+      },
+      {
+        "title": "Decode String",
+        "difficulty": "MEDIUM",
+        "frequency": 82.1,
+        "acceptance_rate": 61.2,
+        "link": "https://leetcode.com/problems/decode-string",
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "decode-string"
+      }
+    ],
+    "all": [
+      {
+        "title": "Decode String",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 61.2,
+        "link": "https://leetcode.com/problems/decode-string",
+        "topics": [
+          "String",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "decode-string"
+      },
+      {
+        "title": "Clone Graph",
+        "difficulty": "MEDIUM",
+        "frequency": 98.1,
+        "acceptance_rate": 62.4,
+        "link": "https://leetcode.com/problems/clone-graph",
+        "topics": [
+          "Hash Table",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph"
+        ],
+        "slug": "clone-graph"
+      },
+      {
+        "title": "Time Based Key-Value Store",
+        "difficulty": "MEDIUM",
+        "frequency": 96.1,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/time-based-key-value-store",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Binary Search",
+          "Design"
+        ],
+        "slug": "time-based-key-value-store"
+      },
+      {
+        "title": "My Calendar I",
+        "difficulty": "MEDIUM",
+        "frequency": 85.0,
+        "acceptance_rate": 58.1,
+        "link": "https://leetcode.com/problems/my-calendar-i",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Design",
+          "Segment Tree",
+          "Ordered Set"
+        ],
+        "slug": "my-calendar-i"
+      },
+      {
+        "title": "Letter Combinations of a Phone Number",
+        "difficulty": "MEDIUM",
+        "frequency": 85.0,
+        "acceptance_rate": 63.9,
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking"
+        ],
+        "slug": "letter-combinations-of-a-phone-number"
+      },
+      {
+        "title": "Bag of Tokens",
+        "difficulty": "MEDIUM",
+        "frequency": 70.0,
+        "acceptance_rate": 59.2,
+        "link": "https://leetcode.com/problems/bag-of-tokens",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "bag-of-tokens"
+      },
+      {
+        "title": "Count Zero Request Servers",
+        "difficulty": "MEDIUM",
+        "frequency": 61.2,
+        "acceptance_rate": 34.1,
+        "link": "https://leetcode.com/problems/count-zero-request-servers",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window",
+          "Sorting"
+        ],
+        "slug": "count-zero-request-servers"
+      },
+      {
+        "title": "Longest Increasing Subsequence",
+        "difficulty": "MEDIUM",
+        "frequency": 61.2,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-increasing-subsequence"
+      },
+      {
+        "title": "Subarray Product Less Than K",
+        "difficulty": "MEDIUM",
+        "frequency": 61.2,
+        "acceptance_rate": 52.9,
+        "link": "https://leetcode.com/problems/subarray-product-less-than-k",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "slug": "subarray-product-less-than-k"
+      },
+      {
+        "title": "Validate IP Address",
+        "difficulty": "MEDIUM",
+        "frequency": 61.2,
+        "acceptance_rate": 27.8,
+        "link": "https://leetcode.com/problems/validate-ip-address",
+        "topics": [
+          "String"
+        ],
+        "slug": "validate-ip-address"
+      }
+    ]
+  }
+}

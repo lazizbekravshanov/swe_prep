@@ -1,0 +1,12 @@
+# Cloned data source repos (not part of the project)
+interview-company-wise-problems/
+leetcode-problems/
+
+# Next.js build output at root level
+.next/
+
+# Editor backup files
+*.save
+
+# OS files
+.DS_Store

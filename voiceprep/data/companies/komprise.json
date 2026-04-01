@@ -1,0 +1,113 @@
+{
+  "profile": {
+    "name": "Komprise",
+    "slug": "komprise",
+    "total_problems": 2,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.5,
+      "medium": 0.0,
+      "hard": 0.5
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 2
+      },
+      {
+        "topic": "Queue",
+        "count": 1
+      },
+      {
+        "topic": "Simulation",
+        "count": 1
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Time Needed to Buy Tickets",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "time-needed-to-buy-tickets"
+      },
+      {
+        "title": "Candy",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "candy"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Time Needed to Buy Tickets",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 70.7,
+        "link": "https://leetcode.com/problems/time-needed-to-buy-tickets",
+        "topics": [
+          "Array",
+          "Queue",
+          "Simulation"
+        ],
+        "slug": "time-needed-to-buy-tickets"
+      },
+      {
+        "title": "Candy",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 46.7,
+        "link": "https://leetcode.com/problems/candy",
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "slug": "candy"
+      }
+    ],
+    "all": [
+      {
+        "title": "Time Needed to Buy Tickets",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 70.7,
+        "link": "https://leetcode.com/problems/time-needed-to-buy-tickets",
+        "topics": [
+          "Array",
+          "Queue",
+          "Simulation"
+        ],
+        "slug": "time-needed-to-buy-tickets"
+      },
+      {
+        "title": "Candy",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 46.7,
+        "link": "https://leetcode.com/problems/candy",
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "slug": "candy"
+      }
+    ]
+  }
+}

@@ -1,0 +1,971 @@
+{
+  "profile": {
+    "name": "Palantir Technologies",
+    "slug": "palantir-technologies",
+    "total_problems": 29,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.24,
+      "medium": 0.55,
+      "hard": 0.21
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 21
+      },
+      {
+        "topic": "Hash Table",
+        "count": 8
+      },
+      {
+        "topic": "String",
+        "count": 7
+      },
+      {
+        "topic": "Sorting",
+        "count": 7
+      },
+      {
+        "topic": "Breadth-First Search",
+        "count": 5
+      },
+      {
+        "topic": "Math",
+        "count": 4
+      },
+      {
+        "topic": "Matrix",
+        "count": 4
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 4
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 3
+      },
+      {
+        "topic": "Linked List",
+        "count": 3
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Find Beautiful Indices in the Given Array I",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "find-beautiful-indices-in-the-given-array-i"
+      },
+      {
+        "title": "Find Beautiful Indices in the Given Array II",
+        "difficulty": "HARD",
+        "frequency": 92.0,
+        "slug": "find-beautiful-indices-in-the-given-array-ii"
+      },
+      {
+        "title": "Minimum Time Difference",
+        "difficulty": "MEDIUM",
+        "frequency": 82.4,
+        "slug": "minimum-time-difference"
+      },
+      {
+        "title": "Integer to English Words",
+        "difficulty": "HARD",
+        "frequency": 82.4,
+        "slug": "integer-to-english-words"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 80.6,
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Range Sum Query - Immutable",
+        "difficulty": "EASY",
+        "frequency": 80.6,
+        "slug": "range-sum-query-immutable"
+      },
+      {
+        "title": "Contains Duplicate II",
+        "difficulty": "EASY",
+        "frequency": 80.6,
+        "slug": "contains-duplicate-ii"
+      },
+      {
+        "title": "Selling Pieces of Wood",
+        "difficulty": "HARD",
+        "frequency": 78.7,
+        "slug": "selling-pieces-of-wood"
+      },
+      {
+        "title": "Maximum Size Subarray Sum Equals k",
+        "difficulty": "MEDIUM",
+        "frequency": 78.7,
+        "slug": "maximum-size-subarray-sum-equals-k"
+      },
+      {
+        "title": "Single Number",
+        "difficulty": "EASY",
+        "frequency": 78.7,
+        "slug": "single-number"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [
+      {
+        "title": "Find Beautiful Indices in the Given Array I",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 38.4,
+        "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Binary Search",
+          "Rolling Hash",
+          "String Matching",
+          "Hash Function"
+        ],
+        "slug": "find-beautiful-indices-in-the-given-array-i"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 89.1,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "merge-intervals"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Find Beautiful Indices in the Given Array I",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 38.4,
+        "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Binary Search",
+          "Rolling Hash",
+          "String Matching",
+          "Hash Function"
+        ],
+        "slug": "find-beautiful-indices-in-the-given-array-i"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 81.5,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Count the Number of Good Subsequences",
+        "difficulty": "MEDIUM",
+        "frequency": 72.6,
+        "acceptance_rate": 50.6,
+        "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String",
+          "Combinatorics",
+          "Counting"
+        ],
+        "slug": "count-the-number-of-good-subsequences"
+      },
+      {
+        "title": "Shortest Word Distance III",
+        "difficulty": "MEDIUM",
+        "frequency": 72.6,
+        "acceptance_rate": 59.1,
+        "link": "https://leetcode.com/problems/shortest-word-distance-iii",
+        "topics": [
+          "Array",
+          "String"
+        ],
+        "slug": "shortest-word-distance-iii"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Find Beautiful Indices in the Given Array I",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 38.4,
+        "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Binary Search",
+          "Rolling Hash",
+          "String Matching",
+          "Hash Function"
+        ],
+        "slug": "find-beautiful-indices-in-the-given-array-i"
+      },
+      {
+        "title": "Integer to English Words",
+        "difficulty": "HARD",
+        "frequency": 98.2,
+        "acceptance_rate": 34.4,
+        "link": "https://leetcode.com/problems/integer-to-english-words",
+        "topics": [
+          "Math",
+          "String",
+          "Recursion"
+        ],
+        "slug": "integer-to-english-words"
+      },
+      {
+        "title": "Find Beautiful Indices in the Given Array II",
+        "difficulty": "HARD",
+        "frequency": 96.2,
+        "acceptance_rate": 26.5,
+        "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Binary Search",
+          "Rolling Hash",
+          "String Matching",
+          "Hash Function"
+        ],
+        "slug": "find-beautiful-indices-in-the-given-array-ii"
+      },
+      {
+        "title": "Merge k Sorted Lists",
+        "difficulty": "HARD",
+        "frequency": 82.4,
+        "acceptance_rate": 56.8,
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort"
+        ],
+        "slug": "merge-k-sorted-lists"
+      },
+      {
+        "title": "Construct Quad Tree",
+        "difficulty": "MEDIUM",
+        "frequency": 73.1,
+        "acceptance_rate": 77.1,
+        "link": "https://leetcode.com/problems/construct-quad-tree",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Tree",
+          "Matrix"
+        ],
+        "slug": "construct-quad-tree"
+      },
+      {
+        "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+        "difficulty": "MEDIUM",
+        "frequency": 66.6,
+        "acceptance_rate": 50.2,
+        "link": "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "slug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros"
+      },
+      {
+        "title": "Shortest Word Distance III",
+        "difficulty": "MEDIUM",
+        "frequency": 66.6,
+        "acceptance_rate": 59.1,
+        "link": "https://leetcode.com/problems/shortest-word-distance-iii",
+        "topics": [
+          "Array",
+          "String"
+        ],
+        "slug": "shortest-word-distance-iii"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 66.6,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Find Players With Zero or One Losses",
+        "difficulty": "MEDIUM",
+        "frequency": 66.6,
+        "acceptance_rate": 72.6,
+        "link": "https://leetcode.com/problems/find-players-with-zero-or-one-losses",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting",
+          "Counting"
+        ],
+        "slug": "find-players-with-zero-or-one-losses"
+      },
+      {
+        "title": "Minimum Time Difference",
+        "difficulty": "MEDIUM",
+        "frequency": 66.6,
+        "acceptance_rate": 62.4,
+        "link": "https://leetcode.com/problems/minimum-time-difference",
+        "topics": [
+          "Array",
+          "Math",
+          "String",
+          "Sorting"
+        ],
+        "slug": "minimum-time-difference"
+      },
+      {
+        "title": "Range Sum Query - Immutable",
+        "difficulty": "EASY",
+        "frequency": 66.6,
+        "acceptance_rate": 68.5,
+        "link": "https://leetcode.com/problems/range-sum-query-immutable",
+        "topics": [
+          "Array",
+          "Design",
+          "Prefix Sum"
+        ],
+        "slug": "range-sum-query-immutable"
+      },
+      {
+        "title": "Accounts Merge",
+        "difficulty": "MEDIUM",
+        "frequency": 57.4,
+        "acceptance_rate": 59.6,
+        "link": "https://leetcode.com/problems/accounts-merge",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Sorting"
+        ],
+        "slug": "accounts-merge"
+      },
+      {
+        "title": "Number of Divisible Triplet Sums",
+        "difficulty": "MEDIUM",
+        "frequency": 57.4,
+        "acceptance_rate": 67.8,
+        "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "number-of-divisible-triplet-sums"
+      },
+      {
+        "title": "Contains Duplicate III",
+        "difficulty": "HARD",
+        "frequency": 57.4,
+        "acceptance_rate": 23.6,
+        "link": "https://leetcode.com/problems/contains-duplicate-iii",
+        "topics": [
+          "Array",
+          "Sliding Window",
+          "Sorting",
+          "Bucket Sort",
+          "Ordered Set"
+        ],
+        "slug": "contains-duplicate-iii"
+      },
+      {
+        "title": "Contains Duplicate",
+        "difficulty": "EASY",
+        "frequency": 57.4,
+        "acceptance_rate": 63.2,
+        "link": "https://leetcode.com/problems/contains-duplicate",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting"
+        ],
+        "slug": "contains-duplicate"
+      },
+      {
+        "title": "Contains Duplicate II",
+        "difficulty": "EASY",
+        "frequency": 57.4,
+        "acceptance_rate": 49.0,
+        "link": "https://leetcode.com/problems/contains-duplicate-ii",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window"
+        ],
+        "slug": "contains-duplicate-ii"
+      },
+      {
+        "title": "Check If It Is a Straight Line",
+        "difficulty": "EASY",
+        "frequency": 57.4,
+        "acceptance_rate": 39.7,
+        "link": "https://leetcode.com/problems/check-if-it-is-a-straight-line",
+        "topics": [
+          "Array",
+          "Math",
+          "Geometry"
+        ],
+        "slug": "check-if-it-is-a-straight-line"
+      },
+      {
+        "title": "Single Number",
+        "difficulty": "EASY",
+        "frequency": 57.4,
+        "acceptance_rate": 76.0,
+        "link": "https://leetcode.com/problems/single-number",
+        "topics": [
+          "Array",
+          "Bit Manipulation"
+        ],
+        "slug": "single-number"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 57.4,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Maximum Size Subarray Sum Equals k",
+        "difficulty": "MEDIUM",
+        "frequency": 57.4,
+        "acceptance_rate": 50.6,
+        "link": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "slug": "maximum-size-subarray-sum-equals-k"
+      },
+      {
+        "title": "Selling Pieces of Wood",
+        "difficulty": "HARD",
+        "frequency": 57.4,
+        "acceptance_rate": 51.5,
+        "link": "https://leetcode.com/problems/selling-pieces-of-wood",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "slug": "selling-pieces-of-wood"
+      },
+      {
+        "title": "Trapping Rain Water II",
+        "difficulty": "HARD",
+        "frequency": 57.4,
+        "acceptance_rate": 58.9,
+        "link": "https://leetcode.com/problems/trapping-rain-water-ii",
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Heap (Priority Queue)",
+          "Matrix"
+        ],
+        "slug": "trapping-rain-water-ii"
+      },
+      {
+        "title": "All Ancestors of a Node in a Directed Acyclic Graph",
+        "difficulty": "MEDIUM",
+        "frequency": 57.4,
+        "acceptance_rate": 61.9,
+        "link": "https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph",
+          "Topological Sort"
+        ],
+        "slug": "all-ancestors-of-a-node-in-a-directed-acyclic-graph"
+      },
+      {
+        "title": "Flood Fill",
+        "difficulty": "EASY",
+        "frequency": 57.4,
+        "acceptance_rate": 66.5,
+        "link": "https://leetcode.com/problems/flood-fill",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "slug": "flood-fill"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 57.4,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 57.4,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      }
+    ],
+    "all": [
+      {
+        "title": "Find Beautiful Indices in the Given Array I",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 38.4,
+        "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Binary Search",
+          "Rolling Hash",
+          "String Matching",
+          "Hash Function"
+        ],
+        "slug": "find-beautiful-indices-in-the-given-array-i"
+      },
+      {
+        "title": "Find Beautiful Indices in the Given Array II",
+        "difficulty": "HARD",
+        "frequency": 92.0,
+        "acceptance_rate": 26.5,
+        "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Binary Search",
+          "Rolling Hash",
+          "String Matching",
+          "Hash Function"
+        ],
+        "slug": "find-beautiful-indices-in-the-given-array-ii"
+      },
+      {
+        "title": "Minimum Time Difference",
+        "difficulty": "MEDIUM",
+        "frequency": 82.4,
+        "acceptance_rate": 62.4,
+        "link": "https://leetcode.com/problems/minimum-time-difference",
+        "topics": [
+          "Array",
+          "Math",
+          "String",
+          "Sorting"
+        ],
+        "slug": "minimum-time-difference"
+      },
+      {
+        "title": "Integer to English Words",
+        "difficulty": "HARD",
+        "frequency": 82.4,
+        "acceptance_rate": 34.4,
+        "link": "https://leetcode.com/problems/integer-to-english-words",
+        "topics": [
+          "Math",
+          "String",
+          "Recursion"
+        ],
+        "slug": "integer-to-english-words"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 80.6,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Range Sum Query - Immutable",
+        "difficulty": "EASY",
+        "frequency": 80.6,
+        "acceptance_rate": 68.5,
+        "link": "https://leetcode.com/problems/range-sum-query-immutable",
+        "topics": [
+          "Array",
+          "Design",
+          "Prefix Sum"
+        ],
+        "slug": "range-sum-query-immutable"
+      },
+      {
+        "title": "Contains Duplicate II",
+        "difficulty": "EASY",
+        "frequency": 80.6,
+        "acceptance_rate": 49.0,
+        "link": "https://leetcode.com/problems/contains-duplicate-ii",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sliding Window"
+        ],
+        "slug": "contains-duplicate-ii"
+      },
+      {
+        "title": "Selling Pieces of Wood",
+        "difficulty": "HARD",
+        "frequency": 78.7,
+        "acceptance_rate": 51.5,
+        "link": "https://leetcode.com/problems/selling-pieces-of-wood",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Memoization"
+        ],
+        "slug": "selling-pieces-of-wood"
+      },
+      {
+        "title": "Maximum Size Subarray Sum Equals k",
+        "difficulty": "MEDIUM",
+        "frequency": 78.7,
+        "acceptance_rate": 50.6,
+        "link": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Prefix Sum"
+        ],
+        "slug": "maximum-size-subarray-sum-equals-k"
+      },
+      {
+        "title": "Single Number",
+        "difficulty": "EASY",
+        "frequency": 78.7,
+        "acceptance_rate": 76.0,
+        "link": "https://leetcode.com/problems/single-number",
+        "topics": [
+          "Array",
+          "Bit Manipulation"
+        ],
+        "slug": "single-number"
+      },
+      {
+        "title": "Check If It Is a Straight Line",
+        "difficulty": "EASY",
+        "frequency": 78.7,
+        "acceptance_rate": 39.7,
+        "link": "https://leetcode.com/problems/check-if-it-is-a-straight-line",
+        "topics": [
+          "Array",
+          "Math",
+          "Geometry"
+        ],
+        "slug": "check-if-it-is-a-straight-line"
+      },
+      {
+        "title": "Contains Duplicate",
+        "difficulty": "EASY",
+        "frequency": 78.7,
+        "acceptance_rate": 63.2,
+        "link": "https://leetcode.com/problems/contains-duplicate",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting"
+        ],
+        "slug": "contains-duplicate"
+      },
+      {
+        "title": "Contains Duplicate III",
+        "difficulty": "HARD",
+        "frequency": 78.7,
+        "acceptance_rate": 23.6,
+        "link": "https://leetcode.com/problems/contains-duplicate-iii",
+        "topics": [
+          "Array",
+          "Sliding Window",
+          "Sorting",
+          "Bucket Sort",
+          "Ordered Set"
+        ],
+        "slug": "contains-duplicate-iii"
+      },
+      {
+        "title": "Merge k Sorted Lists",
+        "difficulty": "HARD",
+        "frequency": 68.1,
+        "acceptance_rate": 56.8,
+        "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Divide and Conquer",
+          "Heap (Priority Queue)",
+          "Merge Sort"
+        ],
+        "slug": "merge-k-sorted-lists"
+      },
+      {
+        "title": "Shortest Word Distance III",
+        "difficulty": "MEDIUM",
+        "frequency": 64.3,
+        "acceptance_rate": 59.1,
+        "link": "https://leetcode.com/problems/shortest-word-distance-iii",
+        "topics": [
+          "Array",
+          "String"
+        ],
+        "slug": "shortest-word-distance-iii"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 64.3,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Construct Quad Tree",
+        "difficulty": "MEDIUM",
+        "frequency": 59.7,
+        "acceptance_rate": 77.1,
+        "link": "https://leetcode.com/problems/construct-quad-tree",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Tree",
+          "Matrix"
+        ],
+        "slug": "construct-quad-tree"
+      },
+      {
+        "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+        "difficulty": "MEDIUM",
+        "frequency": 53.7,
+        "acceptance_rate": 50.2,
+        "link": "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "slug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros"
+      },
+      {
+        "title": "Find Players With Zero or One Losses",
+        "difficulty": "MEDIUM",
+        "frequency": 53.7,
+        "acceptance_rate": 72.6,
+        "link": "https://leetcode.com/problems/find-players-with-zero-or-one-losses",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting",
+          "Counting"
+        ],
+        "slug": "find-players-with-zero-or-one-losses"
+      },
+      {
+        "title": "Count the Number of Good Subsequences",
+        "difficulty": "MEDIUM",
+        "frequency": 53.7,
+        "acceptance_rate": 50.6,
+        "link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+        "topics": [
+          "Hash Table",
+          "Math",
+          "String",
+          "Combinatorics",
+          "Counting"
+        ],
+        "slug": "count-the-number-of-good-subsequences"
+      },
+      {
+        "title": "Flood Fill",
+        "difficulty": "EASY",
+        "frequency": 45.4,
+        "acceptance_rate": 66.5,
+        "link": "https://leetcode.com/problems/flood-fill",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Matrix"
+        ],
+        "slug": "flood-fill"
+      },
+      {
+        "title": "Accounts Merge",
+        "difficulty": "MEDIUM",
+        "frequency": 45.4,
+        "acceptance_rate": 59.6,
+        "link": "https://leetcode.com/problems/accounts-merge",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Sorting"
+        ],
+        "slug": "accounts-merge"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 45.4,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "All Ancestors of a Node in a Directed Acyclic Graph",
+        "difficulty": "MEDIUM",
+        "frequency": 45.4,
+        "acceptance_rate": 61.9,
+        "link": "https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph",
+        "topics": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Graph",
+          "Topological Sort"
+        ],
+        "slug": "all-ancestors-of-a-node-in-a-directed-acyclic-graph"
+      },
+      {
+        "title": "Number of Divisible Triplet Sums",
+        "difficulty": "MEDIUM",
+        "frequency": 45.4,
+        "acceptance_rate": 67.8,
+        "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "number-of-divisible-triplet-sums"
+      },
+      {
+        "title": "Trapping Rain Water II",
+        "difficulty": "HARD",
+        "frequency": 45.4,
+        "acceptance_rate": 58.9,
+        "link": "https://leetcode.com/problems/trapping-rain-water-ii",
+        "topics": [
+          "Array",
+          "Breadth-First Search",
+          "Heap (Priority Queue)",
+          "Matrix"
+        ],
+        "slug": "trapping-rain-water-ii"
+      },
+      {
+        "title": "Sort List",
+        "difficulty": "MEDIUM",
+        "frequency": 45.4,
+        "acceptance_rate": 61.8,
+        "link": "https://leetcode.com/problems/sort-list",
+        "topics": [
+          "Linked List",
+          "Two Pointers",
+          "Divide and Conquer",
+          "Sorting",
+          "Merge Sort"
+        ],
+        "slug": "sort-list"
+      },
+      {
+        "title": "Daily Temperatures",
+        "difficulty": "MEDIUM",
+        "frequency": 45.4,
+        "acceptance_rate": 67.4,
+        "link": "https://leetcode.com/problems/daily-temperatures",
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "daily-temperatures"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 45.4,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      }
+    ]
+  }
+}

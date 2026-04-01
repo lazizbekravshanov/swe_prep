@@ -1,0 +1,827 @@
+{
+  "profile": {
+    "name": "Siemens",
+    "slug": "siemens",
+    "total_problems": 25,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.4,
+      "medium": 0.44,
+      "hard": 0.16
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 14
+      },
+      {
+        "topic": "Sorting",
+        "count": 7
+      },
+      {
+        "topic": "Hash Table",
+        "count": 7
+      },
+      {
+        "topic": "String",
+        "count": 6
+      },
+      {
+        "topic": "Linked List",
+        "count": 5
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 4
+      },
+      {
+        "topic": "Greedy",
+        "count": 3
+      },
+      {
+        "topic": "Stack",
+        "count": 3
+      },
+      {
+        "topic": "Recursion",
+        "count": 3
+      },
+      {
+        "topic": "Binary Indexed Tree",
+        "count": 2
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Minimized Maximum of Products Distributed to Any Store",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "minimized-maximum-of-products-distributed-to-any-store"
+      },
+      {
+        "title": "Peaks in Array",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "peaks-in-array"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 94.5,
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 82.9,
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 82.9,
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Reverse Linked List",
+        "difficulty": "EASY",
+        "frequency": 70.3,
+        "slug": "reverse-linked-list"
+      },
+      {
+        "title": "Contains Duplicate",
+        "difficulty": "EASY",
+        "frequency": 70.3,
+        "slug": "contains-duplicate"
+      },
+      {
+        "title": "LFU Cache",
+        "difficulty": "HARD",
+        "frequency": 70.3,
+        "slug": "lfu-cache"
+      },
+      {
+        "title": "The Skyline Problem",
+        "difficulty": "HARD",
+        "frequency": 70.3,
+        "slug": "the-skyline-problem"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 70.3,
+        "slug": "best-time-to-buy-and-sell-stock"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Mix of easy-medium \u2014 focuses on clean code and communication"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [
+      {
+        "title": "Minimum Add to Make Parentheses Valid",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 74.7,
+        "link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid",
+        "topics": [
+          "String",
+          "Stack",
+          "Greedy"
+        ],
+        "slug": "minimum-add-to-make-parentheses-valid"
+      },
+      {
+        "title": "The Skyline Problem",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 44.0,
+        "link": "https://leetcode.com/problems/the-skyline-problem",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Line Sweep",
+          "Heap (Priority Queue)",
+          "Ordered Set"
+        ],
+        "slug": "the-skyline-problem"
+      }
+    ],
+    "180d": [
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "The Skyline Problem",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 44.0,
+        "link": "https://leetcode.com/problems/the-skyline-problem",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Line Sweep",
+          "Heap (Priority Queue)",
+          "Ordered Set"
+        ],
+        "slug": "the-skyline-problem"
+      },
+      {
+        "title": "Minimum Add to Make Parentheses Valid",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 74.7,
+        "link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid",
+        "topics": [
+          "String",
+          "Stack",
+          "Greedy"
+        ],
+        "slug": "minimum-add-to-make-parentheses-valid"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "merge-intervals"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Reverse Linked List",
+        "difficulty": "EASY",
+        "frequency": 81.2,
+        "acceptance_rate": 79.2,
+        "link": "https://leetcode.com/problems/reverse-linked-list",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "reverse-linked-list"
+      },
+      {
+        "title": "Letter Combinations of a Phone Number",
+        "difficulty": "MEDIUM",
+        "frequency": 81.2,
+        "acceptance_rate": 63.9,
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking"
+        ],
+        "slug": "letter-combinations-of-a-phone-number"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 81.2,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 81.2,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "LFU Cache",
+        "difficulty": "HARD",
+        "frequency": 81.2,
+        "acceptance_rate": 46.6,
+        "link": "https://leetcode.com/problems/lfu-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lfu-cache"
+      },
+      {
+        "title": "Contains Duplicate",
+        "difficulty": "EASY",
+        "frequency": 81.2,
+        "acceptance_rate": 63.2,
+        "link": "https://leetcode.com/problems/contains-duplicate",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting"
+        ],
+        "slug": "contains-duplicate"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 81.2,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Merge Two Sorted Lists",
+        "difficulty": "EASY",
+        "frequency": 81.2,
+        "acceptance_rate": 66.8,
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "merge-two-sorted-lists"
+      },
+      {
+        "title": "Rotate List",
+        "difficulty": "MEDIUM",
+        "frequency": 70.3,
+        "acceptance_rate": 39.9,
+        "link": "https://leetcode.com/problems/rotate-list",
+        "topics": [
+          "Linked List",
+          "Two Pointers"
+        ],
+        "slug": "rotate-list"
+      },
+      {
+        "title": "Remove Duplicates from Sorted Array",
+        "difficulty": "EASY",
+        "frequency": 70.3,
+        "acceptance_rate": 60.4,
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "remove-duplicates-from-sorted-array"
+      },
+      {
+        "title": "Seat Reservation Manager",
+        "difficulty": "MEDIUM",
+        "frequency": 70.3,
+        "acceptance_rate": 66.4,
+        "link": "https://leetcode.com/problems/seat-reservation-manager",
+        "topics": [
+          "Design",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "seat-reservation-manager"
+      },
+      {
+        "title": "Palindrome Linked List",
+        "difficulty": "EASY",
+        "frequency": 70.3,
+        "acceptance_rate": 55.9,
+        "link": "https://leetcode.com/problems/palindrome-linked-list",
+        "topics": [
+          "Linked List",
+          "Two Pointers",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "palindrome-linked-list"
+      },
+      {
+        "title": "Valid Anagram",
+        "difficulty": "EASY",
+        "frequency": 70.3,
+        "acceptance_rate": 66.7,
+        "link": "https://leetcode.com/problems/valid-anagram",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "valid-anagram"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 70.3,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Peaks in Array",
+        "difficulty": "HARD",
+        "frequency": 70.3,
+        "acceptance_rate": 25.8,
+        "link": "https://leetcode.com/problems/peaks-in-array",
+        "topics": [
+          "Array",
+          "Binary Indexed Tree",
+          "Segment Tree"
+        ],
+        "slug": "peaks-in-array"
+      },
+      {
+        "title": "Minimized Maximum of Products Distributed to Any Store",
+        "difficulty": "MEDIUM",
+        "frequency": 70.3,
+        "acceptance_rate": 62.6,
+        "link": "https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy"
+        ],
+        "slug": "minimized-maximum-of-products-distributed-to-any-store"
+      },
+      {
+        "title": "First Missing Positive",
+        "difficulty": "HARD",
+        "frequency": 70.3,
+        "acceptance_rate": 41.1,
+        "link": "https://leetcode.com/problems/first-missing-positive",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "first-missing-positive"
+      },
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 70.3,
+        "acceptance_rate": 37.1,
+        "link": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "3sum"
+      },
+      {
+        "title": "Largest Number",
+        "difficulty": "MEDIUM",
+        "frequency": 70.3,
+        "acceptance_rate": 41.3,
+        "link": "https://leetcode.com/problems/largest-number",
+        "topics": [
+          "Array",
+          "String",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "largest-number"
+      },
+      {
+        "title": "Maximum Product of Three Numbers",
+        "difficulty": "EASY",
+        "frequency": 70.3,
+        "acceptance_rate": 45.3,
+        "link": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+        "topics": [
+          "Array",
+          "Math",
+          "Sorting"
+        ],
+        "slug": "maximum-product-of-three-numbers"
+      }
+    ],
+    "all": [
+      {
+        "title": "Minimized Maximum of Products Distributed to Any Store",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 62.6,
+        "link": "https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Greedy"
+        ],
+        "slug": "minimized-maximum-of-products-distributed-to-any-store"
+      },
+      {
+        "title": "Peaks in Array",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 25.8,
+        "link": "https://leetcode.com/problems/peaks-in-array",
+        "topics": [
+          "Array",
+          "Binary Indexed Tree",
+          "Segment Tree"
+        ],
+        "slug": "peaks-in-array"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 94.5,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 82.9,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Merge Intervals",
+        "difficulty": "MEDIUM",
+        "frequency": 82.9,
+        "acceptance_rate": 49.4,
+        "link": "https://leetcode.com/problems/merge-intervals",
+        "topics": [
+          "Array",
+          "Sorting"
+        ],
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Reverse Linked List",
+        "difficulty": "EASY",
+        "frequency": 70.3,
+        "acceptance_rate": 79.2,
+        "link": "https://leetcode.com/problems/reverse-linked-list",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "reverse-linked-list"
+      },
+      {
+        "title": "Contains Duplicate",
+        "difficulty": "EASY",
+        "frequency": 70.3,
+        "acceptance_rate": 63.2,
+        "link": "https://leetcode.com/problems/contains-duplicate",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting"
+        ],
+        "slug": "contains-duplicate"
+      },
+      {
+        "title": "LFU Cache",
+        "difficulty": "HARD",
+        "frequency": 70.3,
+        "acceptance_rate": 46.6,
+        "link": "https://leetcode.com/problems/lfu-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lfu-cache"
+      },
+      {
+        "title": "The Skyline Problem",
+        "difficulty": "HARD",
+        "frequency": 70.3,
+        "acceptance_rate": 44.0,
+        "link": "https://leetcode.com/problems/the-skyline-problem",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Binary Indexed Tree",
+          "Segment Tree",
+          "Line Sweep",
+          "Heap (Priority Queue)",
+          "Ordered Set"
+        ],
+        "slug": "the-skyline-problem"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 70.3,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Merge Two Sorted Lists",
+        "difficulty": "EASY",
+        "frequency": 70.3,
+        "acceptance_rate": 66.8,
+        "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "merge-two-sorted-lists"
+      },
+      {
+        "title": "Letter Combinations of a Phone Number",
+        "difficulty": "MEDIUM",
+        "frequency": 70.3,
+        "acceptance_rate": 63.9,
+        "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Backtracking"
+        ],
+        "slug": "letter-combinations-of-a-phone-number"
+      },
+      {
+        "title": "Maximum Product of Three Numbers",
+        "difficulty": "EASY",
+        "frequency": 60.4,
+        "acceptance_rate": 45.3,
+        "link": "https://leetcode.com/problems/maximum-product-of-three-numbers",
+        "topics": [
+          "Array",
+          "Math",
+          "Sorting"
+        ],
+        "slug": "maximum-product-of-three-numbers"
+      },
+      {
+        "title": "Minimum Add to Make Parentheses Valid",
+        "difficulty": "MEDIUM",
+        "frequency": 60.4,
+        "acceptance_rate": 74.7,
+        "link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid",
+        "topics": [
+          "String",
+          "Stack",
+          "Greedy"
+        ],
+        "slug": "minimum-add-to-make-parentheses-valid"
+      },
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 60.4,
+        "acceptance_rate": 70.9,
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "group-anagrams"
+      },
+      {
+        "title": "Remove Duplicates from Sorted Array",
+        "difficulty": "EASY",
+        "frequency": 60.4,
+        "acceptance_rate": 60.4,
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "remove-duplicates-from-sorted-array"
+      },
+      {
+        "title": "Angle Between Hands of a Clock",
+        "difficulty": "MEDIUM",
+        "frequency": 60.4,
+        "acceptance_rate": 64.2,
+        "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+        "topics": [
+          "Math"
+        ],
+        "slug": "angle-between-hands-of-a-clock"
+      },
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 60.4,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Palindrome Linked List",
+        "difficulty": "EASY",
+        "frequency": 60.4,
+        "acceptance_rate": 55.9,
+        "link": "https://leetcode.com/problems/palindrome-linked-list",
+        "topics": [
+          "Linked List",
+          "Two Pointers",
+          "Stack",
+          "Recursion"
+        ],
+        "slug": "palindrome-linked-list"
+      },
+      {
+        "title": "Valid Anagram",
+        "difficulty": "EASY",
+        "frequency": 60.4,
+        "acceptance_rate": 66.7,
+        "link": "https://leetcode.com/problems/valid-anagram",
+        "topics": [
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "valid-anagram"
+      },
+      {
+        "title": "Rotate List",
+        "difficulty": "MEDIUM",
+        "frequency": 60.4,
+        "acceptance_rate": 39.9,
+        "link": "https://leetcode.com/problems/rotate-list",
+        "topics": [
+          "Linked List",
+          "Two Pointers"
+        ],
+        "slug": "rotate-list"
+      },
+      {
+        "title": "3Sum",
+        "difficulty": "MEDIUM",
+        "frequency": 60.4,
+        "acceptance_rate": 37.1,
+        "link": "https://leetcode.com/problems/3sum",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Sorting"
+        ],
+        "slug": "3sum"
+      },
+      {
+        "title": "Largest Number",
+        "difficulty": "MEDIUM",
+        "frequency": 60.4,
+        "acceptance_rate": 41.3,
+        "link": "https://leetcode.com/problems/largest-number",
+        "topics": [
+          "Array",
+          "String",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "largest-number"
+      },
+      {
+        "title": "First Missing Positive",
+        "difficulty": "HARD",
+        "frequency": 60.4,
+        "acceptance_rate": 41.1,
+        "link": "https://leetcode.com/problems/first-missing-positive",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "first-missing-positive"
+      },
+      {
+        "title": "Seat Reservation Manager",
+        "difficulty": "MEDIUM",
+        "frequency": 60.4,
+        "acceptance_rate": 66.4,
+        "link": "https://leetcode.com/problems/seat-reservation-manager",
+        "topics": [
+          "Design",
+          "Heap (Priority Queue)"
+        ],
+        "slug": "seat-reservation-manager"
+      }
+    ]
+  }
+}

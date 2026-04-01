@@ -1,0 +1,1122 @@
+{
+  "profile": {
+    "name": "SAP",
+    "slug": "sap",
+    "total_problems": 39,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.38,
+      "medium": 0.46,
+      "hard": 0.15
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 23
+      },
+      {
+        "topic": "Dynamic Programming",
+        "count": 10
+      },
+      {
+        "topic": "Hash Table",
+        "count": 7
+      },
+      {
+        "topic": "Two Pointers",
+        "count": 7
+      },
+      {
+        "topic": "String",
+        "count": 7
+      },
+      {
+        "topic": "Math",
+        "count": 5
+      },
+      {
+        "topic": "Matrix",
+        "count": 4
+      },
+      {
+        "topic": "Depth-First Search",
+        "count": 4
+      },
+      {
+        "topic": "Binary Search",
+        "count": 4
+      },
+      {
+        "topic": "Greedy",
+        "count": 3
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "slug": "two-sum"
+      },
+      {
+        "title": "Count Increasing Quadruplets",
+        "difficulty": "HARD",
+        "frequency": 91.8,
+        "slug": "count-increasing-quadruplets"
+      },
+      {
+        "title": "Maximum Students Taking Exam",
+        "difficulty": "HARD",
+        "frequency": 91.8,
+        "slug": "maximum-students-taking-exam"
+      },
+      {
+        "title": "Container With Most Water",
+        "difficulty": "MEDIUM",
+        "frequency": 91.8,
+        "slug": "container-with-most-water"
+      },
+      {
+        "title": "Count the Number of Infection Sequences",
+        "difficulty": "HARD",
+        "frequency": 91.8,
+        "slug": "count-the-number-of-infection-sequences"
+      },
+      {
+        "title": "Maximum Path Quality of a Graph",
+        "difficulty": "HARD",
+        "frequency": 91.8,
+        "slug": "maximum-path-quality-of-a-graph"
+      },
+      {
+        "title": "Movie Rating",
+        "difficulty": "MEDIUM",
+        "frequency": 91.8,
+        "slug": "movie-rating"
+      },
+      {
+        "title": "Longest Common Prefix",
+        "difficulty": "EASY",
+        "frequency": 89.3,
+        "slug": "longest-common-prefix"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 83.2,
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 79.4,
+        "slug": "number-of-islands"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems",
+        "Common pattern: sliding window and two-pointer techniques"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 70.9,
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "group-anagrams"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Container With Most Water",
+        "difficulty": "MEDIUM",
+        "frequency": 91.2,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/container-with-most-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "slug": "container-with-most-water"
+      },
+      {
+        "title": "Longest Common Prefix",
+        "difficulty": "EASY",
+        "frequency": 88.4,
+        "acceptance_rate": 45.5,
+        "link": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "String",
+          "Trie"
+        ],
+        "slug": "longest-common-prefix"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 85.2,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 77.2,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Valid Palindrome",
+        "difficulty": "EASY",
+        "frequency": 71.9,
+        "acceptance_rate": 51.0,
+        "link": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "valid-palindrome"
+      },
+      {
+        "title": "Maximum Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 71.9,
+        "acceptance_rate": 52.1,
+        "link": "https://leetcode.com/problems/maximum-subarray",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "slug": "maximum-subarray"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 71.9,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "trapping-rain-water"
+      },
+      {
+        "title": "Reverse Linked List",
+        "difficulty": "EASY",
+        "frequency": 71.9,
+        "acceptance_rate": 79.2,
+        "link": "https://leetcode.com/problems/reverse-linked-list",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "reverse-linked-list"
+      },
+      {
+        "title": "Maximum Number of Weeks for Which You Can Work",
+        "difficulty": "MEDIUM",
+        "frequency": 65.1,
+        "acceptance_rate": 41.3,
+        "link": "https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work",
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "slug": "maximum-number-of-weeks-for-which-you-can-work"
+      },
+      {
+        "title": "Remove Duplicates from Sorted Array",
+        "difficulty": "EASY",
+        "frequency": 65.1,
+        "acceptance_rate": 60.4,
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "remove-duplicates-from-sorted-array"
+      },
+      {
+        "title": "Longest Consecutive Sequence",
+        "difficulty": "MEDIUM",
+        "frequency": 65.1,
+        "acceptance_rate": 47.0,
+        "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union Find"
+        ],
+        "slug": "longest-consecutive-sequence"
+      },
+      {
+        "title": "Maximal Square",
+        "difficulty": "MEDIUM",
+        "frequency": 65.1,
+        "acceptance_rate": 48.8,
+        "link": "https://leetcode.com/problems/maximal-square",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "slug": "maximal-square"
+      },
+      {
+        "title": "Kth Largest Element in an Array",
+        "difficulty": "MEDIUM",
+        "frequency": 65.1,
+        "acceptance_rate": 68.0,
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect"
+        ],
+        "slug": "kth-largest-element-in-an-array"
+      },
+      {
+        "title": "Daily Temperatures",
+        "difficulty": "MEDIUM",
+        "frequency": 65.1,
+        "acceptance_rate": 67.4,
+        "link": "https://leetcode.com/problems/daily-temperatures",
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "daily-temperatures"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 65.1,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Leftmost Column with at Least a One",
+        "difficulty": "MEDIUM",
+        "frequency": 65.1,
+        "acceptance_rate": 54.9,
+        "link": "https://leetcode.com/problems/leftmost-column-with-at-least-a-one",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Matrix",
+          "Interactive"
+        ],
+        "slug": "leftmost-column-with-at-least-a-one"
+      },
+      {
+        "title": "Maximum Students Taking Exam",
+        "difficulty": "HARD",
+        "frequency": 55.4,
+        "acceptance_rate": 52.2,
+        "link": "https://leetcode.com/problems/maximum-students-taking-exam",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Matrix",
+          "Bitmask"
+        ],
+        "slug": "maximum-students-taking-exam"
+      },
+      {
+        "title": "Word Break",
+        "difficulty": "MEDIUM",
+        "frequency": 55.4,
+        "acceptance_rate": 48.3,
+        "link": "https://leetcode.com/problems/word-break",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Trie",
+          "Memoization"
+        ],
+        "slug": "word-break"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 55.4,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Linked List Cycle",
+        "difficulty": "EASY",
+        "frequency": 55.4,
+        "acceptance_rate": 52.6,
+        "link": "https://leetcode.com/problems/linked-list-cycle",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Two Pointers"
+        ],
+        "slug": "linked-list-cycle"
+      },
+      {
+        "title": "Coin Change",
+        "difficulty": "MEDIUM",
+        "frequency": 55.4,
+        "acceptance_rate": 46.5,
+        "link": "https://leetcode.com/problems/coin-change",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search"
+        ],
+        "slug": "coin-change"
+      },
+      {
+        "title": "Fibonacci Number",
+        "difficulty": "EASY",
+        "frequency": 55.4,
+        "acceptance_rate": 72.9,
+        "link": "https://leetcode.com/problems/fibonacci-number",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Recursion",
+          "Memoization"
+        ],
+        "slug": "fibonacci-number"
+      },
+      {
+        "title": "Monotone Increasing Digits",
+        "difficulty": "MEDIUM",
+        "frequency": 55.4,
+        "acceptance_rate": 48.7,
+        "link": "https://leetcode.com/problems/monotone-increasing-digits",
+        "topics": [
+          "Math",
+          "Greedy"
+        ],
+        "slug": "monotone-increasing-digits"
+      },
+      {
+        "title": "Sort Array by Increasing Frequency",
+        "difficulty": "EASY",
+        "frequency": 55.4,
+        "acceptance_rate": 80.3,
+        "link": "https://leetcode.com/problems/sort-array-by-increasing-frequency",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting"
+        ],
+        "slug": "sort-array-by-increasing-frequency"
+      },
+      {
+        "title": "Count Increasing Quadruplets",
+        "difficulty": "HARD",
+        "frequency": 55.4,
+        "acceptance_rate": 33.9,
+        "link": "https://leetcode.com/problems/count-increasing-quadruplets",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Binary Indexed Tree",
+          "Enumeration",
+          "Prefix Sum"
+        ],
+        "slug": "count-increasing-quadruplets"
+      },
+      {
+        "title": "Count the Number of Infection Sequences",
+        "difficulty": "HARD",
+        "frequency": 55.4,
+        "acceptance_rate": 33.4,
+        "link": "https://leetcode.com/problems/count-the-number-of-infection-sequences",
+        "topics": [
+          "Array",
+          "Math",
+          "Combinatorics"
+        ],
+        "slug": "count-the-number-of-infection-sequences"
+      },
+      {
+        "title": "Maximum Path Quality of a Graph",
+        "difficulty": "HARD",
+        "frequency": 55.4,
+        "acceptance_rate": 59.7,
+        "link": "https://leetcode.com/problems/maximum-path-quality-of-a-graph",
+        "topics": [
+          "Array",
+          "Backtracking",
+          "Graph"
+        ],
+        "slug": "maximum-path-quality-of-a-graph"
+      },
+      {
+        "title": "Movie Rating",
+        "difficulty": "MEDIUM",
+        "frequency": 55.4,
+        "acceptance_rate": 41.5,
+        "link": "https://leetcode.com/problems/movie-rating",
+        "topics": [
+          "Database"
+        ],
+        "slug": "movie-rating"
+      },
+      {
+        "title": "Sqrt(x)",
+        "difficulty": "EASY",
+        "frequency": 55.4,
+        "acceptance_rate": 40.4,
+        "link": "https://leetcode.com/problems/sqrtx",
+        "topics": [
+          "Math",
+          "Binary Search"
+        ],
+        "slug": "sqrtx"
+      },
+      {
+        "title": "Valid Perfect Square",
+        "difficulty": "EASY",
+        "frequency": 55.4,
+        "acceptance_rate": 44.2,
+        "link": "https://leetcode.com/problems/valid-perfect-square",
+        "topics": [
+          "Math",
+          "Binary Search"
+        ],
+        "slug": "valid-perfect-square"
+      },
+      {
+        "title": "Rotate String",
+        "difficulty": "EASY",
+        "frequency": 55.4,
+        "acceptance_rate": 63.9,
+        "link": "https://leetcode.com/problems/rotate-string",
+        "topics": [
+          "String",
+          "String Matching"
+        ],
+        "slug": "rotate-string"
+      },
+      {
+        "title": "Maximum Employees to Be Invited to a Meeting",
+        "difficulty": "HARD",
+        "frequency": 55.4,
+        "acceptance_rate": 62.1,
+        "link": "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting",
+        "topics": [
+          "Depth-First Search",
+          "Graph",
+          "Topological Sort"
+        ],
+        "slug": "maximum-employees-to-be-invited-to-a-meeting"
+      },
+      {
+        "title": "Maximum Depth of Binary Tree",
+        "difficulty": "EASY",
+        "frequency": 55.4,
+        "acceptance_rate": 77.1,
+        "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "maximum-depth-of-binary-tree"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 55.4,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      }
+    ],
+    "all": [
+      {
+        "title": "Two Sum",
+        "difficulty": "EASY",
+        "frequency": 100.0,
+        "acceptance_rate": 55.8,
+        "link": "https://leetcode.com/problems/two-sum",
+        "topics": [
+          "Array",
+          "Hash Table"
+        ],
+        "slug": "two-sum"
+      },
+      {
+        "title": "Count Increasing Quadruplets",
+        "difficulty": "HARD",
+        "frequency": 91.8,
+        "acceptance_rate": 33.9,
+        "link": "https://leetcode.com/problems/count-increasing-quadruplets",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Binary Indexed Tree",
+          "Enumeration",
+          "Prefix Sum"
+        ],
+        "slug": "count-increasing-quadruplets"
+      },
+      {
+        "title": "Maximum Students Taking Exam",
+        "difficulty": "HARD",
+        "frequency": 91.8,
+        "acceptance_rate": 52.2,
+        "link": "https://leetcode.com/problems/maximum-students-taking-exam",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Bit Manipulation",
+          "Matrix",
+          "Bitmask"
+        ],
+        "slug": "maximum-students-taking-exam"
+      },
+      {
+        "title": "Container With Most Water",
+        "difficulty": "MEDIUM",
+        "frequency": 91.8,
+        "acceptance_rate": 57.8,
+        "link": "https://leetcode.com/problems/container-with-most-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Greedy"
+        ],
+        "slug": "container-with-most-water"
+      },
+      {
+        "title": "Count the Number of Infection Sequences",
+        "difficulty": "HARD",
+        "frequency": 91.8,
+        "acceptance_rate": 33.4,
+        "link": "https://leetcode.com/problems/count-the-number-of-infection-sequences",
+        "topics": [
+          "Array",
+          "Math",
+          "Combinatorics"
+        ],
+        "slug": "count-the-number-of-infection-sequences"
+      },
+      {
+        "title": "Maximum Path Quality of a Graph",
+        "difficulty": "HARD",
+        "frequency": 91.8,
+        "acceptance_rate": 59.7,
+        "link": "https://leetcode.com/problems/maximum-path-quality-of-a-graph",
+        "topics": [
+          "Array",
+          "Backtracking",
+          "Graph"
+        ],
+        "slug": "maximum-path-quality-of-a-graph"
+      },
+      {
+        "title": "Movie Rating",
+        "difficulty": "MEDIUM",
+        "frequency": 91.8,
+        "acceptance_rate": 41.5,
+        "link": "https://leetcode.com/problems/movie-rating",
+        "topics": [
+          "Database"
+        ],
+        "slug": "movie-rating"
+      },
+      {
+        "title": "Longest Common Prefix",
+        "difficulty": "EASY",
+        "frequency": 89.3,
+        "acceptance_rate": 45.5,
+        "link": "https://leetcode.com/problems/longest-common-prefix",
+        "topics": [
+          "String",
+          "Trie"
+        ],
+        "slug": "longest-common-prefix"
+      },
+      {
+        "title": "Valid Parentheses",
+        "difficulty": "EASY",
+        "frequency": 83.2,
+        "acceptance_rate": 42.3,
+        "link": "https://leetcode.com/problems/valid-parentheses",
+        "topics": [
+          "String",
+          "Stack"
+        ],
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Number of Islands",
+        "difficulty": "MEDIUM",
+        "frequency": 79.4,
+        "acceptance_rate": 62.3,
+        "link": "https://leetcode.com/problems/number-of-islands",
+        "topics": [
+          "Array",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Union Find",
+          "Matrix"
+        ],
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Valid Palindrome",
+        "difficulty": "EASY",
+        "frequency": 69.6,
+        "acceptance_rate": 51.0,
+        "link": "https://leetcode.com/problems/valid-palindrome",
+        "topics": [
+          "Two Pointers",
+          "String"
+        ],
+        "slug": "valid-palindrome"
+      },
+      {
+        "title": "Maximal Square",
+        "difficulty": "MEDIUM",
+        "frequency": 69.6,
+        "acceptance_rate": 48.8,
+        "link": "https://leetcode.com/problems/maximal-square",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Matrix"
+        ],
+        "slug": "maximal-square"
+      },
+      {
+        "title": "Trapping Rain Water",
+        "difficulty": "HARD",
+        "frequency": 69.6,
+        "acceptance_rate": 65.1,
+        "link": "https://leetcode.com/problems/trapping-rain-water",
+        "topics": [
+          "Array",
+          "Two Pointers",
+          "Dynamic Programming",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "trapping-rain-water"
+      },
+      {
+        "title": "Reverse Linked List",
+        "difficulty": "EASY",
+        "frequency": 69.6,
+        "acceptance_rate": 79.2,
+        "link": "https://leetcode.com/problems/reverse-linked-list",
+        "topics": [
+          "Linked List",
+          "Recursion"
+        ],
+        "slug": "reverse-linked-list"
+      },
+      {
+        "title": "Maximum Subarray",
+        "difficulty": "MEDIUM",
+        "frequency": 69.6,
+        "acceptance_rate": 52.1,
+        "link": "https://leetcode.com/problems/maximum-subarray",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Dynamic Programming"
+        ],
+        "slug": "maximum-subarray"
+      },
+      {
+        "title": "Longest Palindromic Substring",
+        "difficulty": "MEDIUM",
+        "frequency": 62.7,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/longest-palindromic-substring",
+        "topics": [
+          "Two Pointers",
+          "String",
+          "Dynamic Programming"
+        ],
+        "slug": "longest-palindromic-substring"
+      },
+      {
+        "title": "Leftmost Column with at Least a One",
+        "difficulty": "MEDIUM",
+        "frequency": 62.7,
+        "acceptance_rate": 54.9,
+        "link": "https://leetcode.com/problems/leftmost-column-with-at-least-a-one",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Matrix",
+          "Interactive"
+        ],
+        "slug": "leftmost-column-with-at-least-a-one"
+      },
+      {
+        "title": "Rotate String",
+        "difficulty": "EASY",
+        "frequency": 62.7,
+        "acceptance_rate": 63.9,
+        "link": "https://leetcode.com/problems/rotate-string",
+        "topics": [
+          "String",
+          "String Matching"
+        ],
+        "slug": "rotate-string"
+      },
+      {
+        "title": "Daily Temperatures",
+        "difficulty": "MEDIUM",
+        "frequency": 62.7,
+        "acceptance_rate": 67.4,
+        "link": "https://leetcode.com/problems/daily-temperatures",
+        "topics": [
+          "Array",
+          "Stack",
+          "Monotonic Stack"
+        ],
+        "slug": "daily-temperatures"
+      },
+      {
+        "title": "Kth Largest Element in an Array",
+        "difficulty": "MEDIUM",
+        "frequency": 62.7,
+        "acceptance_rate": 68.0,
+        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+        "topics": [
+          "Array",
+          "Divide and Conquer",
+          "Sorting",
+          "Heap (Priority Queue)",
+          "Quickselect"
+        ],
+        "slug": "kth-largest-element-in-an-array"
+      },
+      {
+        "title": "Maximum Number of Weeks for Which You Can Work",
+        "difficulty": "MEDIUM",
+        "frequency": 62.7,
+        "acceptance_rate": 41.3,
+        "link": "https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work",
+        "topics": [
+          "Array",
+          "Greedy"
+        ],
+        "slug": "maximum-number-of-weeks-for-which-you-can-work"
+      },
+      {
+        "title": "Longest Consecutive Sequence",
+        "difficulty": "MEDIUM",
+        "frequency": 62.7,
+        "acceptance_rate": 47.0,
+        "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Union Find"
+        ],
+        "slug": "longest-consecutive-sequence"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 62.7,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Remove Duplicates from Sorted Array",
+        "difficulty": "EASY",
+        "frequency": 62.7,
+        "acceptance_rate": 60.4,
+        "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "remove-duplicates-from-sorted-array"
+      },
+      {
+        "title": "Group Anagrams",
+        "difficulty": "MEDIUM",
+        "frequency": 52.9,
+        "acceptance_rate": 70.9,
+        "link": "https://leetcode.com/problems/group-anagrams",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Sorting"
+        ],
+        "slug": "group-anagrams"
+      },
+      {
+        "title": "Max Consecutive Ones III",
+        "difficulty": "MEDIUM",
+        "frequency": 52.9,
+        "acceptance_rate": 65.9,
+        "link": "https://leetcode.com/problems/max-consecutive-ones-iii",
+        "topics": [
+          "Array",
+          "Binary Search",
+          "Sliding Window",
+          "Prefix Sum"
+        ],
+        "slug": "max-consecutive-ones-iii"
+      },
+      {
+        "title": "Coin Change",
+        "difficulty": "MEDIUM",
+        "frequency": 52.9,
+        "acceptance_rate": 46.5,
+        "link": "https://leetcode.com/problems/coin-change",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Breadth-First Search"
+        ],
+        "slug": "coin-change"
+      },
+      {
+        "title": "Binary Search Tree to Greater Sum Tree",
+        "difficulty": "MEDIUM",
+        "frequency": 52.9,
+        "acceptance_rate": 88.3,
+        "link": "https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Binary Search Tree",
+          "Binary Tree"
+        ],
+        "slug": "binary-search-tree-to-greater-sum-tree"
+      },
+      {
+        "title": "LRU Cache",
+        "difficulty": "MEDIUM",
+        "frequency": 52.9,
+        "acceptance_rate": 45.2,
+        "link": "https://leetcode.com/problems/lru-cache",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Design",
+          "Doubly-Linked List"
+        ],
+        "slug": "lru-cache"
+      },
+      {
+        "title": "Word Break",
+        "difficulty": "MEDIUM",
+        "frequency": 52.9,
+        "acceptance_rate": 48.3,
+        "link": "https://leetcode.com/problems/word-break",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Dynamic Programming",
+          "Trie",
+          "Memoization"
+        ],
+        "slug": "word-break"
+      },
+      {
+        "title": "Linked List Cycle",
+        "difficulty": "EASY",
+        "frequency": 52.9,
+        "acceptance_rate": 52.6,
+        "link": "https://leetcode.com/problems/linked-list-cycle",
+        "topics": [
+          "Hash Table",
+          "Linked List",
+          "Two Pointers"
+        ],
+        "slug": "linked-list-cycle"
+      },
+      {
+        "title": "Maximum Employees to Be Invited to a Meeting",
+        "difficulty": "HARD",
+        "frequency": 52.9,
+        "acceptance_rate": 62.1,
+        "link": "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting",
+        "topics": [
+          "Depth-First Search",
+          "Graph",
+          "Topological Sort"
+        ],
+        "slug": "maximum-employees-to-be-invited-to-a-meeting"
+      },
+      {
+        "title": "Sqrt(x)",
+        "difficulty": "EASY",
+        "frequency": 52.9,
+        "acceptance_rate": 40.4,
+        "link": "https://leetcode.com/problems/sqrtx",
+        "topics": [
+          "Math",
+          "Binary Search"
+        ],
+        "slug": "sqrtx"
+      },
+      {
+        "title": "Valid Perfect Square",
+        "difficulty": "EASY",
+        "frequency": 52.9,
+        "acceptance_rate": 44.2,
+        "link": "https://leetcode.com/problems/valid-perfect-square",
+        "topics": [
+          "Math",
+          "Binary Search"
+        ],
+        "slug": "valid-perfect-square"
+      },
+      {
+        "title": "Fibonacci Number",
+        "difficulty": "EASY",
+        "frequency": 52.9,
+        "acceptance_rate": 72.9,
+        "link": "https://leetcode.com/problems/fibonacci-number",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Recursion",
+          "Memoization"
+        ],
+        "slug": "fibonacci-number"
+      },
+      {
+        "title": "Monotone Increasing Digits",
+        "difficulty": "MEDIUM",
+        "frequency": 52.9,
+        "acceptance_rate": 48.7,
+        "link": "https://leetcode.com/problems/monotone-increasing-digits",
+        "topics": [
+          "Math",
+          "Greedy"
+        ],
+        "slug": "monotone-increasing-digits"
+      },
+      {
+        "title": "Maximum Depth of Binary Tree",
+        "difficulty": "EASY",
+        "frequency": 52.9,
+        "acceptance_rate": 77.1,
+        "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+        "topics": [
+          "Tree",
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Binary Tree"
+        ],
+        "slug": "maximum-depth-of-binary-tree"
+      },
+      {
+        "title": "Sort Array by Increasing Frequency",
+        "difficulty": "EASY",
+        "frequency": 52.9,
+        "acceptance_rate": 80.3,
+        "link": "https://leetcode.com/problems/sort-array-by-increasing-frequency",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Sorting"
+        ],
+        "slug": "sort-array-by-increasing-frequency"
+      },
+      {
+        "title": "Move Zeroes",
+        "difficulty": "EASY",
+        "frequency": 52.9,
+        "acceptance_rate": 62.8,
+        "link": "https://leetcode.com/problems/move-zeroes",
+        "topics": [
+          "Array",
+          "Two Pointers"
+        ],
+        "slug": "move-zeroes"
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "profile": {
+    "name": "Sony",
+    "slug": "sony",
+    "total_problems": 4,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.25,
+      "medium": 0.25,
+      "hard": 0.5
+    },
+    "top_topics": [
+      {
+        "topic": "Dynamic Programming",
+        "count": 3
+      },
+      {
+        "topic": "Array",
+        "count": 3
+      },
+      {
+        "topic": "Math",
+        "count": 2
+      },
+      {
+        "topic": "Tree",
+        "count": 1
+      },
+      {
+        "topic": "Binary Tree",
+        "count": 1
+      },
+      {
+        "topic": "Game Theory",
+        "count": 1
+      },
+      {
+        "topic": "Greedy",
+        "count": 1
+      },
+      {
+        "topic": "Sorting",
+        "count": 1
+      },
+      {
+        "topic": "Binary Search",
+        "count": 1
+      },
+      {
+        "topic": "Prefix Sum",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Subtree Removal Game with Fibonacci Tree",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "subtree-removal-game-with-fibonacci-tree"
+      },
+      {
+        "title": "Reducing Dishes",
+        "difficulty": "HARD",
+        "frequency": 74.9,
+        "slug": "reducing-dishes"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 66.5,
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Random Pick with Weight",
+        "difficulty": "MEDIUM",
+        "frequency": 66.5,
+        "slug": "random-pick-with-weight"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges",
+        "Emphasizes DP and graph problems",
+        "Tree traversal problems are frequently asked"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [
+      {
+        "title": "Random Pick with Weight",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 48.3,
+        "link": "https://leetcode.com/problems/random-pick-with-weight",
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Search",
+          "Prefix Sum",
+          "Randomized"
+        ],
+        "slug": "random-pick-with-weight"
+      }
+    ],
+    "180d+": [
+      {
+        "title": "Reducing Dishes",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 76.3,
+        "link": "https://leetcode.com/problems/reducing-dishes",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "reducing-dishes"
+      },
+      {
+        "title": "Subtree Removal Game with Fibonacci Tree",
+        "difficulty": "HARD",
+        "frequency": 89.4,
+        "acceptance_rate": 57.0,
+        "link": "https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Tree",
+          "Binary Tree",
+          "Game Theory"
+        ],
+        "slug": "subtree-removal-game-with-fibonacci-tree"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 89.4,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      }
+    ],
+    "all": [
+      {
+        "title": "Subtree Removal Game with Fibonacci Tree",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 57.0,
+        "link": "https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree",
+        "topics": [
+          "Math",
+          "Dynamic Programming",
+          "Tree",
+          "Binary Tree",
+          "Game Theory"
+        ],
+        "slug": "subtree-removal-game-with-fibonacci-tree"
+      },
+      {
+        "title": "Reducing Dishes",
+        "difficulty": "HARD",
+        "frequency": 74.9,
+        "acceptance_rate": 76.3,
+        "link": "https://leetcode.com/problems/reducing-dishes",
+        "topics": [
+          "Array",
+          "Dynamic Programming",
+          "Greedy",
+          "Sorting"
+        ],
+        "slug": "reducing-dishes"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "difficulty": "EASY",
+        "frequency": 66.5,
+        "acceptance_rate": 55.3,
+        "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+        "topics": [
+          "Array",
+          "Dynamic Programming"
+        ],
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Random Pick with Weight",
+        "difficulty": "MEDIUM",
+        "frequency": 66.5,
+        "acceptance_rate": 48.3,
+        "link": "https://leetcode.com/problems/random-pick-with-weight",
+        "topics": [
+          "Array",
+          "Math",
+          "Binary Search",
+          "Prefix Sum",
+          "Randomized"
+        ],
+        "slug": "random-pick-with-weight"
+      }
+    ]
+  }
+}

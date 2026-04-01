@@ -1,0 +1,108 @@
+{
+  "profile": {
+    "name": "Bridgewater Associates",
+    "slug": "bridgewater-associates",
+    "total_problems": 2,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 1.0,
+      "hard": 0.0
+    },
+    "top_topics": [
+      {
+        "topic": "Dynamic Programming",
+        "count": 2
+      },
+      {
+        "topic": "Array",
+        "count": 1
+      },
+      {
+        "topic": "Math",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Count Strictly Increasing Subarrays",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "slug": "count-strictly-increasing-subarrays"
+      },
+      {
+        "title": "Knight Dialer",
+        "difficulty": "MEDIUM",
+        "frequency": 86.4,
+        "slug": "knight-dialer"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa"
+      ],
+      "style_notes": [
+        "Balanced difficulty \u2014 prepare across all levels",
+        "Emphasizes DP and graph problems"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Knight Dialer",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 61.2,
+        "link": "https://leetcode.com/problems/knight-dialer",
+        "topics": [
+          "Dynamic Programming"
+        ],
+        "slug": "knight-dialer"
+      },
+      {
+        "title": "Count Strictly Increasing Subarrays",
+        "difficulty": "MEDIUM",
+        "frequency": 84.6,
+        "acceptance_rate": 71.3,
+        "link": "https://leetcode.com/problems/count-strictly-increasing-subarrays",
+        "topics": [
+          "Array",
+          "Math",
+          "Dynamic Programming"
+        ],
+        "slug": "count-strictly-increasing-subarrays"
+      }
+    ],
+    "all": [
+      {
+        "title": "Count Strictly Increasing Subarrays",
+        "difficulty": "MEDIUM",
+        "frequency": 100.0,
+        "acceptance_rate": 71.3,
+        "link": "https://leetcode.com/problems/count-strictly-increasing-subarrays",
+        "topics": [
+          "Array",
+          "Math",
+          "Dynamic Programming"
+        ],
+        "slug": "count-strictly-increasing-subarrays"
+      },
+      {
+        "title": "Knight Dialer",
+        "difficulty": "MEDIUM",
+        "frequency": 86.4,
+        "acceptance_rate": 61.2,
+        "link": "https://leetcode.com/problems/knight-dialer",
+        "topics": [
+          "Dynamic Programming"
+        ],
+        "slug": "knight-dialer"
+      }
+    ]
+  }
+}

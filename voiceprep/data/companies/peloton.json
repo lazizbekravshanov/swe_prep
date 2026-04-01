@@ -1,0 +1,170 @@
+{
+  "profile": {
+    "name": "Peloton",
+    "slug": "peloton",
+    "total_problems": 3,
+    "recent_problems_30d": 0,
+    "difficulty_distribution": {
+      "easy": 0.0,
+      "medium": 0.67,
+      "hard": 0.33
+    },
+    "top_topics": [
+      {
+        "topic": "Array",
+        "count": 3
+      },
+      {
+        "topic": "Hash Table",
+        "count": 3
+      },
+      {
+        "topic": "Math",
+        "count": 2
+      },
+      {
+        "topic": "Design",
+        "count": 2
+      },
+      {
+        "topic": "Randomized",
+        "count": 2
+      },
+      {
+        "topic": "String",
+        "count": 1
+      },
+      {
+        "topic": "Counting",
+        "count": 1
+      }
+    ],
+    "recent_hot_topics": [],
+    "highest_frequency_problems": [
+      {
+        "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "slug": "insert-delete-getrandom-o1-duplicates-allowed"
+      },
+      {
+        "title": "Insert Delete GetRandom O(1)",
+        "difficulty": "MEDIUM",
+        "frequency": 95.0,
+        "slug": "insert-delete-getrandom-o1"
+      },
+      {
+        "title": "Subdomain Visit Count",
+        "difficulty": "MEDIUM",
+        "frequency": 79.6,
+        "slug": "subdomain-visit-count"
+      }
+    ],
+    "interview_focus": {
+      "primary_categories": [
+        "dsa",
+        "system_design"
+      ],
+      "style_notes": [
+        "Heavy on hard problems \u2014 expect complex algorithmic challenges"
+      ]
+    }
+  },
+  "problems_by_window": {
+    "30d": [],
+    "90d": [],
+    "180d": [],
+    "180d+": [
+      {
+        "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "slug": "insert-delete-getrandom-o1-duplicates-allowed"
+      },
+      {
+        "title": "Insert Delete GetRandom O(1)",
+        "difficulty": "MEDIUM",
+        "frequency": 93.4,
+        "acceptance_rate": 55.0,
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "slug": "insert-delete-getrandom-o1"
+      },
+      {
+        "title": "Subdomain Visit Count",
+        "difficulty": "MEDIUM",
+        "frequency": 84.1,
+        "acceptance_rate": 76.8,
+        "link": "https://leetcode.com/problems/subdomain-visit-count",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "subdomain-visit-count"
+      }
+    ],
+    "all": [
+      {
+        "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+        "difficulty": "HARD",
+        "frequency": 100.0,
+        "acceptance_rate": 35.8,
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "slug": "insert-delete-getrandom-o1-duplicates-allowed"
+      },
+      {
+        "title": "Insert Delete GetRandom O(1)",
+        "difficulty": "MEDIUM",
+        "frequency": 95.0,
+        "acceptance_rate": 55.0,
+        "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "Math",
+          "Design",
+          "Randomized"
+        ],
+        "slug": "insert-delete-getrandom-o1"
+      },
+      {
+        "title": "Subdomain Visit Count",
+        "difficulty": "MEDIUM",
+        "frequency": 79.6,
+        "acceptance_rate": 76.8,
+        "link": "https://leetcode.com/problems/subdomain-visit-count",
+        "topics": [
+          "Array",
+          "Hash Table",
+          "String",
+          "Counting"
+        ],
+        "slug": "subdomain-visit-count"
+      }
+    ]
+  }
+}
