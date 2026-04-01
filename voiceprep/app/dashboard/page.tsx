@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { WeaknessPanel } from '@/components/feedback/WeaknessPanel';
+import { BenchmarkCard } from '@/components/dashboard/BenchmarkCard';
 import { Button } from '@/components/ui/Button';
 import { getSessionRecords } from '@/lib/analytics/weakness-detector';
 
@@ -58,7 +59,14 @@ export default function DashboardPage() {
       </div>
 
       {hasData ? (
-        <WeaknessPanel />
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 24 }}>
+          <WeaknessPanel />
+          <BenchmarkCard />
+          <div className="flex" style={{ gap: 12 }}>
+            <Button onClick={() => { window.location.href = '/setup'; }}>Practice Weak Areas</Button>
+            <Button variant="secondary" onClick={() => { window.location.href = '/debrief'; }}>Debrief a Real Interview</Button>
+          </div>
+        </div>
       ) : (
         <div
           className="frost-panel"
